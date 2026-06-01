@@ -48,7 +48,7 @@
         "cc": [],
         "subject": "Non communique",
         "classification": null,
-        "body_snippet": "Attachment: wie\n\nThis is first stab to describe what we want on economic side for 27\". Please don’t\nforward."
+        "body": "Attachment: wie\n\nThis is first stab to describe what we want on economic side for 27\". Please don’t\nforward."
       },
       {
         "depth": 1,
@@ -61,7 +61,7 @@
         "cc": [],
         "subject": "Non communique",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Mungo Woodifield\nSubject:\nPeter Thiel\nI have asked Peter if he is around on Tuesday to meet up in evening in Miami. He may be but not \nsure of schedule. Asked me to message on Tuesday morning.\nGet Outlook for iOS"
+        "body": "Mungo Woodifield\nSubject:\nPeter Thiel\nI have asked Peter if he is around on Tuesday to meet up in evening in Miami. He may be but not \nsure of schedule. Asked me to message on Tuesday morning.\nGet Outlook for iOS"
       }
     ],
     "edges": [

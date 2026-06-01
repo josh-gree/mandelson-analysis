@@ -45,7 +45,7 @@
         "cc": [],
         "subject": "Congressional view on tariffs -",
         "classification": null,
-        "body_snippet": "interesting\nLord Mandelson\n\nHM Ambassador, Washington DC\n\nfis Personal | Personal"
+        "body": "interesting\nLord Mandelson\n\nHM Ambassador, Washington DC\n\nfis Personal | Personal"
       },
       {
         "depth": 1,
@@ -63,7 +63,7 @@
         ],
         "subject": "Congressional view on tariffs -",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Peter\n\n\"| was at a lunch with ma\n\ntodav.\n\n483\n\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008\nCell:\n | Phone:\n | \nEA: \n |\n | Cell:\n***\nJCS\n484"
+        "body": "Peter\n\n\"| was at a lunch with ma\n\ntodav.\n\n483\n\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008\nCell:\n | Phone:\n | \nEA: \n |\n | Cell:\n***\nJCS\n484"
       }
     ],
     "edges": [

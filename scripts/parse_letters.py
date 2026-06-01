@@ -88,7 +88,7 @@ def parse_letter(unit):
         "date_iso":         None,
         "subject":          None,
         "salutation":       None,
-        "body_snippet":     None,
+        "body":             None,
         "signatory":        None,
         "notes":            [],
     }
@@ -141,24 +141,24 @@ def parse_letter(unit):
             result["subject"] = candidate
             break
 
-    # Body snippet — after salutation (skipping subject line), or after subject if no salutation
+    # Body — after salutation (skipping subject line), or after subject if no salutation
     if sm:
         body_start = sm.end()
         if result["subject"]:
             subj_pos = text.find(result["subject"], body_start)
             if subj_pos != -1 and subj_pos < body_start + 200:
                 body_start = subj_pos + len(result["subject"])
-        result["body_snippet"] = text[body_start:body_start + 500].strip()
+        result["body"] = text[body_start:].strip()
     elif result["subject"]:
         subj_pos = text.find(result["subject"])
         if subj_pos != -1:
             body_start = subj_pos + len(result["subject"])
-            result["body_snippet"] = text[body_start:body_start + 500].strip()
+            result["body"] = text[body_start:].strip()
     else:
         # Fallback: first substantial paragraph after position 300
         paras = [p.strip() for p in text[300:].split("\n\n") if len(p.strip()) > 80]
         if paras:
-            result["body_snippet"] = paras[0][:500]
+            result["body"] = "\n\n".join(paras)
 
     # Signatory
     sgm = SIGNATORY.search(text)
@@ -206,8 +206,8 @@ for r in results:
     print(f"  salutation:     {r['salutation']}")
     print(f"  subject:        {r['subject']}")
     print(f"  signatory:      {r['signatory']}")
-    if r['body_snippet']:
-        print(f"  body[:100]:     {r['body_snippet'][:100]}")
+    if r['body']:
+        print(f"  body[:100]:     {r['body'][:100]}")
     if r['notes']:
         print(f"  notes:          {r['notes']}")
     print()

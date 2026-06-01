@@ -53,7 +53,7 @@
         ],
         "subject": "Letter from America",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Subject: Re: Letter from America\n\neK\n\nThaven’t been asked but if I were, the above is what I would say.\nPeter\n\nGet Outlook for iOS"
+        "body": "Subject: Re: Letter from America\n\neK\n\nThaven’t been asked but if I were, the above is what I would say.\nPeter\n\nGet Outlook for iOS"
       },
       {
         "depth": 1,
@@ -66,7 +66,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": "OFFICIAL",
-        "body_snippet": "Much appreciated, Peter, thank you.\n\nYou may see a projected timetable for the deal in UK media today - 'a few days away’ - this\nwas a misstep by a cabinet member on background. My team is diluting expectation.\n\nSteph\n\nStephanie Driver | Director of Communications - Delivery [10 Downing Street | London SW1A\n2AA | Email: Personal\n\n530\n\nPeter\n\nLord Mandelson\nHM Ambassador, Washington DC.\n\nRK"
+        "body": "Much appreciated, Peter, thank you.\n\nYou may see a projected timetable for the deal in UK media today - 'a few days away’ - this\nwas a misstep by a cabinet member on background. My team is diluting expectation.\n\nSteph\n\nStephanie Driver | Director of Communications - Delivery [10 Downing Street | London SW1A\n2AA | Email: Personal\n\n530\n\nPeter\n\nLord Mandelson\nHM Ambassador, Washington DC.\n\nRK"
       }
     ],
     "edges": []

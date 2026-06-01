@@ -46,7 +46,7 @@
         "cc": [],
         "subject": "Readout: Meeting with mee",
         "classification": null,
-        "body_snippet": "To follow up the point on \"official vs unofficial\" channels, I just spoke to a“"
+        "body": "To follow up the point on \"official vs unofficial\" channels, I just spoke to a“"
       },
       {
         "depth": 2,
@@ -57,7 +57,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "Jcs\nhas sent you a protected message.\n\n458"
+        "body": "Jcs\nhas sent you a protected message.\n\n458"
       }
     ],
     "edges": [

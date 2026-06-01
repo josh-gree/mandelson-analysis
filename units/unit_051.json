@@ -53,7 +53,7 @@
         ],
         "subject": "Meeting with Rachel",
         "classification": null,
-        "body_snippet": "| realise | am going to be back in London at around 3 30 today. Happy to visit after.\n\nSent from my iPhone"
+        "body": "| realise | am going to be back in London at around 3 30 today. Happy to visit after.\n\nSent from my iPhone"
       },
       {
         "depth": 2,
@@ -64,7 +64,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "Hi Peter- good to see you briefly on Friday night.\n\nRachel’s keen to have a chat about trade before a meeting she’s having late morning tomorrow.\n\nIs there any chance you could pop in either late PM today or early tomorrow morning? If not a\nphone call is fine.\n\ncc’ing JCS who can help with exact timings.\nBest,\n\nKatie\n\nKatie Martin | Chief of Staff to the Chancellor\n\nHM Treasury | 1 Horse Guards Ro"
+        "body": "Hi Peter- good to see you briefly on Friday night.\n\nRachel’s keen to have a chat about trade before a meeting she’s having late morning tomorrow.\n\nIs there any chance you could pop in either late PM today or early tomorrow morning? If not a\nphone call is fine.\n\ncc’ing JCS who can help with exact timings.\nBest,\n\nKatie\n\nKatie Martin | Chief of Staff to the Chancellor\n\nHM Treasury | 1 Horse Guards Road, London, SW1A 2HQ\nm: Personal\n\nwww.gov.uk/hm-treasury | Twitter: @hmtreasury\n\n171"
       }
     ],
     "edges": [

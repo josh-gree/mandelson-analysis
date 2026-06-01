@@ -2,7 +2,7 @@
 Parse units tagged as content_type=email_thread.
 
 Splits each thread into individual messages and extracts structured headers
-(from, sent/date, to, cc, subject, classification, body_snippet).
+(from, sent/date, to, cc, subject, classification, body).
 Produces a sender→recipient edge list for the knowledge graph.
 """
 import json, re
@@ -170,7 +170,7 @@ def _clean_name(raw: str) -> str:
     return name
 
 
-def _body_snippet(text: str, max_len: int = 400) -> str:
+def _body(text: str) -> str:
     lines = text.strip().splitlines()
     out = []
     for ln in lines:
@@ -180,7 +180,7 @@ def _body_snippet(text: str, max_len: int = 400) -> str:
                 or _GMAIL_INTRO.match(stripped)):
             continue
         out.append(ln)
-    return "\n".join(out).strip()[:max_len]
+    return "\n".join(out).strip()
 
 
 # ── Parse a single message chunk ─────────────────────────────────────────────
@@ -195,7 +195,7 @@ def parse_message(chunk: str, depth: int, gm_from: str = None, gm_date: str = No
         "cc":             [],
         "subject":        None,
         "classification": None,
-        "body_snippet":   None,
+        "body":   None,
     }
 
     # For Gmail-style: from/date come from the "On X wrote:" line
@@ -245,7 +245,7 @@ def parse_message(chunk: str, depth: int, gm_from: str = None, gm_date: str = No
         if m:
             header_end = max(header_end, m.end())
     body = chunk[header_end:] if header_end else chunk
-    msg["body_snippet"] = _body_snippet(body)
+    msg["body"] = _body(body)
 
     return msg
 
@@ -394,8 +394,8 @@ for r in results[:3]:
     for m in r["messages"][:2]:
         print(f"  depth={m['depth']}  from={m['from_name']}  date={m['date_iso']}")
         print(f"         to={m['to'][:2]}  class={m['classification']}")
-        if m["body_snippet"]:
-            print(f"         body: {m['body_snippet'][:80]}")
+        if m["body"]:
+            print(f"         body: {m['body'][:80]}")
     print()
 
 Path("parsed_email_threads.json").write_text(

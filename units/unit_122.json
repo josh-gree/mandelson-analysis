@@ -48,7 +48,7 @@
         "cc": [],
         "subject": "",
         "classification": "OFFICIAL",
-        "body_snippet": "Hi Ailsa, \nVery best\nPeter\nGet Outlook for iOS"
+        "body": "Hi Ailsa, \nVery best\nPeter\nGet Outlook for iOS"
       },
       {
         "depth": 2,
@@ -63,7 +63,7 @@
         ],
         "subject": null,
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "; michael \nellam\n; Sophie Hague \n; Katy Budge / (Cabinet Office) \n; Morgan McSweeney \n; \nNinjeri Pandit \n; Oliver Robbins \n; \nHarriet Mathews \n; Christian Turner \n; Scott Furssedonn-Wood \n; Iain Griffiths \n;"
+        "body": "; michael \nellam\n; Sophie Hague \n; Katy Budge / (Cabinet Office) \n; Morgan McSweeney \n; \nNinjeri Pandit \n; Oliver Robbins \n; \nHarriet Mathews \n; Christian Turner \n; Scott Furssedonn-Wood \n; Iain Griffiths \n;"
       }
     ],
     "edges": [

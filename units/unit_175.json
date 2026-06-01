@@ -49,7 +49,7 @@
         "cc": [],
         "subject": "Letter from America to David",
         "classification": "OFFICIAL",
-        "body_snippet": "Sorry | meant what other instances do you see of where we're operating outside of\nwhat we should recognise as our core interests? | assumed there were some..."
+        "body": "Sorry | meant what other instances do you see of where we're operating outside of\nwhat we should recognise as our core interests? | assumed there were some..."
       },
       {
         "depth": 2,
@@ -62,7 +62,7 @@
         "cc": [],
         "subject": "Letter from America to David",
         "classification": "OFFICIAL",
-        "body_snippet": "Explain more ?\nGet Outlook for iOS"
+        "body": "Explain more ?\nGet Outlook for iOS"
       },
       {
         "depth": 3,
@@ -75,7 +75,7 @@
         "cc": [],
         "subject": "Letter from America to David",
         "classification": "OFFICIAL",
-        "body_snippet": "Thanks, v useful to see. Pls keep sending if you can.\nMore specific instances of where we're focusing / distracting attention outside of our\ncore interests?"
+        "body": "Thanks, v useful to see. Pls keep sending if you can.\nMore specific instances of where we're focusing / distracting attention outside of our\ncore interests?"
       },
       {
         "depth": 4,
@@ -88,7 +88,7 @@
         "cc": [],
         "subject": "Letter from America to David",
         "classification": "OFFICIAL",
-        "body_snippet": "KK\n\n514\n\nVery best\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n| \n***\n515"
+        "body": "KK\n\n514\n\nVery best\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n| \n***\n515"
       }
     ],
     "edges": [

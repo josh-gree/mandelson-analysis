@@ -48,7 +48,7 @@
         "cc": [],
         "subject": "Headline points and actions from call",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Useful, thanks. Have got hold of the Ailsa readout Third Party\n\nOliver Robbins\nFCDO"
+        "body": "Useful, thanks. Have got hold of the Ailsa readout Third Party\n\nOliver Robbins\nFCDO"
       },
       {
         "depth": 1,
@@ -61,7 +61,7 @@
         "cc": [],
         "subject": "Headline points and actions from call",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "EYE\n\nGet Outlook for iOS"
+        "body": "EYE\n\nGet Outlook for iOS"
       },
       {
         "depth": 2,
@@ -74,7 +74,7 @@
         "cc": [],
         "subject": "Headline points and actions from call",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Subject: Headline points and actions from call\n- some points to include in your actions and next steps.\nSent from Outlook for iOS\n \n***\nJCS\nJCS\nJCS\nJCS\nJCS\n***\n426"
+        "body": "Subject: Headline points and actions from call\n- some points to include in your actions and next steps.\nSent from Outlook for iOS\n \n***\nJCS\nJCS\nJCS\nJCS\nJCS\n***\n426"
       }
     ],
     "edges": [

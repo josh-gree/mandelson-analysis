@@ -17,7 +17,7 @@
     "unit_id": 75,
     "date": "16-02-2025",
     "source_mix": "ocr",
-    "thread_subject": "Call with ee",
+    "thread_subject": "Callwith = ***",
     "message_count": 2,
     "date_range": [
       "2025-02-16",
@@ -43,7 +43,7 @@
         "cc": [],
         "subject": "Callwith = ***",
         "classification": null,
-        "body_snippet": "Subject: FW: Callwith = ***"
+        "body": "Subject: FW: Callwith = ***"
       },
       {
         "depth": 1,
@@ -59,7 +59,7 @@
         ],
         "subject": "Call with ee",
         "classification": null,
-        "body_snippet": "| talked to\n\neK\n\nLast, | summarised what | think our approach should be to the meeting\n\nPlease circulate on need to know basis.\nPeter\n\n217"
+        "body": "| talked to\n\neK\n\nLast, | summarised what | think our approach should be to the meeting\n\nPlease circulate on need to know basis.\nPeter\n\n217"
       }
     ],
     "edges": [
@@ -68,7 +68,7 @@
         "to": "MMcSweeney",
         "type": "SENT_EMAIL",
         "date": "2025-02-16",
-        "subject": "Call with ee",
+        "subject": "Callwith = ***",
         "classification": null
       },
       {
@@ -76,7 +76,7 @@
         "to": "Mungo Woodifield",
         "type": "SENT_EMAIL",
         "date": "2025-02-16",
-        "subject": "Call with ee",
+        "subject": "Callwith = ***",
         "classification": null
       },
       {
@@ -84,7 +84,7 @@
         "to": "James Roscoe",
         "type": "CC_ON_EMAIL",
         "date": "2025-02-16",
-        "subject": "Call with ee",
+        "subject": "Callwith = ***",
         "classification": null
       },
       {
@@ -92,7 +92,7 @@
         "to": "JCS",
         "type": "CC_ON_EMAIL",
         "date": "2025-02-16",
-        "subject": "Call with ee",
+        "subject": "Callwith = ***",
         "classification": null
       }
     ]

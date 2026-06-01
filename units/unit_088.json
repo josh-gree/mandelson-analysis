@@ -55,7 +55,7 @@
         "cc": [],
         "subject": "LUNCH WITH al DO NOT CIRCULATE",
         "classification": null,
-        "body_snippet": "Not sure I sent this to you. Scroll down\n\nGet Outlook for iOS"
+        "body": "Not sure I sent this to you. Scroll down\n\nGet Outlook for iOS"
       },
       {
         "depth": 1,
@@ -72,7 +72,7 @@
         "cc": [],
         "subject": "LUNCH WITH saad DO NOT CIRCULATE",
         "classification": null,
-        "body_snippet": "By way, we\n\nGet Outlook for i0S"
+        "body": "By way, we\n\nGet Outlook for i0S"
       },
       {
         "depth": 2,
@@ -89,7 +89,7 @@
         "cc": [],
         "subject": "LUNCH WITH _ DO NOT CIRCULATE",
         "classification": null,
-        "body_snippet": "RK\n\nGet Outlook for iOS"
+        "body": "RK\n\nGet Outlook for iOS"
       },
       {
         "depth": 3,
@@ -106,7 +106,7 @@
         "cc": [],
         "subject": "LUNCH WITH wee DO NOT CIRCULATE",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Really interesting thank you.\n\nRK\n\n271\n\nLucy\nGet Outlook for iOS"
+        "body": "Really interesting thank you.\n\nRK\n\n271\n\nLucy\nGet Outlook for iOS"
       },
       {
         "depth": 4,
@@ -119,7 +119,7 @@
         "cc": [],
         "subject": "LUNCH WITH",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "DO NOT CIRCULATE\nOFFICIAL SENSITIVE  HMG ONLY\n***\n***\n***\nJCS\nJCS\n***\n***\n***\nJCS\nJCS\n272\n\n\nHappy to enlarge\nPeter\n***\n***\n273"
+        "body": "DO NOT CIRCULATE\nOFFICIAL SENSITIVE  HMG ONLY\n***\n***\n***\nJCS\nJCS\n***\n***\n***\nJCS\nJCS\n272\n\n\nHappy to enlarge\nPeter\n***\n***\n273"
       }
     ],
     "edges": [

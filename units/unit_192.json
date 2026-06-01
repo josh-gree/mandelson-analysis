@@ -32,7 +32,7 @@
     "unit_id": 192,
     "date": "23-04-2025",
     "source_mix": "mixed",
-    "thread_subject": "Personal",
+    "thread_subject": "HMA letter: US views on EU Summit",
     "message_count": 2,
     "date_range": [
       "2025-04-17",
@@ -59,7 +59,7 @@
         ],
         "subject": "Personal",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Peter\n\nOlly"
+        "body": "Peter\n\nOlly"
       },
       {
         "depth": 2,
@@ -74,7 +74,7 @@
         ],
         "subject": "HMA letter: US views on EU Summit",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
-        "body_snippet": "Sending on behalf of HMA: \nDear Mike,\nAs the UK prepares for the UK-EU Summit on 19 May, I wanted to provide \na short note from Washington on US views and handling. \nJCS\n***\nJCS\n552\n\n\n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \nPeter \nSent from Outlook for iOS\nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, \nCommonwealth & D"
+        "body": "Sending on behalf of HMA: \nDear Mike,\nAs the UK prepares for the UK-EU Summit on 19 May, I wanted to provide \na short note from Washington on US views and handling. \nJCS\n***\nJCS\n552\n\n\n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \nPeter \nSent from Outlook for iOS\nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, \nCommonwealth & Development Office may be monitored in line with relevant UK legislation\nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, \nCommonwealth & Development Office may be monitored in line with relevant UK legislation\n***\n553"
       }
     ],
     "edges": [
@@ -83,7 +83,7 @@
         "to": "Peter Mandelson",
         "type": "SENT_EMAIL",
         "date": "2025-04-19",
-        "subject": "Personal",
+        "subject": "HMA letter: US views on EU Summit",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
       },
       {
@@ -91,7 +91,7 @@
         "to": "Michael Ellam",
         "type": "CC_ON_EMAIL",
         "date": "2025-04-19",
-        "subject": "Personal",
+        "subject": "HMA letter: US views on EU Summit",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
       },
       {
@@ -99,7 +99,7 @@
         "to": "PSMichaelEllam Mailbox <",
         "type": "SENT_EMAIL",
         "date": "2025-04-17",
-        "subject": "Personal",
+        "subject": "HMA letter: US views on EU Summit",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
       },
       {
@@ -107,7 +107,7 @@
         "to": "Caroline Hurndall <",
         "type": "CC_ON_EMAIL",
         "date": "2025-04-17",
-        "subject": "Personal",
+        "subject": "HMA letter: US views on EU Summit",
         "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
       }
     ]

@@ -18,7 +18,7 @@
     "unit_id": 71,
     "date": "12-02-2025",
     "source_mix": "ocr",
-    "thread_subject": "ase",
+    "thread_subject": "***",
     "message_count": 2,
     "date_range": [
       "2025-02-12",
@@ -42,7 +42,7 @@
         "cc": [],
         "subject": "***",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Thanks\n\nGet Outlook for iOS\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:35:49 AM\nTo: Peter Mandelson\n\nSubject: Re: bie\n\n\nke"
+        "body": "Thanks\n\nGet Outlook for iOS\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:35:49 AM\nTo: Peter Mandelson\n\nSubject: Re: bie\n\n\nke"
       },
       {
         "depth": 2,
@@ -55,7 +55,7 @@
         "cc": [],
         "subject": "ase",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "RK\n\nThanks.\nThad no read out of SMG meeting. Any conclusions ?\n\nGet Outlook for iOS\n\n207\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:30:20 AM\nTo: Peter Mandelson\n\nSubject: +\n\n\nWhenI see *** tomorrow we will give him the suggestion for what we could announce on\nthe economic relationship when Keir visits - will send the draft\n\nto you this evening for comment. ee\n\n208"
+        "body": "RK\n\nThanks.\nThad no read out of SMG meeting. Any conclusions ?\n\nGet Outlook for iOS\n\n207\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:30:20 AM\nTo: Peter Mandelson\n\nSubject: +\n\n\nWhenI see *** tomorrow we will give him the suggestion for what we could announce on\nthe economic relationship when Keir visits - will send the draft\n\nto you this evening for comment. ee\n\n208"
       }
     ],
     "edges": [
@@ -64,7 +64,7 @@
         "to": "Jonathan Powell]  ]",
         "type": "SENT_EMAIL",
         "date": "2025-02-12",
-        "subject": "ase",
+        "subject": "***",
         "classification": "OFFICIAL-SENSITIVE"
       },
       {
@@ -72,7 +72,7 @@
         "to": "Jonathan Powell",
         "type": "SENT_EMAIL",
         "date": "2025-02-12",
-        "subject": "ase",
+        "subject": "***",
         "classification": "OFFICIAL-SENSITIVE"
       }
     ]

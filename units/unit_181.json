@@ -47,7 +47,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Get Outlook for iOS"
+        "body": "Get Outlook for iOS"
       },
       {
         "depth": 1,
@@ -60,7 +60,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "Have a good weekend\n\nGet Outlook for iOS"
+        "body": "Have a good weekend\n\nGet Outlook for iOS"
       },
       {
         "depth": 2,
@@ -73,7 +73,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "James Roscoe[\n]; Nicholas \nAlton[\n]; Serena Stone[\n]\nSubject:\nRe: Thank you\nOnly the best for the Perm Sec !\nGet Outlook for iOS"
+        "body": "James Roscoe[\n]; Nicholas \nAlton[\n]; Serena Stone[\n]\nSubject:\nRe: Thank you\nOnly the best for the Perm Sec !\nGet Outlook for iOS"
       },
       {
         "depth": 3,
@@ -89,7 +89,7 @@
         ],
         "subject": "Thank you",
         "classification": "OFFICIAL",
-        "body_snippet": "Thank you for all the work that went into our visit this week when I can see how busy you and \nthe whole team are.\nSerena and I got a lot out of it and we're really grateful for the variety of the programme you \nput together for us.\nAnd very nice to get to know you a bit!\nOlly\n—\nOliver Robbins\nFCDO\nJCS\nJCS\nJCS\nJCS\n529"
+        "body": "Thank you for all the work that went into our visit this week when I can see how busy you and \nthe whole team are.\nSerena and I got a lot out of it and we're really grateful for the variety of the programme you \nput together for us.\nAnd very nice to get to know you a bit!\nOlly\n—\nOliver Robbins\nFCDO\nJCS\nJCS\nJCS\nJCS\n529"
       }
     ],
     "edges": [

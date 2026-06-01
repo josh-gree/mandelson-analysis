@@ -44,7 +44,7 @@
         "cc": [],
         "subject": "*** commentary",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Peter,\n\nGood to be connected. Copying a small number of colleagues at our end.\n\neK\n\nAilsa"
+        "body": "Peter,\n\nGood to be connected. Copying a small number of colleagues at our end.\n\neK\n\nAilsa"
       },
       {
         "depth": 1,
@@ -61,7 +61,7 @@
         ],
         "subject": "*** commentary",
         "classification": null,
-        "body_snippet": "201\n\nPeter\n\nSent from Outlook for iOS\n\nee\n\n202"
+        "body": "201\n\nPeter\n\nSent from Outlook for iOS\n\nee\n\n202"
       }
     ],
     "edges": [

@@ -53,7 +53,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "I'm not aware of the detail but understand it's a"
+        "body": "I'm not aware of the detail but understand it's a"
       },
       {
         "depth": 2,
@@ -64,7 +64,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "Re: Call brief for POTUS\nFrom our point of view the more \nGet Outlook for iOS"
+        "body": "Re: Call brief for POTUS\nFrom our point of view the more \nGet Outlook for iOS"
       },
       {
         "depth": 3,
@@ -80,7 +80,7 @@
         ],
         "subject": "Call brief for POTUS",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Hi all\nI have updated the brief slightly for the PM -Trump call which should happen shortly. \n@Jonathan Powell @Richard Morris\n can you look at the Ukraine \nlines asap?\n @Olaf Henricson-Bell @Varun Chandra \nCan I have thoughts by 1230 latest please.\nAilsa\nAilsa Terry CMG| Private Secretary for Foreign Affairs| Prime Minister's Office | \n10 Downing Street, London, SW1A 2AA | \nFor latest news and in"
+        "body": "Hi all\nI have updated the brief slightly for the PM -Trump call which should happen shortly. \n@Jonathan Powell @Richard Morris\n can you look at the Ukraine \nlines asap?\n @Olaf Henricson-Bell @Varun Chandra \nCan I have thoughts by 1230 latest please.\nAilsa\nAilsa Terry CMG| Private Secretary for Foreign Affairs| Prime Minister's Office | \n10 Downing Street, London, SW1A 2AA | \nFor latest news and information from Downing Street visit: http://www.gov.uk/number10\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\nHelp save paper - do you need to print this email?"
       }
     ],
     "edges": [

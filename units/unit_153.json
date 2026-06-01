@@ -64,7 +64,7 @@
         ],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "Subject: Re: Letter from America\n\nI will send to them later thanks\n\nGet Outlook for i0S\n\nFrom: Lucy Ferguson\n\nSent: Friday, March 28, 2025 6:58:30 AM\n\nTo: Nicholas Alton ; Peter Mandelson ; James Roscoe ; Mungo Woodifield ; Mark Newton (MOD)\n(Sensitive)\n\nCc: JCS\n\nSubject: Re: Letter from America\n\nV much agree. FS will find this v useful. Did you send to a few in No10 as well?\nI think we identified"
+        "body": "Subject: Re: Letter from America\n\nI will send to them later thanks\n\nGet Outlook for i0S\n\nFrom: Lucy Ferguson\n\nSent: Friday, March 28, 2025 6:58:30 AM\n\nTo: Nicholas Alton ; Peter Mandelson ; James Roscoe ; Mungo Woodifield ; Mark Newton (MOD)\n(Sensitive)\n\nCc: JCS\n\nSubject: Re: Letter from America\n\nV much agree. FS will find this v useful. Did you send to a few in No10 as well?\nI think we identified that the weekly moment should be accompanied by a g&t!\n\nGet Outlook for i0S"
       },
       {
         "depth": 1,
@@ -83,7 +83,7 @@
         ],
         "subject": "Letter from America",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "450\n\nThis is very good (largely because it echoes my views!). If helpful, it might be useful to \nschedule a weekly session to run through the key themes of the week to feed into your Letter \nFrom America\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008"
+        "body": "450\n\nThis is very good (largely because it echoes my views!). If helpful, it might be useful to \nschedule a weekly session to run through the key themes of the week to feed into your Letter \nFrom America\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008"
       },
       {
         "depth": 2,
@@ -100,7 +100,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "bcc\nLord Mandelson\nHM Ambassador, Washington DC"
+        "body": "bcc\nLord Mandelson\nHM Ambassador, Washington DC"
       },
       {
         "depth": 3,
@@ -115,7 +115,7 @@
         ],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "***\nJCS\n451\n\n\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n***\n452"
+        "body": "***\nJCS\n451\n\n\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n***\n452"
       },
       {
         "depth": 4,
@@ -128,7 +128,7 @@
         "cc": [],
         "subject": "State visit",
         "classification": null,
-        "body_snippet": "Peter Mandelson\nSun 30/03/2025 9:56:05 PM (UTC)\nVarun Chandra\nFw: State visit\nGet Outlook for iOS"
+        "body": "Peter Mandelson\nSun 30/03/2025 9:56:05 PM (UTC)\nVarun Chandra\nFw: State visit\nGet Outlook for iOS"
       },
       {
         "depth": 5,
@@ -145,7 +145,7 @@
         ],
         "subject": "State visit",
         "classification": null,
-        "body_snippet": "Got the Ukraine point.\nOn SV, it helps that he agreed dates on Friday for Gulf visits in May. I will emphasize that we \nare taking SV to UK very seriously and has to be thoroughly planed etc. \n Is it likely that September will be Windsor ?\nOn trade I think I have to say something like:\n•\nGet Outlook for iOS"
+        "body": "Got the Ukraine point.\nOn SV, it helps that he agreed dates on Friday for Gulf visits in May. I will emphasize that we \nare taking SV to UK very seriously and has to be thoroughly planed etc. \n Is it likely that September will be Windsor ?\nOn trade I think I have to say something like:\n•\nGet Outlook for iOS"
       },
       {
         "depth": 6,
@@ -159,7 +159,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "To: Peter Mandelson ; Oliver Robbins"
+        "body": "To: Peter Mandelson ; Oliver Robbins"
       }
     ],
     "edges": [

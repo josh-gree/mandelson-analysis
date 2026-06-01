@@ -46,7 +46,7 @@
         "cc": [],
         "subject": "***",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Yes we are making sure that happens. Matt Collins and his team are doing it."
+        "body": "Yes we are making sure that happens. Matt Collins and his team are doing it."
       },
       {
         "depth": 2,
@@ -61,7 +61,7 @@
         ],
         "subject": null,
         "classification": null,
-        "body_snippet": "Thanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464"
+        "body": "Thanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464"
       }
     ],
     "edges": [

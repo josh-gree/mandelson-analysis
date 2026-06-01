@@ -43,7 +43,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "Very helpful. Thank you."
+        "body": "Very helpful. Thank you."
       },
       {
         "depth": 2,
@@ -54,7 +54,7 @@
         "cc": [],
         "subject": null,
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Fyi\n\n| send these weekly to David Lammy and some in No10\n\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal"
+        "body": "Fyi\n\n| send these weekly to David Lammy and some in No10\n\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal"
       },
       {
         "depth": 3,
@@ -68,7 +68,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "532\n\n \n   \n \n    Peter\n    Lord Mandelson\n    HM Ambassador, Washington DC\n | \n    Follow us online: www.gov.uk/fcdo\n    This email is intended for the addressee(s) only: All messages sent and received by the \nForeign, Commonwealth & Development Office may be monitored in line with relevant UK \nlegislation\n***\n533"
+        "body": "532\n\n \n   \n \n    Peter\n    Lord Mandelson\n    HM Ambassador, Washington DC\n | \n    Follow us online: www.gov.uk/fcdo\n    This email is intended for the addressee(s) only: All messages sent and received by the \nForeign, Commonwealth & Development Office may be monitored in line with relevant UK \nlegislation\n***\n533"
       }
     ],
     "edges": [

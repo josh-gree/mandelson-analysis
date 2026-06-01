@@ -45,7 +45,7 @@
         "cc": [],
         "subject": "BOB LIGHTHIZER VISIT TO",
         "classification": null,
-        "body_snippet": "LONDON OFFICIAL\n\nMany thanks Peter. Will approach Michael E\nHave a good weekend\nAll best\n\nKaren\n\nSent from Outlook for iOS"
+        "body": "LONDON OFFICIAL\n\nMany thanks Peter. Will approach Michael E\nHave a good weekend\nAll best\n\nKaren\n\nSent from Outlook for iOS"
       },
       {
         "depth": 2,
@@ -63,7 +63,7 @@
         ],
         "subject": "BOB LIGHTHIZER VISIT TO LONDON",
         "classification": null,
-        "body_snippet": "; Washington Private\n; ICS\n\n\nHi Karen. I think that's a good idea although I think Michael Ellam might be the better\n\nperson (not least because he is currently swimming in ***  ).\n\nVery best\nPeter\n\nGet Outlook for iOS\n\n441"
+        "body": "; Washington Private\n; ICS\n\n\nHi Karen. I think that's a good idea although I think Michael Ellam might be the better\n\nperson (not least because he is currently swimming in ***  ).\n\nVery best\nPeter\n\nGet Outlook for iOS\n\n441"
       },
       {
         "depth": 3,
@@ -82,7 +82,7 @@
         ],
         "subject": "BOB LIGHTHIZER VISIT TO LONDON",
         "classification": "OFFICIAL",
-        "body_snippet": "All Best\nKaren\nKaren Pierce\n\nUK Special Envoy for the Western Balkans\nMobile: Personal\n\nPs; wus\n\n442"
+        "body": "All Best\nKaren\nKaren Pierce\n\nUK Special Envoy for the Western Balkans\nMobile: Personal\n\nPs; wus\n\n442"
       }
     ],
     "edges": [

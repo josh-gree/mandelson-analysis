@@ -40,7 +40,7 @@
         "cc": [],
         "subject": "Munich speech",
         "classification": null,
-        "body_snippet": "That’s all v good advice which I’ll action. Thank you.\nSent from my iPhone"
+        "body": "That’s all v good advice which I’ll action. Thank you.\nSent from my iPhone"
       },
       {
         "depth": 1,
@@ -51,7 +51,7 @@
         "cc": [],
         "subject": null,
         "classification": "OFFICIAL",
-        "body_snippet": "How is this going ? My further thought is that “\n\n| think it would benefit from more positive\nlanguage about Al up front before you get into the security stuff (even\nthough it is Munich you can still talk economic growth, technological\nprogress and so on).\n\ntek\n\n| think you should ask the team here to comment on specifics.\nP\n\nSent from Outlook for iO\n\n200"
+        "body": "How is this going ? My further thought is that “\n\n| think it would benefit from more positive\nlanguage about Al up front before you get into the security stuff (even\nthough it is Munich you can still talk economic growth, technological\nprogress and so on).\n\ntek\n\n| think you should ask the team here to comment on specifics.\nP\n\nSent from Outlook for iO\n\n200"
       }
     ],
     "edges": [

@@ -48,7 +48,7 @@
         "cc": [],
         "subject": "Thur 27/02/2025 3:02:24 AM (UTC)",
         "classification": null,
-        "body_snippet": "Michael Ellam \nThur 27/02/2025 3:02:24 AM (UTC)\nPeter Mandelson \nJonathan Powell \n, Varun Chandra \n, Morgan McSweeney \n, Mungo Woodifield \n, \"Ailsa Terry (No.10)\" \nAccording to \n. But let’s establish the factual position overnight and take \nstock first thing tomorrow."
+        "body": "Michael Ellam \nThur 27/02/2025 3:02:24 AM (UTC)\nPeter Mandelson \nJonathan Powell \n, Varun Chandra \n, Morgan McSweeney \n, Mungo Woodifield \n, \"Ailsa Terry (No.10)\" \nAccording to \n. But let’s establish the factual position overnight and take \nstock first thing tomorrow."
       },
       {
         "depth": 2,
@@ -59,7 +59,7 @@
         "cc": [],
         "subject": null,
         "classification": null,
-        "body_snippet": "On Wed, 26 Feb 2025 at 21:59, Peter Mandelson \nDo we know when supposed agreement was \nmade ?Get Outlook for iOS"
+        "body": "On Wed, 26 Feb 2025 at 21:59, Peter Mandelson \nDo we know when supposed agreement was \nmade ?Get Outlook for iOS"
       },
       {
         "depth": 3,
@@ -74,7 +74,7 @@
         ],
         "subject": "",
         "classification": null,
-        "body_snippet": "Varun is going to speak \n first thing tomorrow, meanwhile I will check \nthe factual position also with \n overnight."
+        "body": "Varun is going to speak \n first thing tomorrow, meanwhile I will check \nthe factual position also with \n overnight."
       },
       {
         "depth": 4,
@@ -85,7 +85,7 @@
         "cc": [],
         "subject": null,
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "On Wed, 26 Feb 2025 at 21:52, Jonathan Powell \nWhen I spoke to \n a few weeks ago he said there was an \nissue about this but I am afraid I have forgotten what it was"
+        "body": "On Wed, 26 Feb 2025 at 21:52, Jonathan Powell \nWhen I spoke to \n a few weeks ago he said there was an \nissue about this but I am afraid I have forgotten what it was"
       },
       {
         "depth": 5,
@@ -100,7 +100,7 @@
         ],
         "subject": null,
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "; Jonathan Powell \n;"
+        "body": "; Jonathan Powell \n;"
       }
     ],
     "edges": [

@@ -49,7 +49,7 @@
         "cc": [],
         "subject": "Letter from America",
         "classification": "OFFICIAL-SENSITIVE",
-        "body_snippet": "Peter\nThank you. I’m sure the Foreign Secretary will be interested in this, as | was. We'd\nboth welcome these sorts of despatches when you think the accumulated issues and\n\ninsights warrant them.\nkee\n\nOlly\n\nPS: as agreed with your team, I’ve written the new Dep Sec of State a congratulations\nletter this morning."
+        "body": "Peter\nThank you. I’m sure the Foreign Secretary will be interested in this, as | was. We'd\nboth welcome these sorts of despatches when you think the accumulated issues and\n\ninsights warrant them.\nkee\n\nOlly\n\nPS: as agreed with your team, I’ve written the new Dep Sec of State a congratulations\nletter this morning."
       },
       {
         "depth": 1,
@@ -64,7 +64,7 @@
         ],
         "subject": "Letter from America",
         "classification": null,
-        "body_snippet": "ee\n\n443\n\nRK\n\neK\n\nVery best\nPeter\nLord Mandelson\n\nHM Ambassador. Washinaton DC\nPersonal | Personal"
+        "body": "ee\n\n443\n\nRK\n\neK\n\nVery best\nPeter\nLord Mandelson\n\nHM Ambassador. Washinaton DC\nPersonal | Personal"
       }
     ],
     "edges": [
