@@ -133,7 +133,7 @@ def cache_key(doc):
 
 results = []
 errors  = []
-WORKERS = 10
+WORKERS = 25
 cache_lock = __import__("threading").Lock()
 
 
