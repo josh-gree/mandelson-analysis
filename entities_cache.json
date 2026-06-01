@@ -15615,5 +15615,1122 @@
         "context": "Email address indicates affiliation with No.10"
       }
     ]
+  },
+  "41_9": {
+    "people": [
+      {
+        "name": "Ailsa Terry",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email, appears to be coordinating communications about senior appointment"
+      },
+      {
+        "name": "Philip R Barton",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email, spoke to Karen as instructed by No 10, heading to Glasgow airport"
+      },
+      {
+        "name": "James Roscoe",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email"
+      },
+      {
+        "name": "Karen",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Person Philip spoke to yesterday as instructed by No 10, will be told the name of appointee"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "No 10",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Glasgow airport",
+        "type": "building",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Glasgow",
+        "type": "city",
+        "country": "United Kingdom"
+      }
+    ],
+    "events": [
+      {
+        "description": "Philip spoke to Karen as instructed by No 10",
+        "date": "2024-12-18",
+        "participants": [
+          "Philip R Barton",
+          "Karen"
+        ]
+      },
+      {
+        "description": "Philip heading to Glasgow airport",
+        "date": "2024-12-19",
+        "participants": [
+          "Philip R Barton"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "Philip R Barton",
+        "date": "2024-12-19",
+        "context": "Email about senior appointment coordination"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2024-12-19",
+        "context": "Email about senior appointment coordination"
+      },
+      {
+        "subject": "No 10",
+        "predicate": "INSTRUCTED",
+        "object": "Philip R Barton",
+        "date": "2024-12-18",
+        "context": "Instructed Philip to speak to Karen"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "SPOKE_TO",
+        "object": "Karen",
+        "date": "2024-12-18",
+        "context": "As instructed by No 10 regarding senior appointment"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "REQUESTED_CONFIRMATION_FROM",
+        "object": "Ailsa Terry",
+        "date": "2024-12-19",
+        "context": "Asking whether to wait for HMTK approval before telling Karen the name"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "AWAITING",
+        "object": "HMTK approval",
+        "date": "2024-12-19",
+        "context": "Seeking confirmation on whether to wait for approval before disclosing appointee name"
+      }
+    ]
+  },
+  "41_7": {
+    "people": [
+      {
+        "name": "Ailsa Terry",
+        "role": "No.10 official",
+        "organisation": "No.10 Downing Street",
+        "context": "Coordinating timing and communications for senior appointment announcement"
+      },
+      {
+        "name": "James Roscoe",
+        "role": "Unknown",
+        "organisation": "UK Government",
+        "context": "Involved in coordination of senior appointment announcement"
+      },
+      {
+        "name": "Philip R Barton",
+        "role": "Senior official",
+        "organisation": "UK Government",
+        "context": "Approving arrangements for staff briefing on senior appointment"
+      },
+      {
+        "name": "Karen",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Responsible for briefing all staff at 1400 EST, aware of timing and call requests"
+      },
+      {
+        "name": "Robert Tinline",
+        "role": "Unknown",
+        "organisation": "UK Government",
+        "context": "Recipient of email thread about senior appointment"
+      },
+      {
+        "name": "Rochelle Fisher",
+        "role": "Unknown",
+        "organisation": "UK Government",
+        "context": "Recipient of email thread about senior appointment"
+      },
+      {
+        "name": "Janine Lloyd-Jones",
+        "role": "Unknown",
+        "organisation": "UK Government",
+        "context": "Recipient of email thread about senior appointment"
+      },
+      {
+        "name": "Caroline Hurndall",
+        "role": "Unknown",
+        "organisation": "UK Government",
+        "context": "CC'd on email thread about senior appointment"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "No.10 Downing Street",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "JCS",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Staff briefing on senior appointment",
+        "date": "2024-12-19 14:00 EST",
+        "participants": [
+          "Karen",
+          "All staff"
+        ]
+      },
+      {
+        "description": "Email coordination on senior appointment announcement timing",
+        "date": "2024-12-19",
+        "participants": [
+          "Ailsa Terry",
+          "James Roscoe",
+          "Philip R Barton",
+          "Karen",
+          "Robert Tinline",
+          "Rochelle Fisher",
+          "Janine Lloyd-Jones",
+          "Caroline Hurndall"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2024-12-19",
+        "context": "Email about senior appointment coordination"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "Philip R Barton",
+        "date": "2024-12-19",
+        "context": "Email about senior appointment coordination"
+      },
+      {
+        "subject": "Karen",
+        "predicate": "AWARE_OF",
+        "object": "Timing (1400 EST)",
+        "date": "2024-12-19",
+        "context": "Timing for staff briefing on senior appointment"
+      },
+      {
+        "subject": "Karen",
+        "predicate": "AWARE_OF",
+        "object": "Call requests",
+        "date": "2024-12-19",
+        "context": "Call requests related to senior appointment"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "ASKED",
+        "object": "Karen",
+        "date": "2024-12-19",
+        "context": "To brief all staff at 1400 EST"
+      },
+      {
+        "subject": "Karen",
+        "predicate": "WILL_SEEK_AGREEMENT_FROM",
+        "object": "Philip R Barton",
+        "date": "2024-12-19",
+        "context": "For all staff briefing on senior appointment"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "APPROVED",
+        "object": "Arrangements",
+        "date": "2024-12-19",
+        "context": "Approved arrangements for senior appointment announcement"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2024-12-19",
+        "context": "Email approval of arrangements"
+      },
+      {
+        "subject": "Philip R Barton",
+        "predicate": "SENT_TO",
+        "object": "Ailsa Terry",
+        "date": "2024-12-19",
+        "context": "Email approval of arrangements"
+      }
+    ]
+  },
+  "41_10": {
+    "people": [
+      {
+        "name": "James Roscoe",
+        "role": "Unknown (sender of email)",
+        "organisation": "Unknown - appears to be in US",
+        "context": "Coordinating Lord Mandelson's appointment announcement and preparation"
+      },
+      {
+        "name": "Ailsa Terry",
+        "role": "Unknown",
+        "organisation": "No.10",
+        "context": "Recipient of email, coordinating staff announcement timing"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email"
+      },
+      {
+        "name": "Philip",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Tasked with speaking to Karen about Lord Mandelson confirmation and timing"
+      },
+      {
+        "name": "Karen",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "To be informed about Lord Mandelson appointment, expected to lead staff announcement"
+      },
+      {
+        "name": "Lord M",
+        "role": "Appointee - HM Ambassador to Washington",
+        "organisation": "UK Government",
+        "context": "Subject of senior appointment, referred to as 'LM' in email"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "No.10",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "US",
+        "type": "country"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Staff announcement about Lord Mandelson appointment",
+        "date": "2024-12-19 at 1400",
+        "participants": [
+          "Karen",
+          "Lord M",
+          "staff"
+        ]
+      },
+      {
+        "description": "Philip to speak to Karen confirming Lord M and timing",
+        "date": "2024-12-19",
+        "participants": [
+          "Philip",
+          "Karen"
+        ]
+      },
+      {
+        "description": "James Roscoe to speak to Karen after Philip's call",
+        "date": "2024-12-19",
+        "participants": [
+          "James Roscoe",
+          "Karen"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "James Roscoe",
+        "predicate": "SENT_TO",
+        "object": "Ailsa Terry",
+        "date": "2024-12-19",
+        "context": "Email coordinating Lord Mandelson appointment announcement"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-19",
+        "context": "Email coordinating Lord Mandelson appointment announcement"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "WORKS_AT",
+        "object": "No.10",
+        "date": "2024-12-19",
+        "context": "Email header shows affiliation"
+      },
+      {
+        "subject": "Philip",
+        "predicate": "TASKED_TO_SPEAK_TO",
+        "object": "Karen",
+        "date": "2024-12-19",
+        "context": "To confirm Lord M appointment and timing"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "PLANS_TO_SPEAK_TO",
+        "object": "Karen",
+        "date": "2024-12-19",
+        "context": "To encourage her to lead staff announcement and set out preparation plan"
+      },
+      {
+        "subject": "Karen",
+        "predicate": "EXPECTED_TO_LEAD",
+        "object": "staff announcement",
+        "date": "2024-12-19",
+        "context": "To speak to Lord M's strengths"
+      },
+      {
+        "subject": "Karen",
+        "predicate": "EXPECTED_TO_SET_OUT",
+        "object": "plan on timing and preparation",
+        "date": "2024-12-19",
+        "context": "For Lord Mandelson's appointment"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WORKING_ON",
+        "object": "US calls",
+        "date": "2024-12-19",
+        "context": "Coordination of Lord Mandelson appointment"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "PREPARING",
+        "object": "taxonomy of policy issues for Lord M",
+        "date": "2024-12-19",
+        "context": "For agreement early next week"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "PREPARING",
+        "object": "recommended networking sequence for Lord M",
+        "date": "2024-12-19",
+        "context": "Once arrived in US"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "PREPARING",
+        "object": "media engagement plan for Lord M",
+        "date": "2024-12-19",
+        "context": "Pre-and post-arrival"
+      },
+      {
+        "subject": "Lord M",
+        "predicate": "TO_COVER",
+        "object": "policy issues and London calls",
+        "date": "2024-12-19",
+        "context": "In interim period"
+      },
+      {
+        "subject": "Lord M",
+        "predicate": "TO_ARRIVE_IN",
+        "object": "US",
+        "date": "2024-12-19",
+        "context": "Future appointment as Ambassador"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "LOCATED_IN",
+        "object": "US",
+        "date": "2024-12-19",
+        "context": "References 'from here' and 'send someone back from here'"
+      }
+    ]
+  },
+  "47_0": {
+    "people": [
+      {
+        "name": "Minister JONES",
+        "role": "Minister",
+        "organisation": "DBT",
+        "context": "Recipient of invitation to roundtable event, availability being checked for January dates"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email, confirming invitation still being considered"
+      },
+      {
+        "name": "Third Party",
+        "role": "Senior Associate",
+        "organisation": "Global Counsel",
+        "context": "Sender of email, organizing roundtable event and checking minister's availability"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "DBT",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "UK"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Roundtable event (originally scheduled)",
+        "date": "2024-12-10 or 2024-12-11",
+        "participants": [
+          "Minister JONES"
+        ]
+      },
+      {
+        "description": "Roundtable event (proposed rescheduled dates)",
+        "date": "2025-01-13, 2025-01-14, 2025-01-20, or 2025-01-21",
+        "participants": [
+          "Minister JONES"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Third Party",
+        "predicate": "SENT_TO",
+        "object": "Minister JONES",
+        "date": "2024-11-12",
+        "context": "Email regarding roundtable invitation"
+      },
+      {
+        "subject": "Third Party",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-11-12",
+        "context": "Email regarding roundtable invitation"
+      },
+      {
+        "subject": "Third Party",
+        "predicate": "INVITED",
+        "object": "Minister JONES",
+        "date": "2024-11-12",
+        "context": "Invitation to roundtable event"
+      },
+      {
+        "subject": "Third Party",
+        "predicate": "WORKS_FOR",
+        "object": "Global Counsel",
+        "date": "2024-11-12",
+        "context": "Senior Associate position"
+      },
+      {
+        "subject": "Minister JONES",
+        "predicate": "WORKS_FOR",
+        "object": "DBT",
+        "date": "2024-11-12",
+        "context": "Minister at DBT"
+      }
+    ]
+  },
+  "45_0": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "Chairman, Lord Mandelson",
+        "organisation": "Global Counsel",
+        "context": "Sender of email, delivering lecture in Edinburgh on investment economy"
+      },
+      {
+        "name": "Darren Jones",
+        "role": "Not specified",
+        "organisation": "UK Government (implied)",
+        "context": "Recipient of email regarding investment summit and Budget"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Government",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Edinburgh",
+        "type": "city"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Lecture on high investment economy delivered in Edinburgh",
+        "date": "2024-10-10",
+        "participants": [
+          "Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Government investment summit",
+        "date": "2024-10 (lead up period)",
+        "participants": []
+      },
+      {
+        "description": "Budget",
+        "date": "2024-10 (lead up period)",
+        "participants": []
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SENT_TO",
+        "object": "Darren Jones",
+        "date": "2024-10-10",
+        "context": "Email about investment economy lecture"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "WORKS_FOR",
+        "object": "Global Counsel",
+        "date": "2024-10-10",
+        "context": "Chairman of Global Counsel"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DELIVERED_LECTURE",
+        "object": "Edinburgh",
+        "date": "2024-10-10",
+        "context": "Lecture on high investment economy"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "investment over consumption",
+        "date": "2024-10-10",
+        "context": "Topic of Edinburgh lecture"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "growth conscience in government",
+        "date": "2024-10-10",
+        "context": "Topic of Edinburgh lecture"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "industrial strategy",
+        "date": "2024-10-10",
+        "context": "Topic of Edinburgh lecture - transmission belt between universities and economy"
+      },
+      {
+        "subject": "Darren Jones",
+        "predicate": "INVOLVED_IN",
+        "object": "Government investment summit",
+        "date": "2024-10",
+        "context": "Lead up to investment summit"
+      },
+      {
+        "subject": "Darren Jones",
+        "predicate": "INVOLVED_IN",
+        "object": "Budget",
+        "date": "2024-10",
+        "context": "Lead up to Budget"
+      }
+    ]
+  },
+  "42_0": {
+    "people": [
+      {
+        "name": "Lord Mandelson",
+        "role": "HMA-designate Washington",
+        "organisation": "UK Government",
+        "context": "Appointed as HM Ambassador to Washington, participating in briefing meeting with Minister Vallance"
+      },
+      {
+        "name": "Minister Vallance",
+        "role": "Minister",
+        "organisation": "DSIT (Department for Science, Innovation and Technology)",
+        "context": "Meeting with Lord Mandelson to discuss S&T Framework and government R&D policy"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "DSIT",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "UKRI",
+        "type": "government body",
+        "country": "UK"
+      },
+      {
+        "name": "Cabinet Committee on S&T",
+        "type": "government body",
+        "country": "UK"
+      },
+      {
+        "name": "UK HOM Postings",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "JCS",
+        "type": "government dept",
+        "country": "UK"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "UK",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Briefing meeting between Minister Vallance and Lord Mandelson regarding HMA Washington appointment and S&T Framework",
+        "date": "2024-12-24",
+        "participants": [
+          "Minister Vallance",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "APPOINTED_AS",
+        "object": "HMA Washington",
+        "date": "2024-12-24",
+        "context": "Designated as HM Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "MET_WITH",
+        "object": "Minister Vallance",
+        "date": "2024-12-24",
+        "context": "Briefing meeting on S&T Framework and government policy"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "industrial strategy council",
+        "date": "2024-12-24",
+        "context": "Noted potential plans and past experience with White House initiatives after 2008 crisis"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "S&T Framework",
+        "date": "2024-12-24",
+        "context": "Views it as aligned with governance approach"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "CONCERNS",
+        "object": "R&D spending protection",
+        "date": "2024-12-24",
+        "context": "Hopes R&D spending won't come under pressure"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "UKRI CEO appointment",
+        "date": "2024-12-24",
+        "context": "Mentioned new CEO should work within government policy framework"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "DSIT work on digital and AI",
+        "date": "2024-12-24",
+        "context": "Noted DSIT's role as digital centre of government"
+      },
+      {
+        "subject": "Minister Vallance",
+        "predicate": "DISCUSSED",
+        "object": "R&D spending",
+        "date": "2024-12-24",
+        "context": "Noted private sector examples showing importance of maintaining R&D spend"
+      },
+      {
+        "subject": "Minister Vallance",
+        "predicate": "DISCUSSED",
+        "object": "procurement and R&D spending",
+        "date": "2024-12-24",
+        "context": "Highlighted importance of joined up approach for company growth"
+      },
+      {
+        "subject": "Minister Vallance",
+        "predicate": "DISCUSSED",
+        "object": "S&T Framework",
+        "date": "2024-12-24",
+        "context": "Noted importance and hopes for White House collaboration across different areas"
+      },
+      {
+        "subject": "Minister Vallance",
+        "predicate": "DISCUSSED",
+        "object": "Prime Ministerial authority on S&T",
+        "date": "2024-12-24",
+        "context": "Added importance of PM authority and central driver"
+      },
+      {
+        "subject": "Minister Vallance",
+        "predicate": "DISCUSSED",
+        "object": "Cabinet Committee on S&T",
+        "date": "2024-12-24",
+        "context": "Briefly referred to committee"
+      },
+      {
+        "subject": "DSIT",
+        "predicate": "RESPONSIBLE_FOR",
+        "object": "digital centre of government",
+        "date": "2024-12-24",
+        "context": "Lord Mandelson noted DSIT's work in this area"
+      },
+      {
+        "subject": "DSIT",
+        "predicate": "RESPONSIBLE_FOR",
+        "object": "AI policy",
+        "date": "2024-12-24",
+        "context": "Lord Mandelson noted DSIT's work on AI"
+      },
+      {
+        "subject": "UK HOM Postings",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-24",
+        "context": "Email regarding HMA-designate Washington press announcement"
+      }
+    ]
+  },
+  "47_1": {
+    "people": [
+      {
+        "name": "Minister JONES",
+        "role": "Minister of State for Industry",
+        "organisation": "DESNZ and DBT",
+        "context": "Recipient of invitation to roundtable event organized by Lord Mandelson"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Event organizer/host",
+        "organisation": "Global Counsel (implied)",
+        "context": "Inviting Minister JONES to speak at private roundtable on Clean Energy Mission and industrial strategy"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "DBT",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Department for Business and Trade",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "DESNZ",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Department for Energy Security and Net Zero",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "UK"
+      }
+    ],
+    "places": [
+      {
+        "name": "Old Admiralty Building",
+        "type": "building"
+      },
+      {
+        "name": "55 Whitehall",
+        "type": "building"
+      },
+      {
+        "name": "3-8 Whitehall Place",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Private roundtable focusing on how the Clean Energy Mission can be an important lever for building out industrial strategy",
+        "date": "Tuesday 10th or Wednesday 11th of December (proposed)",
+        "participants": [
+          "Minister JONES",
+          "Lord Mandelson"
+        ]
+      },
+      {
+        "description": "Email correspondence regarding roundtable invitation",
+        "date": "2024-10-29",
+        "participants": [
+          "Private Secretary",
+          "Minister JONES office"
+        ]
+      },
+      {
+        "description": "Follow-up email on roundtable invitation status",
+        "date": "2024-11-07",
+        "participants": [
+          "Minister JONES",
+          "Private Secretary"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "INVITED",
+        "object": "Minister JONES",
+        "date": "2024-10-29",
+        "context": "To speak at private roundtable on Clean Energy Mission and industrial strategy"
+      },
+      {
+        "subject": "Minister JONES",
+        "predicate": "WORKS_FOR",
+        "object": "DBT",
+        "date": "2024-11-07",
+        "context": "Minister of State for Industry"
+      },
+      {
+        "subject": "Minister JONES",
+        "predicate": "WORKS_FOR",
+        "object": "DESNZ",
+        "date": "2024-11-07",
+        "context": "Minister of State for Industry"
+      },
+      {
+        "subject": "Global Counsel",
+        "predicate": "ORGANIZED",
+        "object": "Private roundtable on Clean Energy Mission",
+        "date": "2024-10-29",
+        "context": "Event focusing on industrial strategy"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "ASSOCIATED_WITH",
+        "object": "Global Counsel",
+        "date": "2024-10-29",
+        "context": "Organizing roundtable event through Global Counsel"
+      },
+      {
+        "subject": "Minister JONES",
+        "predicate": "CONSIDERING",
+        "object": "Roundtable invitation",
+        "date": "2024-11-07",
+        "context": "Invitation still under consideration as of November 7"
+      }
+    ]
+  },
+  "50_0": {
+    "people": [
+      {
+        "name": "Patrick Vallance",
+        "role": "Minister of State for Science, Innovation, Research and Technology",
+        "organisation": "UK Government",
+        "context": "Listed as recipient or subject of communication"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Government",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "5 Welbeck Street, London, W1G 9YQ",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [],
+    "relationships": [
+      {
+        "subject": "Patrick Vallance",
+        "predicate": "HOLDS_POSITION",
+        "object": "Minister of State for Science, Innovation, Research and Technology",
+        "date": null,
+        "context": "Government ministerial role"
+      },
+      {
+        "subject": "Global Counsel",
+        "predicate": "COMMUNICATED_WITH",
+        "object": "Patrick Vallance",
+        "date": null,
+        "context": "Email communication from Global Counsel address"
+      }
+    ]
+  },
+  "47_2": {
+    "people": [
+      {
+        "name": "Minister JONES",
+        "role": "Minister",
+        "organisation": "DBT",
+        "context": "Recipient of invitation to roundtable, has not yet considered it"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Unknown (senior figure)",
+        "organisation": "Unknown",
+        "context": "Asked for follow-up on invitation to Minister Jones"
+      },
+      {
+        "name": "[Redacted - Locum Private Secretary]",
+        "role": "Locum Private Secretary to Minister Jones",
+        "organisation": "DBT",
+        "context": "Responding on behalf of Minister Jones regarding roundtable invitation"
+      },
+      {
+        "name": "[Redacted - Senior Associate]",
+        "role": "Senior Associate",
+        "organisation": "Global Counsel",
+        "context": "Following up on roundtable invitation on behalf of Lord Mandelson"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "DBT",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "Unknown"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Roundtable event (invitation)",
+        "date": "Unknown",
+        "participants": [
+          "Minister JONES",
+          "Lord Mandelson"
+        ]
+      },
+      {
+        "description": "Email follow-up on roundtable invitation",
+        "date": "2024-10-17",
+        "participants": [
+          "[Redacted - Senior Associate from Global Counsel]",
+          "Minister JONES"
+        ]
+      },
+      {
+        "description": "Email response regarding roundtable invitation",
+        "date": "2024-10-18",
+        "participants": [
+          "[Redacted - Locum Private Secretary]",
+          "[Redacted - Senior Associate from Global Counsel]"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "[Redacted - Senior Associate]",
+        "predicate": "WORKS_FOR",
+        "object": "Global Counsel",
+        "date": "2024-10-18",
+        "context": "Email signature indicates employment"
+      },
+      {
+        "subject": "[Redacted - Locum Private Secretary]",
+        "predicate": "WORKS_FOR",
+        "object": "Minister JONES",
+        "date": "2024-10-18",
+        "context": "Locum Private Secretary to Minister Jones"
+      },
+      {
+        "subject": "Minister JONES",
+        "predicate": "WORKS_FOR",
+        "object": "DBT",
+        "date": "2024-10-18",
+        "context": "Minister at DBT"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "INVITED",
+        "object": "Minister JONES",
+        "date": "2024-10-17",
+        "context": "Invitation to roundtable event"
+      },
+      {
+        "subject": "[Redacted - Senior Associate]",
+        "predicate": "SENT_TO",
+        "object": "Minister JONES",
+        "date": "2024-10-17",
+        "context": "Follow-up email regarding roundtable invitation"
+      },
+      {
+        "subject": "[Redacted - Locum Private Secretary]",
+        "predicate": "SENT_TO",
+        "object": "[Redacted - Senior Associate]",
+        "date": "2024-10-18",
+        "context": "Response that Minister has not yet considered invitation"
+      },
+      {
+        "subject": "[Redacted - Senior Associate]",
+        "predicate": "REPRESENTS",
+        "object": "Lord Mandelson",
+        "date": "2024-10-17",
+        "context": "Following up on invitation on behalf of Lord Mandelson"
+      }
+    ]
   }
 }
