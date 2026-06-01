@@ -111,3 +111,68 @@ The entity graph shows Mandelson's top direct communication partners were:
 
 This is essentially the PM's inner circle. Mandelson appears to have bypassed normal diplomatic chains and communicated directly at the highest level from his first week in post.
 
+---
+
+### 6. The McSweeney channel: Mandelson reporting direct to No.10's chief of staff
+
+Morgan McSweeney — Keir Starmer's chief of staff and the most powerful political operative in No.10 — appears in 14 direct communications with Mandelson. That frequency places him fourth in Mandelson's contact list, above career diplomats and FCDO ministers. The nature of those communications is as striking as the volume: they read less like ambassador-to-Whitehall reporting and more like a political operative staying in close touch with his principal.
+
+**The Mark Burnett briefing (unit_069, 11 Feb 2025)**
+
+Shortly after arriving in Washington, Mandelson sent McSweeney a personal intelligence note following a private dinner with TV producer Mark Burnett — the man who made *The Apprentice* and has a close personal relationship with Donald Trump:
+
+> *"Dinner with Mark Burnett — Ahead of Mark's visit I thought I would give you some impressions following my dinner with him last night. Mark, [Third Party] and I had a (very) convivial dinner together."*
+> — Peter Mandelson to Morgan McSweeney, unit_069, 11 Feb 2025
+
+No FCDO official is copied. This is Mandelson reporting privately to No.10's political chief of staff on a contact in Trump's orbit — bypassing any normal diplomatic record-keeping chain.
+
+**"Please don't forward" — the economic agenda (unit_076, 16 Feb 2025)**
+
+Five days later, Mandelson sent McSweeney a draft document laying out what the UK wanted from the economic side of the upcoming UK–US summit on the 27th. The instruction was explicit:
+
+> *"This is first stab to describe what we want on economic side for 27th. Please don't forward."*
+> — Peter Mandelson to Morgan McSweeney, unit_076, 16 Feb 2025
+
+An ambassador sending a policy document to the chief of staff marked "don't forward" is an unusual piece of document management — the kind that keeps a channel tightly controlled between two people rather than feeding into normal inter-departmental circulation.
+
+**The Karen Pierce deletion request (unit_130, 13 Mar 2025)**
+
+The most significant McSweeney exchange in the corpus. Mandelson forwarded a WhatsApp exchange with Karen Pierce (the outgoing US Ambassador) to McSweeney, with an instruction that would later raise eyebrows given the concurrent FAC inquiry:
+
+> *"I have just had this exchange with *** by whatsapp. I don't know why Karen decided to email everyone last night... Please ignore - and if you can do it discreetly, delete!"*
+> — Peter Mandelson to Morgan McSweeney, unit_130, 13 Mar 2025
+
+Within hours, Ailsa Terry (No.10 foreign affairs) confirmed the instruction had been relayed up the chain:
+
+> *"Olly has been clear about the need to delete all traffic on this."*
+> — Ailsa Terry, unit_130, 13 Mar 2025
+
+"Olly" is Oliver Robbins, FCDO Permanent Under-Secretary — the same official who later wrote about *"keeping the creation of new disclosable evidence within reasonable bounds"* (unit_029, Sep 2025). The deletion instruction and Robbins' later comment sit in the same uncomfortable space: sensitive communications being actively managed out of the documentary record.
+
+**A White House visit, relayed informally (unit_162, 1 Apr 2025)**
+
+In early April, Mandelson dropped McSweeney and Varun Chandra a brief note — no subject, no formal reporting structure — flagging that he had just been at the White House:
+
+> *"I just was in WH seeing the VP about something else."*
+> — Peter Mandelson to Morgan McSweeney and Varun Chandra, unit_162, 1 Apr 2025
+
+The informality is notable. A meeting with the Vice President of the United States, disclosed as a casual aside.
+
+**Tariff information control (unit_170, 4 Apr 2025)**
+
+Days later, during the acute phase of UK–US tariff negotiations, Mandelson wrote to McSweeney about the need to control the information narrative flowing out of Whitehall:
+
+> *"The immediate need is to control the information flow out of Whitehall. We must get our version of events out before others do, including those who have always been sceptical about the possibility of a deal."*
+> — Peter Mandelson to Morgan McSweeney, unit_170, 4 Apr 2025
+
+**State Visit coordination (unit_154, 30 Mar 2025)**
+
+Mandelson was also coordinating Trump's State Visit directly with McSweeney and Robbins — not through formal diplomatic channels:
+
+> *"Are you content for me firmly to offer the September dates?"*
+> — Peter Mandelson to Morgan McSweeney and Oliver Robbins, unit_154, 30 Mar 2025
+
+**The pattern**
+
+Across these communications, Mandelson used McSweeney as a direct back-channel to No.10's political operation: sharing intelligence from private dinners, circulating sensitive documents with instructions not to forward them, requesting deletion of WhatsApp exchanges, and briefing on White House meetings informally. The channel is largely invisible to the normal FCDO reporting structure. Whether this reflects an unusual appointment — a political heavyweight running his own communications network from the Embassy — or a deliberate design by Starmer's operation to keep the Washington channel close to No.10, the documents suggest the two things are the same.
+
