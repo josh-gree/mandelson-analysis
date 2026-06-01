@@ -2,29 +2,21 @@
 Entity extraction from parsed email messages and letters using Claude Sonnet
 via OpenRouter.
 
-For each document/message extracts:
-  - people (name, role, organisation)
-  - organisations
-  - places
-  - dates/events
-  - relationships (subject, predicate, object triples)
-
-Output: entities.json  — flat list of all extracted entity/relation records
-        entities_by_unit.json — grouped by unit_id
+Writes results incrementally to entities.json and entities_by_unit.json
+after every completed document — safe to interrupt and resume.
 """
-import json, os, time, sys
+import json, os, time, threading
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
 MODEL   = "anthropic/claude-sonnet-4-5"
 API_KEY = os.environ["OPENROUTER_API_KEY"]
+WORKERS = 25
 
-client = OpenAI(
-    api_key=API_KEY,
-    base_url="https://openrouter.ai/api/v1",
-)
+client = OpenAI(api_key=API_KEY, base_url="https://openrouter.ai/api/v1")
 
 SYSTEM = """You are an expert analyst extracting structured entities and relationships
 from declassified UK government communications about Peter Mandelson's appointment
@@ -66,7 +58,6 @@ Redacted content appears as *** — skip those.
 emails  = json.load(open("parsed_email_threads.json"))
 letters = json.load(open("parsed_letters.json"))
 
-# Build flat list of (unit_id, doc_type, label, text_to_extract)
 docs = []
 
 for r in emails:
@@ -120,7 +111,10 @@ print(f"Documents to process: {len(docs)}")
 
 # ── Resume support ────────────────────────────────────────────────────────────
 
-CACHE = Path("entities_cache.json")
+CACHE         = Path("entities_cache.json")
+ENTITIES_FILE = Path("entities.json")
+BY_UNIT_FILE  = Path("entities_by_unit.json")
+
 cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
 print(f"Already cached: {len(cache)} / {len(docs)}")
 
@@ -129,21 +123,44 @@ def cache_key(doc):
     return f"{doc['unit_id']}_{doc['msg_index']}"
 
 
-# ── Extraction loop ───────────────────────────────────────────────────────────
+# ── Shared state (written after every completion) ─────────────────────────────
 
-results = []
+lock    = threading.Lock()
+results = {}   # key → {**doc, entities}
 errors  = []
-WORKERS = 25
-cache_lock = __import__("threading").Lock()
+done    = 0
 
+
+def flush():
+    """Write entities.json and entities_by_unit.json from current results."""
+    flat = sorted(results.values(), key=lambda r: (r["unit_id"], r["msg_index"]))
+    ENTITIES_FILE.write_text(json.dumps(flat, indent=2, ensure_ascii=False))
+
+    by_unit = {}
+    for r in flat:
+        by_unit.setdefault(r["unit_id"], []).append(r)
+    BY_UNIT_FILE.write_text(json.dumps(by_unit, indent=2, ensure_ascii=False))
+
+
+# Pre-populate results from cache so flush() is always complete
+for doc in docs:
+    k = cache_key(doc)
+    if k in cache:
+        results[k] = {**doc, "entities": cache[k]}
+
+flush()  # write what we already have
+
+# ── Extraction ────────────────────────────────────────────────────────────────
 
 def process_doc(args):
+    global done
     idx, doc = args
     key = cache_key(doc)
 
-    with cache_lock:
+    with lock:
         if key in cache:
-            return {**doc, "entities": cache[key]}, None
+            done += 1
+            return
 
     for attempt in range(3):
         try:
@@ -156,8 +173,7 @@ def process_doc(args):
                 temperature=0,
                 max_tokens=2000,
             )
-            raw = resp.choices[0].message.content or ""
-            raw = raw.strip()
+            raw = (resp.choices[0].message.content or "").strip()
             if raw.startswith("```"):
                 raw = raw.split("```", 2)[1]
                 if raw.startswith("json"):
@@ -165,70 +181,44 @@ def process_doc(args):
                 raw = raw.rsplit("```", 1)[0].strip()
             entities = json.loads(raw)
 
-            with cache_lock:
+            with lock:
                 cache[key] = entities
                 CACHE.write_text(json.dumps(cache, indent=2, ensure_ascii=False))
-
-            counts = {k: len(v) for k, v in entities.items()}
-            print(f"[{idx+1}/{len(docs)}] unit_{doc['unit_id']:03d} msg{doc['msg_index']} ✓  {counts}")
-            return {**doc, "entities": entities}, None
+                results[key] = {**doc, "entities": entities}
+                flush()
+                done += 1
+                counts = {k2: len(v) for k2, v in entities.items()}
+                print(f"[{done}/{len(docs)}] unit_{doc['unit_id']:03d} msg{doc['msg_index']} ✓  {counts}", flush=True)
+            return
 
         except Exception as e:
             wait = 2 ** attempt
-            print(f"[{idx+1}] attempt {attempt+1} failed: {e}  (retry in {wait}s)")
+            print(f"  [{idx+1}] attempt {attempt+1} failed: {e}  (retry in {wait}s)", flush=True)
             time.sleep(wait)
 
-    print(f"[{idx+1}] FAILED — skipping")
-    return None, key
+    with lock:
+        errors.append(key)
+        done += 1
+    print(f"  [{idx+1}] FAILED — skipping", flush=True)
 
-
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-    futures = {pool.submit(process_doc, (i, doc)): i for i, doc in enumerate(docs)}
-    for future in as_completed(futures):
-        result, err = future.result()
-        if result:
-            results.append(result)
-        if err:
-            errors.append(err)
-
-results.sort(key=lambda r: (r["unit_id"], r["msg_index"]))
-
-# ── Save outputs ──────────────────────────────────────────────────────────────
-
-Path("entities.json").write_text(
-    json.dumps(results, indent=2, ensure_ascii=False)
-)
-
-# Group by unit_id
-by_unit = {}
-for r in results:
-    uid = r["unit_id"]
-    if uid not in by_unit:
-        by_unit[uid] = []
-    by_unit[uid].append(r)
-
-Path("entities_by_unit.json").write_text(
-    json.dumps(by_unit, indent=2, ensure_ascii=False)
-)
+    futures = [pool.submit(process_doc, (i, doc)) for i, doc in enumerate(docs)]
+    for f in as_completed(futures):
+        f.result()
 
 # ── Summary ───────────────────────────────────────────────────────────────────
 
-all_people = []
-all_orgs   = []
-all_rels   = []
-for r in results:
-    e = r.get("entities", {})
-    all_people.extend(e.get("people", []))
-    all_orgs.extend(e.get("organisations", []))
-    all_rels.extend(e.get("relationships", []))
+flat = sorted(results.values(), key=lambda r: (r["unit_id"], r["msg_index"]))
+all_people = [p for r in flat for p in r["entities"].get("people", [])]
+all_orgs   = [o for r in flat for o in r["entities"].get("organisations", [])]
+all_rels   = [x for r in flat for x in r["entities"].get("relationships", [])]
 
 print(f"\n{'='*60}")
-print(f"Processed:     {len(results)} documents  ({len(errors)} errors)")
+print(f"Processed:     {len(flat)} documents  ({len(errors)} errors)")
 print(f"People:        {len(all_people)}")
 print(f"Organisations: {len(all_orgs)}")
 print(f"Relationships: {len(all_rels)}")
-print(f"\nSaved → entities.json, entities_by_unit.json")
+print(f"Saved → entities.json, entities_by_unit.json")
 if errors:
     print(f"Failed keys:   {errors}")
