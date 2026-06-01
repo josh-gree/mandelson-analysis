@@ -19,7 +19,7 @@
     "date": "23-03-2025",
     "source_mix": "mixed",
     "is_genuine_letter": true,
-    "classification": "OFFICIAL-SENSITIVE - HMG ONLY\n\nSTRICTLY PERSONAL\n\nForeign",
+    "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
     "from_role": "Permanent Under-Secretary",
     "from_name": null,
     "from_institution": "Foreign, Commonwealth and Development Office",
@@ -29,9 +29,9 @@
     "cc": [],
     "date_raw": "23 March 2025",
     "date_iso": "2025-03-23",
-    "subject": null,
+    "subject": "TRUMP INWARD STATE VISIT: FINAL ADVICE",
     "salutation": null,
-    "body_snippet": null,
+    "body_snippet": "we\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\n428\n\nOFFICIAL-SENSITIVE - HMG ONLY \nSTRICTLY PERSONAL \nOFFICIAL-SENSITIVE - HMG ONLY \n \n \n \n \n \n \nOLIVER ROBBINS \n23 March 2025 \n***\nPersonal\n429",
     "signatory": "OLIVER ROBBINS",
     "notes": []
   }

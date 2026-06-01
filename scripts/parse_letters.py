@@ -43,9 +43,9 @@ ADDRESSEE    = re.compile(
     r"(?:Secretary of State|Prime Minister|Foreign Secretary|Minister)\s+(?:for\s+[\w\s]+)?)"
 )
 SALUTATION   = re.compile(r"\bDear\s+([\w\s\-]+?)[\s,\.]+\n", re.I)
-SUBJECT_HDR  = re.compile(r"\n([A-Z][A-Z\s\-:&/]+(?:\d{4})?)\n")
+SUBJECT_HDR  = re.compile(r"\n([A-Z][A-Z \-:&/\d]+)\n")
 CLASSIFICATION = re.compile(
-    r"(OFFICIAL[\s\-]*SENSITIVE(?:\s*[-–]\s*[\w\s]+)?|OFFICIAL|SECRET|TOP SECRET)",
+    r"(OFFICIAL[\s\-]*SENSITIVE(?:\s*[-–]\s*[\w ]+)?|OFFICIAL|SECRET|TOP SECRET)",
     re.I
 )
 SIGNATORY    = re.compile(
@@ -131,20 +131,34 @@ def parse_letter(unit):
     if sm:
         result["salutation"] = "Dear " + sm.group(1).strip()
 
-    # Subject heading (all-caps line after addressee / before body)
-    sal_pos = sm.start() if sm else 0
-    if sal_pos > 0:
-        after_sal = text[sal_pos:]
-        shm = SUBJECT_HDR.search(after_sal[:300])
-        if shm:
-            candidate = shm.group(1).strip()
-            if len(candidate) > 8:
-                result["subject"] = candidate
+    # Subject heading — search first 1000 chars regardless of salutation
+    _NOT_SUBJECT = {"STRICTLY PERSONAL", "PERSONAL", "NOT PROTECTIVELY MARKED"}
+    for shm in SUBJECT_HDR.finditer(text[:1000]):
+        candidate = shm.group(1).strip()
+        if (len(candidate) > 8
+                and not CLASSIFICATION.fullmatch(candidate)
+                and candidate not in _NOT_SUBJECT):
+            result["subject"] = candidate
+            break
 
-    # Body snippet — text after salutation
+    # Body snippet — after salutation (skipping subject line), or after subject if no salutation
     if sm:
         body_start = sm.end()
+        if result["subject"]:
+            subj_pos = text.find(result["subject"], body_start)
+            if subj_pos != -1 and subj_pos < body_start + 200:
+                body_start = subj_pos + len(result["subject"])
         result["body_snippet"] = text[body_start:body_start + 500].strip()
+    elif result["subject"]:
+        subj_pos = text.find(result["subject"])
+        if subj_pos != -1:
+            body_start = subj_pos + len(result["subject"])
+            result["body_snippet"] = text[body_start:body_start + 500].strip()
+    else:
+        # Fallback: first substantial paragraph after position 300
+        paras = [p.strip() for p in text[300:].split("\n\n") if len(p.strip()) > 80]
+        if paras:
+            result["body_snippet"] = paras[0][:500]
 
     # Signatory
     sgm = SIGNATORY.search(text)
