@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.11"
 dependencies = [
+    "openai>=2.38.0",
     "pillow>=12.2.0",
     "pymupdf>=1.27.2.3",
     "pytesseract>=0.3.13",

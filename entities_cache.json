@@ -1,0 +1,6076 @@
+{
+  "2_0": {
+    "people": [
+      {
+        "name": "Vita Maynard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email discussing NSV and HoL policies"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email discussing NSV and HoL policies"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Email communication about NSV and HoL policies",
+        "date": "2024-12-19",
+        "participants": [
+          "Vita Maynard",
+          "Vincent Devine"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vita Maynard",
+        "predicate": "SENT_TO",
+        "object": "Vincent Devine",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL policies being written down"
+      },
+      {
+        "subject": "Vita Maynard",
+        "predicate": "DISCUSSED",
+        "object": "NSV policies",
+        "date": "2024-12-19",
+        "context": "Commented positively on having policies written down"
+      },
+      {
+        "subject": "Vita Maynard",
+        "predicate": "DISCUSSED",
+        "object": "HoL policies",
+        "date": "2024-12-19",
+        "context": "Commented positively on having policies written down"
+      }
+    ]
+  },
+  "2_1": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Sending email about NSV and HoL process, coordinating with FCDO STRAPSO"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "FCDO STRAPSO",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "STRAP authorities",
+        "type": "government dept",
+        "country": "UK"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email discussion about NSV and HoL process coordination",
+        "date": "2024-12-19",
+        "participants": [
+          "Vincent Devine"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Function",
+        "date": "2024-12-19",
+        "context": "Director General & Government Chief Security Officer"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-19",
+        "context": "Director General & Government Chief Security Officer"
+      },
+      {
+        "subject": "Government Security Function",
+        "predicate": "COORDINATES_WITH",
+        "object": "FCDO STRAPSO",
+        "date": "2024-12-19",
+        "context": "NSV and HoL process - once formally asked"
+      },
+      {
+        "subject": "Government Security Function",
+        "predicate": "COORDINATES_WITH",
+        "object": "STRAP authorities",
+        "date": "2024-12-19",
+        "context": "NSV and HoL process - once formally asked"
+      }
+    ]
+  },
+  "2_2": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Assurance Deputy Director",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Responding to query about vetting requirements for House of Lords individual"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Asked whether an individual from the House of Lords needs to go through vetting"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email, noted as best placed to answer policy questions"
+      },
+      {
+        "name": "Vita",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Noted as best placed to answer policy questions about vetting and STRAP clearance"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "House of Lords",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSB",
+        "type": "government",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "GSB meeting where paper on vetting exemptions was discussed",
+        "date": "October 2024",
+        "participants": [
+          "Unknown"
+        ]
+      },
+      {
+        "description": "Gerard asked about vetting requirements for House of Lords individual",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard",
+          "Michael Roberts"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2024-12-19",
+        "context": "Listed as Assurance Deputy Director"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Group",
+        "date": "2024-12-19",
+        "context": "Part of organizational structure"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-19",
+        "context": "Parent organization"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2024-12-19",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-19",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "ASKED",
+        "object": "Michael Roberts",
+        "date": "2024-12-18",
+        "context": "Query about vetting requirements for House of Lords individual"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "RESPONDED_TO",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Answered vetting query"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL vetting"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Vita",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL vetting"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REFERRED_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-19",
+        "context": "Best placed to answer policy questions"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REFERRED_TO",
+        "object": "Vita",
+        "date": "2024-12-19",
+        "context": "Best placed to answer policy questions"
+      },
+      {
+        "subject": "House of Lords individual",
+        "predicate": "EXEMPT_FROM",
+        "object": "vetting",
+        "date": "2024-12-19",
+        "context": "Based on paper at GSB in October"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "DISCUSSED",
+        "object": "STRAP clearance",
+        "date": "2024-12-19",
+        "context": "Right to clear for STRAP reserved despite vetting exemption"
+      }
+    ]
+  },
+  "3_0": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "FCDO",
+        "context": "Recipient of email, appears to be involved in Head of Mission appointment process"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Original sender of email in thread"
+      },
+      {
+        "name": "Vita",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Provided confirmation about vetting and clearance processes, signed email as 'Vita'"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "FCDO",
+        "context": "Sent response email, CC'd on Vita's email, discussing Head of Mission appointment"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "CC'd on Vita's email"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "FCDO",
+        "context": "Signed first email, likely same person as Gerard McGurk"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "HoL",
+        "type": "political",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email exchange regarding NSV and HoL procedures for Head of Mission appointment",
+        "date": "2024-12-19",
+        "participants": [
+          "Michael Roberts",
+          "Vincent Devine",
+          "Gerard McGurk",
+          "Tom Bramley",
+          "Vita"
+        ]
+      },
+      {
+        "description": "Perm Sec considering whether to proceed with seeking agreement for Head of Mission role alongside security clearance process",
+        "date": "2024-12-19",
+        "participants": [
+          "Perm Sec"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vita",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-19",
+        "context": "Email providing confirmation about vetting procedures"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-19",
+        "context": "Response email thanking Vita for confirmation"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2024-12-19",
+        "context": "Identified as FCDO staff member"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2024-12-19",
+        "context": "Identified as FCDO staff member"
+      },
+      {
+        "subject": "Perm Sec",
+        "predicate": "CONSIDERING",
+        "object": "Head of Mission appointment process",
+        "date": "2024-12-19",
+        "context": "Considering whether to proceed with seeking agreement alongside security clearance"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "DISCUSSED",
+        "object": "Security clearance process for Head of Mission",
+        "date": "2024-12-19",
+        "context": "Discussion of vetting and clearance procedures including SC/DV and STRAP"
+      },
+      {
+        "subject": "Vita",
+        "predicate": "DISCUSSED",
+        "object": "STRAP clearance",
+        "date": "2024-12-19",
+        "context": "Confirmed no vetting required but right reserved to clear for STRAP"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "DISCUSSED",
+        "object": "HoL membership impact on appointment",
+        "date": "2024-12-19",
+        "context": "Noted that HoL membership makes process less bumpy"
+      }
+    ]
+  },
+  "3_1": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Assurance Deputy Director",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Responding to query about House of Lords vetting requirements"
+      },
+      {
+        "name": "Gerard",
+        "role": null,
+        "organisation": null,
+        "context": "Asked earlier about whether House of Lords individual needs vetting"
+      },
+      {
+        "name": "Tom",
+        "role": null,
+        "organisation": null,
+        "context": "Identified as best placed to answer further policy questions on vetting"
+      },
+      {
+        "name": "Vita",
+        "role": null,
+        "organisation": null,
+        "context": "Identified as best placed to answer further policy questions on vetting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "House of Lords",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSB",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "GSB paper meeting discussing vetting exemptions",
+        "date": "October 2024",
+        "participants": []
+      },
+      {
+        "description": "Gerard's query about House of Lords vetting requirements",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard",
+          "Michael Roberts"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2024-12-18",
+        "context": "Assurance Deputy Director"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Group",
+        "date": "2024-12-18",
+        "context": "Part of organizational structure"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Parent department"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2024-12-18",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "ASKED",
+        "object": "Michael Roberts",
+        "date": "2024-12-18",
+        "context": "Query about House of Lords vetting requirements"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "RESPONDED_TO",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Answered query about vetting exemptions"
+      },
+      {
+        "subject": "House of Lords individual",
+        "predicate": "EXEMPT_FROM",
+        "object": "vetting",
+        "date": "2024-12-18",
+        "context": "Based on GSB paper from October"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REFERRED_TO",
+        "object": "Tom",
+        "date": "2024-12-18",
+        "context": "For further policy questions on vetting"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REFERRED_TO",
+        "object": "Vita",
+        "date": "2024-12-18",
+        "context": "For further policy questions on vetting"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REVIEWED",
+        "object": "GSB paper",
+        "date": "October 2024",
+        "context": "Paper discussing vetting exemptions"
+      }
+    ]
+  },
+  "4_0": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Sender of email, senior security official"
+      },
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email"
+      },
+      {
+        "name": "Vita Maynard",
+        "role": "Unknown (possibly JCS - Joint Committee on Security or similar)",
+        "organisation": "Unknown",
+        "context": "Mentioned in email subject line context"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email communication regarding NSV and HoL",
+        "date": "2024-12-19",
+        "participants": [
+          "Vincent Devine",
+          "Michael Roberts"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-19",
+        "context": "Email regarding NSV and HoL"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-19",
+        "context": "Director General position"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "LEADS",
+        "object": "Government Security Function",
+        "date": "2024-12-19",
+        "context": "Government Chief Security Officer role"
+      }
+    ]
+  },
+  "4_1": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email discussing NSV and HoL matters with Vincent"
+      },
+      {
+        "name": "Vincent",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email from Michael Roberts regarding Gerard's communications"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Source of emails about an individual appointment, likely from HoL"
+      },
+      {
+        "name": "Vita",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "In contact with Gerard regarding STRAP point"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HoL",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Communication from Gerard about an individual appointment",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard",
+          "Michael Roberts"
+        ]
+      },
+      {
+        "description": "Vita contacted Gerard about STRAP point",
+        "date": "2024-12-19",
+        "participants": [
+          "Vita",
+          "Gerard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Vincent",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL matters"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-18",
+        "context": "Latest email about individual appointment"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "FORWARDED",
+        "object": "Gerard's email",
+        "date": "2024-12-19",
+        "context": "Forwarded Gerard's latest email to Vincent"
+      },
+      {
+        "subject": "Vita",
+        "predicate": "CONTACTED",
+        "object": "Gerard",
+        "date": "2024-12-19",
+        "context": "Regarding STRAP point"
+      },
+      {
+        "subject": "individual",
+        "predicate": "LIKELY_FROM",
+        "object": "HoL",
+        "date": "2024-12-18",
+        "context": "Strong indication the individual would be from House of Lords"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "AWAITING_INFO_FROM",
+        "object": "Gerard",
+        "date": "2024-12-19",
+        "context": "Waiting to hear who the individual will be"
+      }
+    ]
+  },
+  "4_2": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Discussing security vetting (DV) and STRAP clearance processes, coordinating with FCDO on clearance matters"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown specific role",
+        "organisation": "Unknown (reports to PermSec and SofS)",
+        "context": "Needs to confirm position on DV (Developed Vetting) with his Permanent Secretary and Secretary of State, coordinate with STRAP authorities"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO STRAPSO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "STRAP authorities",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email exchange regarding NSV and HoL security clearance processes",
+        "date": "2024-12-19",
+        "participants": [
+          "Vincent Devine",
+          "Gerard"
+        ]
+      },
+      {
+        "description": "Expected confirmation of DV position with PermSec and SofS before Christmas break",
+        "date": "before Christmas 2024",
+        "participants": [
+          "Gerard",
+          "PermSec",
+          "SofS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Unknown recipient",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL security clearance"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "COORDINATES_WITH",
+        "object": "Gerard",
+        "date": "2024-12-19",
+        "context": "On DV and STRAP clearance processes"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "REPORTS_TO",
+        "object": "PermSec",
+        "date": "2024-12-19",
+        "context": "Must confirm DV position with Permanent Secretary"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "REPORTS_TO",
+        "object": "SofS",
+        "date": "2024-12-19",
+        "context": "Must confirm DV position with Secretary of State"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "COORDINATES_WITH",
+        "object": "STRAP authorities",
+        "date": "2024-12-19",
+        "context": "Getting STRAP clearance process moving before Christmas"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "COORDINATES_WITH",
+        "object": "FCDO STRAPSO",
+        "date": "2024-12-19",
+        "context": "Once formally asked, clearance process moves to FCDO STRAPSO"
+      },
+      {
+        "subject": "FCDO STRAPSO",
+        "predicate": "WORKS_WITH",
+        "object": "STRAP authorities",
+        "date": "2024-12-19",
+        "context": "Joint responsibility for security clearance process"
+      }
+    ]
+  },
+  "4_3": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email, coordinating on NSV and HoL matters"
+      },
+      {
+        "name": "Vincent",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient being addressed in email"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Wrote a note the previous night, Michael Roberts plans to speak with him"
+      },
+      {
+        "name": "Vita",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Replied regarding STRAP matters"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Gerard wrote a note",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard"
+        ]
+      },
+      {
+        "description": "Vita replied regarding STRAP",
+        "date": "2024-12-19",
+        "participants": [
+          "Vita"
+        ]
+      },
+      {
+        "description": "Planned phone call between Michael Roberts and Gerard",
+        "date": "2024-12-19",
+        "participants": [
+          "Michael Roberts",
+          "Gerard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Vincent",
+        "date": "2024-12-19",
+        "context": "Email about NSV and HoL matters"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "WROTE",
+        "object": "note about NSV and HoL",
+        "date": "2024-12-18",
+        "context": "Note sent previous night"
+      },
+      {
+        "subject": "Vita",
+        "predicate": "REPLIED",
+        "object": "STRAP matters",
+        "date": "2024-12-19",
+        "context": "Response regarding STRAP"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "PLANS_TO_SPEAK_WITH",
+        "object": "Gerard",
+        "date": "2024-12-19",
+        "context": "To discuss STRAPSO role"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "WILL_MAKE_POINT_TO",
+        "object": "Gerard",
+        "date": "2024-12-19",
+        "context": "About the role of the STRAPSO"
+      }
+    ]
+  },
+  "4_4": {
+    "people": [
+      {
+        "name": "Vita Maynard",
+        "role": "Unknown",
+        "organisation": "Unknown (likely Cabinet Office/Government Security Group)",
+        "context": "Responding to query about vetting requirements for House of Lords individual"
+      },
+      {
+        "name": "Michael Roberts",
+        "role": "Assurance Deputy Director",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Providing information about vetting exemptions for House of Lords members"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown (likely Cabinet Office/Government Security Group)",
+        "context": "Copied on email about vetting policy questions"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Asked whether House of Lords individual needs vetting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "House of Lords",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSB",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "GSB paper discussion regarding vetting exemptions",
+        "date": "October 2024",
+        "participants": [
+          "Unknown"
+        ]
+      },
+      {
+        "description": "Email exchange about vetting requirements for House of Lords individual",
+        "date": "2024-12-18 to 2024-12-19",
+        "participants": [
+          "Gerard",
+          "Michael Roberts",
+          "Vita Maynard",
+          "Tom Bramley"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Responding to query about vetting requirements"
+      },
+      {
+        "subject": "Vita Maynard",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-19",
+        "context": "Clarifying vetting and STRAP clearance policy"
+      },
+      {
+        "subject": "Vita Maynard",
+        "predicate": "SENT_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-19",
+        "context": "Clarifying vetting and STRAP clearance policy"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "ASKED",
+        "object": "Michael Roberts",
+        "date": "2024-12-18",
+        "context": "Whether House of Lords individual needs vetting"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REPORTS_TO",
+        "object": "UKSV",
+        "date": "2024-12-19",
+        "context": "Works as Assurance Deputy Director"
+      },
+      {
+        "subject": "House of Lords individual",
+        "predicate": "EXEMPT_FROM",
+        "object": "SC/DV vetting",
+        "date": "2024-12-19",
+        "context": "Per GSB paper from October 2024"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "RESERVES_RIGHT",
+        "object": "STRAP clearance",
+        "date": "2024-12-19",
+        "context": "Can still clear House of Lords individual for STRAP"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "REFERENCED",
+        "object": "GSB paper",
+        "date": "2024-12-18",
+        "context": "October paper regarding vetting exemptions"
+      }
+    ]
+  },
+  "5_0": {
+    "people": [
+      {
+        "name": "Rochelle Fisher",
+        "role": "Deputy Director, Head of Senior Appointments and Talent",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Initiating vetting process for Lord Mandelson's appointment"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of vetting request for Lord Mandelson"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of vetting request for Lord Mandelson"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "HMA Washington designate",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Appointed as next HM Ambassador to Washington, requires STRAP security clearance"
+      },
+      {
+        "name": "PUS",
+        "role": "Permanent Under-Secretary",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Authorised disclosure of Mandelson's appointment"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "HM Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Lord Peter Mandelson appointed as HMA Washington",
+        "date": "2024-12-20",
+        "participants": [
+          "Lord Peter Mandelson",
+          "HMTK"
+        ]
+      },
+      {
+        "description": "Vetting process initiated for Lord Mandelson",
+        "date": "2024-12-20",
+        "participants": [
+          "Rochelle Fisher",
+          "Gerard McGurk",
+          "JCS"
+        ]
+      },
+      {
+        "description": "Lord Mandelson expected to take up post",
+        "date": "January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "HMTK",
+        "date": "2024-12-20",
+        "context": "Appointed as HMA Washington"
+      },
+      {
+        "subject": "Rochelle Fisher",
+        "predicate": "SENT_TO",
+        "object": "Gerard McGurk",
+        "date": "2024-12-20",
+        "context": "Requesting vetting process for Lord Mandelson"
+      },
+      {
+        "subject": "Rochelle Fisher",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-20",
+        "context": "Requesting vetting process for Lord Mandelson"
+      },
+      {
+        "subject": "Rochelle Fisher",
+        "predicate": "REPORTS_TO",
+        "object": "PUS",
+        "date": "2024-12-20",
+        "context": "Authorised by PUS's office to disclose appointment"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "REQUIRES",
+        "object": "STRAP security clearance",
+        "date": "2024-12-20",
+        "context": "For HMA Washington role"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "TASKED_WITH",
+        "object": "vetting process for Lord Mandelson",
+        "date": "2024-12-20",
+        "context": "To start vetting process"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "TASKED_WITH",
+        "object": "vetting process for Lord Mandelson",
+        "date": "2024-12-20",
+        "context": "To start vetting process"
+      }
+    ]
+  },
+  "6_0": {
+    "people": [
+      {
+        "name": "Robert Tinline",
+        "role": "Chief of Staff to His Majesty's Ambassador",
+        "organisation": "British Embassy Washington",
+        "context": "Sender of email coordinating briefing materials for Peter Mandelson"
+      },
+      {
+        "name": "JCS Nicholas",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about USCAD contact"
+      },
+      {
+        "name": "Iain",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient mentioned in email greeting"
+      },
+      {
+        "name": "Nick",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient mentioned in email greeting"
+      },
+      {
+        "name": "Peter",
+        "role": "Incoming HM Ambassador to Washington",
+        "organisation": "British Embassy Washington",
+        "context": "Subject of vetting/clearance process and recipient of briefing materials"
+      },
+      {
+        "name": "Donald Trump",
+        "role": "Incoming US President",
+        "organisation": "Trump Administration",
+        "context": "Subject of briefing materials on how to work with him"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Trump Administration",
+        "type": "government dept",
+        "country": "United States"
+      },
+      {
+        "name": "US Congress",
+        "type": "government dept",
+        "country": "United States"
+      },
+      {
+        "name": "Democratic Party",
+        "type": "political",
+        "country": "United States"
+      },
+      {
+        "name": "United Nations",
+        "type": "other",
+        "country": "International"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "Washington DC",
+        "type": "city"
+      },
+      {
+        "name": "3100 Massachusetts Avenue NW",
+        "type": "building"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "Israel",
+        "type": "country"
+      },
+      {
+        "name": "Gaza",
+        "type": "region"
+      },
+      {
+        "name": "Syria",
+        "type": "country"
+      },
+      {
+        "name": "Iran",
+        "type": "country"
+      },
+      {
+        "name": "Russia",
+        "type": "country"
+      },
+      {
+        "name": "Ukraine",
+        "type": "country"
+      },
+      {
+        "name": "China",
+        "type": "country"
+      },
+      {
+        "name": "Indo-Pacific",
+        "type": "region"
+      },
+      {
+        "name": "DPRK",
+        "type": "country"
+      },
+      {
+        "name": "The Americas",
+        "type": "region"
+      },
+      {
+        "name": "Middle East",
+        "type": "region"
+      },
+      {
+        "name": "BIOT",
+        "type": "region"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email coordination of briefing materials for incoming ambassador",
+        "date": "2024-12-21",
+        "participants": [
+          "Robert Tinline",
+          "JCS Nicholas",
+          "Iain",
+          "Nick"
+        ]
+      },
+      {
+        "description": "Planned sending of briefing papers starting Monday",
+        "date": "2024-12-23 (implied)",
+        "participants": [
+          "Robert Tinline"
+        ]
+      },
+      {
+        "description": "Peter's vetting/clearance process",
+        "date": "ongoing",
+        "participants": [
+          "Peter"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Robert Tinline",
+        "predicate": "SENT_TO",
+        "object": "JCS Nicholas",
+        "date": "2024-12-21",
+        "context": "Email about USCAD contact and briefing materials"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "SENT_TO",
+        "object": "Iain",
+        "date": "2024-12-21",
+        "context": "Email about USCAD contact and briefing materials"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "SENT_TO",
+        "object": "Nick",
+        "date": "2024-12-21",
+        "context": "Email about USCAD contact and briefing materials"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "REPORTS_TO",
+        "object": "Peter",
+        "date": "2024-12-21",
+        "context": "Chief of Staff to incoming HM Ambassador"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "WORKS_AT",
+        "object": "British Embassy Washington",
+        "date": "2024-12-21",
+        "context": "Chief of Staff position"
+      },
+      {
+        "subject": "Peter",
+        "predicate": "UNDERGOING",
+        "object": "vetting/clearance process",
+        "date": "2024-12-21",
+        "context": "Security clearance for ambassador role"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "PREPARING_BRIEFINGS_FOR",
+        "object": "Peter",
+        "date": "2024-12-21",
+        "context": "Coordinating briefing materials on US politics, trade, foreign policy"
+      },
+      {
+        "subject": "Peter",
+        "predicate": "WILL_WORK_WITH",
+        "object": "Donald Trump",
+        "date": "future",
+        "context": "Incoming ambassador to work with incoming Trump Administration"
+      },
+      {
+        "subject": "British Embassy Washington",
+        "predicate": "LOCATED_AT",
+        "object": "3100 Massachusetts Avenue NW",
+        "date": "2024-12-21",
+        "context": "Embassy address"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "COORDINATING_ON",
+        "object": "US politics briefings",
+        "date": "2024-12-21",
+        "context": "Scene-setter and Trump Administration materials"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "COORDINATING_ON",
+        "object": "Congressional briefings",
+        "date": "2024-12-21",
+        "context": "Congress 101 and leadership bios"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "COORDINATING_ON",
+        "object": "Trade and tariffs briefings",
+        "date": "2024-12-21",
+        "context": "Economic security and emerging tech"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "COORDINATING_ON",
+        "object": "Foreign policy briefings",
+        "date": "2024-12-21",
+        "context": "Middle East, Russia/Ukraine, China, Indo-Pacific"
+      }
+    ]
+  },
+  "6_1": {
+    "people": [
+      {
+        "name": "Nicholas Alton",
+        "role": "Minister-Counsellor (Political)",
+        "organisation": "British Embassy Washington",
+        "context": "Sending email requesting documents from London colleagues"
+      },
+      {
+        "name": "Iain Griffiths",
+        "role": "Unknown",
+        "organisation": "Unknown (likely UK government department)",
+        "context": "Recipient of email about USCAD contact and document preparation"
+      },
+      {
+        "name": "James Roscoe",
+        "role": "Unknown",
+        "organisation": "Unknown (likely UK government department)",
+        "context": "Recipient of email about USCAD contact and document preparation"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      },
+      {
+        "name": "USCAD",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Phone conversation about USCAD contact",
+        "date": "2024-12-20",
+        "participants": [
+          "Nicholas Alton",
+          "Iain Griffiths",
+          "James Roscoe"
+        ]
+      },
+      {
+        "description": "Document preparation deadline",
+        "date": "2024-12-23",
+        "participants": [
+          "Nicholas Alton",
+          "Iain Griffiths",
+          "James Roscoe",
+          "USCAD team"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "Iain Griffiths",
+        "date": "2024-12-21",
+        "context": "Email about USCAD contact and document request"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2024-12-21",
+        "context": "Email about USCAD contact and document request"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SPOKE_WITH",
+        "object": "Iain Griffiths",
+        "date": "2024-12-20",
+        "context": "Discussion about USCAD contact follow-up"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SPOKE_WITH",
+        "object": "James Roscoe",
+        "date": "2024-12-20",
+        "context": "Discussion about USCAD contact follow-up"
+      },
+      {
+        "subject": "USCAD",
+        "predicate": "SENT_TO",
+        "object": "Nicholas Alton",
+        "date": "2024-12-21",
+        "context": "List of suggested topics"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "REQUESTED_FROM",
+        "object": "USCAD",
+        "date": "2024-12-21",
+        "context": "Tens of documents from suggested topics list by Monday 2pm London time"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "WORKS_AT",
+        "object": "British Embassy Washington",
+        "date": "2024-12-21",
+        "context": "Minister-Counsellor (Political)"
+      },
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "WORKS_WITH",
+        "object": "USCAD",
+        "date": "2024-12-21",
+        "context": "Coordinating document preparation"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WORKS_WITH",
+        "object": "USCAD",
+        "date": "2024-12-21",
+        "context": "Coordinating document preparation"
+      }
+    ]
+  },
+  "6_2": {
+    "people": [
+      {
+        "name": "Nicholas Alton",
+        "role": "Minister Counsellor (Political)",
+        "organisation": "British Embassy Washington",
+        "context": "Responding to Iain Griffiths about USCAD contact and work deadlines"
+      },
+      {
+        "name": "Iain Griffiths",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding USCAD contact and work coordination"
+      },
+      {
+        "name": "James",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Asked Nicholas Alton to reply to Iain Griffiths; discussed work timeline yesterday"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington DC",
+        "type": "city"
+      },
+      {
+        "name": "3100 Massachusetts Avenue NW",
+        "type": "building"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Discussion between Nicholas Alton and James about work timeline",
+        "date": "2024-12-19",
+        "participants": [
+          "Nicholas Alton",
+          "James"
+        ]
+      },
+      {
+        "description": "Meeting or discussion covering topics to be sent by redacted person",
+        "date": "2024-12-20",
+        "participants": [
+          "Nicholas Alton"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "Iain Griffiths",
+        "date": "2024-12-20",
+        "context": "Email about USCAD contact and work deadlines"
+      },
+      {
+        "subject": "James",
+        "predicate": "ASKED",
+        "object": "Nicholas Alton",
+        "date": "2024-12-20",
+        "context": "Asked Nicholas to reply to Iain Griffiths"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "DISCUSSED",
+        "object": "James",
+        "date": "2024-12-19",
+        "context": "Discussed work timeline, working toward early January deadline"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "WORKS_AT",
+        "object": "British Embassy Washington",
+        "date": "2024-12-20",
+        "context": "Minister Counsellor (Political)"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "DISCUSSED",
+        "object": "topics list",
+        "date": "2024-12-20",
+        "context": "Expected redacted person to send list of topics to be covered"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "DISCUSSED",
+        "object": "deadline change",
+        "date": "2024-12-20",
+        "context": "Understanding deadline moved from early January to 27 December, possibly to Monday"
+      }
+    ]
+  },
+  "6_3": {
+    "people": [
+      {
+        "name": "Iain Griffiths",
+        "role": "Head of US & Canada Department",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sender of email coordinating materials for HMA-designate"
+      },
+      {
+        "name": "James Roscoe",
+        "role": null,
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Recipient of email, responsible for preparing files for HMA-designate"
+      },
+      {
+        "name": "Rob",
+        "role": null,
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sent separate email outlining package for HMA-designate"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US & Canada Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Preparation of briefing pack for HMA-designate",
+        "date": "2024-12-20",
+        "participants": [
+          "Iain Griffiths",
+          "James Roscoe",
+          "Rob"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2024-12-20",
+        "context": "Email requesting files for HMA-designate"
+      },
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "HEADS",
+        "object": "US & Canada Department",
+        "date": "2024-12-20",
+        "context": "Role as Head of Department"
+      },
+      {
+        "subject": "Rob",
+        "predicate": "SENT_TO",
+        "object": "HMA-designate",
+        "date": "2024-12-20",
+        "context": "Separate email outlining package contents"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "PREPARING_FOR",
+        "object": "HMA-designate",
+        "date": "2024-12-20",
+        "context": "Files covering BEW policy products, London contacts, US networking and media engagement plan"
+      },
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "COORDINATING_WITH",
+        "object": "James Roscoe",
+        "date": "2024-12-20",
+        "context": "Coordination on briefing materials for HMA-designate"
+      },
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "COORDINATING_WITH",
+        "object": "Rob",
+        "date": "2024-12-20",
+        "context": "Coordination on corporate pack for HMA-designate"
+      }
+    ]
+  },
+  "6_4": {
+    "people": [
+      {
+        "name": "James Roscoe",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email coordinating candidate preparation activities"
+      },
+      {
+        "name": "Iain Griffiths",
+        "role": "Unknown (JCS designation)",
+        "organisation": "Unknown",
+        "context": "Recipient of email, referred to as 'JCS', stepping up to coordinate candidate preparation"
+      }
+    ],
+    "organisations": [],
+    "places": [
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "US",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Meeting between James Roscoe and Iain Griffiths",
+        "date": "2024-12-19 or earlier",
+        "participants": [
+          "James Roscoe",
+          "Iain Griffiths"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "James Roscoe",
+        "predicate": "SENT_TO",
+        "object": "Iain Griffiths",
+        "date": "2024-12-19",
+        "context": "Email coordinating candidate preparation"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "MET_WITH",
+        "object": "Iain Griffiths",
+        "date": "2024-12-19 or earlier",
+        "context": "Delighted to meet you"
+      },
+      {
+        "subject": "Iain Griffiths",
+        "predicate": "COORDINATING",
+        "object": "candidate preparation activities",
+        "date": "2024-12-19",
+        "context": "Stepping up the plate on candidate coordination"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WILL_PROVIDE",
+        "object": "taxonomy of policy issues",
+        "date": "2024-12-19",
+        "context": "For candidate to read in on"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WILL_PROVIDE",
+        "object": "list of London contacts",
+        "date": "2024-12-19",
+        "context": "For candidate to meet"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WILL_PROVIDE",
+        "object": "proposed US networking plan",
+        "date": "2024-12-19",
+        "context": "Including sequencing and format for meetings"
+      },
+      {
+        "subject": "James Roscoe",
+        "predicate": "WILL_PROVIDE",
+        "object": "proposed US media engagement",
+        "date": "2024-12-19",
+        "context": "In advance and on arrival"
+      },
+      {
+        "subject": "senior team",
+        "predicate": "WILL_PROVIDE",
+        "object": "candidate preparation materials",
+        "date": "2024-12-19",
+        "context": "Copied in to provide taxonomy, contacts, networking and media plans"
+      }
+    ]
+  },
+  "6_5": {
+    "people": [
+      {
+        "name": "Robert Tinline",
+        "role": "Director Americas",
+        "organisation": "Foreign, Commonwealth and Development Office",
+        "context": "Sending email about USCAD contact arrangements for HMA-designate Washington"
+      },
+      {
+        "name": "Philip R Barton",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about USCAD contact arrangements"
+      },
+      {
+        "name": "Ailsa Terry",
+        "role": "Unknown",
+        "organisation": "No.10",
+        "context": "Recipient of email about USCAD contact arrangements"
+      },
+      {
+        "name": "JCS",
+        "role": "Primary USCAD contact for HMA-designate Washington",
+        "organisation": "Unknown",
+        "context": "Designated as primary USCAD contact for incoming ambassador"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth and Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "No.10",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "USCAD",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email communication about USCAD contact arrangements for HMA-designate Washington",
+        "date": "2024-12-19",
+        "participants": [
+          "Robert Tinline",
+          "Philip R Barton",
+          "Ailsa Terry",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Robert Tinline",
+        "predicate": "SENT_TO",
+        "object": "Philip R Barton",
+        "date": "2024-12-19",
+        "context": "Email about USCAD contact arrangements"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "SENT_TO",
+        "object": "Ailsa Terry",
+        "date": "2024-12-19",
+        "context": "Email about USCAD contact arrangements"
+      },
+      {
+        "subject": "Robert Tinline",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth and Development Office",
+        "date": "2024-12-19",
+        "context": "Director Americas at FCDO"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "WORKS_FOR",
+        "object": "No.10",
+        "date": "2024-12-19",
+        "context": "Based at No.10 Downing Street"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "DESIGNATED_AS",
+        "object": "Primary USCAD contact",
+        "date": "2024-12-19",
+        "context": "For HMA-designate Washington"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "SUPPORTS",
+        "object": "HMA-designate Washington",
+        "date": "2024-12-19",
+        "context": "Primary USCAD contact role"
+      }
+    ]
+  },
+  "7_0": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient and sender of email, coordinating DV clearance process"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Requesting fast-track DV clearance for high profile Head of Mission role"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Spoke with Michael Roberts about supporting the clearance process"
+      },
+      {
+        "name": "JCS",
+        "role": "Chief of Staff and Private Secretary",
+        "organisation": "Unknown",
+        "context": "Copied on email thread regarding DV clearance"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "UK"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Phone conversation between Michael Roberts and Gerard about supporting clearance process",
+        "date": "2024-12-18",
+        "participants": [
+          "Michael Roberts",
+          "Gerard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SPOKE_WITH",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Discussed readiness to support DV clearance process"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "REQUESTED",
+        "object": "Michael Roberts",
+        "date": "2024-12-18",
+        "context": "Requested people be stood by to take forward fast-track DV clearance"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "REPORTS_TO",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Director General position within Cabinet Office"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "LEADS",
+        "object": "Government Security Function",
+        "date": "2024-12-18",
+        "context": "Government Chief Security Officer role"
+      },
+      {
+        "subject": "FCDO",
+        "predicate": "INITIATES",
+        "object": "DV clearance process",
+        "date": "2024-12-18",
+        "context": "Expected to initiate clearance in normal way"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SUPPORTS",
+        "object": "DV clearance process",
+        "date": "2024-12-18",
+        "context": "Ready to support fast-track clearance as necessary"
+      }
+    ]
+  },
+  "7_1": {
+    "people": [
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sender of message requesting fast track DV clearance for high profile Head of Mission role"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Microsoft Corporation",
+        "type": "private",
+        "country": "United States"
+      },
+      {
+        "name": "Microsoft Purview",
+        "type": "private",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "Redmond",
+        "type": "city"
+      },
+      {
+        "name": "Washington",
+        "type": "region"
+      },
+      {
+        "name": "One Microsoft Way",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Request for fast track DV clearance for high profile Head of Mission role overseas",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard McGurk"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-18",
+        "context": "Email sender from FCDO"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "REQUESTED",
+        "object": "Fast track DV clearance for Head of Mission role",
+        "date": "2024-12-18",
+        "context": "Subject line indicates urgent security clearance request for high profile overseas diplomatic appointment"
+      }
+    ]
+  },
+  "8_0": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of Personnel Security Team",
+        "organisation": "Foreign, Commonwealth and Development Office",
+        "context": "Initiated DV clearance for Lord Mandelson"
+      },
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about DV clearance"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "High Profile Head of Mission",
+        "organisation": "Unknown",
+        "context": "Subject of fast track DV clearance for overseas role"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth and Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cluster 4 Security, Estates Security and Resilence Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "ESND",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "DV clearance initiated for Lord Mandelson",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-23",
+        "context": "Email about DV clearance"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "INITIATED_CLEARANCE_FOR",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Fast track DV clearance for high profile head of mission role"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "APPOINTED_TO",
+        "object": "High Profile Head of Mission Role Overseas",
+        "date": "2024-12-23",
+        "context": "Requires fast track DV clearance"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth and Development Office",
+        "date": "2024-12-23",
+        "context": "Head of Personnel Security Team"
+      }
+    ]
+  },
+  "8_1": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email regarding DV clearance support"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding DV clearance support"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Person Michael Roberts spoke to about supporting DV clearance process"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Phone conversation between Michael Roberts and Gerard about DV clearance support",
+        "date": "2024-12-18",
+        "participants": [
+          "Michael Roberts",
+          "Gerard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Vincent Devine",
+        "date": "2024-12-18",
+        "context": "Email confirming readiness to support DV clearance process"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SPOKE_WITH",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Discussion about supporting fast track DV clearance for high profile Head of Mission role"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SUPPORTS",
+        "object": "DV clearance process",
+        "date": "2024-12-18",
+        "context": "Ready to support as necessary for high profile Head of Mission role overseas"
+      }
+    ]
+  },
+  "8_2": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Requesting fast-track DV clearance for high profile Head of Mission role"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Likely FCDO",
+        "context": "Being asked to initiate FCDO clearance processes"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Likely Government Security Function",
+        "context": "Being asked to have people ready to process clearance quickly"
+      },
+      {
+        "name": "JCS",
+        "role": "Chief of Staff and Private Secretary",
+        "organisation": "Cabinet Office",
+        "context": "Contact details provided in email signature"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Private Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Request for fast-track DV clearance for high profile Head of Mission role",
+        "date": "2024-12-18",
+        "participants": [
+          "Vincent Devine",
+          "Gerard",
+          "Michael",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Requesting initiation of FCDO clearance processes"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-18",
+        "context": "Requesting people be ready to process clearance quickly"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "WORKS_WITH",
+        "object": "FCDO",
+        "date": "2024-12-18",
+        "context": "Expected to initiate FCDO processes"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "REPORTS_TO",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Director General position"
+      },
+      {
+        "subject": "Michael",
+        "predicate": "REPORTS_TO",
+        "object": "Vincent Devine",
+        "date": "2024-12-18",
+        "context": "Receiving instructions from Vincent Devine"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "REFERENCES",
+        "object": "SPAD work",
+        "date": "2024-12-18",
+        "context": "Citing SPAD clearance process as example of speed"
+      },
+      {
+        "subject": "Unknown individual",
+        "predicate": "REQUIRES",
+        "object": "DV clearance",
+        "date": "2024-12-18",
+        "context": "For high profile Head of Mission role overseas"
+      }
+    ]
+  },
+  "8_3": {
+    "people": [
+      {
+        "name": "Gerard McGurk",
+        "role": "Head of Partner Services",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Sender of email requesting fast track DV clearance for high profile Head of Mission role overseas"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Microsoft Corporation",
+        "type": "private",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Redmond",
+        "type": "city"
+      },
+      {
+        "name": "WA",
+        "type": "region"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email sent requesting fast track DV clearance for high profile Head of Mission role overseas",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard McGurk"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2024-12-18",
+        "context": "Listed as Head of Partner Services at UKSV"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2024-12-18",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "REQUESTED",
+        "object": "Fast track DV clearance for high profile Head of Mission role",
+        "date": "2024-12-18",
+        "context": "Email subject line indicates request for security clearance"
+      }
+    ]
+  },
+  "9_0": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Requesting fast track DV clearance for high profile Head of Mission"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding DV clearance request"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "Fox Room",
+        "type": "building"
+      },
+      {
+        "name": "KCS",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "High profile individual plans to use KCS and Fox Room as office",
+        "date": "early January 2025",
+        "participants": [
+          "Ian Collard",
+          "JCS"
+        ]
+      },
+      {
+        "description": "Fast track DV clearance request for Head of Mission role overseas",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Email requesting fast track DV clearance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "High profile individual",
+        "predicate": "WILL_USE",
+        "object": "Fox Room",
+        "date": "January 2025",
+        "context": "As office for the month"
+      },
+      {
+        "subject": "High profile individual",
+        "predicate": "WILL_USE",
+        "object": "KCS",
+        "date": "early January 2025",
+        "context": "Requires DV clearance to avoid access issues"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "REQUESTS",
+        "object": "DV clearance",
+        "date": "2024-12-23",
+        "context": "Fast track clearance for Head of Mission role"
+      }
+    ]
+  },
+  "9_1": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of Personnel Security Team",
+        "organisation": "Foreign, Commonwealth and Development Office",
+        "context": "Responding to request for fast track DV clearance for high profile Head of Overseas"
+      },
+      {
+        "name": "Ian Collard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding fast track DV clearance request"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth and Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cluster 4 Security, Estates Security and Resilience Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "ESND",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Request for fast track DV clearance for high profile Head of Overseas",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Ian Collard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Confirming will process fast track DV clearance request"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth and Development Office",
+        "date": "2024-12-23",
+        "context": "Head of Personnel Security Team"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "HEADS",
+        "object": "Personnel Security Team",
+        "date": "2024-12-23",
+        "context": "Role as Head of Personnel Security Team"
+      },
+      {
+        "subject": "Personnel Security Team",
+        "predicate": "PART_OF",
+        "object": "Cluster 4 Security, Estates Security and Resilience Department",
+        "date": "2024-12-23",
+        "context": "Organizational structure"
+      }
+    ]
+  },
+  "9_2": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Handling security clearance process for high-profile Head of Mission appointment"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Messaged Ian Collard about clearance requirements for House of Lords candidate"
+      },
+      {
+        "name": "Rochelle Fisher",
+        "role": "HRD (Human Resources Director)",
+        "organisation": "Unknown",
+        "context": "Informed by Gerard about clearance requirements for House of Lords candidate"
+      },
+      {
+        "name": "Redacted Personnel Security Officer",
+        "role": "Head of Personnel Security Team",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Querying whether DV clearance required for Lord being appointed to Head of Mission role"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSG",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "PUS office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cluster 4 Security, Estates Security and Resilence Department, ESND",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard messaged Ian Collard about clearance requirements for House of Lords candidate",
+        "date": "End of last week before 2024-12-23",
+        "participants": [
+          "Gerard",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Gerard told Rochelle Fisher that if candidate was House of Lords member, no SC/DV required",
+        "date": "Before 2024-12-23",
+        "participants": [
+          "Gerard",
+          "Rochelle Fisher"
+        ]
+      },
+      {
+        "description": "Email exchange about DV clearance requirements for Head of Mission",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard",
+          "Redacted Personnel Security Officer"
+        ]
+      },
+      {
+        "description": "PUS office requested clearance set up",
+        "date": "Before 2024-12-23",
+        "participants": [
+          "PUS office"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Email about fast track DV clearance for Head of Mission"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "MESSAGED",
+        "object": "Ian Collard",
+        "date": "End of last week before 2024-12-23",
+        "context": "About clearance requirements for House of Lords candidate"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "TOLD",
+        "object": "Rochelle Fisher",
+        "date": "Before 2024-12-23",
+        "context": "If candidate was House of Lords member, no SC/DV required"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "CONFIRMED_WITH",
+        "object": "Cabinet Office",
+        "date": "Before 2024-12-23",
+        "context": "That House of Lords members don't require SC/DV clearance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "ASKED_TO_CHECK_WITH",
+        "object": "GSG",
+        "date": "2024-12-23",
+        "context": "About clearance requirements for Head of Mission"
+      },
+      {
+        "subject": "Redacted Personnel Security Officer",
+        "predicate": "REPORTS_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "On security clearance matters"
+      },
+      {
+        "subject": "PUS office",
+        "predicate": "REQUESTED",
+        "object": "clearance set up",
+        "date": "Before 2024-12-23",
+        "context": "For Head of Mission appointment"
+      },
+      {
+        "subject": "Redacted Personnel Security Officer",
+        "predicate": "DISCUSSED",
+        "object": "PSP guidance for Lords",
+        "date": "2024-12-23",
+        "context": "Considering whether candidate falls under Public Appointments or DMA category"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_AT",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Redacted Personnel Security Officer",
+        "predicate": "WORKS_AT",
+        "object": "Cluster 4 Security, Estates Security and Resilence Department, ESND",
+        "date": "2024-12-23",
+        "context": "Head of Personnel Security Team"
+      }
+    ]
+  },
+  "9_3": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Inquiring about DV clearance for high profile head of mission role"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Request for fast track DV clearance for high profile head of mission role overseas",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "REQUESTED",
+        "object": "DV clearance for high profile head of mission",
+        "date": "2024-12-23",
+        "context": "Fast track clearance required"
+      },
+      {
+        "subject": "High profile head of mission",
+        "predicate": "REQUIRES",
+        "object": "DV clearance",
+        "date": "2024-12-23",
+        "context": "For overseas mission role"
+      }
+    ]
+  },
+  "9_4": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of Personnel Security Team",
+        "organisation": "Cluster 4 Security, Estates Security and Resilience Department, ESND, FCDO",
+        "context": "Responsible for setting up DV clearance for Lord Mandelson"
+      },
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding Lord Mandelson's DV clearance"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "High profile head of mission role overseas",
+        "organisation": "Unknown",
+        "context": "Subject of fast track DV clearance process"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Cluster 4 Security, Estates Security and Resilience Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "ESND",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth and Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "DV clearance setup for Lord Mandelson",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-23",
+        "context": "Email regarding fast track DV clearance"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "INITIATED_CLEARANCE_FOR",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Set up DV clearance under specific Case ID"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "REQUIRES",
+        "object": "DV clearance",
+        "date": "2024-12-23",
+        "context": "Fast track clearance for high profile head of mission role overseas"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth and Development Office",
+        "date": "2024-12-23",
+        "context": "Head of Personnel Security Team"
+      }
+    ]
+  },
+  "9_5": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email regarding DV clearance support"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding DV clearance support"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Person Michael Roberts spoke to about supporting DV clearance process"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Phone conversation between Michael Roberts and Gerard about DV clearance support",
+        "date": "2024-12-18 evening",
+        "participants": [
+          "Michael Roberts",
+          "Gerard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Vincent Devine",
+        "date": "2024-12-18",
+        "context": "Email confirming readiness to support fast track DV clearance for high profile head of mission role overseas"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SPOKE_WITH",
+        "object": "Gerard",
+        "date": "2024-12-18 evening",
+        "context": "Discussion about supporting DV clearance process"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SUPPORTS",
+        "object": "DV clearance process",
+        "date": "2024-12-18",
+        "context": "Ready to support fast track DV clearance for high profile head of mission role overseas"
+      }
+    ]
+  },
+  "9_6": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Coordinating fast-track DV clearance for high-profile head of mission"
+      },
+      {
+        "name": "Gerard",
+        "role": "Unknown",
+        "organisation": "FCDO (implied)",
+        "context": "Responsible for initiating FCDO clearance processes"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Government Security Function (implied)",
+        "context": "Asked to have people ready to process clearance quickly"
+      },
+      {
+        "name": "JCS",
+        "role": "Chief of Staff and Private Secretary",
+        "organisation": "Cabinet Office (implied)",
+        "context": "Copied on email thread about clearance process"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "UK"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email coordination for fast-track DV clearance",
+        "date": "2024-12-18",
+        "participants": [
+          "Vincent Devine",
+          "Gerard",
+          "Michael",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Gerard",
+        "date": "2024-12-18",
+        "context": "Requesting initiation of FCDO clearance process"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-18",
+        "context": "Requesting staff be ready to process clearance quickly"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2024-12-18",
+        "context": "Responsible for FCDO processes"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "LEADS",
+        "object": "Government Security Function",
+        "date": "2024-12-18",
+        "context": "Director General & Government Chief Security Officer"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Position based in Cabinet Office"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-18",
+        "context": "Chief of Staff and Private Secretary"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "REFERENCES",
+        "object": "SPAD work",
+        "date": "2024-12-18",
+        "context": "Cites SPAD clearance process as example of speed"
+      },
+      {
+        "subject": "Gerard",
+        "predicate": "TASKED_WITH",
+        "object": "DV clearance initiation",
+        "date": "2024-12-18",
+        "context": "To initiate and support individual through clearance process"
+      },
+      {
+        "subject": "Michael",
+        "predicate": "TASKED_WITH",
+        "object": "DV clearance processing",
+        "date": "2024-12-18",
+        "context": "To have staff ready to process clearance quickly"
+      }
+    ]
+  },
+  "9_7": {
+    "people": [
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email requesting fast track DV clearance for high profile head of mission"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Microsoft Purview",
+        "type": "private",
+        "country": "United States"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email sent requesting fast track DV clearance for high profile head of mission",
+        "date": "2024-12-18",
+        "participants": [
+          "Gerard McGurk"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "REQUESTED",
+        "object": "fast track DV clearance for high profile head of mission",
+        "date": "2024-12-18",
+        "context": "Email communication regarding security clearance process"
+      }
+    ]
+  },
+  "10_0": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email regarding vetting question"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Spoken to regarding clearance process"
+      },
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Email sender confirming clearance process will proceed"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSG",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Phone conversation about clearance process",
+        "date": "2024-12-23 morning",
+        "participants": [
+          "Ian Collard",
+          "Tom Bramley"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question email"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SPOKE_WITH",
+        "object": "Tom Bramley",
+        "date": "2024-12-23",
+        "context": "Discussion about clearance process"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "IN_TOUCH_WITH",
+        "object": "the individual",
+        "date": "2024-12-23",
+        "context": "Regarding clearance application"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "GRATEFUL_TO",
+        "object": "GSG",
+        "date": "2024-12-23",
+        "context": "For expediting vetting application"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "GRATEFUL_TO",
+        "object": "UKSV",
+        "date": "2024-12-23",
+        "context": "For expediting vetting application"
+      }
+    ]
+  },
+  "10_1": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Vetting officer/administrator",
+        "organisation": "UKSV (UK Security Vetting)",
+        "context": "Handling Lord Mandelson's vetting process, set him up on the system, working over festive break"
+      },
+      {
+        "name": "lanCollad",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email, seeking confirmation about DV requirement"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Subject of vetting",
+        "organisation": "Unknown",
+        "context": "Being vetted for DV (Developed Vetting), has been set up on vetting system"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Special Handling team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email contact between JCS and sender regarding vetting matter",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "lanCollad"
+        ]
+      },
+      {
+        "description": "Lord Mandelson set up on vetting system",
+        "date": "2024-12-23 or earlier",
+        "participants": [
+          "JCS",
+          "Lord Mandelson"
+        ]
+      },
+      {
+        "description": "Vetting officer allocated and ready to conduct interview",
+        "date": "2024-12-23 or earlier",
+        "participants": [
+          "vetting officer",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "lanCollad",
+        "date": "2024-12-23",
+        "context": "Email response about vetting question"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "SET_UP_ON_SYSTEM",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23 or earlier",
+        "context": "Vetting system setup"
+      },
+      {
+        "subject": "lanCollad",
+        "predicate": "SEEKING_CONFIRMATION",
+        "object": "DV requirement",
+        "date": "2024-12-23",
+        "context": "Checking if Developed Vetting is needed"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "ALLOCATED",
+        "object": "vetting officer",
+        "date": "2024-12-23 or earlier",
+        "context": "Officer ready to conduct interview with Lord Mandelson"
+      },
+      {
+        "subject": "Special Handling team",
+        "predicate": "ASSIGNED_TO",
+        "object": "Lord Mandelson vetting case",
+        "date": "2024-12-23 or earlier",
+        "context": "Case flagged to be locked down to limit access"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKING_OVER",
+        "object": "festive break",
+        "date": "2024-12-23",
+        "context": "Available to provide updates on vetting progress"
+      }
+    ]
+  },
+  "10_2": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending urgent vetting question about Lord Mandelson's DV clearance exemption"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of vetting question email"
+      },
+      {
+        "name": "Vincent",
+        "role": "Unknown (team leader)",
+        "organisation": "Unknown",
+        "context": "Recipient of vetting question email, leads a team"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Made contact last week about Lord Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "Next UK Ambassador to Washington",
+        "organisation": "House of Lords / Foreign, Commonwealth & Development Office",
+        "context": "Subject of vetting question regarding DV clearance exemption as member of House of Lords"
+      },
+      {
+        "name": "JCS",
+        "role": "Head of Partner Services",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Email recipient or contact for vetting matters"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Embassy Washington",
+        "type": "embassy",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard McGurk contacted about Lord Mandelson's appointment and vetting requirements",
+        "date": "Last week (relative to 2024-12-23)",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson's appointment as UK Ambassador to Washington",
+        "date": "2024-12-23 or shortly before",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties (though not posting)",
+        "date": "Early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "Last week (relative to 2024-12-23)",
+        "context": "About Lord Mandelson's appointment and vetting"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "UK Government",
+        "date": "2024-12-23 or shortly before",
+        "context": "As UK Ambassador to Washington"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2024-12-23",
+        "context": "Head of Partner Services"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Group",
+        "date": "2024-12-23",
+        "context": "Head of Partner Services"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2024-12-23",
+        "context": "Head of Partner Services"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Potentially exempt from UKV/DV clearance process"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "CONCERNS",
+        "object": "DV clearance exemption for Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Whether House of Lords membership exempts from vetting"
+      },
+      {
+        "subject": "Cabinet Office",
+        "predicate": "ADVISES_ON",
+        "object": "Vetting exemption policy",
+        "date": "2024-12-23",
+        "context": "CO says Lord Mandelson is exempt"
+      }
+    ]
+  },
+  "11_0": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Handling urgent vetting question regarding Lord Mandelson"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Subject of vetting process",
+        "organisation": "Unknown from this extract",
+        "context": "Being set up on system, requires DV (Developed Vetting), allocated vetting officer"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Out of office, Ian Collard acting per his OOO message"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Special Handling team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email contact regarding vetting matter",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard",
+          "redacted person"
+        ]
+      },
+      {
+        "description": "Lord Mandelson set up on system",
+        "date": "2024-12-23 or earlier",
+        "participants": [
+          "Lord Mandelson",
+          "redacted person"
+        ]
+      },
+      {
+        "description": "Vetting officer allocated for Lord Mandelson",
+        "date": "2024-12-23 or earlier",
+        "participants": [
+          "Lord Mandelson",
+          "unnamed vetting officer"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Forwarding urgent vetting question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "DISCUSSED",
+        "object": "vetting matter",
+        "date": "2024-12-23",
+        "context": "Email contact with redacted person"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "REQUIRES",
+        "object": "DV (Developed Vetting)",
+        "date": "2024-12-23",
+        "context": "Confirmation sought on need for DV"
+      },
+      {
+        "subject": "redacted person",
+        "predicate": "SET_UP",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23 or earlier",
+        "context": "Set up on system"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PROCESSES",
+        "object": "vetting application",
+        "date": "2024-12-23",
+        "context": "Once application completed and arrives"
+      },
+      {
+        "subject": "vetting officer",
+        "predicate": "ALLOCATED_TO",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23 or earlier",
+        "context": "Ready to conduct interview"
+      },
+      {
+        "subject": "Special Handling team",
+        "predicate": "MANAGES",
+        "object": "Lord Mandelson case",
+        "date": "2024-12-23",
+        "context": "Case flagged to be locked down to limit access"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKING_DURING",
+        "object": "festive break",
+        "date": "2024-12-23",
+        "context": "Available to provide updates on progress"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "ACTING_FOR",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Per Michael's OOO message"
+      }
+    ]
+  },
+  "11_1": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sender of email asking about vetting requirements for Mandelson"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about vetting question"
+      },
+      {
+        "name": "Vincent",
+        "role": "Team lead (specific role unknown)",
+        "organisation": "Unknown",
+        "context": "Leads team involved in vetting question"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Made initial contact about Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "UK Ambassador to Washington (appointee)",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Subject of vetting inquiry, appointed as next UK Ambassador to Washington"
+      },
+      {
+        "name": "JCS",
+        "role": "Head of Partner Services",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Email signature indicates involvement in security vetting matters"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "CO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard McGurk contacted about Mandelson appointment and vetting",
+        "date": "Last week (relative to 2024-12-23)",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson appointment as UK Ambassador to Washington",
+        "date": "2024-12-23 or shortly before",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties",
+        "date": "Early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Email about vetting question for Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Email about vetting question for Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Email about vetting question for Mandelson"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "Last week relative to 2024-12-23",
+        "context": "About Mandelson appointment and vetting requirements"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "UK Government",
+        "date": "2024-12-23 or shortly before",
+        "context": "As UK Ambassador to Washington"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "REPORTS_TO",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "REPORTS_TO",
+        "object": "UKSV",
+        "date": "2024-12-23",
+        "context": "Head of Partner Services role"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "REPORTS_TO",
+        "object": "Government Security Group",
+        "date": "2024-12-23",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "REPORTS_TO",
+        "object": "Cabinet Office",
+        "date": "2024-12-23",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "DISCUSSED",
+        "object": "DV clearance exemption for House of Lords members",
+        "date": "2024-12-23",
+        "context": "Vetting requirements for Mandelson"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Relevant to vetting exemption question"
+      },
+      {
+        "subject": "CO",
+        "predicate": "ADVISED",
+        "object": "Lord Mandelson exempt from UKV process",
+        "date": "Before 2024-12-23",
+        "context": "Initial guidance on vetting exemption"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "CONCERNS",
+        "object": "Public appointments policy impact on vetting",
+        "date": "2024-12-23",
+        "context": "Seeking clarification on exemption"
+      }
+    ]
+  },
+  "13_0": {
+    "people": [
+      {
+        "name": "Jcs",
+        "role": "Head of Policy, Public Affairs and Quality Assurance",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Forwarding vetting query about clearance requirements"
+      },
+      {
+        "name": "Patricia Dreghorn",
+        "role": "UKSV CEO",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Asking about vetting clearance requirements for a Lord who is also an executive leader"
+      },
+      {
+        "name": "Trish",
+        "role": "UKSV CEO",
+        "organisation": "UKSV, Government Security Group, Cabinet Office",
+        "context": "Alternative name for Patricia Dreghorn"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email exchange regarding vetting clearance question for a Lord who is an executive leader",
+        "date": "2024-12-23",
+        "participants": [
+          "Jcs",
+          "Patricia Dreghorn"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Patricia Dreghorn",
+        "predicate": "SENT_TO",
+        "object": "Jcs",
+        "date": "2024-12-23",
+        "context": "Forwarding urgent vetting question about clearance requirements"
+      },
+      {
+        "subject": "Jcs",
+        "predicate": "REPORTS_TO",
+        "object": "UKSV",
+        "date": "2024-12-23",
+        "context": "Head of Policy, Public Affairs and Quality Assurance at UKSV"
+      },
+      {
+        "subject": "Patricia Dreghorn",
+        "predicate": "REPORTS_TO",
+        "object": "UKSV",
+        "date": "2024-12-23",
+        "context": "CEO of UKSV"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2024-12-23",
+        "context": "UKSV is part of Government Security Group"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-23",
+        "context": "Government Security Group is part of Cabinet Office"
+      },
+      {
+        "subject": "Patricia Dreghorn",
+        "predicate": "DISCUSSED",
+        "object": "vetting clearance requirements for Lords",
+        "date": "2024-12-23",
+        "context": "Querying whether a Lord who is an executive leader requires security clearance"
+      }
+    ]
+  },
+  "13_1": {
+    "people": [
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of forwarded urgent vetting question email"
+      },
+      {
+        "name": "Patricia Dreghom",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of forwarded urgent vetting question email"
+      },
+      {
+        "name": "JCS",
+        "role": "Chief of Staff and Private Secretary",
+        "organisation": "Government Chief Security Officer Private Office",
+        "context": "Forwarding urgent vetting question, noting others may be on leave"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "JCS works in his Private Office"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Chief Security Officer Private Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email forwarding regarding urgent vetting question",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Tom Bramley",
+          "Patricia Dreghom"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-23",
+        "context": "Forwarding urgent vetting question"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Patricia Dreghom",
+        "date": "2024-12-23",
+        "context": "Forwarding urgent vetting question"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Vincent Devine",
+        "date": "2024-12-23",
+        "context": "Chief of Staff and Private Secretary in Vincent Devine's Private Office"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "HEADS",
+        "object": "Government Security Function",
+        "date": "2024-12-23",
+        "context": "Government Chief Security Officer"
+      },
+      {
+        "subject": "Government Security Function",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-23",
+        "context": "Government Security Function is within Cabinet Office"
+      }
+    ]
+  },
+  "13_2": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending urgent vetting question about Lord Mandelson's appointment"
+      },
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about vetting question"
+      },
+      {
+        "name": "Vita Maynard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about vetting question"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Contacted last week about Lord Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "Next UK Ambassador to Washington",
+        "organisation": "House of Lords / UK Government",
+        "context": "Subject of vetting question regarding DV clearance exemption as member of House of Lords"
+      },
+      {
+        "name": "Vincent",
+        "role": "Unknown (team leader)",
+        "organisation": "Unknown",
+        "context": "Has a team involved in the vetting question"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GCSOprivateoffice",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "CO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard McGurk contacted about Lord Mandelson's expected appointment",
+        "date": "Last week (before 2024-12-23)",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson's appointment as UK Ambassador to Washington",
+        "date": "2024-12-23 or shortly before",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties (though not posting)",
+        "date": "Early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "GCSOprivateoffice",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael Roberts",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vita Maynard",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "Last week before 2024-12-23",
+        "context": "About Lord Mandelson's expected appointment"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "UK Government",
+        "date": "2024-12-23 or shortly before",
+        "context": "As UK Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Relevant to vetting exemption question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "CONCERNS",
+        "object": "DV clearance exemption for Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Whether House of Lords membership exempts from UKV process"
+      },
+      {
+        "subject": "CO",
+        "predicate": "SAYS",
+        "object": "Lord Mandelson is exempt from vetting",
+        "date": "2024-12-23",
+        "context": "But verification needed given public appointments policy"
+      }
+    ]
+  },
+  "14_0": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email providing update on vetting questionnaire status"
+      },
+      {
+        "name": "Jcs",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email and sender of original message"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Additional recipient of email"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Special Handling team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email update on vetting questionnaire status",
+        "date": "2024-12-27",
+        "participants": [
+          "Ian Collard",
+          "Jcs",
+          "JCS"
+        ]
+      },
+      {
+        "description": "VCO interview to be conducted",
+        "date": null,
+        "participants": [
+          "VCO",
+          "individual being vetted"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Jcs",
+        "date": "2024-12-27",
+        "context": "Email update on vetting questionnaire"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-27",
+        "context": "Email update on vetting questionnaire"
+      },
+      {
+        "subject": "individual",
+        "predicate": "SUBMITTED",
+        "object": "questionnaire",
+        "date": null,
+        "context": "Vetting questionnaire still awaited"
+      },
+      {
+        "subject": "Special Handling team",
+        "predicate": "PROCESSES",
+        "object": "questionnaire",
+        "date": null,
+        "context": "Will process questionnaire once received"
+      },
+      {
+        "subject": "VCO",
+        "predicate": "ALLOCATED_TO",
+        "object": "interview",
+        "date": null,
+        "context": "VCO allocated to conduct vetting interview"
+      }
+    ]
+  },
+  "14_1": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending email about vetting clearance process"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient being thanked in email about vetting"
+      },
+      {
+        "name": "Tom",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Spoken to by Ian Collard about proceeding with clearance process"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSG",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Phone conversation about proceeding with clearance process",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard",
+          "Tom"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Email about vetting clearance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SPOKE_WITH",
+        "object": "Tom",
+        "date": "2024-12-23",
+        "context": "Discussion about proceeding with clearance process"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Redacted individual",
+        "predicate": "IN_CONTACT_WITH",
+        "object": "Redacted person",
+        "date": "2024-12-23",
+        "context": "Regarding vetting application"
+      },
+      {
+        "subject": "GSG",
+        "predicate": "EXPEDITING",
+        "object": "vetting application",
+        "date": "2024-12-23",
+        "context": "Processing clearance paperwork"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "EXPEDITING",
+        "object": "vetting application",
+        "date": "2024-12-23",
+        "context": "Processing clearance paperwork"
+      }
+    ]
+  },
+  "14_2": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Vetting official",
+        "organisation": "UKSV (UK Security Vetting)",
+        "context": "Handling Lord Mandelson's vetting process, working over festive break"
+      },
+      {
+        "name": "Ian Collard",
+        "role": "Unknown (recipient of vetting correspondence)",
+        "organisation": "Unknown",
+        "context": "Seeking confirmation about DV requirement for Lord Mandelson"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Subject of vetting process",
+        "organisation": "Unknown",
+        "context": "Being set up on vetting system, requires DV clearance"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Special Handling team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email contact regarding Lord Mandelson's vetting",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Lord Mandelson set up on vetting system",
+        "date": "2024-12-23",
+        "participants": [
+          "JCS",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Email response regarding vetting question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2024-12-23",
+        "context": "Seeking confirmation about DV requirement"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "IN_EMAIL_CONTACT_WITH",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Regarding Lord Mandelson's vetting matter"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "SET_UP_ON_SYSTEM",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Vetting system setup"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "ALLOCATED_VETTING_OFFICER_TO",
+        "object": "Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Ready to conduct interview"
+      },
+      {
+        "subject": "Special Handling team",
+        "predicate": "ASSIGNED_TO",
+        "object": "Lord Mandelson vetting case",
+        "date": "2024-12-23",
+        "context": "Case flagged and locked down to limit access"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKING_OVER",
+        "object": "festive break",
+        "date": "2024-12-23",
+        "context": "Available to provide updates on vetting progress"
+      }
+    ]
+  },
+  "14_3": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending urgent vetting question, referencing Michael's out-of-office message"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Has an out-of-office message that Ian Collard is referencing"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Urgent vetting question email sent",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Unknown recipient",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question email"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "REFERENCED",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Per Michael's OOO message"
+      }
+    ]
+  },
+  "14_4": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending urgent vetting query about Mandelson's appointment"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of vetting query, possibly in GCS Private Office"
+      },
+      {
+        "name": "Vincent",
+        "role": "Unknown (team leader)",
+        "organisation": "Unknown",
+        "context": "Has a team involved in vetting process"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Made initial contact about Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "Next UK Ambassador to Washington",
+        "organisation": "House of Lords / UK Government",
+        "context": "Subject of vetting query regarding DV clearance exemption"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "GCSOprivateoffice",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard McGurk contacted about Mandelson's expected appointment",
+        "date": "last week (relative to 2024-12-23)",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson's appointment as UK Ambassador to Washington",
+        "date": "2024-12-23 or shortly before",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties (not posting)",
+        "date": "early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "GCSOprivateoffice",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "last week (relative to 2024-12-23)",
+        "context": "About Mandelson's expected appointment"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_AS",
+        "object": "UK Ambassador to Washington",
+        "date": "2024-12-23 (confirmed)",
+        "context": "Next UK Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Relevant to vetting exemption question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "CONCERNS",
+        "object": "DV clearance exemption for Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Whether House of Lords membership exempts from UKV process"
+      },
+      {
+        "subject": "Cabinet Office",
+        "predicate": "ADVISES_ON",
+        "object": "vetting exemption policy",
+        "date": "2024-12-23",
+        "context": "CO says Lord M is exempt"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2024-12-23",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2024-12-23",
+        "context": "Organizational structure"
+      }
+    ]
+  },
+  "15_0": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Handling vetting/clearance procedures, communicating about proceeding with clearance"
+      },
+      {
+        "name": "Michael",
+        "role": null,
+        "organisation": null,
+        "context": "Recipient of email about vetting question, previously provided information"
+      },
+      {
+        "name": "Tom",
+        "role": null,
+        "organisation": null,
+        "context": "Discussed clearance procedures with Ian Collard, can provide additional information to Michael"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Discussion about clearance procedures between Ian Collard and Tom",
+        "date": "2024-12-23 or earlier",
+        "participants": [
+          "Ian Collard",
+          "Tom"
+        ]
+      },
+      {
+        "description": "Decision to proceed with clearance in usual way",
+        "date": "2024-12-23",
+        "participants": [
+          "Ian Collard",
+          "Tom"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Email about urgent vetting question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "DISCUSSED",
+        "object": "clearance procedures",
+        "date": "2024-12-23",
+        "context": "Discussion with Tom about proceeding with clearance"
+      },
+      {
+        "subject": "Tom",
+        "predicate": "DISCUSSED",
+        "object": "clearance procedures",
+        "date": "2024-12-23",
+        "context": "Discussion with Ian Collard about proceeding with clearance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Tom",
+        "predicate": "CAN_PROVIDE_INFO_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Can fill in details about clearance procedures"
+      }
+    ]
+  },
+  "15_1": {
+    "people": [
+      {
+        "name": "Michael Roberts",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Responding to vetting question, appears to have knowledge of GSB policy decisions"
+      },
+      {
+        "name": "Ian Collard",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding vetting question"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email regarding vetting question"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "GSB",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "GSB policy decision on NSV exemption for House of Lords members",
+        "date": "October 2024",
+        "participants": [
+          "GSB"
+        ]
+      },
+      {
+        "description": "Email response regarding vetting question",
+        "date": "2024-12-23",
+        "participants": [
+          "Michael Roberts",
+          "Ian Collard",
+          "Tom Bramley"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2024-12-23",
+        "context": "Email response about vetting policy"
+      },
+      {
+        "subject": "Michael Roberts",
+        "predicate": "SENT_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-23",
+        "context": "Email response about vetting policy"
+      },
+      {
+        "subject": "GSB",
+        "predicate": "SET_POLICY",
+        "object": "NSV exemption for House of Lords members",
+        "date": "October 2024",
+        "context": "Policy decision that members of HoL are exempt from NSV"
+      },
+      {
+        "subject": "House of Lords members",
+        "predicate": "EXEMPT_FROM",
+        "object": "NSV",
+        "date": "October 2024",
+        "context": "Policy set by GSB"
+      }
+    ]
+  },
+  "15_2": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending urgent vetting question about Mandelson's DV clearance exemption"
+      },
+      {
+        "name": "Michael",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of urgent vetting question"
+      },
+      {
+        "name": "Vincent",
+        "role": "Team lead (specific role unknown)",
+        "organisation": "Unknown",
+        "context": "Team recipient of urgent vetting question"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Made initial contact about Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "UK Ambassador to Washington (designate)",
+        "organisation": "Foreign, Commonwealth & Development Office / House of Lords",
+        "context": "Subject of vetting exemption question; confirmed appointment as next UK Ambassador to Washington"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Gerard McGurk contacted about Mandelson's expected appointment",
+        "date": "Last week (relative to 2024-12-23)",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson's appointment as UK Ambassador to Washington",
+        "date": "2024-12-23 or shortly before",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties (not posting)",
+        "date": "Early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Mandelson"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "Last week before 2024-12-23",
+        "context": "About Mandelson's expected appointment"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "UK Government",
+        "date": "2024-12-23 or shortly before",
+        "context": "As UK Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Membership status relevant to vetting exemption question"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Cabinet Office",
+        "predicate": "ADVISES_ON",
+        "object": "Vetting exemption for House of Lords members",
+        "date": "2024-12-23",
+        "context": "Believed to say Lord Mandelson is exempt from UKV/DV clearance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "CONCERNS",
+        "object": "DV clearance exemption for Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Seeking confirmation on whether public appointments policy alters exemption"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "BEGINS_DUTIES",
+        "object": "UK Ambassador to Washington role",
+        "date": "Early January 2025",
+        "context": "Beginning duties but not posting initially"
+      }
+    ]
+  },
+  "16_0": {
+    "people": [
+      {
+        "name": "Ian Collard",
+        "role": "Chief Property & Security Officer",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Seeking clarification on vetting requirements for Lord Mandelson's appointment"
+      },
+      {
+        "name": "Tom Bramley",
+        "role": "Not specified",
+        "organisation": "Not specified",
+        "context": "Recipient of the email thread"
+      },
+      {
+        "name": "Michael",
+        "role": "Not specified",
+        "organisation": "Not specified",
+        "context": "Responded to vetting question, confirmed HoL members exempt from NSV per GSB policy"
+      },
+      {
+        "name": "Gerard McGurk",
+        "role": "Not specified",
+        "organisation": "Not specified",
+        "context": "Made initial contact about Lord Mandelson's appointment and vetting requirements"
+      },
+      {
+        "name": "Lord Peter Mandelson",
+        "role": "UK Ambassador to Washington (appointee)",
+        "organisation": "Foreign, Commonwealth & Development Office / House of Lords",
+        "context": "Subject of vetting inquiry, confirmed appointment as next UK Ambassador to Washington"
+      },
+      {
+        "name": "Vincent",
+        "role": "Not specified (team leader)",
+        "organisation": "Not specified",
+        "context": "Has a team involved in the vetting process"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSB",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "CO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "GSB policy decision that members of HoL are exempt from NSV",
+        "date": "October 2024",
+        "participants": [
+          "GSB"
+        ]
+      },
+      {
+        "description": "Gerard McGurk contacted about Lord Mandelson's appointment and vetting requirements",
+        "date": "Week before 23 December 2024",
+        "participants": [
+          "Gerard McGurk",
+          "Ian Collard"
+        ]
+      },
+      {
+        "description": "Confirmation of Lord Peter Mandelson's appointment as UK Ambassador to Washington",
+        "date": "23 December 2024",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson plans to begin duties",
+        "date": "Early January 2025",
+        "participants": [
+          "Lord Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Michael",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Tom Bramley",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "SENT_TO",
+        "object": "Vincent's team",
+        "date": "2024-12-23",
+        "context": "Urgent vetting question about Lord Mandelson"
+      },
+      {
+        "subject": "Gerard McGurk",
+        "predicate": "CONTACTED",
+        "object": "Ian Collard",
+        "date": "Week before 2024-12-23",
+        "context": "About Lord Mandelson's appointment and vetting"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "UK Government",
+        "date": "2024-12-23",
+        "context": "As UK Ambassador to Washington"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2024-12-23",
+        "context": "Chief Property & Security Officer"
+      },
+      {
+        "subject": "Lord Peter Mandelson",
+        "predicate": "MEMBER_OF",
+        "object": "House of Lords",
+        "date": "2024-12-23",
+        "context": "Basis for vetting exemption"
+      },
+      {
+        "subject": "Michael",
+        "predicate": "CONFIRMED",
+        "object": "HoL members exempt from NSV",
+        "date": "2024-12-23",
+        "context": "Policy set at GSB in October"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "DISCUSSED",
+        "object": "DV clearance exemption for Lord Mandelson",
+        "date": "2024-12-23",
+        "context": "Whether UKV process required"
+      },
+      {
+        "subject": "GSB",
+        "predicate": "SET_POLICY",
+        "object": "HoL members exempt from NSV",
+        "date": "October 2024",
+        "context": "Vetting policy decision"
+      }
+    ]
+  },
+  "18_2": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email regarding vetting question, working to resolve an application issue"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Email communication regarding urgent vetting question",
+        "date": "2025-01-16",
+        "participants": [
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Unknown recipient",
+        "date": "2025-01-16",
+        "context": "Email about vetting application progress"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKING_ON",
+        "object": "Vetting application resolution",
+        "date": "2025-01-16",
+        "context": "Attempting to resolve issue positively so application can continue"
+      }
+    ]
+  },
+  "18_1": {
+    "people": [
+      {
+        "name": "Vincent Devine",
+        "role": "Director General & Government Chief Security Officer",
+        "organisation": "Government Security Function, Cabinet Office",
+        "context": "Responding to urgent vetting question, recommending proceeding with interview"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Government Security Function",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Vetting interview decision",
+        "date": "2025-01-16",
+        "participants": [
+          "Vincent Devine"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Function",
+        "date": "2025-01-16",
+        "context": "Director General & Government Chief Security Officer"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2025-01-16",
+        "context": "Director General & Government Chief Security Officer"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "RECOMMENDS",
+        "object": "vetting interview",
+        "date": "2025-01-16",
+        "context": "Advised to proceed with interview despite subject knowing many people"
+      }
+    ]
+  },
+  "23_0": {
+    "people": [
+      {
+        "name": "Jcs",
+        "role": "Member of US Global Issues and Canada Team",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Coordinating logistics for Lord M's vetting interview"
+      },
+      {
+        "name": "Lord M",
+        "role": "Candidate for vetting interview (likely Peter Mandelson)",
+        "organisation": "Unknown",
+        "context": "Will attend vetting interview"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US Global Issues and Canada Team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Americas and SIDS",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "P.M's vetting interview",
+        "date": "2025-01-17",
+        "participants": [
+          "Lord M",
+          "Jcs"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Jcs",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-16",
+        "context": "Email signature indicates employment"
+      },
+      {
+        "subject": "Jcs",
+        "predicate": "MEMBER_OF",
+        "object": "US Global Issues and Canada Team",
+        "date": "2025-01-16",
+        "context": "Team membership indicated in signature"
+      },
+      {
+        "subject": "Jcs",
+        "predicate": "COORDINATING",
+        "object": "P.M's vetting interview",
+        "date": "2025-01-16",
+        "context": "Confirming logistics for interview"
+      },
+      {
+        "subject": "Lord M",
+        "predicate": "ATTENDING",
+        "object": "P.M's vetting interview",
+        "date": "2025-01-17",
+        "context": "Will be at the interview tomorrow"
+      },
+      {
+        "subject": "Jcs",
+        "predicate": "CONFIRMING_WITH",
+        "object": "Jcs",
+        "date": "2025-01-16",
+        "context": "Will confirm precise logistics separately"
+      }
+    ]
+  },
+  "21_0": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of Personnel Security Team",
+        "organisation": "Foreign, Commonwealth and Development Office",
+        "context": "Sent DV certificate and security documents to Peter Mandelson"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "Recipient of DV clearance",
+        "organisation": "Unknown",
+        "context": "Received DV certificate and security induction materials"
+      },
+      {
+        "name": "Vincent Devine",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Authored the DV induction letter dated 2024-03-11"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth and Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cluster 4 Security, Estates Security and Resilence Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "ESND",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Personnel Security Team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "DV certificate and security documents sent to Peter Mandelson",
+        "date": "2025-01-29",
+        "participants": [
+          "JCS",
+          "Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Security Induction Letter issued",
+        "date": "2024-03-11",
+        "participants": [
+          "Vincent Devine",
+          "Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-01-29",
+        "context": "DV certificate and security documents"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth and Development Office",
+        "date": "2025-01-29",
+        "context": "Head of Personnel Security Team"
+      },
+      {
+        "subject": "Vincent Devine",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2024-03-11",
+        "context": "DV induction letter"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "RECEIVED",
+        "object": "DV certificate",
+        "date": "2025-01-29",
+        "context": "Security clearance documentation"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "ASSISTS",
+        "object": "Peter Mandelson",
+        "date": "2025-01-29",
+        "context": "Helping with admin including strap form completion"
+      }
+    ]
+  },
+  "23_1": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Unknown (appears to be both sender and recipient, likely a role/position abbreviation)",
+        "organisation": "Unknown UK government department",
+        "context": "Coordinating vetting interview, has spoken with 'our JCS', will conduct interview at 100 PS"
+      },
+      {
+        "name": "P.M",
+        "role": "Unknown (subject of vetting interview)",
+        "organisation": "Unknown",
+        "context": "Subject of vetting interview scheduled for tomorrow"
+      },
+      {
+        "name": "VCO",
+        "role": "Vetting Control Officer (second officer mentioned for potential follow-up)",
+        "organisation": "Unknown UK government vetting unit",
+        "context": "May conduct follow-up vetting interview if required"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "100 PS",
+        "type": "government building/location",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "100 PS",
+        "type": "building",
+        "context": "Location where vetting interview will take place"
+      }
+    ],
+    "events": [
+      {
+        "description": "Vetting interview for P.M.",
+        "date": "2025-01-17 (tomorrow from email date)",
+        "participants": [
+          "JCS",
+          "P.M"
+        ]
+      },
+      {
+        "description": "Phone conversation between JCS and 'our JCS' to arrange interview",
+        "date": "2025-01-16",
+        "participants": [
+          "JCS",
+          "our JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SPOKE_WITH",
+        "object": "our JCS",
+        "date": "2025-01-16",
+        "context": "To arrange vetting interview details"
+      },
+      {
+        "subject": "our JCS",
+        "predicate": "AGREED_TO",
+        "object": "cover as much detail as possible in interview",
+        "date": "2025-01-16",
+        "context": "Vetting interview for P.M."
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WILL_INTERVIEW",
+        "object": "P.M",
+        "date": "2025-01-17",
+        "context": "Vetting interview at 100 PS"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "ARRANGED",
+        "object": "interview at 100 PS",
+        "date": "2025-01-16",
+        "context": "Made separate arrangements for tomorrow's interview"
+      },
+      {
+        "subject": "second VCO",
+        "predicate": "MAY_CONDUCT_FOLLOWUP_WITH",
+        "object": "P.M",
+        "date": "after 2025-01-17",
+        "context": "If follow-up vetting required, due to leave and time pressure"
+      }
+    ]
+  },
+  "23_2": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Vetting Clearance Officer",
+        "organisation": "UKSV, Government Security Group (GSG), Cabinet Office",
+        "context": "Sender of email regarding P.M's vetting interview, coordinating with other JCS personnel"
+      },
+      {
+        "name": "JCS",
+        "role": "Head of Partner Services",
+        "organisation": "UKSV, Government Security Group",
+        "context": "Recipient/participant in email thread about P.M's vetting interview"
+      },
+      {
+        "name": "P.M",
+        "role": "Unknown - subject of vetting interview",
+        "organisation": "Unknown",
+        "context": "Individual undergoing vetting interview process"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "UKSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Government Security Group",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "GSG",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "NSV",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "P.M's vetting interview",
+        "date": "2025-01-16",
+        "participants": [
+          "P.M",
+          "JCS"
+        ]
+      },
+      {
+        "description": "Email coordination regarding vetting interview process",
+        "date": "2025-01-16",
+        "participants": [
+          "JCS",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2025-01-16",
+        "context": "Email about P.M's vetting interview"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2025-01-16",
+        "context": "Vetting Clearance Officer role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Government Security Group",
+        "date": "2025-01-16",
+        "context": "Part of GSG within Cabinet Office"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Cabinet Office",
+        "date": "2025-01-16",
+        "context": "GSG is part of Cabinet Office"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "UKSV",
+        "date": "2025-01-16",
+        "context": "Head of Partner Services role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "COORDINATING_WITH",
+        "object": "JCS",
+        "date": "2025-01-16",
+        "context": "Both have vested interest in way forward for P.M's vetting"
+      },
+      {
+        "subject": "P.M",
+        "predicate": "UNDERGOING_VETTING_BY",
+        "object": "UKSV",
+        "date": "2025-01-16",
+        "context": "Subject of vetting interview"
+      },
+      {
+        "subject": "UKSV",
+        "predicate": "PART_OF",
+        "object": "Government Security Group",
+        "date": "2025-01-16",
+        "context": "Organizational structure"
+      },
+      {
+        "subject": "Government Security Group",
+        "predicate": "PART_OF",
+        "object": "Cabinet Office",
+        "date": "2025-01-16",
+        "context": "Organizational structure"
+      }
+    ]
+  }
+}
