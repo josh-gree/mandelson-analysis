@@ -356,3 +356,66 @@ In the final weeks of the corpus, Powell, Mandelson, Ailsa Terry, and Ed Llewell
 
 Jonathan Powell appears as the No.10 counterpart who most closely mirrors Mandelson's own profile — a Blair-era political operator now running national security. Their communications are peer-to-peer, informal, and often outside normal channels: 3am intelligence forwards, unsolicited strategic memos, direct asks actioned by the Deputy NSA. Taken alongside the McSweeney channel and the Varun Chandra connection, the Powell relationship confirms that Mandelson's primary operating network was not the FCDO chain of command but a tight inner circle of Starmer's No.10 — one with deep roots in the New Labour world both men came from.
 
+---
+
+### 10. The Whitehall tour: mapping the government before and after taking post
+
+What the corpus calls Mandelson's "pre-posting" ministerial round is in fact a continuous programme of engagement spanning September 2024 — months before he was publicly announced — to April 2025, well into his Washington tenure. The 12 meeting notes produced by this process reveal an operation that goes well beyond a standard ambassador induction: Mandelson was systematically working through the Cabinet, briefing himself on domestic policy, and offering political commentary that at least once crossed into open criticism of the government's own fiscal choices.
+
+**Pre-announcement: the Vallance meeting (unit_043, 11 Sep 2024)**
+
+The earliest meeting note in the corpus predates Mandelson's appointment by three months. On 11 September 2024, Mandelson met Lord Patrick Vallance — then Minister for Science, Innovation, Research and Technology — to discuss AI regulation and the government's pro-innovation regulatory agenda. The OCR is partial, but the fact of the meeting is clear: Mandelson was being briefed, and briefing ministers, months before he was a public appointee. The subject of the conversation — tech regulation as it relates to the US relationship — maps directly onto the economic partnership agenda he would later pursue as Ambassador.
+
+**Day one: the EU Reset brief (unit_059, 13 Jan 2025)**
+
+On the first Monday of his formal engagement, Mandelson met Paymaster General Nick Thomas-Symonds and Michael Ellam at Cabinet Office. Thomas-Symonds set out the government's EU Reset ambitions and the timeline toward the informal European Council on 3 February. The purpose was explicit: to brief the incoming Washington Ambassador on HMG's EU strategy so he could support it from the American end. The reset of UK-EU relations was being routed through Mandelson's Washington posting from the first day.
+
+**Northern Ireland, Trump, and Legacy (unit_062, 23 Jan 2025)**
+
+Ten days in, Mandelson met Secretary of State for Northern Ireland Hilary Benn. The readout — distributed the following morning to NIO Political Affairs, Legacy Group, SpAds, and the NIO Permanent Secretary — records Mandelson specifically asking about Trump's views on Northern Ireland:
+
+> *"Lord Mandelson asked about President Trump's views on NI. SoSNI said he had not spoken about NI publicly."*
+> — NIO meeting readout, unit_062, 23 Jan 2025
+
+Benn briefed him on Unionist politics (Ian Paisley Jr and Baroness Hoey had attended the inauguration), the Legacy legislation, the Finucane inquiry, and St Patrick's Day arrangements in Washington. The detail of the readout — and its distribution to SpAds and the Legacy Group — indicates this was treated as a politically sensitive debrief, not a courtesy call.
+
+**"Keep this on a tight loop, given obvious sensitivities" (unit_065, 23 Jan 2025)**
+
+The most intriguing meeting note in the set. Secretary of State for Science Peter Kyle sent a readout of his meeting with Mandelson to DSIT colleagues with a specific instruction:
+
+> *"Please keep this on a tight loop, given obvious sensitivities. JCS — can you please ensure this reaches who it needs to in FCDO?"*
+> — Peter Kyle to DSIT colleagues, unit_065, 29 Jan 2025
+
+The content of the meeting itself is entirely redacted. Kyle's instruction to restrict circulation — while simultaneously ensuring FCDO was notified — suggests something discussed between the Science Secretary and the incoming Ambassador that was not for wide distribution. What the "obvious sensitivities" were, the documents do not say.
+
+**Mandelson critiques the Budget to the Treasury Permanent Secretary (unit_087, 29 Jan 2025)**
+
+The most politically charged moment in the tour. In a meeting with James Bowler — Permanent Secretary to HM Treasury — Mandelson offered a pointed critique of the government's October 2024 Budget:
+
+> *"LM said markets, businesses and investors, etc. gave the Government significant goodwill on entering office, but he felt they lacked a clearly articulated, deep-seated 'growth philosophy'. He thought the business community had not been expecting what was in the Budget in the autumn. He accepted the fiscal correction was necessary, but this had come at the expense of business and was counter to the pre-election narrative."*
+> — Readout of Mandelson/Bowler meeting, unit_087, 29 Jan 2025
+
+Bowler's reply was procedural — Covid and energy interventions had forced difficult choices. But the record stands: the newly appointed Ambassador used a bilateral with the Treasury's most senior civil servant to deliver a critique of the Chancellor's fiscal strategy. This is not a diplomat receiving a brief — it is a senior political figure making an argument.
+
+**The Isomorphic meeting: tech deal at company level (unit_147, 26 Mar 2025)**
+
+By March, the ministerial meetings had evolved from induction into active deal-making. Mandelson and Science Secretary Kyle jointly met Isomorphic — the Google DeepMind drug discovery spinoff — to discuss UK data access, drug discovery pipelines, and the case for a UK-US pro-innovation regulatory partnership:
+
+> *"This meeting focused on the value of the UK's data sets and the best way of making them accessible to drive progress in drug discovery. Isomorphic were enthusiastic about the UK's strengths and clear about the potential of a UK-US partnership to deliver a more coherent, pro-innovation regulatory environment."*
+> — DSIT/FCDO readout, unit_147, 26 Mar 2025
+
+The readout went jointly to DSIT and FCDO — one of the few instances in the corpus where these two departments are formally in the same loop. Mandelson was acting as the bridge between the UK's domestic tech policy and its Washington commercial pitch.
+
+**The NCA briefing: "visibly shocked" (unit_185, 15 Apr 2025)**
+
+In April, Mandelson was briefed by NCA Director General Graeme Biggar on child sexual abuse material online, the NCMEC referral system, end-to-end encryption, and the volume of at-risk individuals in the UK. The readout records his reaction:
+
+> *"HMA was visibly shocked by the figures you quoted."*
+> — NCA readout, unit_185, 15 Apr 2025
+
+He was about to meet Meta that afternoon and sought Biggar's views before going in. Biggar confirmed a visit to NCMEC had been arranged for 13 May. Mandelson was not only briefing himself on NCA capabilities — he was positioning himself as an active channel between UK law enforcement and US tech platforms.
+
+**The shape of the tour**
+
+Taken together, the meeting notes span nine months and cover Cabinet Office (EU Reset), DSIT (twice, plus a joint company meeting), the NIO, the Treasury, Defence, the NCA, and HMT Financial Services. Several meetings were deliberately not readouted — unit_056 records three separate Mandelson/Ellam contacts with the note "there was no readout from this meeting." The tour was not a standard induction for a new ambassador; it was an incoming political figure systematically mapping the government, selectively choosing what to put on the record, and using the meetings to advance policy arguments — most strikingly, a direct critique of the government's own Budget delivered to the Treasury Permanent Secretary before he had even left for Washington.
+
