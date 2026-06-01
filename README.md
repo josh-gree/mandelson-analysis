@@ -176,3 +176,57 @@ Mandelson was also coordinating Trump's State Visit directly with McSweeney and 
 
 Across these communications, Mandelson used McSweeney as a direct back-channel to No.10's political operation: sharing intelligence from private dinners, circulating sensitive documents with instructions not to forward them, requesting deletion of WhatsApp exchanges, and briefing on White House meetings informally. The channel is largely invisible to the normal FCDO reporting structure. Whether this reflects an unusual appointment — a political heavyweight running his own communications network from the Embassy — or a deliberate design by Starmer's operation to keep the Washington channel close to No.10, the documents suggest the two things are the same.
 
+---
+
+### 7. The China thread: a paid Shanghai engagement, messaging management, and the "other side of the fence"
+
+China runs as a quiet undercurrent through the entire corpus — present at Mandelson's appointment, during his vetting, and through to his conduct as Ambassador. The documents reveal three distinct dimensions: a paid private engagement in Shanghai that FCDO had to urgently escalate to No.10; an early exercise in China messaging management; and Mandelson's own framing of the UK's China position in his Ambassador-level communications.
+
+**The UBS Shanghai conference: a paid China engagement days before he started (unit_040, 31 Dec 2024)**
+
+The most significant China-related document is an internal FCDO email chain from 30–31 December 2024 — three days before the New Year, just two weeks before Mandelson was due to start as Ambassador. Officials discovered he had already committed to a paid panel appearance at UBS's **Greater China Conference** in Shanghai, scheduled for 11–13 January 2025:
+
+> *"HMA-Des has committed to participating in a panel event at investment bank UBS's Greater China Conference, hosted in Shanghai from 11-13 January. This is a major event with ~4000 attendees and considerable media. Many sessions are recorded... We understand he would plan to attend virtually and participate in his Global Counsel capacity. We also understand that he would be paid for this engagement."*
+> — FCDO internal email, unit_040, 30 Dec 2024
+
+More striking: Mandelson had specifically asked to delay starting on the FCDO payroll until 13 January in order to remain free to fulfil this private, paid China engagement. FCDO officials consulted multiple departments simultaneously — BEW (British Embassy Washington), the China Desk, Americas, HRD, and Security — before escalating to No.10's SpAds:
+
+> *"LPM plans to participate in an international event relating to China. This is renumerated; As he will not by then have taken up employment with HMG, it is a matter for LPM whether or not he proceeds with this event. He has asked that any concerns are flagged to SpAds so that they and No 10 can take a view as to whether they wish to intervene with LPM."*
+> — FCDO internal email, unit_040, 31 Dec 2024
+
+The fact that officials consulted Washington, China Desk, Americas, Human Rights & Democracy, and Security in parallel — over New Year — indicates how sensitive they judged the situation. This was a paid engagement via Global Counsel, the lobbying firm Mandelson was supposed to be winding down as a condition of taking the Washington role, at a major Chinese investment bank conference, days before becoming HM Ambassador to the United States.
+
+**"Links with China etc" — known from the start (unit_041, 19 Dec 2024)**
+
+Even in the initial appointment Q&A preparation, the FCDO official drafting the lines flagged China explicitly as a gap that needed addressing:
+
+> *"I know we need more on his background (links with China etc) but I'll pull that together in the morning."*
+> — FCDO official, unit_041, 19 Dec 2024
+
+The phrase "links with China etc" — casual, unexplained, evidently a known quantity — suggests Mandelson's China connections were already a recognised political liability requiring managed communications from day one of the appointment.
+
+**Crafting the China message (unit_044, 13 Sep 2024)**
+
+Before his appointment was even formally announced, Mandelson was receiving briefings from FCDO's China Department. In September 2024, the Head of the China Department (Kate Harrisson) sent him "public lines reflecting this government's position on China" ahead of a VIP speaking engagement. Mandelson's response to the draft lines is revealing:
+
+> *"It has to be turned into something I can say! The drift is fine. it mustn't sound naive ie we are vigilant and have eyes wide open but we also want a serious sustained relationship. Yes?"*
+> — Peter Mandelson, unit_044, 12 Sep 2024
+
+He was not simply receiving the official lines — he was actively shaping the tone: steering away from what he called "sounding naive," toward a formulation of engaged watchfulness. The phrase "we are vigilant and have eyes wide open but we also want a serious sustained relationship" became the framing he wanted to project.
+
+**China in the Ambassador's own words**
+
+Once in post, Mandelson's own written communications show him navigating the US-China dynamic in two ways. In his February media bullets for Starmer's visit (unit_083), he described the Chagos deal in terms designed to satisfy American concerns about China:
+
+> *"Current issues are Chagos and tariffs. On the former, the US has made certain asks of detail in relation to the deal that sees the US retaining full operational use of Diego Garcia with China kept firmly at bay."*
+> — Peter Mandelson, unit_083, 21 Feb 2025
+
+And in his scenesetter to Business Secretary Jonathan Reynolds ahead of Reynolds' March DC visit (unit_131), Mandelson framed the entire US trade agenda in explicit China-exclusion terms:
+
+> *"This is not just about 'equalising' America's trade relationships through addressing tariffs and non-tariff barriers. The America First policy aims to rebuild domestic manufacturing and create a new global trade order with allies working closely together (following US rules) that leaves China increasingly on the 'other side of the fence'."*
+> — Peter Mandelson, scenesetter to SoS Reynolds, unit_131, 15 Mar 2025
+
+**The pattern**
+
+The China thread in this corpus runs from a paid Shanghai conference engagement timed to avoid FCDO oversight, through messaging management from day one, to a fully formed Ambassador-level framing in which the UK positions itself explicitly on the US side of an emerging trade bloc confrontation with China. Whether that represents genuine strategic alignment or a deliberate effort to demonstrate China-scepticism given Mandelson's past associations, the documents don't say. What they do show is that China was never far from the surface — and that officials were anxious about it from the first week.
+
