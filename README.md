@@ -545,3 +545,87 @@ Within hours of the congratulations, Ed Llewellyn (UK Ambassador to Italy) forwa
 
 The PM's 27 February Washington visit was not a diplomatic event that Mandelson supported. It was one he substantially designed: he defined the economic objectives, drafted the public narrative, provided the bilateral steer that went into the PM's overnight box, negotiated joint statement text through the night, and managed the Macron competitive threat from the Paris intelligence flowing through McSweeney. The visit's success — celebrated by Pierce and Woodward — was directly attributed to him. What the documents capture is an Ambassador functioning as a political director, not a diplomat.
 
+---
+
+### 13. Trump: the central relationship and how Mandelson assessed it
+
+Donald Trump is the organising figure of the entire corpus. Every major theme — the trade negotiations, the State Visit, the tariff crisis, the Ukraine positioning, the tech partnership — runs through the question of how Britain manages its relationship with the 47th President. The documents show Mandelson's approach to Trump across four distinct phases: gaining access, building informal channels, publicly characterising the administration in notably sympathetic terms, and then navigating the moment when Trump's tariffs showed the limits of personal diplomacy.
+
+**The access question: "she holds all the relationships with the Trump team" (unit_041, Dec 2024)**
+
+From the moment the appointment was announced, the central concern was whether Mandelson could replace Karen Pierce — who had spent four years cultivating the incoming administration — without losing the relational capital the Embassy had accumulated. The anticipated Q&A attack line was direct:
+
+> *"Why are you letting her go when she holds all the relationships with the Trump team?"*
+> — FCDO draft Q&A, unit_041, 19 Dec 2024
+
+The prepared answer pivoted to Pierce's four-year tenure and the standard rotation cycle. The underlying anxiety was real: a political appointment to the most relationship-dependent Embassy in the world, at the moment of a new administration, meant starting from scratch.
+
+**Inauguration day: briefing the Trump team directly (unit_060, 20 Jan 2025)**
+
+The Embassy moved quickly. The day before Trump's inauguration, the British Embassy Washington hosted an event for the incoming Trump team. The following morning, as the ceremony was underway, Nicholas Alton wrote to London with a notable update:
+
+> *"HMA updated the senior Trump team on agrement having been granted for Lord Mandelson and has told them her end date in DC."*
+> — Nicholas Alton to London, unit_060, 20 Jan 2025
+
+Mandelson had been formally introduced to Trump's senior team before he had even arrived in Washington. The transition of relationship — Pierce to Mandelson — was being managed in real time on inauguration day itself.
+
+**Private reflections on Trump: "asked Private Office to leave the room" (unit_060, 21 Jan 2025)**
+
+The same unit captures another notable moment. Just before departing for Washington, Mandelson met with Minister Alexander (identity from context: a Trade minister) to discuss the Trump administration. The readout is candid about what happened:
+
+> *"He and MA spoke for a few minutes at the start of the meeting about LM's political reflections on the Trump administration and how MA was considering narrative/positioning around the US in the forthcoming Trade Strategy. LM and MA then asked Private Office to leave the room so they could continue the rest of their conversation politically."*
+> — Meeting readout, unit_060, 21 Jan 2025
+
+Whatever Mandelson's actual private assessment of Trump was, it was offered without officials present. The public record contains only the sanitised version.
+
+**"His deeply loyal and effective administration... amazing vigour" (unit_091, 24 Feb 2025)**
+
+In his formal Ambassador's letter to the Prime Minister ahead of the Washington visit, Mandelson's characterisation of Trump and his administration is strikingly positive:
+
+> *"President Trump has brought his particular stamp to the White House. America First is the lodestar of his Administration. Policy decisions and approaches flow from that. Over the next four years his deeply loyal and effective administration will play the international system by a different set of rules."*
+
+> *"In the month since assuming office, his Administration has followed through on this with amazing vigour."*
+> — Peter Mandelson to Prime Minister, unit_091, 24 Feb 2025
+
+The language — "deeply loyal and effective," "amazing vigour" — goes considerably beyond neutral diplomatic assessment. Mandelson was setting a tone for Starmer's visit: treat this as a serious administration delivering on its promises, not as chaos to be managed.
+
+**Building informal access: Peter Thiel (unit_076, 17 Feb 2025)**
+
+Beyond the formal diplomatic circuit, Mandelson was cultivating Trump-adjacent figures. The same document chain that contains the "please don't forward" economic paper also captures a separate message he sent the same night:
+
+> *"I have asked Peter if he is around on Tuesday to meet up in evening in Miami. He may be but not sure of schedule. Asked me to message on Tuesday morning."*
+> — Peter Mandelson, unit_076, 17 Feb 2025
+
+"Peter" is Peter Thiel — the tech billionaire and prominent Trump supporter, one of the key figures bridging Silicon Valley and the Trump administration. Mandelson was attempting to arrange an informal evening meeting in Miami, entirely outside formal diplomatic channels.
+
+**The visit: Trump "going out of his way to be warm" (unit_108, 28 Feb 2025)**
+
+When the February visit took place, the outcome was assessed as a success precisely on the personal relationship dimension. Karen Pierce's congratulations note to Mandelson the following day focused on Trump's personal conduct:
+
+> *"It looks to have been truly excellent with President Trump going out of his way to be warm. And to have had real world results."*
+> — Karen Pierce to Peter Mandelson, unit_108, 28 Feb 2025
+
+In his own public op-ed written shortly after (unit_133), Mandelson described the outcome in terms that confirmed his investment in the personal relationship framing:
+
+> *"The trade agreement Prime Minister Starmer and President Trump left the West Wing seeking a few weeks ago imagines a much broader and future-focussed collaboration that looks well beyond goods and services, to a full spectrum technology partnership between Britain and America."*
+
+**The test: steel tariffs and the limits of personal diplomacy (unit_124, Mar 2025)**
+
+When Trump imposed global steel and aluminium tariffs in March — without exempting the UK despite the PM having raised the issue directly with Trump during the visit and in a follow-up call — the Q&A lines being drafted inside government acknowledged the political exposure plainly:
+
+> *"Doesn't say much for PM's relationship with POTUS if they spoke and Trump ignored him?"*
+> — Government Q&A draft, unit_124, 11 Mar 2025
+
+The answer was defensive — pointing to the ongoing economic deal talks and the "fair and balanced trade relationship" as context. But the question itself reflects a genuine vulnerability: Mandelson had staked the visit on the power of personal connection, and Trump had imposed the tariffs anyway.
+
+**"The jury is out" (unit_167, 3 Apr 2025)**
+
+A day after Trump's sweeping "Liberation Day" reciprocal tariff announcement, Mandelson sent his most candid assessment of Trump's political dynamics to Robbins, McSweeney and the inner circle. In contrast to the bullish framing of February, the tone is more measured:
+
+> *"The jury is out... A lot of people will think it's just more politics. But others will say 'about time we sorted out all the freeloaders' whether it is transformative or not. So Republicans will be listening out to their districts and waiting to see the impact. Depending on what happens in the markets, the political marketplace might follow."*
+> — Peter Mandelson to inner circle, unit_167, 3 Apr 2025
+
+**The pattern**
+
+Across the corpus, Mandelson's handling of Trump follows a consistent logic: invest in the personal relationship, cultivate informal access to Trump-adjacent figures, characterise the administration in terms that make engagement politically easier for Starmer, and absorb the setbacks when Trump acts regardless. His formal written assessments of Trump — "deeply loyal and effective," "amazing vigour," faithful to campaign promises — are notably warmer than the language of most British officials. Whether that represents genuine admiration, tactical positioning, or both, the documents leave open.
+
