@@ -283,3 +283,76 @@ By late April 2025, Mandelson was being looped directly into the logistics of th
 
 On Russia/Ukraine, Mandelson was not a passive implementer of UK policy — he was writing the messaging, being pulled into real-time UN voting crises, receiving private intelligence from European capitals, and included in peace talks logistics. The framing he authored in February — that Trump's relationship with Putin is the necessary lever — positioned the UK conspicuously close to Washington's line at a moment of acute trans-Atlantic tension over the war's direction.
 
+---
+
+### 9. Jonathan Powell: the NSA channel and the innermost circle
+
+Jonathan Powell — Keir Starmer's National Security Adviser, previously Tony Blair's chief of staff and a central figure in New Labour — appears in 43 documents and is Mandelson's third-most-frequent contact across the corpus. The relationship predates the appointment and runs throughout: from an anticipated press attack line in December 2024 to tight LIMDIS intelligence chains in April 2025. Powell functions not as a formal oversight layer but as a peer — co-drafting announcements, receiving unsolicited intelligence notes, and ensuring Mandelson's requests are actioned by the NSC machinery.
+
+**"Just appointing friends to top jobs?" (unit_041, 19 Dec 2024)**
+
+Even before Mandelson was formally announced, the FCDO Q&A prep anticipated the obvious political attack. The official drafting the lines wrote:
+
+> *"First Jonathan Powell, now Peter Mandelson — just appointing friends to top jobs?"*
+> — FCDO draft Q&A, unit_041, 19 Dec 2024
+
+The prepared answer pivoted to skills and experience. But the fact that the line was anticipated — and that the Powell appointment was the frame of reference — signals that both appointments were understood as a deliberate pattern, not coincidental political choices.
+
+**Powell co-drafting economic announcements for the Trump meeting (unit_071, 12 Feb 2025)**
+
+Six weeks into Mandelson's posting, Powell wrote to him directly about the preparation for Starmer's Washington summit:
+
+> *"When I see *** tomorrow we will give him the suggestion for what we could announce on the economic relationship when Keir visits — will send the draft to you this evening for comment."*
+> — Jonathan Powell to Peter Mandelson, unit_071, 12 Feb 2025
+
+Mandelson's reply asks about the SMG:
+
+> *"I had no read out of SMG meeting. Any conclusions?"*
+> — Peter Mandelson to Jonathan Powell, unit_071, 12 Feb 2025
+
+The SMG — the Small Ministerial Group on the US — is a restricted senior decision-making body that would not normally include the Ambassador as a standard distribution. Mandelson's expectation of a readout, and his direct line to the NSA for it, places him inside the highest-level No.10 decision-making loop on the US relationship.
+
+**The "DO NOT CIRCULATE" lunch intelligence (unit_088, 24 Feb 2025)**
+
+At 3am on 24 February, Mandelson forwarded Powell an intelligence note from a private lunch the previous day — redacted throughout but sent under the subject line "LUNCH WITH [REDACTED] DO NOT CIRCULATE":
+
+> *"Not sure I sent this to you. Scroll down."*
+> — Peter Mandelson to Jonathan Powell, unit_088, 24 Feb 2025
+
+The lunch note had been shared earlier with his Washington Embassy team. Forwarding it to the NSA at 3am, on his personal device, marked "do not circulate," is another instance of Mandelson routing sensitive intelligence directly to No.10's security adviser — outside formal reporting channels.
+
+**Powell's unfiltered read on Chagos/BIOT (unit_097, 26 Feb 2025)**
+
+On the Chagos deal, Powell gave Mandelson his candid political risk assessment via a LIMDIS chain following an NSC engagement:
+
+> *"The problem is that if BIOT is not solved before the meeting we will certainly be asked about it by British journalists at the press conference afterwards, and we don't want to be banjaxed there. So if it is not sorted before the meeting it will have to come up there in one form or another."*
+> — Jonathan Powell, unit_097, 26 Feb 2025
+
+This is the NSA writing candidly to the Ambassador about domestic political exposure — not a formal brief, but a peer conversation about managing a problem before it blows up in a press conference.
+
+**Powell actioning Mandelson's request via the deputy NSA (units 157 and 160, 31 Mar – 1 Apr 2025)**
+
+At the end of March, Mandelson sent Powell a request (fully redacted). Powell's response — one sentence — confirms execution:
+
+> *"Yes we are making sure that happens. Matt Collins and his team are doing it."*
+> — Jonathan Powell to Peter Mandelson, unit_160, 1 Apr 2025
+
+Matt Collins is the Deputy National Security Adviser for Intelligence, Defence and Security. The NSC machinery was being directed, on Mandelson's ask, by the NSA himself.
+
+**"Letter from America" forwarded unsolicited to Powell (unit_183, 12 Apr 2025)**
+
+In April, Mandelson forwarded a "Letter from America" analytical dispatch to Powell directly, with an accompanying note:
+
+> *"I haven't been asked but if I were, the above is what I would say."*
+> — Peter Mandelson to Jonathan Powell, unit_183, 12 Apr 2025
+
+The context is a No.10 communications situation — Stephanie Driver (No.10 Director of Communications) had just written to Mandelson about a "misstep by a cabinet member on background" that had leaked a projected timetable for the US trade deal. Mandelson was offering unsolicited strategic advice to the NSA on how to manage the fallout. The phrase "if I were" is notable: it positions him as a parallel policy voice, not a subordinate reporting to London.
+
+**Tight LIMDIS intelligence chains to the end (units 191 and 193, 23–24 Apr 2025)**
+
+In the final weeks of the corpus, Powell, Mandelson, Ailsa Terry, and Ed Llewellyn (Rome) were exchanging LIMDIS-marked intelligence on Meloni's Washington visit and Vance in Rome — a restricted chain about European allied positioning with only four or five recipients. By this point, Mandelson is not an Ambassador being briefed by the NSA; he is a peer participant in the innermost foreign policy decision circle.
+
+**The pattern**
+
+Jonathan Powell appears as the No.10 counterpart who most closely mirrors Mandelson's own profile — a Blair-era political operator now running national security. Their communications are peer-to-peer, informal, and often outside normal channels: 3am intelligence forwards, unsolicited strategic memos, direct asks actioned by the Deputy NSA. Taken alongside the McSweeney channel and the Varun Chandra connection, the Powell relationship confirms that Mandelson's primary operating network was not the FCDO chain of command but a tight inner circle of Starmer's No.10 — one with deep roots in the New Labour world both men came from.
+
