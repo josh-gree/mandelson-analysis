@@ -13,5 +13,26 @@
   "text": "for Foreign Affairs, FCDO\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\nSTRICTLY PERSONAL\n\nForeign, Commonwealth and Development Office\nKing Charles Street, London SW1A 2AH\n\nFrom the Permanent Under-Secretary\n\nPRIME MINISTER ce: Foreign Secretary\nCabinet Secretary\nNin Pandit\nMorgan McSweeney\nJonathan Powell\nVic Busby, Protocol Director\n\nPeter Mandelson, Washington\n\nMenna Rawlings, Paris\n\nTRUMP INWARD STATE VISIT: FINAL ADVICE\nwe\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\n428\n\nOFFICIAL-SENSITIVE - HMG ONLY \nSTRICTLY PERSONAL \nOFFICIAL-SENSITIVE - HMG ONLY \n \n \n \n \n \n \nOLIVER ROBBINS \n23 March 2025 \n***\nPersonal\n429\n",
   "char_count": 597,
   "content_type": "letter",
-  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge.",
+  "parsed": {
+    "unit_id": 143,
+    "date": "23-03-2025",
+    "source_mix": "mixed",
+    "is_genuine_letter": true,
+    "classification": "OFFICIAL-SENSITIVE - HMG ONLY\n\nSTRICTLY PERSONAL\n\nForeign",
+    "from_role": "Permanent Under-Secretary",
+    "from_name": null,
+    "from_institution": "Foreign, Commonwealth and Development Office",
+    "to": [
+      "Foreign Secretary"
+    ],
+    "cc": [],
+    "date_raw": "23 March 2025",
+    "date_iso": "2025-03-23",
+    "subject": null,
+    "salutation": null,
+    "body_snippet": null,
+    "signatory": "OLIVER ROBBINS",
+    "notes": []
+  }
 }

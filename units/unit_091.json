@@ -12,5 +12,26 @@
   "text": "From the Ambassador\n\nThe Rt Hon Lord Mandelson PC\n\n<a His Majesty’s Ambassador\nrn 3100 Massachusetts Ave, NW.\nBritish Embassy Washington, DC 20008\nWashington =f i\n\n24 February 2025\n\nThe Rt Hon Sir Keir Starmer KCB KC MP\nPrime Minister\n\nDear Prime Minister,\n\nVISIT TO WASHINGTON - 27 FEBRUARY 2025\n\nPresident Trump has brought his particular stamp to the White House. America First\nis the lodestar of his Administration. Policy decisions and approaches flow from that.\nOver the next four years his deeply loyal and effective administration will play the\ninternational system by a different set of rules — impacting trade, foreign policy, and\ndomestic nolicv with international implications. 8%\n\nTrumn’s first month has seen his Administration *\n\n|\n\nH At his inauguration President\nTrump said he intended to deliver on the promises made during his campaign,\nespecially on immigration, reform of the Federal government, and tariffs and trade\nrelationships. In the month since assuming office, his Administration has followed\nthrough on this with amazing vigour.\n\n277",
   "char_count": 1063,
   "content_type": "letter",
-  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge.",
+  "parsed": {
+    "unit_id": 91,
+    "date": "24-02-2025",
+    "source_mix": "ocr",
+    "is_genuine_letter": true,
+    "classification": null,
+    "from_role": "Ambassador",
+    "from_name": "Lord Mandelson",
+    "from_institution": "British Embassy Washington",
+    "to": [
+      "Prime Minister"
+    ],
+    "cc": [],
+    "date_raw": "24 February 2025",
+    "date_iso": "2025-02-24",
+    "subject": null,
+    "salutation": "Dear Prime Minister",
+    "body_snippet": "VISIT TO WASHINGTON - 27 FEBRUARY 2025\n\nPresident Trump has brought his particular stamp to the White House. America First\nis the lodestar of his Administration. Policy decisions and approaches flow from that.\nOver the next four years his deeply loyal and effective administration will play the\ninternational system by a different set of rules — impacting trade, foreign policy, and\ndomestic nolicv with international implications. 8%\n\nTrumn’s first month has seen his Administration *\n\n|\n\nH At his i",
+    "signatory": null,
+    "notes": []
+  }
 }

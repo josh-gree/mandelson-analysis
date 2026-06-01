@@ -13,5 +13,24 @@
   "text": "(former Secretary of State, DBT)\nPersonal\n***\n389\n\nYou and officials will be ready to present a clear and detailed offer on Tuesday. There are high \nexpectations that the UK is coming with a serious proposal. You will need to speak to the full set of \nissues they care about as a collective \nIt is great you are also seeing business groups and key CEOs. Congress is in recess, after reaching a \ndeal on the US budget to avert a shutdown.  \nI will be sorry to miss you, but I am committed to events on the West Coast with big tech. I look forward \nto hearing how the talks have gone and wish you all the best in what is a crucial endeavour for our \ncountry.  \nLord Mandelson \nBritish Ambassador to the United States \nPersonal\n***\n***\n390\n",
   "char_count": 737,
   "content_type": "letter",
-  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge.",
+  "parsed": {
+    "unit_id": 132,
+    "date": "15-03-2025",
+    "source_mix": "pdf",
+    "is_genuine_letter": false,
+    "classification": "Secret",
+    "from_role": null,
+    "from_name": null,
+    "from_institution": null,
+    "to": [],
+    "cc": [],
+    "date_raw": null,
+    "date_iso": null,
+    "subject": null,
+    "salutation": null,
+    "body_snippet": null,
+    "signatory": null,
+    "notes": []
+  }
 }

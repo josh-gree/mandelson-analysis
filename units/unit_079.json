@@ -12,5 +12,30 @@
   "text": "From the Ambassador\n\nThe Rt Hon Lord Mandelson PC\n\nphi His Majesty's Ambassador\n\nage 3100 Massachusetts Ave, NW\nBritish Embassy Washington, DC 20008\nWashington Tel: Personal\n\n20 February 2025\n\nThe Rt Hon John Healey MP\nSecretary of State for Defence\nMinistry of Defence\n\nWhitehall, London\nSW1A 2HB\n\nDear John,\n\nPersonal\n\nLord Mandelson\nBritish Ambassador to the United States\n\nCopy to: Chief of Defence Staff, MOD PUS, MOD 2PUS\n\n223",
   "char_count": 432,
   "content_type": "letter",
-  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge.",
+  "parsed": {
+    "unit_id": 79,
+    "date": "20-02-2025",
+    "source_mix": "ocr",
+    "is_genuine_letter": true,
+    "classification": null,
+    "from_role": "Ambassador",
+    "from_name": "Lord Mandelson",
+    "from_institution": "British Embassy Washington",
+    "to": [
+      "Secretary of State for Defence\nMinistry of Defence\n\nWhitehall"
+    ],
+    "cc": [
+      "Chief of Defence Staff",
+      "MOD PUS",
+      "MOD 2PUS"
+    ],
+    "date_raw": "20 February 2025",
+    "date_iso": "2025-02-20",
+    "subject": null,
+    "salutation": "Dear John",
+    "body_snippet": "Personal\n\nLord Mandelson\nBritish Ambassador to the United States\n\nCopy to: Chief of Defence Staff, MOD PUS, MOD 2PUS\n\n223",
+    "signatory": null,
+    "notes": []
+  }
 }
