@@ -16,5 +16,7 @@
   ],
   "source_mix": "pdf",
   "text": "(Minister Counsellor for Trade and Global Issues, FCDO)\nPersonal\nJCS\nPersonal\nPersonal\n219",
-  "char_count": 90
+  "char_count": 90,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

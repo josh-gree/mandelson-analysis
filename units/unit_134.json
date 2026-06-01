@@ -18,5 +18,7 @@
   ],
   "source_mix": "mixed",
   "text": "(former Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Oliver Robbins| Personal\n\nSent: Sun 16/03/2025 10:17:31 AM (UTC)\nTo: Peter Mandelson|Personal\n\nSubject: PERSONAL] DRAFT ADVICE ON SVs\nAttachment: 2025-03-16 mn PM SVs.docx\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\nPeter\n\nTo try to set this all out in one place, | attach a draft submission for the PM. Grateful\nfor any comments today if poss so | can get this to him in good time before his next\nAudience and bring some discipline to the wider interested HMG community.\n\nOlly\n\nSir Oliver Robbins KCMG CB\n\nPermanent Under-Secretary | Foreign, Commonwealth & Development Office | Email:\n\nPersonal\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\n394\n\nOFFICIAL-SENSITIVE - HMG \nONLY\nPM\nCc FS, Cab Sec, Morgan, Nin, Ailsa, NSA, HMA Wash, HMA Paris, Dir/Protocol\nINWARD STATE VISITS IN 2025\n***\n395\n\n\nOFFICIAL-SENSITIVE - HMG \nONLY\nOR\n***\n396\n",
-  "char_count": 888
+  "char_count": 888,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

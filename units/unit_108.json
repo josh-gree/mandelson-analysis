@@ -11,5 +11,7 @@
   ],
   "source_mix": "pdf",
   "text": "Woodward (former Permanent Representative of the UK to the UN)\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\nJCS\n***\n***\nThird Party\nThird Party\n322\n\nFrom:\nSent:\nTo:\nSubject:\nKaren Pierce\nFri 28/02/2025 2:25:07 PM (UTC)\nPeter Mandelson\n; \nPM Visit \nOFFICIAL\nDear Peter\nJust a short note to say Congratulations on the PM's visit!\nIt looks to have been truly excellent with President Trump going out of his way to be \nwarm And to have had real world results\nStart as you mean to go on!\nHope everything going really well\nAll best\nKaren\nGet Outlook for iOS\nOFFICIAL\n109 - 28-02-25 - Email to Peter Mandelson from Karen Pierce (former HM \nAmbassador to the United States, FCDO)\nPersonal\nJCS\nPersonal\nPersonal\n323\n",
-  "char_count": 710
+  "char_count": 710,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

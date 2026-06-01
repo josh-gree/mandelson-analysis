@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": "From the Ambassador\n\nThe Rt Hon Lord Mandelson PC\n\nphi His Majesty's Ambassador\n\nage 3100 Massachusetts Ave, NW\nBritish Embassy Washington, DC 20008\nWashington Tel: Personal\n\n20 February 2025\n\nThe Rt Hon John Healey MP\nSecretary of State for Defence\nMinistry of Defence\n\nWhitehall, London\nSW1A 2HB\n\nDear John,\n\nPersonal\n\nLord Mandelson\nBritish Ambassador to the United States\n\nCopy to: Chief of Defence Staff, MOD PUS, MOD 2PUS\n\n223",
-  "char_count": 432
+  "char_count": 432,
+  "content_type": "letter",
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
 }

@@ -17,5 +17,7 @@
   ],
   "source_mix": "ocr",
   "text": "of Communications, No.10)\n\nSubject: Bcc SV\nDate: Monday, 17 March 2025 at 09:17:33 Greenwich Mean Time\n\nFrom: Peter Mandelson\nTo: Matthew Doyle\n\nUK OFFICIAL\n\nOlly,\n\n| can see you are ae\n\n400\n\nRK\n\nVery best\n\nPeter\n\nGet Outlook for i0S\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth &\nDevelopment Offte may be monitored in line with relevant UK legislation\nUK OFFICIAL\n\n401\n",
-  "char_count": 471
+  "char_count": 471,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

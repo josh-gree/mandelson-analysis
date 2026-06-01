@@ -17,5 +17,7 @@
   ],
   "source_mix": "mixed",
   "text": "Staff to the Foreign Secretary, FCDO)\n\nFrom: Jon Garviel Personal\nSent: Mon 07/04/2025 12:16:29 PM (UTC)\nTo: Peter Mandelson[ Personal ]\nSubject: RE: Letter from America to David\n\nOFFICIAL\n\nSorry | meant what other instances do you see of where we're operating outside of\nwhat we should recognise as our core interests? | assumed there were some...\n\nOFFICIAL\nFrom: Peter Mandelson\nSent: 07 April 2025 12:48\nTo: Jon Garvie\nSubject: Re: Letter from America to David\nOFFICIAL\nExplain more ?\nGet Outlook for iOS\nOFFICIAL\nFrom: Jon Garvie < Personal >\nSent: Monday, April 7, 2025 7:41:24 AM\nTo: Peter Mandelson < Personal >\nSubject: RE: Letter from America to David\nOFFICIAL\n\nThanks, v useful to see. Pls keep sending if you can.\nMore specific instances of where we're focusing / distracting attention outside of our\ncore interests?\n\nOFFICIAL\nFrom: Peter Mandelson < Personal >\nSent: 05 April 2025 14:50\nTo: Jon Garvie Personal\n\nSubject: Letter from America to David\n\nOFFICIAL\nKK\n\n514\n\nVery best\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n| \nOFFICIAL\nPersonal\nPersonal\n***\n515\n",
-  "char_count": 1079
+  "char_count": 1079,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

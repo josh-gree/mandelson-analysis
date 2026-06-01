@@ -16,5 +16,7 @@
   ],
   "source_mix": "ocr",
   "text": "Permanent Under-Secretary for Foreign Affairs, FCDO)\n\nFrom: Peter Mandelson|/ Personal\nSent: Sun 23/03/2025 1:35:01 PM (UTC)\n\nTo: Oliver Robbins| Personal ]\nSubject: sv\n\nMany thanks for sight of your draft.\n\nI recount this simply to explain how things are here so I am relieved by your advice. Thank you.\n\nwee\n\nFingers crossed for the Audience.\nThanks again\nPeter\n\nGet Outlook for iOS\n\n430",
-  "char_count": 389
+  "char_count": 389,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

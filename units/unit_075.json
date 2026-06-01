@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": "to the Prime Minister, No.10\n\nFrom: Peter Mandelson[Personal\n\nSent: Sun 16/02/2025 4:14:52 PM (UTC)\nTo: MMcSweeneyPersonal\n\nSubject: FW: Callwith = ***\n\nFrom: Peter Mandelson\nSent: 16 February 2025 11:13\nTo: Mungo Woodifield\n\nCc: James Roscoe ; JCS\nSubject: Call with ee\n\n| talked to\n\neK\n\nLast, | summarised what | think our approach should be to the meeting\n\nPlease circulate on need to know basis.\nPeter\n\n217",
-  "char_count": 410
+  "char_count": 410,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

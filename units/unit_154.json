@@ -18,5 +18,7 @@
   ],
   "source_mix": "pdf",
   "text": "Advisor on Business and Investment, No.10) \nPersonal\nPersonal\n***\n***\n453\n\nCc: Ailsa Terry (No.10); James Roscoe \nSubject: Re: State visit\nOFFICIAL\nThank you,\nCan you make clear\n \nPlease make clear\n \n \nCan we get the SV and objectives, themes etc as time is short in organisational terms\nThank you\nFrom: Peter Mandelson \nSent: Sunday, March 30, 2025 3:11:49 AM \nTo: Morgan McSweeney ; Oliver Robbins \nCc: Ailsa Terry ; James Roscoe \nSubject: State visit\nDear Morgan, dear Olly,\nI am glad we are now settled on September for the State Visit. The dates 17-19 September \nwork well in a busy ‘back to work’ month in the US (and with UNGA High Level Week \nfollowing on 23/9, and the party conference starting later on 28/9).\nI am visiting the WH tomorrow, Monday, to meet with Susie Wiles and I know they are \nanxious to confirm SV dates. Are you content for me firmly to offer the September dates and, \nif acceptable to the President, for us to proceed quickly to the more formal offer? My team \nwill also work up with No10/FCDO any follow up points for the Wiles meeting coming out of \ntoday’s PM-POTUS call.\n \n \n \n***\n***\n***\n454\n\n\n \n \n \n \n \nVery best\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n+\n | \n***\nPersonal\nPersonal\n455\n",
-  "char_count": 1232
+  "char_count": 1232,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

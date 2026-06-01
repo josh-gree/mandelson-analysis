@@ -18,5 +18,7 @@
   ],
   "source_mix": "mixed",
   "text": "(former Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Peter Mandelson Personal\nSent: Tue 25/03/2025 2:03:21 PM (UTC)\nTo: Oliver Robbins Personal\nSubject: Re: The US and us\neK\nGet Outlook for iOS\n\nFrom: Oliver Robbins\n\nSent: Tuesday, March 25, 2025 9:06:54 AM\nTo: Peter Mandelson\n\nSubject: Re: The US and us\n\nOFFICIAL-SENSITIVE\n\neK\n\nOlly\n\nOliver Robbins\nForeign, Commonwealth and Development Office\nLondon, UK\n\nFrom: Peter Mandelson\nSent: Sunday, March 23, 2025 9:46:43 PM\nTo: Oliver Robbins\n\n433\n\nSubject: Fw: The US and us\nOFFICIAL-SENSITIVE\n\nRK\n\nThis is an attempt to put the interview in context\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Sunday, March 23, 2025 4:47:01 PM\nTo: James Roscoe ; Lucy Ferguson ; Nicholas Alton ; Mungo Woodifield ; JCS\n; Mark Newton (MOD) (Sensitive)\nSubject: Fw: The US and us\nBCC. Please do not forward.\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\n\nSent: Sunday, March 23, 2025 4:41:50 PM\n\nTo: MMcSweeney Personal =Npandit Personal — ; jonathan Powell ; Ailsa Terry (No.10) ;\nMatthew Doyle\n\nSubject: The US and us\nsek\n\n434\n\n\nf \nPeter\nSent from Outlook for iOS\n***\n435\n",
-  "char_count": 1144
+  "char_count": 1144,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

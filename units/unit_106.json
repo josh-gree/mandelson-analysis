@@ -22,5 +22,7 @@
   ],
   "source_mix": "mixed",
   "text": "Minister's Special Adviser on Business and Investment, No 10), Matthew Collins\n(Deputy National Security Adviser, CO), and others\n\nOFFICIAL SENSITIVE\nwee\n\n@ Summary: *™*\n@ Lines to use***\no™\no™\no™\n\n@ Background:\n\no*™\n\n320\n\nFrom:\nSent:\nTo:\nSubject:\nAttachment:\nEd Llewellyn\nFri 28/02/2025 3:46:22 PM (UTC)\nPeter Mandelson\nFW: LIMDIS: Scenesetter for PM-Meloni\nPM- Meloni scenesetter - 28 Feb 2025.docx\nOFFICIAL-SENSITIVE - HMG ONLY\nPeter\nAs promised.\nEd\nOFFICIAL-SENSITIVE - HMG ONLY\nFrom: Ed Llewellyn \nSent: 28 February 2025 11:31\nTo: \n ; \n ; Rich Morris (No.10) ; \n Cc: Ailsa Terry (No.10) ; \n (No.10) \nSubject: LIMDIS: Scenesetter for PM-Meloni\n, \n, Rich, \n,\nAs promised, I attach a scenesetter from me for the PM-Meloni meeting on Sunday. \nPlease can we keep this to a limited distribution given the sensitivity – although please \ncould you pass a copy to Michael Ellam.\nPlease let me know if you need anything else.\nEd",
-  "char_count": 923
+  "char_count": 923,
+  "content_type": "briefing",
+  "parsing_notes": "Parse section headers (@ Summary, @ Background, @ Lines to use etc.) as structural anchors. Extract bullet-point content under each header. Classification markings (OFFICIAL-SENSITIVE) at top. Heavy redaction ('***') common. Yields a structured document with named sections and their content lists."
 }

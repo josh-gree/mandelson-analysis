@@ -17,5 +17,7 @@
   ],
   "source_mix": "mixed",
   "text": "(Paymaster General and Minister for the Constitution and European Union Relations, CO)\n\nSubject: READOUT: MCO / Lord Mandelson 130125\n\nFrom: PS Thomas Symonds Mailbox < Personal >\nDate: 17/01/2025, 14:46\nTo: Hermione Gough1 Personal >, PSMichaelEllam Mailbox\nPersonal >\nCC: DL EURS SCS Personal >, Lindsay Appleby\nPersonal ; JCS Personal JCS\nPersonal : JCS Personal\nDear all,\n\nOn Monday 13 January, MCO met with Lord Mandelson (incoming UK Ambassador to the UK)\nalongside Michael Ellam (Second Permanent Secretary, CO). Please see a readout of the\nmeeting below:\n\nSTARTS\n1. MCO outlined his responsibility for the EU Relations Secretariat and next steps on process\n\nfor the UK-EU Reset, looking ahead to the Europe Committee and the PM's participation at the\ninformal European Council on 3 February. ba\n\n186\n\n4\nENDS\nBest Wishes,\nOffice of Rt Hon. Nick Thomas-Symonds MP, Paymaster General and Minister for the Cabinet \nOffice (Minister for the Constitution and European Union Relations)\n- M:\n- M:\n- M:\n- M:\n- M:\n- M:\nPlease copy all submissions to \nE: \n*** \nJCS\nJCS\nJCS\nJCS\nJCS\nJCS\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nPersonal\n187\n",
-  "char_count": 1162
+  "char_count": 1162,
+  "content_type": "meeting_note",
+  "parsing_notes": "Extract meeting date/time, list of attendees (name + role), agenda/discussion topics as bullet items, any action points (AP 1:, AP 2: patterns). Attendees yield ATTENDED edges with date. Topics/APs are content nodes linked to the meeting event."
 }

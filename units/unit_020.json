@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": "Officer, CO) from Junior Civil Servant\n\n[16/01/2025, 15:33] JCS On Lord M - as mentioned on email they are waiting for a\nbit more information from him so they (FCDO and our side) have collectively concluded that\nthey should move the date of the interview. MR thinks that is better than going ahead now and\nhaving to come back to him again. The new date is acceptable to Lord M office, FCDO and\nUKSV - so they are all aligned, though MR appreciates this is not an idea situ\n\nLatest email on this topic is in to read\n\n60",
-  "char_count": 518
+  "char_count": 518,
+  "content_type": "chat",
+  "parsing_notes": "Parse '[DD/MM/YYYY, HH:MM] Sender: message' tuples. Each tuple is a SENT_MESSAGE edge with timestamp. Sender names are often abbreviated (JCS = Junior Civil Servant). Build chronological message sequence within the conversation."
 }

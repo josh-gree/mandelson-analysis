@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": ".\n\naw Third Party\n\nForeign, Commonwealth\n& Development Office\n\n29 January 2025 Personal\n\nPeter Mandelson\n\nPersonal\nDV CLEARANCE CERTIFICATE\n\nOFFICIAL\n\n62",
-  "char_count": 153
+  "char_count": 153,
+  "content_type": "certificate",
+  "parsing_notes": "Extract issuing organisation, recipient name, date, and core certification statement. Very short documents — most content is institutional letterhead. Yields a single ISSUED_TO edge between institution and person with date and cert type."
 }

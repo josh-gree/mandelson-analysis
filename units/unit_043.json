@@ -11,5 +11,7 @@
   ],
   "source_mix": "pdf",
   "text": "(Minister for Science, Innovation, Research and Technology)\n143\n\nRegulation \n\u0000 \nPM asked what the RIO is? \n\u0000 \nPV highlighted that work on regulation is about getting regulators in speciﬁc \nareas to be pro-innovation in their approach as opposed to being solely focused \non security.  \n\u0000 \nPV added that we can learn lessons from how the MHRA changed the way they \ndid things in the years after 2019 to meet with companies early, understand \npipelines etc.  \n144\n",
-  "char_count": 461
+  "char_count": 461,
+  "content_type": "meeting_note",
+  "parsing_notes": "Extract meeting date/time, list of attendees (name + role), agenda/discussion topics as bullet items, any action points (AP 1:, AP 2: patterns). Attendees yield ATTENDED edges with date. Topics/APs are content nodes linked to the meeting event."
 }

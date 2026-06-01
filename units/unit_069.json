@@ -16,5 +16,7 @@
   ],
   "source_mix": "ocr",
   "text": "of Staff to the Prime Minister, No.10)\n\nFrom: Peter Mandelson\nTo: Morgan McSweeney\nDate: 11/02/25\n\nDinner with Mark Burnett\n\nAhead of Mark’s visit I thought I would give you some impressions following my dinner\nwith him last night.\n\nMark. Third Party > and I had a (verv) conviyial dinner together.\n\nPeter\n\nOFFICIAL-SENSITIVE\n\n205",
-  "char_count": 330
+  "char_count": 330,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

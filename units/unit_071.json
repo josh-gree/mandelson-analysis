@@ -11,5 +11,7 @@
   ],
   "source_mix": "ocr",
   "text": "(National Security Adviser, No.10)\n\nFrom: Peter Mandelson[ Personal\nSent: Wed 12/02/2025 2:36:41 PM (UTC)\n\nTo: Jonathan Powell] Personal ]\n\nSubject: Re: ***\n\nThanks\n\nGet Outlook for iOS\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:35:49 AM\nTo: Peter Mandelson\n\nSubject: Re: bie\n\nOFFICIAL-SENSITIVE\n\nke\n\nFrom: Peter Mandelson\nSent: Wednesday, February 12, 2025 2:32:18 PM\nTo: Jonathan Powell\nSubject: Re: ase\n\nRK\n\nThanks.\nThad no read out of SMG meeting. Any conclusions ?\n\nGet Outlook for iOS\n\n207\n\nFrom: Jonathan Powell\n\nSent: Wednesday, February 12, 2025 9:30:20 AM\nTo: Peter Mandelson\n\nSubject: +\n\nOFFICIAL-SENSITIVE\n\nWhenI see *** tomorrow we will give him the suggestion for what we could announce on\nthe economic relationship when Keir visits - will send the draft\n\nto you this evening for comment. ee\n\n208\n",
-  "char_count": 829
+  "char_count": 829,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

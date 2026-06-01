@@ -11,5 +11,7 @@
   ],
   "source_mix": "pdf",
   "text": "Jonathan Reynolds (former Secretary of State for Business and Trade)\nF\nKalada BRUCE-JAJA2 (DBT)\n<\n> \nSent on: \nSaturday, February 15, 2025 7:45:54 PM\nTo: \n Jonathan REYNOLDS (DBT) <\n> \nSubject: \nFw: Zoom link\nDear Secretary of State, \nSee the link below. \nAll the best, \nKal \nSent from Outlook for iOS \nFrom: Mungo Woodifield <\n> \nSent: Saturday, February 15, 2025 7:13 pm \nTo: Kate JOSEPH (DBT) <\n>; Kalada BRUCE-\nJAJA2 (DBT) <\n>; Peter Mandelson \nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n***\n***\n***\n***\n***\nThird Party\n215\n\nBest, \nMungo \nMungo Woodifield \nMinister Counsellor, Trade & Global Issues \nBritish Embassy Washington \nOFFICIAL \nFrom: Mungo Woodifield <\n> \nSent: Saturday, February 15, 2025 1:52 PM \nTo: Mungo Woodifield <\n> \nSubject: Zoom link \nTopic: \n Zoom Meeting Time: Feb 15, 2025 06:00 PM Eastern Time \n(US and Canada) Join Zoom Meeting \n \n \n  \n ---\nPersonal\nPersonal\nPersonal\nPersonal\n***\n216\n",
-  "char_count": 926
+  "char_count": 926,
+  "content_type": "letter",
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
 }

@@ -19,5 +19,7 @@
   ],
   "source_mix": "mixed",
   "text": "Ambassador to the United States, FCDO)\n\nFrom: Peter Mandelson| Personal\nSent: Sat 26/04/2025 12:00:37 PM (UTC)\nTo: Karen Pierce[ Personal JCS\nCe: JCS Washington Private\nOfficel Personal j, JCS\nPersonal I Personal |\nSubject: Re: RHS Award 1/2\n\nT enjoy the garden here as much if not more than anything else here. JCSis hero !\n\nGet Outlook for iOS\n\nFrom: Karen Pierce\nSent: Saturday, April 26, 2025 6:28:04 AM\nTo: JCS\nce: JCS __ ; Washington Private Office ; Peter Mandelson; JCS ;\nPersonal\nSubject: Fw: RHS Award 1/2\nOFFICIAL\n\npearJCS\n\nIn case you haven't seen it , I'm forwarding the excerpt from the RHS magazine. \" The Garden\",\nabout your award ( second photo is the full page )\n\nCongratulations again! We will look forward to seeing you at CFS!\n\nTf you don't have the hard copy of The Garden and would like it, let me know and I can send it\nAll best\n\nKaren and 34 Pay\n\nSent from Outlook for iOS\n\nOFFICIAL\n\nFrom: Personal\n\nSent: Saturday, April 26, 2025 11:22:48 AM\nTo: Karen Pierce\n\nSubject: RHS Award\nPersonal\n\nSent from my iPhone\n\n567\n\n\n978-1-5286-6434-9\nE03595100 \n",
-  "char_count": 1071
+  "char_count": 1071,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

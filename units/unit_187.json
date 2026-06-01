@@ -11,5 +11,7 @@
   ],
   "source_mix": "mixed",
   "text": "the Secret Intelligence Service)\n\nFrom: Peter Mandelson[ Personal\nSent: Thur 17/04/2025 1:43:39 AM (UTC)\n\nTo: Richard Moore[ Personal ]\nSubject: Re: Letter from America\n\nThanks\n\nGet Outlook for iOS\n\nFrom: Richard Moore\n\nSent: Wednesday, April 16, 2025 9:35:07 PM\nTo: Peter Mandelson\n\nSubject: Re: Letter from America\n\nOFFICIAL-SENSITIVE\n\nPeter,\nReally helpful. Do add me to the regular distribution if you feel able. Great to have this feel.\n\nYou should assume *** could access them (and having hacked\n\nthey could choose to leak them to embarrass HMG). You might be better sending them in on\nek\nat SECRET.\nRichard\nSent from Outlook for i0S\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson\nSent: Wednesday, April 16, 2025 8:58:45 PM\nTo: Richard Moore\nSubject: FW: Letter from America\n\nOFFICIAL-SENSITIVE\n\nFyi last week’s missive.\n4eK\n\n538,\n\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n | \nOFFICIAL-SENSITIVE\nPersonal\nPersonal\n***\n539\n",
-  "char_count": 933
+  "char_count": 933,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

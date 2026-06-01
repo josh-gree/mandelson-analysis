@@ -17,5 +17,7 @@
   ],
   "source_mix": "ocr",
   "text": "of Staff to the Prime Minister, No.10)\n\nSubject: where is Britain now ?\n\nDate: Monday, 21 April 2025 at 23:03:37 British Summer Time\n\nFrom: Peter Mandelson\n\nTo: MMcSweeney Personal\n\nA quick introductory SWOT analysis of where Britain is (to be expanded in any direction)\nStrengths\n\nRK\n\nWeaknesses\n\nRK\n\nOpportunities\n\neK\n\n542\n\neK\n\nThreats\n\nRK\n\nLord Mandelson\nHM Ambassador, Washington DC.\nPersonal Personal\n",
-  "char_count": 406
+  "char_count": 406,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

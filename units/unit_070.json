@@ -16,5 +16,7 @@
   ],
   "source_mix": "ocr",
   "text": "Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Oliver Robbins EMAIL\nSent: Tue 11/02/2025 8:52:56 PM (UTC)\n\nTo: Peter Mandelson EMAIL\nSubject: Re: state visit\n\nOFFICIAL-SENSITIVE\n\nThank you Peter. Understood. I’ve been in touch with Clive today on this, and Ailsa and spoke\nto the PM yesterday evening. We can pick this up in our catch up tomorrow.\n\nOlly\n\nOliver Robbins\nFCDO\n\nFrom: Peter Mandelson\nSel uesday, February 11, 2025 5:41:23 PM\nTo: Oliver Robbins\nSubject: state visit\n\nOFFICIAL-SENSITIVE\n\nPerhaps we could discuss?\nVery best\nPeter\n\n206",
-  "char_count": 568
+  "char_count": 568,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

@@ -16,5 +16,7 @@
   ],
   "source_mix": "ocr",
   "text": "Security Adviser, CO) and others\n\nFrom: Jonathan Powell Personal\nSent: Tue 01/04/2025 11:58:43 AM (UTC)\nTo: Peter Mandelson Personal\nCe: JCS JCS\nSubject: Re: ***\nOFFICIAL-SENSITIVE\n\nYes we are making sure that happens. Matt Collins and his team are doing it.\n\nFrom: Peter Mandelson\nSent: Monday, March 31, 2025 5:03:01 PM\nTo: Jonathan Powell\ncc: JCS\nSubject:\n\nThanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464",
-  "char_count": 445
+  "char_count": 445,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

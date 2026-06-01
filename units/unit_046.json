@@ -11,5 +11,7 @@
   ],
   "source_mix": "ocr",
   "text": "Secretary of State for Foreign, Commonwealth and Devel Affairs)\nThe Rt Hon the Lord Mandelson PC\n\n/o Meweneihs ots\n\ndes day,\n\nas ar ry a test) poll\nrh ant of aw mr\n\nyy Zale F  frstten th wt\n\na hu, age abd is\n\nResbl thy, te a Peealokm Koa\nano “ hn the, has fot\n\nGt tm\n\n. batad kK an. Jes\noe as AiKey Hat fe went\n\nfine & appint we 0 Kmtd hale\n\nat Ain aye A\n\nise of Lords, London SW1A OPW\n\nJ yhoo jhe favigedog Srleins auebs\nAringh he Map abtaanrekm «//\nwe le Kichvan Phi, anof Lake\n\noy aa pean we =\n\news:\n\nbh & buck As\nware nol — Ha\n\now bs Wloka, kot Eo tetake,,\n\noe we ON pat av het hiincl\nK€ JS Rah he x\n\nae if! bi ae Kee ae Sealare |\n\nke, it hmtd Se the fot hug | te\nwdc Nhe ark i Kralol Le a” hes\n\nKonont & Serve “ol ancl oa Paya bent\n\nif Ly uw V.\n\n' kab |\n",
-  "char_count": 759
+  "char_count": 759,
+  "content_type": "letter",
+  "parsing_notes": "Extract sender institution + signatory, addressee name + title, date, subject heading (if present), body paragraphs, and closing salutation/sign-off. Classification marking (OFFICIAL-SENSITIVE etc.) at top. Sender/recipient relationship is a directed WROTE_TO edge."
 }

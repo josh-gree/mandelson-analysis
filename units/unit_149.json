@@ -11,5 +11,7 @@
   ],
   "source_mix": "ocr",
   "text": "Ambassador to the United States, FCDO)\n\nFrom: Karen Pierce Personal\nSent: Fri 28/03/2025 6:20:00 AM (UTC)\nTo: Peter Mandelson Personal\n\nOffice Personal\nCec: Mungo Woodifield Personal\n\nJCs Personal Nicholas\n\nAlton Personal Jcs\n\nSubject: Re: BOB LIGHTHIZER VISIT TO\n\nLONDON OFFICIAL\n\nMany thanks Peter. Will approach Michael E\nHave a good weekend\nAll best\n\nKaren\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Friday, March 28, 2025 1:25:54 AM\nTo: Karen Pierce ; Washington Private Office\nCc: Mungo Woodifield ; JCS Nicholas Alton ; JCS\nSubject: Re: BOB LIGHTHIZER VISIT TO LONDON\n\n; Washington Private\n; ICS\n\nPersonal\n\nHi Karen. I think that's a good idea although I think Michael Ellam might be the better\n\nperson (not least because he is currently swimming in ***  ).\n\nVery best\nPeter\n\nGet Outlook for iOS\n\n441\n\nFrom: Karen Pierce\nSent: Wednesday, March 26, 2025 6:58:47 AM\nTo: Peter Mandelson ; Washington Private Office\nCc: Mungo Woodifield ; JCS ; Nicholas Alton ; JCS\nSubject: BOB LIGHTHIZER VISIT TO LONDON\n\nOFFICIAL\n\nAll Best\nKaren\nKaren Pierce\n\nUK Special Envoy for the Western Balkans\nMobile: Personal\n\nPs; wus\n\n442\n",
-  "char_count": 1134
+  "char_count": 1134,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

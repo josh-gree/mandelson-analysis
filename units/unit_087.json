@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": "to the Treasury, HMT\n\nFrom: Jcs\n\nSent: 24 February 2026 17:37\nTo: Crisp, Jonathan - HMT\n\nce Jcs\n\nSubject: James B / Peter M readout\nFollow Up Flag: Follow up\n\nFlag Status: Completed\n\n29\" January 2025: James Bowler (JB) and Lord Madleson (LM)\n\ne On business sentiment, LM said markets, businesses and investors, etc. gave the Government\nsignificant goodwill on entering office, but he felt they lacked a clearly articulated, deep-seated\n“growth philosophy”. He thought the business community had not been expecting what was in the\nBudget in the autumn. He accepted the fiscal correction was necessary, but this had come at the\nexpense of business and was counter to the pre-election narrative. JB set out that Covid and energy\ninterventions meant difficult choices had to be made.\n\nJCS | Private Secretary to Jim O’Neil, Second Permanent Secretary\nHM Treasury | 1 Horse Guards Road, London, SW1A 2HQ\nwww.hm-treasury.gov.uk | Twitter: @hmtreasury | Personal\n\n270",
-  "char_count": 960
+  "char_count": 960,
+  "content_type": "meeting_note",
+  "parsing_notes": "Extract meeting date/time, list of attendees (name + role), agenda/discussion topics as bullet items, any action points (AP 1:, AP 2: patterns). Attendees yield ATTENDED edges with date. Topics/APs are content nodes linked to the meeting event."
 }

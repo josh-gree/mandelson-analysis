@@ -10,5 +10,7 @@
   ],
   "source_mix": "ocr",
   "text": "Duchy of Lancaster and Minister for Intergovernmnetal Relations) and others\n\nSubject: FW: Trade deal\n\nFrom: Peter Mandelson Personal\n\nDate: 02/04/2025, 14:13\n\nTo: \"pat.mcfadden Personal Personal\n\nLord Mandelson\n\nHM Ambassador, Washington DC\n+ Personal |\n\nPersonal\n\nFrom: Peter Mandelson\n\nSent: 01 April 2025 16:12\n\nTo: MMcSweeney Personal — Varun Chandra Personal\nSubject: Trade deal\n\n| just was in WH seeing the VP about something else\n\nPeter\n\nGet Outlook for iOS\n\n468",
-  "char_count": 469
+  "char_count": 469,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

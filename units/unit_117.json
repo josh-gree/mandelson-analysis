@@ -23,5 +23,7 @@
   ],
   "source_mix": "pdf",
   "text": "Global Issues, FCDO) to Michael Ellam (Second Permanent Secretary, European Union \nand International Economic Affairs, CO) and others\nSubject: US/ trade\nFrom: Mungo Woodifield \nDate: 07/03/2025, 22:04\nTo: Michael Ellam \n, Varun Chandra \nCC: Morgan McSweeney \n \"Ailsa Terry (No.10)\" \n Peter Mandelson \n, James \nRoscoe \n, \"Jonathan Black (Cabinet Office) (External)\" \nOFFICIAL-SENSITIVE\nSENT ON BEHALF OF HMA\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n***\n343\n\nPeter\nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by the \nForeign, Commonwealth & Development Office may be monitored in line with relevant UK \nlegislation\nOFFICIAL-SENSITIVE\n***\n344\n\n\nFrom:\nSent:\nTo:\nCc:\nSubject:\nMichael Ellam \nFri 07/03/2025 9:50:22 PM (UTC)\nJonathan Black \n, Varun Chandra \n, Katy Budge1 \n, Malte Werner \n, \n, Peter Mandelson \n, Mungo Woodifield \nPSMichaelEllam Mailbox \nDraft email to No10\nAll,\nApologies for the Friday night email, but we have been asked by No10 for some \nurgent advice tonight on what our options are over the weekend \n Comments asap please.\nMichael\nContext",
-  "char_count": 1156
+  "char_count": 1156,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

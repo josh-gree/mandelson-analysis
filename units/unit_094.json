@@ -16,5 +16,7 @@
   ],
   "source_mix": "pdf",
   "text": "Secretary, European Union and International Economic Affairs, CO) and others\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n***\nPersonal\nPersonal\nPersonal\n284",
-  "char_count": 174
+  "char_count": 174,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

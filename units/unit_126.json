@@ -17,5 +17,7 @@
   ],
   "source_mix": "pdf",
   "text": "FCDO)\nPersonal\nJCS\nJCS\nJCS\n***\nPersonal\n373\n\n \n \n \n…\n \n \n   \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \nEd\n***\n374\n",
-  "char_count": 128
+  "char_count": 128,
+  "content_type": "email_thread",
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
 }

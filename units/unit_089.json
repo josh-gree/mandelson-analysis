@@ -11,5 +11,7 @@
   ],
   "source_mix": "ocr",
   "text": "Defence)\n\nForwarding to personal for awareness\n\nJCS\nCover for Assistant Private Secretary (Diary) to the Secretary of State\nfor Defence\nPersonal | Personal jain Building | Whitehall | London |\nSW1A 2HB\nPersonal\n\nFrom: JCS\nSent: 24 February 2025 14:22\nTo: Peter Mandelson ; SofS-Private Office (MULTIUSER)\nCc; Woods, Tim R Adm (BDSUS-Hd-DA) ; Newton, Mark SCS (BDSUS-MinDefence-SPO-USA Dir) ; Moffat, John SCS Pay Band 1\n\n(BDSUS-DPN-Min-Cllr) ; Farhall, Laura SCS (BDSUS-DAT-Min-Cllr) ; Lucy Ferguson ; JCS ; JCS\n\nr JCS\nSubject: 20250224-Readout - HMA Washington / SofS Defence Call-OS\nOFFICIAL-SENSITIVE - HMG ONLY\n\nAmbassador,\nYou spoke with SofS Defence on Sunday 23 February. A brief: readout follows:\n\n274\n\nRK\n\nKind regards,\n\nJCS Royal Navy | Military Assistant and Deputy Chief of Staff to His Majesty’s Ambassador\n| British Embassy Washington\n\n3100 Massachusetts Ave NW, Washington, DC 20008\nPersonal\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth &\nDevelopment Office may be monitored in line with relevant UK legislation\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\n275\n",
-  "char_count": 1164
+  "char_count": 1164,
+  "content_type": "meeting_note",
+  "parsing_notes": "Extract meeting date/time, list of attendees (name + role), agenda/discussion topics as bullet items, any action points (AP 1:, AP 2: patterns). Attendees yield ATTENDED edges with date. Topics/APs are content nodes linked to the meeting event."
 }
