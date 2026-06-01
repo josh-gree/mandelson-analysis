@@ -1,0 +1,191 @@
+unit_id,date,content_type,page_count,char_count,source_mix,description
+1,19-12-2024,chat,1,2438,ocr,"1 - 19-12-2024 - Google Chat Messenger exchange between Vincent Devine (Government Chief Security Officer, CO) and Junio"
+2,19-12-2024,email_thread,2,1876,mixed,2- 19-12-2024 - Emails between Vincent Devine (Government Chief Security Officer. CO) and others
+3,19-12-2024,email_thread,2,1810,mixed,"3.- 19-12-2024 - Email from Michael Roberts (Assurance Deputy Director, CO) to Vincent Devine (Government Chief Security"
+4,19-12-2024,email_thread,4,3192,mixed,"4 - 19-12-2024 - Emails between Vincent Devine (Government Chief Security Officer, CO) and others"
+5,20-12-2024,email_thread,1,1002,ocr,"5 - 20-12-2024 - Email from Rochelle Fisher (Deputy Director, Head of Senior Appointments and Talent, FCDO)"
+6,21-12-2024,email_thread,5,6791,mixed,"6 - 21-12-2024 - Emails between Robert Tinline (Director Americas, FCDO) and others"
+7,23-12-2024,email_thread,3,2302,ocr,"7 - 23-12-2024 - Emails between Vincent Devine (Government Chief Security Officer, CO) and others"
+8,23-12-2024,email_thread,4,3667,ocr,"8 - 23-12-2024 - Emails between Vincent Devine (Government Chief Security Officer, CO) and others"
+9,23-12-2024,email_thread,4,5091,mixed,"9 - 23-12-2024 - Emails between lan Collard (former Chief Property & Security Officer, FCDO) and others"
+10,23-12-2024,email_thread,3,3430,ocr,"10 - 23-12-2024 - Emails between Patricia Dreghorn (CEO, UK Security Vetting, CO) and others"
+11,23-12-2024,email_thread,4,3143,mixed,"11 - 23-12-2024 - Emails between lan Collard (former Chief Property & Securi Officer, FCDO) and others"
+12,23-12-2024,email_thread,2,3221,mixed,"12 - 23-12-2024 - Emails between lan Collard (former Chief Property & Security Officer, FCDO) and others"
+13,23-12-2024,email_thread,3,3317,ocr,"13 - 23-12-2024 - Emails between Patricia Dreghorn (CEO, UK Security Vetting) and the UK Security Vetting Team, CO"
+14,27-12-2024,email_thread,3,4428,ocr,"14 - 27-12-2024 - Emails betwen lan Collard (former Chief Property and Security Officer, FECDO) and the UK Security Vett"
+15,06-01-2025,email_thread,2,2712,ocr,"15 - 06-01-2025 - Emails between lan Collard (former Chief Property and Security Officer,"
+16,06-01-2025,email_thread,2,2193,ocr,16 - 06-01-2025 - Emails between lan Collard (former Chief Property and Security Officer. FCDO) and Michael Roberts (Ass
+17,16-01-2025,email_thread,5,5288,mixed,"17 - 16-01-2025 - Emails between Gerard McGurk (Head of Security & Resilience Department, FCDO) and the UK Security Vett"
+18,16-01-2025,email_thread,4,2720,ocr,"18 - 16-01-2025 - Emails between Vincent Devine (Government Chief Security Officer, CO), Gerard McGurk, (Head of Securit"
+19,16-01-2025,email_thread,5,4969,mixed,"19 - 16-01-2025 - Emails between Gerard McGurk (Head of Security & Resilience  Department, FCDO) and others No action re"
+20,16-01-2025,chat,1,518,ocr,20 - 16-01-2025 - Google Chat Message to Vincent Devine (Government Chief Security
+21,29-01-2025,email_thread,1,839,ocr,"21 - 29-01-2025 - Email to Peter Mandelson from Personnel Security Team, FCDO"
+22,29-01-2025,certificate,1,153,ocr,22 - 29-01-2025 - Peter Mandelson's DV Clearance Certificate
+23,20-01-2025,email_thread,3,3074,ocr,"23 - 20-01-2025 - Emails between Michael Roberts (Assurance Deputy Director, CO) and others"
+24,24-01-2025,email_thread,6,6364,mixed,"24 - 24-01-2025 - Emails between Michael Roberts (Assurance Deputy Director, CO) and others"
+25,30-01-2025,email_thread,2,2827,ocr,"25 - 30-01-2025 - Email from lan Collard (former Chief Property and Security Officer, FCDO) to Corin Robertson (former D"
+26,23-03-2025,email_thread,1,641,ocr,26 - 23-03-2025 - Email to Peter Mandelson from Sir Oliver Robbins (former Permanent
+27,07-02-2025,email_thread,3,3297,mixed,27 - 07-02-2025 - Emails between Junior Civil Servants
+28,22-01-2025,email_thread,3,2830,pdf,28 - 22-01-2025 - Emails between Peter Mandelson and Junior Civil Servants  JCS JCS JCS JCS JCS JCS Personal Personal Pe
+29,13-09-2025,email_thread,3,5986,pdf,"29 - 13-09-2025 - Emails between Ailsa Terry (Private Secretary for Foreign Affairs, No.10), Sir  Oliver Robbins (former"
+30,14-09-2025,email_thread,3,5803,mixed,"30 - 14-09-2025 - Emails between Ailsa Terry (Private Secretary for Foreign Affairs, No.10) and"
+31,15-09-2025,email_thread,1,1300,ocr,31 - 15-09-2025 - Emails between Junior Civil Servants
+32,15-09-2025,email_thread,1,1648,ocr,"32 - 15-09-2025 - Email between lan Collard (former Chief Property & Security Officer, FCDO) and others"
+33,15-09-2025,email_thread,14,20780,mixed,"33 - 15-09-2025 - Emails between Caroline Hurndall (Principal Private Secretary to the Foreign Secretary, FCDO), Ailsa T"
+34,15-09-2025,email_thread,11,22035,pdf,"34 - 15-09-2025 - Emails between Elkie Symes (Principal Private Secretary to the Cabinet  Secretary, CO) and others  Sub"
+35,16-09-2025,letter,2,3255,ocr,35 - 16-09-2025 - Emails between Elkie Symes (Principal Private Secretary to the
+36,16-09-2025,letter,5,12759,pdf,"36 - 16-09-2025 - Emails between Elkie Symes (Principal Private Secretary to the Cabinet  Secretary, CO), Sir Oliver Rob"
+37,16-09-2025,letter,2,1545,pdf,37 - 16-09-2025 - Letter from Sir Chris Wormald (former Cabinet Secretary) 119
+38,22-07-2024,email_thread,2,2139,mixed,"38 - 22-07-2024 - Emails between Peter Mandelson (whilst at Global Counsel), Douglas Alexander (former Minister of State"
+39,31-12-2024,email_thread,3,4514,mixed,"39 - 31-12-2024 - Emails between Peter Mandelson and Robert Tinline (Americas irector, FCDO)"
+40,31-12-2024,email_thread,3,4310,mixed,"40 - 31-12-2024 - Emails between Sir Philip Barton (former Permanent Under-Secretary, FCDO) and Robert Tinline (Americas"
+41,19-12-2024,email_thread,13,20745,mixed,"41 - 19-12-2024 - Emails between Sir Philip Barton (former Permanent Under-Secretary, ECDO) and others"
+42,24-12-2024,email_thread,2,3641,mixed,"42 - 24-12-2024 - Email from Overseas Team FCDO, to British Embassy in Washington team FCDO, and others"
+43,11-09-2024,meeting_note,2,461,pdf,"43 - 11-09-2024 - Meeting between Peter Mandelson and Lord Patrick Vallance,  (Minister for Science, Innovation, Researc"
+44,13-09-2024,letter,9,10086,mixed,44 - 13-09-2024 - Email from Peter Mandelson (whilst at Global Counsel) to Jon
+45,10-10-2024,email_thread,1,1549,ocr,45 - 10-10-2024 - Email from Peter Mandelson (whilst at Global Counsel) to Darren Jones (former Chief Secretary to the T
+46,18-11-2024,letter,2,759,ocr,"46 - 18-11-2024 - Letter from Peter Mandelson to David Lammy (former Secretary of State for Foreign, Commonwealth and De"
+47,27-11-2024,email_thread,6,8196,mixed,47 - 27-11-2024 - Emails from Peter Mandelson (whilst at Global Counsel) to Sarah Jones (former Minister of State for In
+48,29-07-2024,letter,3,7554,ocr,48 - 29-07-2024 - Emails between Peter Mandelson (whilst at Global Counsel) and Lord Patrick Vallance (Minister of State
+49,02-09-2024,email_thread,3,5752,mixed,49 - 02-09-2024 - Email between Peter Mandelson (whilst at Global Counsel) and Lord  Patrick Vallance (Minister of State
+50,03-10-2024,email_thread,2,967,mixed,50 - 03-10-2024 - Emails between Peter Mandelson (whilst at Global Counsel) and Lord  Patrick Vallance (Minister of Stat
+51,18-11-2024,email_thread,1,845,ocr,51 - 18-11-2024 - Email between Peter Mandelson and Katie Martin (former Chief of Staff_to the Chancellor of the Exchequ
+52,08-01-2025,email_thread,3,4652,ocr,"52 - 08-01-2025 - Emails between Mer Thomas (former Chief People Officer, FCDO) and others"
+53,08-01-2025,email_thread,5,7145,mixed,"53 - 08-01-2025 - Emails between Peter Mandelson, Lord George Robertson and others"
+54,08-01-2025,email_thread,2,1799,pdf,54 - 08-01-2025 - Email from Peter Mandelson to GCHQ Director and NCSC CEO JCS JCS JCS JCS JCS JCS JCS JCS JCS JCS *** *
+55,09-01-2025,email_thread,3,2832,pdf,55 - 09-01-2025 - Emails between FCDO officials  This document has been declassified *** *** *** *** *** *** *** *** ***
+56,13-01-2025,meeting_note,1,2546,ocr,"56 - 13-01-2025 - Meetings between Peter Mandelson and Michael Ellam (Second Permanent Secretary, European Union and Int"
+57,14-01-2025,meeting_note,1,1852,ocr,57 - 14-01-2025 - Meeting between Peter Mandelson and Pat McFadden (former Chancellor of the Duchy of Lancaster and Mini
+58,14-01-2025,email_thread,1,602,ocr,"58 - 14-01-2025 - Email from Lindsey Whyte (Director General for International, HMT) to James Roscoe (former Deputy Head"
+59,17-01-2025,meeting_note,2,1162,mixed,59 - 17-01-2025 - Meeting between Peter Mandelson and Nick Thomas-Symonds (Paymaster General and Minister for the Consti
+60,20-01-2025,email_thread,5,5004,mixed,"60 - 20-01-2025 - Emails between Peter Mandelson and Jon Garvie (former Chief of Staff to the Foreign Secretary, FCDO)"
+62,24-01-2025,meeting_note,2,3081,pdf,62 - 24-01-2025 - Meeting between Peter Mandelson and Hilary Benn (Secretary of State for Northern  Ireland) Fwd: Readou
+63,27-01-2025,email_thread,4,1931,mixed,63 - 27-01-2025 - Email exchange between Karen Pierce (former HM Ambassador to the United States) and Peter Mandelson.
+64,28-01-2025,email_thread,1,82,pdf,64 - 28-01-2025 - Emails between Peter Mandelson and Katie Martin (former Chief  of Staff to the Chancellor of the Exche
+65,29-01-2025,meeting_note,1,672,ocr,"65 - 29-01-2025 - Meeting between Peter Mandelson and Peter Kyle (former Secretary of State for Science, Innovation and "
+66,08-02-2025,email_thread,1,684,ocr,"66 - 08-02-2025 - Emails between Peter Mandelson and Peter Kyle (former Secretary of State for Science, Innovation and T"
+67,08-02-2025,email_thread,2,661,ocr,"67 - 08-02-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary"
+68,10-02-2025,email_thread,2,1697,mixed,"68 - 10-02-2025 - Emails between Peter Mandelson's office, Ailsa Terry (Private Secretary"
+69,11-02-2025,email_thread,1,330,ocr,"69 - 11-02-2025 - Email from Peter Mandelson to Morgan McSweeney (former Chief of Staff to the Prime Minister, No.10)"
+70,11-02-2025,email_thread,1,568,ocr,70 - 11-02-2025 - Emails between Peter Mandelson and Sir Oliver Robbins (former Permanent Under-Secretary of State for F
+71,12-02-2025,email_thread,2,829,ocr,71 - 12-02-2025 - Emails between Peter Mandelson and Jonathan Powell
+72,12-02-2025,email_thread,2,809,mixed,"72 - 12-02-2025 - Emails between Peter Mandelson, Mungo Woodifield (Minister Counsellor for Trade_and Global Issues, FCD"
+73,15-02-2025,email_thread,5,3318,mixed,73 - 15-02-2025 - Emails between Peter Mandelson and Kalada Bruce-Jaja (Principal
+74,15-02-2025,letter,2,926,pdf,"74 - 15-02-2025 - Email from Kalada Bruce-Jaja (Principal Private Secretary, DBT) to  Jonathan Reynolds (former Secretar"
+75,16-02-2025,email_thread,1,410,ocr,"75 - 16-02-2025 - Email from Peter Mandelson to Morgan McSweeney (former Chief of Staff to the Prime Minister, No.10"
+76,16-02-2025,email_thread,2,1151,mixed,"76 - 16-02-2025 - Email from Peter Mandelson to Morgan McSweeney (former Chief of Staff to the Prime Minister, No.10)"
+77,17-02-2025,email_thread,1,90,pdf,77 - 17-02-2025 - Email exchange between Peter Mandelson and Mungo Woodifield  (Minister Counsellor for Trade and Global
+78,19-02-2025,email_thread,3,3632,mixed,"78 - 19-02-2025 - Emails between Peter Mandelson, Menna Rawlings (former HM"
+79,20-02-2025,letter,1,432,ocr,79 - 20-02-2025 - Letter from Peter Mandelson to John Healey (Secretary of State for Defence)
+80,20-02-2025,email_thread,4,3809,mixed,"80 - 20-02-2025 - Emails between Peter Mandelson, James Roscoe (former Deputy Head"
+82,14-02-2025,letter,2,1414,ocr,82 - 14-02-2025 - Letter from Peter Mandelson to David Lammy (former Secretary of State for Foreign Commonwealth and Dev
+83,21-02-2025,email_thread,1,3241,ocr,83 - 21-02-2025 - Email from Peter Mandelson to Matthew Doyle (former Director of
+84,21-02-2025,email_thread,1,1020,ocr,"84 - 21-02-2025 - Emails between Peter Mandelson and Ed Llewellyn (former HM Ambassador to Italy, FCDO"
+85,21-02-2025,email_thread,7,1466,mixed,"85 - 21-02-2025 - Email from Peter Mandelson to Matthew Doyle (former Director of Communications, No.10)"
+86,23-02-2025,email_thread,31,13375,mixed,"86 - 23-02-2025 - Emails between Peter Mandelson, Alisa Terry (Private Secretary"
+87,24-02-2025,meeting_note,1,960,ocr,"87 - 24-02-2025 - Meeting between Peter Mandelson and James Bowler (Permanent Secretary to the Treasury, HMT"
+88,24-02-2025,email_thread,3,1420,mixed,"88 - 24-02-2025 - Email from Peter Mandelson to Jonathan Powell (National Security Adviser, No.10)"
+89,24-02-2025,meeting_note,2,1164,ocr,89- 24-02-2025 - Meeting between Peter Mandelson and John Healey (Secretary of State for Defence)
+90,10-02-2025,email_thread,1,1642,ocr,"90 - 10-02-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No.10) and others"
+91,24-02-2025,letter,1,1063,ocr,91 - 24-02-2025 - Letter from Peter Mandelson to the Prime Minister
+92,25-02-2025,email_thread,3,2917,mixed,92 - 25-02-2025 - Emails between Peter Mandelson and Jonathan Powell (National
+93,25-02-2025,email_thread,4,4304,mixed,93 - 25-02-2025 _- Emails between Jonathan Reynolds (former Secretary of State for Business
+94,26-02-2025,email_thread,1,174,pdf,"94 - 26-02-2025 - Email from Peter Mandelson to Michael Ellam (Second Permanent  Secretary, European Union and Internati"
+95,25-02-2025,email_thread,3,2786,mixed,"95 - 25-02-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No.10) and others"
+96,10-06-2025,email_thread,3,2334,pdf,"96 - 10-06-2025 - Email from Peter Mandelson to Morgan McSweeney (former Chief of Staff  to the Prime Minister, No.10) S"
+97,26-02-2025,email_thread,2,1578,mixed,97 - 26-02-2025 - Emails between Peter Mandelson and Jonathan Powell (National Security Adviser. No.10)
+98,27-02-2025,email_thread,3,2123,mixed,"98 - 27-02-2025 - Emails between Peter Mandelson, Jonathan Black (former Deputy"
+99,27-02-2025,email_thread,6,5658,mixed,"99 - 27-02-2025 - Emails between Peter Mandelson, Nicholas Alton (former Minister Counsellor, British Embassy Washington"
+100,27-02-2025,email_thread,7,6616,mixed,"100 - 27-02-2025 - Emails between Peter Mandelson, Michael Ellam (Second Permanent Secretary, European Union and Interna"
+101,27-02-2025,email_thread,6,5633,mixed,101 - 27-02-2025 - Emails to Peter Mandelson from John Healey (Secretary of  State for Defence) JCS JCS JCS JCS JCS JCS 
+103,27-02-2025,email_thread,2,1314,pdf,"103 - 27-02-2025 - Email to Peter Mandelson from Michael Ellam (Second  Permanent Secretary, European Union and Internat"
+104,27-02-2025,email_thread,2,1686,pdf,"104 - 27-02-2025 - Emails between Peter Mandelson and Michael Ellam (Second Permanent  Secretary, European Union and Int"
+105,27-02-2025,email_thread,5,4588,pdf,"105 - 27-02-2025 - Email between Varun Chandra (Prime Minister's Special Advisor on  Business and Investment, No.10) Mat"
+106,27-02-2025,briefing,2,923,mixed,106 - 27-02-2025 - Attachment to email between Varun Chandra (Prime Minister's Special Adviser on Business and Investmen
+107,28-02-2025,email_thread,2,1341,pdf,"107 - 28-02-2025 - Email to Peter Mandelson from Ed Llewellyn (former HM  Ambassador to Italy, FCDO) JCS JCS JCS JCS JCS"
+108,28-02-2025,email_thread,2,710,pdf,108 - 28-02-2025 - Emails between Peter Mandelson and Barbara  Woodward (former Permanent Representative of the UK to th
+110,04-03-2025,email_thread,6,4347,mixed,"110 - 04-03-2025 - Emails between Peter Mandelson, Jonathan Black (former Deputy National Security Adviser, CO) and Mung"
+111,03-05-2025,email_thread,3,2434,pdf,"111 - 03-05-2025 - Emails between Peter Mandelson and Jonathan Black (former  Deputy National Security Adviser, CO) Pers"
+112,05-03-2025,email_thread,3,2283,pdf,"112 - 05-03-2025 - Email from Peter Mandelson to Michael Ellam (Second Permanent  Secretary, European Union and Internat"
+113,05-03-2025,email_thread,2,1357,mixed,113 - 05-03-2025 - Email to Peter Mandelson and Louis Mosley (Palantir)
+114,06-03-2025,meeting_note,2,1925,pdf,"114 - 06-03-2025 - Meeting between Peter Mandelson and Steve Reed (former Secretary  of State for Environment, Food and "
+115,06-03-2025,email_thread,2,1323,pdf,"115 - 06-03-2025 - Email to Peter Mandelson and James Roscoe (former Deputy Head of  Mission, British Embassy Washington"
+116,07-03-2025,email_thread,6,3568,pdf,"116 - 07-03-2025 - Emails between Peter Mandelson, Michael Ellam (Second Permanent  Secretary, European Union and Intern"
+117,07-03-2025,email_thread,3,1156,pdf,"117 - 07-03-2025 - Email from Mungo Woodifield (Minister Counsellor for Trade and  Global Issues, FCDO) to Michael Ellam"
+118,07-03-2025,email_thread,2,607,pdf,"118 - 07-03-2025 - Email to Peter Mandelson from Michael Ellam (Second  Permanent Secretary, European Union and Internat"
+119,07-03-2025,letter,2,1752,pdf,"119 - 07-03-2025 - Letter to the Prime Minister from Michael Ellam (Second  Permanent Secretary, European Union and Inte"
+120,07-03-2025,email_thread,5,2636,pdf,"120 - 07-03-2025 - Email from Peter Mandelson to Peter Kyle (former Secretary of State  for Science, Innovation and Tech"
+121,08-03-2025,email_thread,5,3307,pdf,"121 - 08-03-2025 - Email to Peter Mandelson from Michael Ellam (Second  Permanent Secretary, European Union and Internat"
+122,10-03-2025,email_thread,2,854,pdf,"122 - 10-03-2025 - Emails between Peter Mandelson, Ailsa Terry (Private  Secretary for Foreign Affairs, No.10) and other"
+123,10-03-2025,email_thread,4,4328,pdf,"123 - 10-03-2025 - Emails between Peter Mandelson and Ailsa Terry (Private  Secretary for Foreign Affairs, No.10) Person"
+124,11-03-2025,email_thread,13,23778,pdf,"124 - 11-03-2025 - Emails between Ailsa Terry (Private Secretary for Foreign Affairs,  No.10), Varun Chandra (Prime Mini"
+125,12-03-2025,email_thread,2,1343,pdf,125 - 12-03-2025 - Email from Peter Mandelson to Sir Oliver Robbins (former Permanent  Under-Secretary of State for Fore
+126,11-03-2025,email_thread,2,128,pdf,"126 - 11-03-2025 - Email to Peter Mandelson from Ed Llewellyn (former HM Ambassador to Italy,  FCDO) Personal JCS JCS JC"
+127,13-03-2025,email_thread,5,6722,mixed,"127 - 13-03-2025 - Emails between Peter Mandelson, Menna Rawlings (former HM"
+128,13-03-2025,email_thread,1,589,ocr,128 - 13-03-2025 - Email from Peter Mandelson to Michael Ellam (Second
+129,13-03-2025,email_thread,5,6874,mixed,"129 - 13-03-2025 - Emails between Peter Mandelson, Andrew Mitchell (HM Ambassador to Germany, FCDO) and others"
+130,13-03-2025,email_thread,2,1428,mixed,"130 - 13-03-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No.10) and others"
+131,15-03-2025,email_thread,2,2113,mixed,"131 - 15-03-2025 - Email between Peter Mandelson, Jonathan Reynolds (former Secretary of State, DBT) and others"
+132,15-03-2025,letter,2,737,pdf,"132 - 15-03-2025 - Letter from Peter Mandelson to Jonathan Reynolds  (former Secretary of State, DBT) Personal *** 389"
+133,15-03-2025,email_thread,3,5575,mixed,"133- 15-03-2025 - Email from Peter Mandelson to Peter Kyle (former Secretary of State for Science, Innovation and Techno"
+134,16-03-2025,email_thread,3,888,mixed,134 - 16-03-2025 - Email to Peter Mandelson from Sir Oliver Robbins (former Permanent Under-Secretary of State for Forei
+135,16-03-2025,email_thread,3,4866,mixed,"135 - 16-03-2025 - Email to Peter Mandelson from Andrew Mitchell (HM Ambassador to Germany, FCDO)"
+136,13-03-2025,email_thread,2,471,ocr,"136 - 13-03-2025 - Email from Peter Mandelson to Matthew Doyle (former Director of Communications, No.10)"
+137,18-03-2025,email_thread,5,6625,mixed,137 - 18-03-2025 - Emails between Peter Mandelson and Andrew Mitchell (HM Ambassador
+138,19-03-2025,email_thread,6,7669,mixed,138 - 19-03-2025 - Email from Peter Mandelson to Peter Kyle (former Secretary of State for
+139,19-03-2025,email_thread,5,7486,mixed,"139 - 19-03-2025 - Emails between Peter Mandelson and Michael Ellam Second Permanent Secretary, European Union and Inter"
+140,20-03-2025,email_thread,7,4474,mixed,"140 - 20-03-2025 - Emails between Peter Mandelson and Matthew Collins (Deputy National Security Adviser, CO) Mungo Woodi"
+141,20-03-2025,email_thread,2,1308,mixed,141 - 20-03-2025 - Emails between Peter Mandelson and Sir Oliver Robbins (former Permanent Under-Secretary for Foreign A
+142,23-03-2025,email_thread,1,704,ocr,"142 - 23-03-2025 - Email from Sir Oliver Robbins (former Permanent Under- Secretary for Foreign Affairs, FCDO) to Peter "
+143,23-03-2025,letter,2,597,mixed,"143 - 23-03-2025 - Letter from Sir Oliver Robbins (former Permanent Under-Secretary for Foreign Affairs, FCDO"
+144,23-03-2025,email_thread,1,389,ocr,144 - 23-03-2025 - Email from Peter Mandelson to Sir Oliver Robbins (former Permanent Under-Secretary for Foreign Affair
+145,24-03-2025,email_thread,2,2053,mixed,"145 - 24-03-2025 - Emails between Peter Mandelson and Kumar lyer (Ambassador and Permanent Representative, UK Mission to"
+146,25-03-2025,email_thread,3,1144,mixed,146 - 25-03-2025 - Emails between Peter Mandelson and Sir Oliver Robbins (former Permanent Under-Secretary of State for 
+147,26-03-2025,meeting_note,2,1455,ocr,"147 - 26-03-2025 - Meeting between Peter Mandelson, Peter Kyle (former Secretary of State for Science, Innovation and Te"
+148,28-03-2025,email_thread,3,1769,mixed,"148 - 28-03-2025 - Email from Peter Mendelson to Michael Ellam (Second Permanent Secretary, European Union and Internati"
+149,28-03-2025,email_thread,2,1134,ocr,149 - 28-03-2025 - Email between Peter Mandelson and Karen Pierce (former HM
+150,28-03-2025,email_thread,2,787,ocr,150 - 28-03-2025 - Email exchange between Peter Mandelson and Sir Oliver Robbins (former Permanent Under-Secretary of St
+151,28-03-2025,email_thread,2,1936,ocr,151 - 28-03-2025 - Email between Peter Mandelson and Sir Oliver Robbins. (former Permanent Under-Secretary at FCDO)
+152,30-03-2025,email_thread,3,1444,ocr,152 - 30-03-2025 - Emails between Peter Mandelson and Varun Chandra (Prime Minister's Special Advisor on Business and In
+153,30-03-2025,email_thread,4,2599,mixed,"153 - 30-03-2025 - Email from Peter Mandelson to Sir Christian Turner (former Political Director, FCDO)"
+154,30-03-2025,email_thread,3,1232,pdf,154 - 30-03-2025 - Email from Peter Mandelson to Varun Chandra (Prime Minister's Special  Advisor on Business and Invest
+155,31-03-2025,email_thread,2,2478,ocr,"155 - 31-03-2025 - Emails between Peter Mandelson, Sir Oliver Robbins (former Permanent Under-Secretary of State for For"
+156,31-03-2025,email_thread,1,618,ocr,"156 - 31-03-2025 - Email between Peter Mandelson, Michael Ellam (Second Permanent Secretary, European Union and Internat"
+157,31-03-2025,email_thread,1,202,ocr,"157- 31-03-2025 - Email from Peter Mandelson to Jonathan Powell (National Security Adviser, CO)"
+158,31-03-2025,email_thread,3,10864,mixed,"158 - 31-03-2025 - Email between Peter Mandelson, Peter Kyle (former Secretary of State for Science."
+159,01-04-2025,email_thread,1,548,ocr,"159 - 01-04-2025 - Email between Peter Mandelson, Morgan McSweeney (former Chief of Staff to the Prime Minister, No.10) "
+160,01-04-2025,email_thread,1,445,ocr,"160 - 01-04-2025 - Emails between Peter Mandelson, Jonathan Powell (National Security Adviser, CO) and others"
+161,02-04-2025,email_thread,3,2103,ocr,"161 - 02-04-2025 - Emails between Peter Mandelson, Michael Ellam (Second Permanent Secretary, European Union and Interna"
+162,02-04-2025,email_thread,1,469,ocr,162 - 02-04-2025 - Emails from Peter Mandelson to Pat McFadden (former Chancellor of the Duchy of Lancaster and Minister
+163,02-04-2025,email_thread,1,1108,ocr,"163 - 02-04-2025 - Emails between Peter Mandelson, Matthew Collins (Deputy National Security Adviser, CO), Mungo Woodifi"
+164,02-04-2025,email_thread,7,9854,mixed,"164 - 02-04-2025 - Emails between Peter Mandelson, Michael Ellam (Second Permanent"
+165,02-04-2025,email_thread,2,732,ocr,"165 - 02-04-2025 - Emails between Peter Mandelson, Morgan McSweeney (former Chief of"
+166,02-04-2025,email_thread,1,1256,ocr,"166 - 02-04-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No 10) and others"
+167,03-04-2025,email_thread,3,2217,mixed,"167 - 03-04-2025 - Emails between Peter Mandelson, Sir Oliver Robbins (former Permanent Under-Secretary of State for For"
+168,03-04-2025,email_thread,2,976,mixed,"168 - 03-04-2025 - Emails between Peter Mandelson, Nicholas Alton (former"
+169,03-04-2025,email_thread,3,2596,mixed,"169 - 03-04-2025 - Email between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No 10) and others"
+170,04-04-2025,email_thread,3,1816,pdf,170 - 04-04-2025 - Emails between Peter Mandelson and Caroline Hurndall (Principal Private  Secretary to the Foreign Sec
+171,04-04-2025,email_thread,2,1696,mixed,"171 - 04-04-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No.10) and Varun "
+172,05-04-2025,transcript,17,56446,mixed,172 - 05-04-2025 - Email from Peter Mandelson to Rachel Reeves (Chancellor of the Exchequer)
+173,06-04-2025,email_thread,6,11183,mixed,"173 - 06-04-2025 - Email to Peter Mandelson from Ed Llewellyn (former HM  Ambassador to Italy, FCDO) Personal Personal P"
+175,07-04-2025,email_thread,2,1079,mixed,"175 - 07-04-2025 - Emails between Peter Mandelson and Jon Garvie (former Chief of Staff to the Foreign Secretary, FCDO)"
+176,08-04-2025,email_thread,5,3495,ocr,"176 - 08-04-2025 - Emails between Peter Mandelson and Ailsa Te! Secretary for Foreign Affairs, No. 10)"
+178,08-04-2025,email_thread,2,2238,ocr,178 - 08-04-2025 - Emails between Peter Mandelson and Ailsa Terry (Private Secretal
+179,09-04-2025,email_thread,4,3308,ocr,179 - 09-04-2025 - Email from Peter Mandelson to Michael Ellam (Second
+181,11-04-2025,email_thread,3,1632,mixed,181 - 11-04-2025 - Emails from Peter Mandelson to Stephanie Driver (former Director of
+182,11-04-2025,email_thread,1,56,pdf,"182 - 11-04-2025 - Emails between Peter Mandelson,Sir Oliver Robbins (former Permanent Under- Secretary of State for For"
+183,12-04-2025,email_thread,2,1119,ocr,"183 - 12-04-2025 - Emails between Peter Mandelson, Jonathan Powell (National Security Adviser, CO) Stephanie Driver (for"
+184,14-04-2025,email_thread,2,945,mixed,184 - 14-04-2025 - Emails between Peter Mandelson and Pat McFadden (former Chancellor of the Duchy of Lancaster and Mini
+185,15-04-2025,meeting_note,3,3509,mixed,185 - 15-04-2025 - Meeting between Peter Mandelson and Graeme Biggar (Director General of the National Crime Agency)
+186,17-04-2025,email_thread,1,1583,ocr,"186 - 17-04-2025 - Emails between Peter Mandelson and Matthew Collins (Deputy National Security Adviser, CO)"
+187,17-04-2025,email_thread,2,933,mixed,187 - 17-04-2025 - Emails between Peter Mandelson and Richard Moore (former Chief of the Secret Intelligence Service)
+188,19-04-2025,email_thread,2,1548,mixed,188 - 19-04-2025 - Email from Peter Mandelson to Sir Oliver Robbins (former
+189,21-04-2025,email_thread,2,406,ocr,"189 - 21-04-2025 - Email from Peter Mandelson to Morgan McSweeney (former Chief of Staff to the Prime Minister, No.10)"
+190,22-04-2025,email_thread,2,1632,mixed,"190 - 22-04-2025 - Email to Peter Mandelson from Sir Christian Turner (former Political Director, FCDO)"
+191,23-04-2025,email_thread,4,2586,mixed,"191 - 23-04-2025 - Emails between Peter Mandelson, Ed Llewellyn (former HM Ambassador to Italy, FCDO) and others"
+192,23-04-2025,email_thread,5,2124,mixed,"192 - 23-04-2025 - Emails between Peter Mandelson, Michael Ellam (Second Permanent Secretary,  European Union and Intern"
+193,24-04-2025,email_thread,2,530,mixed,"193 - 24-04-2025 - Email to Peter Mandelson from Ed Llewellyn (former HM Ambassador to Italy, FCDO’"
+194,24-04-2025,email_thread,6,5306,mixed,"194 - 24-04-2025 - Emails between Peter Mandelson, Ailsa Terry (Private Secretary for Foreign Affairs, No. 10) and other"
+195,25-04-2025,meeting_note,2,1349,ocr,"195 - 25-04-2025 - Meeting between Peter Mandelson and eth Nurse (Director General, Financial Services, HMT)"
+196,25-04-2025,email_thread,2,1477,mixed,196 - 25-04-2025 - Email to Peter Mandelson from Sir Oliver Robbins (former Permanent Under-Secretary of State for Forei
+197,26-04-2025,email_thread,4,1071,mixed,"197 - 26-04-2025 - Emails between Peter Mandelson and Karen Pierce (former HM Ambassador to the United States, FCDO)"
