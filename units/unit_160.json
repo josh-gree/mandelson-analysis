@@ -1,0 +1,20 @@
+{
+  "unit_id": 160,
+  "date": "01-04-2025",
+  "type": "email",
+  "description": "160 - 01-04-2025 - Emails between Peter Mandelson, Jonathan Powell (National Security Adviser, CO) and others",
+  "participants": [
+    {
+      "name": "Jonathan Powell",
+      "role": "National Security Adviser",
+      "dept": "CO"
+    }
+  ],
+  "page_count": 1,
+  "pages": [
+    493
+  ],
+  "source_mix": "ocr",
+  "text": "Security Adviser, CO) and others\n\nFrom: Jonathan Powell Personal\nSent: Tue 01/04/2025 11:58:43 AM (UTC)\nTo: Peter Mandelson Personal\nCe: JCS JCS\nSubject: Re: ***\nOFFICIAL-SENSITIVE\n\nYes we are making sure that happens. Matt Collins and his team are doing it.\n\nFrom: Peter Mandelson\nSent: Monday, March 31, 2025 5:03:01 PM\nTo: Jonathan Powell\ncc: JCS\nSubject:\n\nThanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464",
+  "char_count": 445
+}

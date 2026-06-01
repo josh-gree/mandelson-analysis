@@ -1,0 +1,20 @@
+{
+  "unit_id": 157,
+  "date": "31-03-2025",
+  "type": "email",
+  "description": "157- 31-03-2025 - Email from Peter Mandelson to Jonathan Powell (National Security Adviser, CO)",
+  "participants": [
+    {
+      "name": "Email from Peter Mandelson to Jonathan Powell",
+      "role": "National Security Adviser",
+      "dept": "CO"
+    }
+  ],
+  "page_count": 1,
+  "pages": [
+    488
+  ],
+  "source_mix": "ocr",
+  "text": "From: Peter Mandelson Personal\n\nSent: Mon 31/03/2025 4:03:01 PM (UTC)\nTo: Jonathan Powell Personal\nCe: Jcs\n\nSubject: “\n\nThanks\nPeter\nLord Mandelson\n\nHM Ambassador. Washinaton DC\nPersonal | Personal\n\n459",
+  "char_count": 202
+}
