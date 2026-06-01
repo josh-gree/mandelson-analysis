@@ -16732,5 +16732,448 @@
         "context": "Following up on invitation on behalf of Lord Mandelson"
       }
     ]
+  },
+  "51_0": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government",
+        "context": "Sender of email, discussing meeting arrangements"
+      },
+      {
+        "name": "Katie Martin",
+        "role": "Unknown",
+        "organisation": "HM Treasury (HMT)",
+        "context": "Recipient of email regarding meeting with Rachel"
+      },
+      {
+        "name": "Rachel",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Subject of proposed meeting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HM Treasury",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "London",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Proposed meeting with Rachel",
+        "date": "2024-11-18",
+        "participants": [
+          "Peter Mandelson",
+          "Katie Martin",
+          "Rachel"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SENT_TO",
+        "object": "Katie Martin",
+        "date": "2024-11-18",
+        "context": "Email about meeting arrangements"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "PROPOSED_MEETING_WITH",
+        "object": "Rachel",
+        "date": "2024-11-18",
+        "context": "Offered to visit after returning to London at 3:30"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "WORKS_AT",
+        "object": "HM Treasury",
+        "date": "2024-11-18",
+        "context": "Email address indicates HMT affiliation"
+      }
+    ]
+  },
+  "47_3": {
+    "people": [
+      {
+        "name": "Minister JONES",
+        "role": "Minister",
+        "organisation": "DBT (Department for Business and Trade)",
+        "context": "Recipient of invitation to roundtable discussion on Clean Energy Mission"
+      },
+      {
+        "name": "Sarah Jones MP",
+        "role": "Minister/Member of Parliament",
+        "organisation": "DBT (Department for Business and Trade)",
+        "context": "Invited to lead roundtable discussion on Clean Energy Mission and industrial strategy"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "Lord, President and Co-Founder",
+        "organisation": "Global Counsel",
+        "context": "Organizing roundtable discussion on Clean Energy Mission as lever for industrial strategy"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "DBT",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Department for Business and Trade",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Global Counsel",
+        "type": "private",
+        "country": "UK"
+      },
+      {
+        "name": "SSE",
+        "type": "private",
+        "country": "UK"
+      }
+    ],
+    "places": [
+      {
+        "name": "5 Welbeck Street, London, W1G 9YQ",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "UK",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Roundtable discussion on how the Clean Energy Mission can be an important lever for building out industrial strategy",
+        "date": "Tuesday 10th or Wednesday 11th December 2024 (proposed)",
+        "participants": [
+          "Peter Mandelson",
+          "Sarah Jones MP",
+          "SSE representatives",
+          "industry people",
+          "Labour MPs",
+          "policy people",
+          "senior union people",
+          "relevant influencers"
+        ]
+      },
+      {
+        "description": "Previous roundtable that Sarah Jones agreed to participate in before election was called",
+        "date": "Before election (2024)",
+        "participants": [
+          "Sarah Jones MP",
+          "Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "INVITED",
+        "object": "Sarah Jones MP",
+        "date": "2024-09-13",
+        "context": "To lead roundtable discussion on Clean Energy Mission and industrial strategy"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "FOUNDED",
+        "object": "Global Counsel",
+        "date": null,
+        "context": "President and Co-Founder of Global Counsel"
+      },
+      {
+        "subject": "Sarah Jones MP",
+        "predicate": "WORKS_FOR",
+        "object": "DBT",
+        "date": "2024",
+        "context": "Minister at Department for Business and Trade"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ORGANIZING",
+        "object": "Roundtable on Clean Energy Mission",
+        "date": "2024-12-10 or 2024-12-11",
+        "context": "Planning roundtable discussion on Clean Energy Mission as lever for industrial strategy"
+      },
+      {
+        "subject": "SSE",
+        "predicate": "PARTICIPATING_IN",
+        "object": "Roundtable on Clean Energy Mission",
+        "date": "2024-12-10 or 2024-12-11",
+        "context": "Will give initial remarks at roundtable"
+      },
+      {
+        "subject": "Industry people",
+        "predicate": "HIGHLIGHTED_TO",
+        "object": "Peter Mandelson",
+        "date": "2024",
+        "context": "Highlighted that government's decarbonisation agenda presents economic opportunity for onshore cable manufacturing, carbon capture, and offshore wind turbine making"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "Clean Energy Mission industrial strategy opportunities",
+        "date": "2024",
+        "context": "Topic of roundtable: onshore cable manufacturing, carbon capture, offshore wind turbine making, green manufacturing competitiveness"
+      },
+      {
+        "subject": "Sarah Jones MP",
+        "predicate": "AGREED_TO_PARTICIPATE",
+        "object": "Previous roundtable",
+        "date": "Before 2024 election",
+        "context": "Agreed to participate in roundtable before election was called"
+      },
+      {
+        "subject": "Global Counsel staff",
+        "predicate": "SENT_TO",
+        "object": "Minister JONES",
+        "date": "2024-09-26",
+        "context": "Follow-up on roundtable invitation"
+      },
+      {
+        "subject": "Global Counsel staff",
+        "predicate": "SENT_TO",
+        "object": "Minister JONES",
+        "date": "2024-10-07",
+        "context": "Second follow-up on roundtable invitation"
+      }
+    ]
+  },
+  "52_0": {
+    "people": [
+      {
+        "name": "Mervyn Thomas",
+        "role": "Chief People Officer",
+        "organisation": "FCDO",
+        "context": "Sending email about PM pre-appointment letter"
+      },
+      {
+        "name": "Tim Jones",
+        "role": "Dir Finance",
+        "organisation": "FCDO",
+        "context": "Recipient of email, thanked by Mervyn Thomas"
+      },
+      {
+        "name": "Ian Collard",
+        "role": null,
+        "organisation": "FCDO",
+        "context": "Recipient of email"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington (appointee)",
+        "organisation": null,
+        "context": "Subject of pre-appointment letter referenced in email subject line"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "Washington",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email communication regarding PM pre-appointment letter",
+        "date": "2025-01-08",
+        "participants": [
+          "Mervyn Thomas",
+          "Tim Jones",
+          "Ian Collard"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Mervyn Thomas",
+        "predicate": "SENT_TO",
+        "object": "Tim Jones",
+        "date": "2025-01-08",
+        "context": "Email about PM pre-appointment letter"
+      },
+      {
+        "subject": "Mervyn Thomas",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2025-01-08",
+        "context": "Email about PM pre-appointment letter"
+      },
+      {
+        "subject": "Mervyn Thomas",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2025-01-08",
+        "context": "Chief People Officer at FCDO"
+      },
+      {
+        "subject": "Tim Jones",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2025-01-08",
+        "context": "Director of Finance"
+      },
+      {
+        "subject": "Ian Collard",
+        "predicate": "WORKS_FOR",
+        "object": "FCDO",
+        "date": "2025-01-08",
+        "context": "Email recipient"
+      }
+    ]
+  },
+  "51_1": {
+    "people": [
+      {
+        "name": "Peter",
+        "role": "Unknown (recipient of email)",
+        "organisation": "Unknown",
+        "context": "Being invited to meet with Rachel to discuss trade; saw Katie briefly on Friday night"
+      },
+      {
+        "name": "Katie Martin",
+        "role": "Chief of Staff to the Chancellor",
+        "organisation": "HM Treasury",
+        "context": "Sending email to arrange meeting between Peter and Rachel"
+      },
+      {
+        "name": "Rachel",
+        "role": "Chancellor (implied)",
+        "organisation": "HM Treasury",
+        "context": "Wants to discuss trade with Peter before her late morning meeting"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown (scheduling/coordination role)",
+        "organisation": "Unknown",
+        "context": "CC'd on email to help with exact timings for meeting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HM Treasury",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "1 Horse Guards Road, London, SW1A 2HQ",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Brief meeting between Katie and Peter",
+        "date": "Friday night (before 2024-11-18)",
+        "participants": [
+          "Katie Martin",
+          "Peter"
+        ]
+      },
+      {
+        "description": "Rachel's meeting (late morning)",
+        "date": "2024-11-19",
+        "participants": [
+          "Rachel"
+        ]
+      },
+      {
+        "description": "Proposed meeting between Rachel and Peter to discuss trade",
+        "date": "Late PM 2024-11-18 or early morning 2024-11-19",
+        "participants": [
+          "Rachel",
+          "Peter"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Katie Martin",
+        "predicate": "WORKS_FOR",
+        "object": "Rachel",
+        "date": "2024-11-18",
+        "context": "Katie is Chief of Staff to the Chancellor (Rachel)"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "SENT_TO",
+        "object": "Peter",
+        "date": "2024-11-18",
+        "context": "Email requesting meeting about trade"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "MET_WITH",
+        "object": "Peter",
+        "date": "Friday night (before 2024-11-18)",
+        "context": "Brief meeting on Friday night"
+      },
+      {
+        "subject": "Rachel",
+        "predicate": "WANTS_TO_DISCUSS",
+        "object": "trade",
+        "date": "2024-11-18",
+        "context": "Wants to discuss trade with Peter before her late morning meeting"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "CC_TO",
+        "object": "JCS",
+        "date": "2024-11-18",
+        "context": "CC'd on email to help coordinate meeting timings"
+      },
+      {
+        "subject": "Rachel",
+        "predicate": "SCHEDULED_MEETING",
+        "object": "unknown party",
+        "date": "2024-11-19 late morning",
+        "context": "Meeting that Rachel wants to discuss trade before"
+      }
+    ]
   }
 }
