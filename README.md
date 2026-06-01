@@ -419,3 +419,65 @@ He was about to meet Meta that afternoon and sought Biggar's views before going 
 
 Taken together, the meeting notes span nine months and cover Cabinet Office (EU Reset), DSIT (twice, plus a joint company meeting), the NIO, the Treasury, Defence, the NCA, and HMT Financial Services. Several meetings were deliberately not readouted — unit_056 records three separate Mandelson/Ellam contacts with the note "there was no readout from this meeting." The tour was not a standard induction for a new ambassador; it was an incoming political figure systematically mapping the government, selectively choosing what to put on the record, and using the meetings to advance policy arguments — most strikingly, a direct critique of the government's own Budget delivered to the Treasury Permanent Secretary before he had even left for Washington.
 
+---
+
+### 11. Mandelson on Starmer: private doubts, public advocacy, and a "stern injunction"
+
+The documents span Mandelson's relationship with Keir Starmer from July 2024 — before the appointment was announced — through to April 2025. They reveal a striking arc: private scepticism about the government's coherence and Starmer's policy operation before the appointment, followed by wholehearted public advocacy for the PM once in post, followed by No.10 placing an explicit restriction on what Mandelson was permitted to say.
+
+**"Doing on stilts what we attempted to do 1997–2010" (units 048 and 049, Jul–Sep 2024)**
+
+In late July 2024, within weeks of Labour taking office, Mandelson wrote a personal memo to Lord Vallance that amounts to a candid assessment of the new government's prospects. The memo — sent from his Global Counsel email, marked personal, and not intended for wide circulation ("It is meant to be personal not department wide distribution!") — opens as a comparison with the Blair years:
+
+> *"The new government is now trying to do on stilts what we attempted to do 1997–2010."*
+> — Peter Mandelson to Lord Vallance, unit_048, 25 Jul 2024
+
+He followed this by questioning whether the government had learned the right lessons from New Labour's own failures:
+
+> *"I feel that Keir's government is trying to achieve a similar thing all over again but I am not aware of any granular attempt to work out how better to do so based on previous experience."*
+
+The critique extends to the structure of the government itself. The No.10 policy operation comes in for particular scepticism:
+
+> *"Labour has, let's say, two terms to succeed. So far Keir's team has not prioritised policy (not surprising given how much else had to be re-built after Corbyn). And the No 10 policy team is not large or experienced."*
+
+He then turns to the government's economic strategy, questioning whether the flagship policies were properly integrated:
+
+> *"My fear is that Rachel's growth plan, Jonny's industrial strategy, Angela's planning and devolution reforms and DSIT's science drive are not really joined up."*
+
+And on the government's public narrative, he offered a pointed assessment:
+
+> *"In policy and narrative, the government is over reliant on building houses and energy infrastructure as the golden route forward. These can help but there are limits to their impact on the economy's underlying productivity, ability to generate new businesses, establish UK supply chains and increase exports."*
+
+This memo was written five months before Mandelson was appointed Ambassador. He was, at this point, still running Global Counsel and operating as a private citizen. The frankness of the assessment — directed at a Cabinet minister, questioning whether the No.10 policy team was up to the job — is notable from someone who would shortly accept the government's most senior diplomatic appointment.
+
+**Writing Starmer's lines for Trump (unit_083, 21 Feb 2025)**
+
+By February 2025, the private scepticism has been entirely replaced by advocacy. In the media bullets Mandelson sent to McSweeney and Matthew Doyle (No.10 Communications Director) ahead of Starmer's Washington visit, the PM is portrayed in uniformly confident terms — with Mandelson himself as the author of Starmer's self-presentation:
+
+> *"The PM is confident of his personal relationship with President Trump. He has deliberately used his recent telephone calls with him to establish a strong personal bond rather than take on wider policy issues."*
+
+> *"The PM is absolutely convinced that... the potential for the US-UK relationship to make both countries safer and stronger is enormous. He has great regard for the President's ambitions for the US and the way in which he has hit the ground running and wants Britain to be not only America's pre-eminent security ally but its pre-eminent critical technology partner as well."*
+> — Peter Mandelson, media bullets for PM's visit, unit_083, 21 Feb 2025
+
+Whether these formulations accurately reflect Starmer's own views, or represent Mandelson's preferred framing, the documents cannot say. What they show is Mandelson as the author of the PM's Washington persona.
+
+**"I am under a stern injunction from No10 not to share my thoughts" (unit_169, 4 Apr 2025)**
+
+By early April, the relationship had acquired a different quality. Mandelson was forwarding a document to FCDO's Caroline Hurndall and Oliver Robbins when he added a note that suggests No.10 had placed explicit controls on his public commentary:
+
+> *"I am under a stern injunction from No10 not to share my thoughts so please protect."*
+> — Peter Mandelson to Caroline Hurndall and Oliver Robbins, unit_169, 4 Apr 2025
+
+The context is the post-"Liberation Day" tariff crisis. Mandelson had already sent McSweeney a message about controlling the information flow out of Whitehall. Now No.10 was managing him in return. What thoughts he had been enjoined from sharing are not disclosed.
+
+**"The PM found your insight v valuable" (unit_178, 8 Apr 2025)**
+
+Despite the injunction, Mandelson was still being called in for direct meetings with Starmer. In April, he sent Ailsa Terry a SWOT analysis of the UK-US relationship — Strengths, Weaknesses, Opportunities, Threats — for a No.10 meeting. Terry's reply confirmed the PM had been present:
+
+> *"Thanks so much for coming today — the PM found your insight v valuable as he said."*
+> — Ailsa Terry to Peter Mandelson, unit_178, 8 Apr 2025
+
+**The arc**
+
+The trajectory across the corpus is compressed but clear. In July 2024, writing privately, Mandelson doubted the government was doing enough to learn from New Labour's failures, questioned whether its flagship economic policies were joined up, and assessed Starmer's own policy operation as under-resourced and inexperienced. Six months later, he was writing the PM's public lines for the most important bilateral of Starmer's first year. Six weeks after that, No.10 was telling him not to share his thoughts at all. The documents capture the relationship between Mandelson and the Prime Minister in its full complexity — adviser, advocate, and occasional liability, managed from Downing Street throughout.
+
