@@ -230,3 +230,56 @@ And in his scenesetter to Business Secretary Jonathan Reynolds ahead of Reynolds
 
 The China thread in this corpus runs from a paid Shanghai conference engagement timed to avoid FCDO oversight, through messaging management from day one, to a fully formed Ambassador-level framing in which the UK positions itself explicitly on the US side of an emerging trade bloc confrontation with China. Whether that represents genuine strategic alignment or a deliberate effort to demonstrate China-scepticism given Mandelson's past associations, the documents don't say. What they do show is that China was never far from the surface — and that officials were anxious about it from the first week.
 
+---
+
+### 8. Russia and Ukraine: Mandelson writing the PM's war messaging, a UN crisis, and the April peace talks
+
+Ukraine is the most operationally intensive foreign policy thread in the corpus. Mandelson appears not as a passive diplomatic conduit but as an active shaper of how the UK positions itself on the war — writing Starmer's public lines, being pulled into real-time UN crisis management, and eventually being looped into the London peace talks preparations.
+
+**Mandelson writes Starmer's Russia/Ukraine framing (unit_083, 21 Feb 2025)**
+
+The most striking passage is Mandelson's personal media bullets for Starmer's February 2025 Washington summit — sent directly to McSweeney and Matthew Doyle (No.10 Communications Director). On Russia and Ukraine, the framing is entirely Mandelson's own:
+
+> *"PM believes he can be a bridge between EU and US views re Ukraine because he strongly believes that the only viable outcome of any negotiation has to be a permanent peace not a temporary ceasefire but he also acknowledges that, to get Russia to the table, President Trump's relationship with Putin has to be utilised and that only the US has the heft in Putin's eyes to get talks started."*
+> — Peter Mandelson to Morgan McSweeney and Matthew Doyle, unit_083, 21 Feb 2025
+
+This is a significant formulation. Mandelson is framing the UK position as explicitly endorsing Trump's Putin relationship as the necessary lever — a stance well to the right of where most European allies stood in February 2025. The bullets also frame NATO burden-sharing in terms of a "growth deal" centrepiece, subordinating the security discussion to the economic one.
+
+**The UN Ukraine resolution crisis (unit_086, 23 Feb 2025)**
+
+Two days later, Mandelson was directly involved in a real-time diplomatic crisis: the United States had proposed a rival UN Security Council resolution on Ukraine, explicitly "pitting it against Europe." The email chain — copied to ambassadors across multiple capitals, the UN mission, FCDO, and No.10 — shows the UK scrambling to coordinate a position before a Monday morning vote:
+
+> *"UN press are aware and starting to report the US initiative. Reuters filed with the headline: 'US proposes rival UN action on Ukraine, pitting it against Europe'. On current trajectory — if the US go ahead with their resolutions as drafted, and Ukraine too — is likely to be the framing of media reporting out of Monday: whether the 'world' is 'siding' with the Ukrainian or the US vision of peace."*
+> — Fergus Eckersley (Political Coordinator, UKMIS New York), unit_086, 21 Feb 2025
+
+Mandelson is on the chain alongside ambassadors from Washington, New York (UKMIS), and EECAD (Eastern Europe and Central Asia Directorate). His reply is redacted, but his inclusion in this urgent coordination — not as a passive observer but as a substantive voice — is notable. UK officials needed instructions and a "cleared EOV [Explanation of Vote] by 0800 NY time on Monday."
+
+**Intelligence from European posts fed directly to Mandelson (units 084 and 125)**
+
+On the same day as the media bullets, UK Ambassador to Italy Ed Llewellyn forwarded Mandelson a private intelligence assessment of Italy's Ukraine position — Meloni's approach to the conflict — marked OFFICIAL-SENSITIVE:
+
+> *"To see... some straws in the wind here on Ukraine over the last 24 hours."*
+> — Ed Llewellyn to Peter Mandelson, unit_084, 21 Feb 2025
+
+Three weeks later (unit_125, 11 Mar 2025), Llewellyn again sent Mandelson a personal "sitrep from Rome" on Meloni's Ukraine position. The content of the sitrep itself is heavily redacted, but the pattern — European ambassadors feeding Mandelson informal intelligence on allied leaders' private positions — suggests he was operating as a node for intelligence on the Western coalition's internal Ukraine dynamics, not just as Washington's liaison.
+
+**"Got the Ukraine point" — the State Visit linkage (unit_153, 30 Mar 2025)**
+
+In the State Visit coordination thread, McSweeney sent Mandelson and Robbins a message with a "Ukraine point" attached to the State Visit planning. Mandelson's reply acknowledges it directly:
+
+> *"Got the Ukraine point. On SV, it helps that he agreed dates on Friday for Gulf visits in May."*
+> — Peter Mandelson to Morgan McSweeney and Oliver Robbins, unit_153, 30 Mar 2025
+
+The content of McSweeney's Ukraine point is redacted, but the juxtaposition — Ukraine policy linked explicitly to State Visit scheduling in the same email — indicates how tightly the political and diplomatic tracks were being managed together from No.10.
+
+**The London Russia/Ukraine peace talks (unit_190, 22 Apr 2025)**
+
+By late April 2025, Mandelson was being looped directly into the logistics of the London Russia/Ukraine peace talks, scheduled for 23 April at 1 Carlton Gardens. Christian Turner (Political Director, FCDO) forwarded him the internal FCDO brief on the day's structure:
+
+> *"You and copy addressees might welcome a brief update on our plans to host the next round of Russia/Ukraine talks in London on Wednesday (23 April), following on from the meetings in Paris on Thursday. We have moved fast over the Easter weekend to confirm that the meetings will take place at 1 Carlton Gardens from c1000 until 1600 on Wednesday."*
+> — FCDO internal email forwarded to Mandelson, unit_190, 22 Apr 2025
+
+**The pattern**
+
+On Russia/Ukraine, Mandelson was not a passive implementer of UK policy — he was writing the messaging, being pulled into real-time UN voting crises, receiving private intelligence from European capitals, and included in peace talks logistics. The framing he authored in February — that Trump's relationship with Putin is the necessary lever — positioned the UK conspicuously close to Washington's line at a moment of acute trans-Atlantic tension over the war's direction.
+
