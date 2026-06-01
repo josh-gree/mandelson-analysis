@@ -17175,5 +17175,2549 @@
         "context": "Meeting that Rachel wants to discuss trade before"
       }
     ]
+  },
+  "53_0": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of US Global Issues and Canada Team",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Sending email about Strategic Defence Review meeting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "US Global Issues and Canada Team",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US and Canada Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Americas and SIDS Directorate",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Meeting at Reception regarding Strategic Defence Review",
+        "date": "2025-01-08",
+        "participants": [
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "HEADS",
+        "object": "US Global Issues and Canada Team",
+        "date": "2025-01-08",
+        "context": "Email signature indicates leadership role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-08",
+        "context": "Email signature indicates employment"
+      },
+      {
+        "subject": "US Global Issues and Canada Team",
+        "predicate": "PART_OF",
+        "object": "US and Canada Department",
+        "date": "2025-01-08",
+        "context": "Organizational structure in email signature"
+      },
+      {
+        "subject": "US and Canada Department",
+        "predicate": "PART_OF",
+        "object": "Americas and SIDS Directorate",
+        "date": "2025-01-08",
+        "context": "Organizational structure in email signature"
+      },
+      {
+        "subject": "Americas and SIDS Directorate",
+        "predicate": "PART_OF",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-08",
+        "context": "Organizational structure in email signature"
+      }
+    ]
+  },
+  "52_1": {
+    "people": [
+      {
+        "name": "Tim Jones",
+        "role": "Finance Director",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Providing lines on fiduciary responsibility for PM's pre-appointment letter"
+      },
+      {
+        "name": "Mervyn Thomas",
+        "role": "Unknown",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Recipient of email regarding PM's pre-appointment letter"
+      },
+      {
+        "name": "Ian Collard",
+        "role": "Unknown",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Recipient of email regarding PM's pre-appointment letter"
+      },
+      {
+        "name": "Corin Robertson",
+        "role": "Unknown",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Recipient of email regarding PM's pre-appointment letter"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington (appointee)",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Subject of pre-appointment letter regarding financial management responsibilities"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Parliament",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "King Charles Street",
+        "type": "building"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "SW1A 2AH",
+        "type": "building"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      },
+      {
+        "name": "US",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email providing lines on fiduciary responsibility for PM's pre-appointment letter",
+        "date": "2025-01-08",
+        "participants": [
+          "Tim Jones",
+          "Mervyn Thomas",
+          "Ian Collard",
+          "Corin Robertson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Tim Jones",
+        "predicate": "SENT_TO",
+        "object": "Mervyn Thomas",
+        "date": "2025-01-08",
+        "context": "Email regarding PM's pre-appointment letter"
+      },
+      {
+        "subject": "Tim Jones",
+        "predicate": "SENT_TO",
+        "object": "Ian Collard",
+        "date": "2025-01-08",
+        "context": "Email regarding PM's pre-appointment letter"
+      },
+      {
+        "subject": "Tim Jones",
+        "predicate": "SENT_TO",
+        "object": "Corin Robertson",
+        "date": "2025-01-08",
+        "context": "Email regarding PM's pre-appointment letter"
+      },
+      {
+        "subject": "Tim Jones",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-08",
+        "context": "Finance Director at FCDO"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ACCOUNTABLE_FOR",
+        "object": "financial management across US network",
+        "date": "2025-01-08",
+        "context": "Pre-appointment letter responsibilities"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ACCOUNTABLE_FOR",
+        "object": "project delivery across US network",
+        "date": "2025-01-08",
+        "context": "Pre-appointment letter responsibilities"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "RESPONSIBLE_FOR",
+        "object": "counter fraud priorities",
+        "date": "2025-01-08",
+        "context": "Pre-appointment letter responsibilities"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "RESPONSIBLE_FOR",
+        "object": "risk management",
+        "date": "2025-01-08",
+        "context": "Pre-appointment letter responsibilities"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "MUST_COMPLY_WITH",
+        "object": "Parliament's expectations",
+        "date": "2025-01-08",
+        "context": "Financial management requirements"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "MUST_COMPLY_WITH",
+        "object": "FCDO's internal policies",
+        "date": "2025-01-08",
+        "context": "Financial management requirements"
+      },
+      {
+        "subject": "Tim Jones",
+        "predicate": "PROVIDED_GUIDANCE_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-01-08",
+        "context": "Lines on fiduciary responsibility for pre-appointment letter"
+      }
+    ]
+  },
+  "53_1": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of US Global Issues and Canada Team",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Coordinating access and security clearances for Strategic Defence Review team"
+      },
+      {
+        "name": "Lord Robertson",
+        "role": "Defence Reviewer (referenced for security clearance precedent)",
+        "organisation": "Strategic Defence Review",
+        "context": "Mentioned as example of civil servant status for security clearance purposes"
+      },
+      {
+        "name": "Lord M",
+        "role": "Defence Reviewer becoming civil servant",
+        "organisation": "Strategic Defence Review / House of Lords",
+        "context": "Taking leave of absence from House of Lords to perform Defence Review role, security clearance being arranged"
+      },
+      {
+        "name": "MA to the Defence Reviewers",
+        "role": "Military Assistant to the Defence Reviewers",
+        "organisation": "Ministry of Defence - Strategic Defence Review Secretariat",
+        "context": "Coordinating access to FCDO for Defence Review team"
+      },
+      {
+        "name": "JCS (SDR-Secretariat-Mil-SO2)",
+        "role": "Military Staff Officer (SO2) in Strategic Defence Review Secretariat",
+        "organisation": "Ministry of Defence",
+        "context": "Providing support for Defence Review team access arrangements"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Ministry of Defence",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Strategic Defence Review Secretariat",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US and Canada Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Americas and SIDS Directorate",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "MOD Main Building",
+        "type": "building"
+      },
+      {
+        "name": "Whitehall",
+        "type": "region"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "FCDO",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Strategic Defence Review team meeting at FCDO requiring access arrangements",
+        "date": "2025-01-08",
+        "participants": [
+          "JCS",
+          "MA to the Defence Reviewers",
+          "Defence Review team members"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "MA to the Defence Reviewers",
+        "predicate": "SENT_TO",
+        "object": "JCS",
+        "date": "2025-01-08",
+        "context": "Requesting reception assistance for FCDO access"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_IN",
+        "object": "US and Canada Department",
+        "date": "2025-01-08",
+        "context": "Head of US Global Issues and Canada Team"
+      },
+      {
+        "subject": "MA to the Defence Reviewers",
+        "predicate": "WORKS_IN",
+        "object": "Strategic Defence Review Secretariat",
+        "date": "2025-01-08",
+        "context": "Military Assistant role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "COORDINATING_WITH",
+        "object": "Strategic Defence Review Secretariat",
+        "date": "2025-01-08",
+        "context": "Arranging FCDO access and security clearances"
+      },
+      {
+        "subject": "Lord M",
+        "predicate": "TAKING_LEAVE_FROM",
+        "object": "House of Lords",
+        "date": "2025-01-08",
+        "context": "To perform Defence Review role as civil servant"
+      },
+      {
+        "subject": "Lord M",
+        "predicate": "BECOMING",
+        "object": "civil servant",
+        "date": "2025-01-08",
+        "context": "For Strategic Defence Review role"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "DISCUSSED",
+        "object": "security clearances",
+        "date": "2025-01-08",
+        "context": "Comparing Lord M's situation to Lord Robertson precedent"
+      },
+      {
+        "subject": "Defence Review team",
+        "predicate": "REQUIRES_ACCESS_TO",
+        "object": "FCDO",
+        "date": "2025-01-08",
+        "context": "For Strategic Defence Review work"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "ARRANGING",
+        "object": "FCDO reception registration",
+        "date": "2025-01-08",
+        "context": "For Defence Review team members"
+      },
+      {
+        "subject": "Lord Robertson",
+        "predicate": "PRECEDENT_FOR",
+        "object": "Lord M",
+        "date": "2025-01-08",
+        "context": "Civil servant status and security clearance route"
+      }
+    ]
+  },
+  "53_3": {
+    "people": [
+      {
+        "name": "JCS",
+        "role": "Head of US Global Issues and Canada Team / SDR Secretariat Mil SO2",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Coordinating meeting about Strategic Defence Review, works in US and Canada Department, Americas and SIDS Directorate"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "Lord / HM Ambassador to Washington",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Has availability for Strategic Defence Review meeting on 16th January"
+      },
+      {
+        "name": "George Robertson",
+        "role": "Not specified",
+        "organisation": "Not specified",
+        "context": "Recipient of email regarding Strategic Defence Review meeting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US and Canada Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Americas and SIDS Directorate",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "SDR Secretariat",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Strategic Defence Review meeting",
+        "date": "2025-01-16 morning",
+        "participants": [
+          "Peter Mandelson",
+          "George Robertson",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-01-07",
+        "context": "Email about Strategic Defence Review meeting scheduling"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "SENT_TO",
+        "object": "George Robertson",
+        "date": "2025-01-07",
+        "context": "Email about Strategic Defence Review meeting scheduling"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-07",
+        "context": "Head of US Global Issues and Canada Team"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "INVITED_TO",
+        "object": "Strategic Defence Review meeting",
+        "date": "2025-01-16",
+        "context": "Has good availability on morning of 16th January"
+      },
+      {
+        "subject": "George Robertson",
+        "predicate": "INVITED_TO",
+        "object": "Strategic Defence Review meeting",
+        "date": "2025-01-16",
+        "context": "Recipient of meeting invitation"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "OFFERED_TO_HOST",
+        "object": "Strategic Defence Review meeting",
+        "date": "2025-01-16",
+        "context": "Offered to host meeting at FCDO"
+      }
+    ]
+  },
+  "53_5": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government",
+        "context": "Sender of email, responding to George Robertson about Strategic Defence Review"
+      },
+      {
+        "name": "George Robertson",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email, appears to have made a prior request to Peter Mandelson"
+      },
+      {
+        "name": "JCS",
+        "role": "Unknown position at FCDO",
+        "organisation": "FCDO",
+        "context": "Being copied in to arrange something related to Strategic Defence Review"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Government",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email communication regarding Strategic Defence Review arrangement",
+        "date": "2025-01-06",
+        "participants": [
+          "Peter Mandelson",
+          "George Robertson",
+          "JCS"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SENT_TO",
+        "object": "George Robertson",
+        "date": "2025-01-06",
+        "context": "Email about Strategic Defence Review"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "COPIED_IN",
+        "object": "JCS",
+        "date": "2025-01-06",
+        "context": "To arrange something related to Strategic Defence Review"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "WORKS_AT",
+        "object": "FCDO",
+        "date": "2025-01-06",
+        "context": "Mentioned as being at FCDO"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "Strategic Defence Review",
+        "date": "2025-01-06",
+        "context": "Subject of email exchange with George Robertson"
+      }
+    ]
+  },
+  "58_0": {
+    "people": [
+      {
+        "name": "Lindsey Whyte",
+        "role": "Director General — International",
+        "organisation": "HM Treasury",
+        "context": "Had intro call with Lord Mandelson and sent feedback email"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Not specified in this message",
+        "organisation": "Not specified in this message",
+        "context": "Had intro call with Lindsey Whyte"
+      },
+      {
+        "name": "James Roscoe",
+        "role": "Not specified",
+        "organisation": "Not specified",
+        "context": "Recipient of email marked as Sensitive"
+      },
+      {
+        "name": "Ian Ginsberg",
+        "role": "Not specified",
+        "organisation": "HM Treasury",
+        "context": "Recipient of email"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HM Treasury",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Darlington Economic Campus",
+        "type": "government facility",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Darlington Economic Campus",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Intro call between Lindsey Whyte and Lord Mandelson",
+        "date": "2025-01-14 afternoon",
+        "participants": [
+          "Lindsey Whyte",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lindsey Whyte",
+        "predicate": "HAD_CALL_WITH",
+        "object": "Lord Mandelson",
+        "date": "2025-01-14",
+        "context": "Intro call in afternoon"
+      },
+      {
+        "subject": "Lindsey Whyte",
+        "predicate": "SENT_TO",
+        "object": "James Roscoe",
+        "date": "2025-01-14",
+        "context": "Email feedback about Mandelson call"
+      },
+      {
+        "subject": "Lindsey Whyte",
+        "predicate": "SENT_TO",
+        "object": "Ian Ginsberg",
+        "date": "2025-01-14",
+        "context": "Email feedback about Mandelson call"
+      },
+      {
+        "subject": "Lindsey Whyte",
+        "predicate": "WORKS_AT",
+        "object": "HM Treasury",
+        "date": "2025-01-14",
+        "context": "Director General — International"
+      }
+    ]
+  },
+  "53_6": {
+    "people": [
+      {
+        "name": "George Robertson",
+        "role": "Sender of email",
+        "organisation": "UK Government",
+        "context": "Sent email at 22:47 on 2025-01-06 regarding Lord Mandelson's meeting request"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "HMA-Designate Washington",
+        "organisation": "FCDO",
+        "context": "Requesting meetings with Director GCHQ and CEO NCSC before posting to Washington"
+      },
+      {
+        "name": "Director GCHQ",
+        "role": "Director",
+        "organisation": "GCHQ",
+        "context": "Requested to meet with Lord Mandelson in January"
+      },
+      {
+        "name": "CEO NCSC",
+        "role": "Chief Executive Officer",
+        "organisation": "NCSC",
+        "context": "Requested to meet with Lord Mandelson in January"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "GCHQ",
+        "type": "government intelligence agency",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "NCSC",
+        "type": "government cybersecurity agency",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US Intelligence Community",
+        "type": "government intelligence agencies",
+        "country": "United States"
+      },
+      {
+        "name": "FCDO",
+        "type": "government department",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US desk",
+        "type": "government department unit",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Intelligence Policy Department",
+        "type": "government department",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "National Security Directorate",
+        "type": "government directorate",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Embassy",
+        "type": "diplomatic mission",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Meeting request between Lord Mandelson and Director GCHQ and CEO NCSC",
+        "date": "January 2025",
+        "participants": [
+          "Lord Mandelson",
+          "Director GCHQ",
+          "CEO NCSC"
+        ]
+      },
+      {
+        "description": "Lord Mandelson's posting to Washington",
+        "date": "After January 2025",
+        "participants": [
+          "Lord Mandelson"
+        ]
+      },
+      {
+        "description": "Lord Mandelson intends to meet other Agency Heads",
+        "date": "Not specified",
+        "participants": [
+          "Lord Mandelson",
+          "Agency Heads"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "George Robertson",
+        "predicate": "SENT_TO",
+        "object": "Recipient (redacted)",
+        "date": "2025-01-06",
+        "context": "Email regarding Lord Mandelson's meeting request"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "APPOINTED_AS",
+        "object": "HMA-Designate Washington",
+        "date": "Before 2025-01-06",
+        "context": "Designation as UK Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "REQUESTED_MEETING_WITH",
+        "object": "Director GCHQ",
+        "date": "January 2025",
+        "context": "To learn about cooperation with US Intelligence Community"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "REQUESTED_MEETING_WITH",
+        "object": "CEO NCSC",
+        "date": "January 2025",
+        "context": "To learn about cooperation with US Intelligence Community"
+      },
+      {
+        "subject": "GCHQ",
+        "predicate": "COOPERATES_WITH",
+        "object": "US Intelligence Community",
+        "date": "Ongoing",
+        "context": "Intelligence cooperation"
+      },
+      {
+        "subject": "NCSC",
+        "predicate": "COOPERATES_WITH",
+        "object": "US Intelligence Community",
+        "date": "Ongoing",
+        "context": "Intelligence cooperation"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "WILL_SUPPORT",
+        "object": "GCHQ objectives",
+        "date": "After posting",
+        "context": "From Embassy in Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "WILL_SUPPORT",
+        "object": "NCSC objectives",
+        "date": "After posting",
+        "context": "From Embassy in Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "CONCERNS",
+        "object": "UK-US intelligence cooperation",
+        "date": "2025-01-06",
+        "context": "Wants to ensure cooperation remains deep with incoming administration"
+      },
+      {
+        "subject": "US desk",
+        "predicate": "RECEIVED_REQUEST_FROM",
+        "object": "Lord Mandelson",
+        "date": "Before 2025-01-06",
+        "context": "Meeting request with intelligence chiefs"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "INTENDS_TO_MEET",
+        "object": "Agency Heads",
+        "date": "Not specified",
+        "context": "Other intelligence agency heads beyond GCHQ and NCSC"
+      },
+      {
+        "subject": "Intelligence Policy Desk Officer",
+        "predicate": "WORKS_IN",
+        "object": "Intelligence Policy Department",
+        "date": "2025-01-06",
+        "context": "Sender of the meeting request"
+      },
+      {
+        "subject": "Intelligence Policy Department",
+        "predicate": "PART_OF",
+        "object": "National Security Directorate",
+        "date": "2025-01-06",
+        "context": "Organizational structure"
+      }
+    ]
+  },
+  "60_1": {
+    "people": [
+      {
+        "name": "Caroline Hurndall",
+        "role": "PPS/FS (Principal Private Secretary to the Foreign Secretary)",
+        "organisation": "Foreign Secretary's Office",
+        "context": "Sending update about coordination on White House announcements pre-inauguration"
+      },
+      {
+        "name": "Nicholas Alton",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient being thanked and asked to provide updates; pursuing some redacted matter"
+      },
+      {
+        "name": "Jain Griffiths",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of the email thread"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "Foreign Secretary's Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FSPO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "JCS",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "White House",
+        "type": "government dept",
+        "country": "United States"
+      },
+      {
+        "name": "BE Washington",
+        "type": "embassy",
+        "country": "United States"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Pre-inauguration period with expected high profile announcements from White House",
+        "date": "2025-01-20",
+        "participants": [
+          "Caroline Hurndall",
+          "Nicholas Alton",
+          "Jain Griffiths"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Caroline Hurndall",
+        "predicate": "SENT_TO",
+        "object": "Nicholas Alton",
+        "date": "2025-01-20",
+        "context": "Email about coordination on White House announcements"
+      },
+      {
+        "subject": "Caroline Hurndall",
+        "predicate": "SENT_TO",
+        "object": "Jain Griffiths",
+        "date": "2025-01-20",
+        "context": "Email about coordination on White House announcements"
+      },
+      {
+        "subject": "Caroline Hurndall",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign Secretary",
+        "date": "2025-01-20",
+        "context": "PPS/FS role"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "PURSUING",
+        "object": "redacted matter",
+        "date": "2025-01-20",
+        "context": "Asked to keep team updated on progress"
+      },
+      {
+        "subject": "Caroline Hurndall",
+        "predicate": "COORDINATES_WITH",
+        "object": "Nicholas Alton",
+        "date": "2025-01-20",
+        "context": "Coordinating responses to White House announcements"
+      },
+      {
+        "subject": "White House",
+        "predicate": "EXPECTED_TO_ANNOUNCE",
+        "object": "high profile announcements",
+        "date": "2025-01-20",
+        "context": "Coming days post-inauguration"
+      },
+      {
+        "subject": "Foreign Secretary's Office",
+        "predicate": "MONITORS",
+        "object": "White House",
+        "date": "2025-01-20",
+        "context": "Preparing coordinated responses to announcements"
+      },
+      {
+        "subject": "JCS",
+        "predicate": "COPIED_ON",
+        "object": "submissions to Foreign Secretary",
+        "date": "2025-01-20",
+        "context": "Standard procedure for Foreign Secretary communications"
+      }
+    ]
+  },
+  "55_0": {
+    "people": [
+      {
+        "name": "Lord Mandelson",
+        "role": "HMA-Designate Washington",
+        "organisation": "FCDO",
+        "context": "Appointed as UK Ambassador to Washington, seeking to meet with intelligence agency heads before posting"
+      },
+      {
+        "name": "C",
+        "role": "Head of SIS/MI6",
+        "organisation": "SIS",
+        "context": "Requested to meet with Lord Mandelson regarding UK-US intelligence cooperation"
+      },
+      {
+        "name": "Richard",
+        "role": "Unknown senior official",
+        "organisation": "Unknown",
+        "context": "Appears to have directly agreed meeting with Lord Mandelson"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "SIS",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Chief Private Office Team",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "Intelligence Policy Department",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "National Security Directorate",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "US Intelligence Community",
+        "type": "government dept",
+        "country": "US"
+      },
+      {
+        "name": "US desk",
+        "type": "government dept",
+        "country": "UK"
+      },
+      {
+        "name": "British Embassy Washington",
+        "type": "embassy",
+        "country": "UK"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "UK",
+        "type": "country"
+      },
+      {
+        "name": "US",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Meeting between Lord Mandelson and C",
+        "date": "January 2025",
+        "participants": [
+          "Lord Mandelson",
+          "C"
+        ]
+      },
+      {
+        "description": "Lord Mandelson meetings with other Agency Heads",
+        "date": "January 2025",
+        "participants": [
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "APPOINTED_AS",
+        "object": "HMA-Designate Washington",
+        "date": "2025",
+        "context": "Appointed as UK Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "REQUESTED_MEETING_WITH",
+        "object": "C",
+        "date": "2025-01-08",
+        "context": "Seeking to meet before posting to Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "AGREED_MEETING_WITH",
+        "object": "Richard",
+        "date": "2025-01",
+        "context": "Direct agreement for meeting"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "INTENDS_TO_MEET",
+        "object": "Agency Heads",
+        "date": "2025-01",
+        "context": "Plans to meet all intelligence agency heads"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "WANTS_TO_LEARN_ABOUT",
+        "object": "UK-US intelligence cooperation",
+        "date": "2025-01",
+        "context": "Understanding cooperation with US Intelligence Community"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "WILL_SUPPORT",
+        "object": "SIS objectives from Embassy",
+        "date": "2025",
+        "context": "Supporting intelligence objectives from Washington posting"
+      },
+      {
+        "subject": "US desk",
+        "predicate": "RECEIVED_REQUEST_FROM",
+        "object": "Lord Mandelson",
+        "date": "2025-01-08",
+        "context": "Request to meet with C"
+      },
+      {
+        "subject": "Intelligence Policy Desk Officer",
+        "predicate": "SENT_TO",
+        "object": "Chief Private Office Team",
+        "date": "2025-01-08",
+        "context": "Forwarding meeting request"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "CONCERNS",
+        "object": "UK-US intelligence cooperation with incoming administration",
+        "date": "2025",
+        "context": "Ensuring deep cooperation continues"
+      },
+      {
+        "subject": "SIS",
+        "predicate": "COOPERATES_WITH",
+        "object": "US Intelligence Community",
+        "date": "ongoing",
+        "context": "Intelligence cooperation"
+      }
+    ]
+  },
+  "54_0": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "HMA-Designate Washington (Ambassador-Designate to Washington)",
+        "organisation": "FCDO",
+        "context": "Appointed as UK Ambassador to Washington, awaiting DV clearance, is a Privy Counsellor"
+      },
+      {
+        "name": "C",
+        "role": "Chief of SIS",
+        "organisation": "SIS (Secret Intelligence Service)",
+        "context": "Hosting Lord Mandelson at SIS headquarters, encouraged meeting with DG Q"
+      },
+      {
+        "name": "DG Q",
+        "role": "Director General Q",
+        "organisation": "Unknown intelligence/security organisation",
+        "context": "Met with Peter Mandelson at C's encouragement"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "HMA-Designate Washington",
+        "organisation": "FCDO",
+        "context": "Alternative reference to Peter Mandelson, Privy Counsellor"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "FCDO",
+        "type": "government department",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "SIS",
+        "type": "government department",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Secret Intelligence Service",
+        "type": "government department",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US Global Issues & Canada",
+        "type": "government department division",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Intelligence Policy Desk",
+        "type": "government department division",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Chief Private Office",
+        "type": "government department division",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Privy Council",
+        "type": "government body",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "central London",
+        "type": "region"
+      },
+      {
+        "name": "SIS headquarters",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Visit to SIS headquarters by HMA-Designate",
+        "date": "redacted date in January 2025",
+        "participants": [
+          "Peter Mandelson",
+          "C"
+        ]
+      },
+      {
+        "description": "Meeting between C and Lord Mandelson",
+        "date": "redacted date in January 2025",
+        "participants": [
+          "Peter Mandelson",
+          "C"
+        ]
+      },
+      {
+        "description": "Atlantic Partnership breakfast",
+        "date": "redacted date in January 2025",
+        "participants": [
+          "Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Lunch in central London",
+        "date": "redacted date in January 2025, 1pm",
+        "participants": [
+          "Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Meeting between HMA-des and DG Q",
+        "date": "shortly before 2025-01-09",
+        "participants": [
+          "Peter Mandelson",
+          "DG Q"
+        ]
+      },
+      {
+        "description": "Wider briefings at SIS",
+        "date": "redacted date in January 2025",
+        "participants": [
+          "Peter Mandelson",
+          "C",
+          "SIS seniors"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "APPOINTED_AS",
+        "object": "HMA Washington",
+        "date": "before 2025-01-09",
+        "context": "Designated as UK Ambassador to Washington"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "VISITING",
+        "object": "SIS headquarters",
+        "date": "redacted date in January 2025",
+        "context": "Priority visit for briefings"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "MEETING_WITH",
+        "object": "C",
+        "date": "redacted date in January 2025",
+        "context": "At SIS headquarters after Atlantic Partnership breakfast"
+      },
+      {
+        "subject": "C",
+        "predicate": "HOSTING",
+        "object": "Peter Mandelson",
+        "date": "redacted date in January 2025",
+        "context": "At SIS headquarters"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "MET_WITH",
+        "object": "DG Q",
+        "date": "shortly before 2025-01-09",
+        "context": "Found meeting very helpful"
+      },
+      {
+        "subject": "C",
+        "predicate": "ENCOURAGED",
+        "object": "meeting between Peter Mandelson and DG Q",
+        "date": "before 2025-01-09",
+        "context": "C encouraged the meeting"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ATTENDED",
+        "object": "Atlantic Partnership breakfast",
+        "date": "redacted date in January 2025",
+        "context": "Before SIS visit"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ATTENDING",
+        "object": "lunch in central London",
+        "date": "redacted date in January 2025, 1pm",
+        "context": "Next commitment after SIS visit"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "AWAITING",
+        "object": "DV clearance",
+        "date": "as of 2025-01-09",
+        "context": "Yet to receive despite imminent posting"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "IS",
+        "object": "Privy Counsellor",
+        "date": "ongoing",
+        "context": "Status allowing case-by-case access to classified material"
+      },
+      {
+        "subject": "FCDO seniors",
+        "predicate": "GRANTING_ACCESS",
+        "object": "Peter Mandelson to higher classification material",
+        "date": "ongoing as of 2025-01-09",
+        "context": "Case-by-case basis due to Privy Counsellor status and pending DV clearance"
+      },
+      {
+        "subject": "C",
+        "predicate": "JUDGING",
+        "object": "appropriate access for Peter Mandelson",
+        "date": "redacted date in January 2025",
+        "context": "Given unique case of pending DV clearance"
+      },
+      {
+        "subject": "SIS seniors",
+        "predicate": "BRIEFING",
+        "object": "Peter Mandelson",
+        "date": "redacted date in January 2025",
+        "context": "Wider briefings arranged"
+      }
+    ]
+  },
+  "63_2": {
+    "people": [
+      {
+        "name": "Katie Martin",
+        "role": "Unknown",
+        "organisation": "HMT",
+        "context": "Sender of email requesting private views on something, wants to send today"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HMT",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [
+      {
+        "description": "Email sent requesting private views on unspecified matter",
+        "date": "2025-01-28",
+        "participants": [
+          "Katie Martin"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Katie Martin",
+        "predicate": "WORKS_FOR",
+        "object": "HMT",
+        "date": "2025-01-28",
+        "context": "Email signature shows affiliation"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "SENT_TO",
+        "object": "Unknown recipient(s)",
+        "date": "2025-01-28",
+        "context": "Email requesting private views, keen to send today"
+      }
+    ]
+  },
+  "63_1": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government/Foreign Office",
+        "context": "Sender of email, providing feedback on document"
+      },
+      {
+        "name": "Katie Martin",
+        "role": "Unknown position",
+        "organisation": "HM Treasury (HMT)",
+        "context": "Recipient of email from Mandelson"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HM Treasury",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Government",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email communication regarding document review with feedback on formatting",
+        "date": "2025-01-28",
+        "participants": [
+          "Peter Mandelson",
+          "Katie Martin"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SENT_TO",
+        "object": "Katie Martin",
+        "date": "2025-01-28",
+        "context": "Email providing feedback on document with minor editorial comments"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "WORKS_AT",
+        "object": "HM Treasury",
+        "date": "2025-01-28",
+        "context": "Email address indicates HMT affiliation"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "REVIEWED",
+        "object": "document about SOCIAL WASHINGTON and other matters",
+        "date": "2025-01-28",
+        "context": "Approved content apart from minor punctuation issues"
+      }
+    ]
+  },
+  "64_0": {
+    "people": [
+      {
+        "name": "Chancellor of the Exchequer",
+        "role": "Chancellor of the Exchequer",
+        "organisation": "HM Treasury",
+        "context": "Referenced in relation to their Chief of Staff"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "HM Treasury",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "HMT",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [],
+    "events": [],
+    "relationships": [
+      {
+        "subject": "Chief of Staff",
+        "predicate": "REPORTS_TO",
+        "object": "Chancellor of the Exchequer",
+        "date": null,
+        "context": "Chief of Staff position at HM Treasury reporting to Chancellor"
+      }
+    ]
+  },
+  "60_2": {
+    "people": [
+      {
+        "name": "Nicholas Alton",
+        "role": "Minister-Counsellor (Political)",
+        "organisation": "British Embassy Washington",
+        "context": "Sending updates from Washington pre-inauguration, coordinating PM visit and call"
+      },
+      {
+        "name": "Caroline Hurndall",
+        "role": "JCS (Joint Communication Secretariat)",
+        "organisation": "UK Government",
+        "context": "Recipient of email thread"
+      },
+      {
+        "name": "Ailsa Terry",
+        "role": "Senior official (likely No. 10 or FCDO)",
+        "organisation": "UK Government",
+        "context": "Coordinating PM's call and visit, providing instructions on Lord Mandelson"
+      },
+      {
+        "name": "Matthew Doyle",
+        "role": "Communications official",
+        "organisation": "UK Government",
+        "context": "Leading media plan team"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "HM Ambassador to Washington (designate)",
+        "organisation": "British Embassy Washington",
+        "context": "Subject of separate follow-up from Ailsa Terry"
+      },
+      {
+        "name": "PM",
+        "role": "Prime Minister",
+        "organisation": "UK Government",
+        "context": "Planning call and visit to Washington post-inauguration, will write letter"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      },
+      {
+        "name": "JCS",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Joint Communication Secretariat",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "No. 10",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "US Presidential Inauguration",
+        "date": "2025-01-20",
+        "participants": []
+      },
+      {
+        "description": "Brief call for PM to be set up",
+        "date": "week of 2025-01-20",
+        "participants": [
+          "PM",
+          "Nicholas Alton"
+        ]
+      },
+      {
+        "description": "PM letter to be sent",
+        "date": "2025-01-20",
+        "participants": [
+          "PM"
+        ]
+      },
+      {
+        "description": "Planned PM visit to Washington",
+        "date": "immediately after inauguration",
+        "participants": [
+          "PM"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "Caroline Hurndall",
+        "date": "2025-01-19",
+        "context": "Email update on Washington pre-inauguration activities"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "REPORTS_TO",
+        "object": "Ailsa Terry",
+        "date": "2025-01-19",
+        "context": "Receiving instructions on PM call and visit coordination"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "Nicholas Alton",
+        "date": "2025-01-19",
+        "context": "Instructions on PM call, letter, and visit"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "WILL_PUSH_FOR",
+        "object": "PM visit",
+        "date": "2025-01-19",
+        "context": "Early PM visit after inauguration"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "WILL_FOLLOW_UP_ON",
+        "object": "Lord Mandelson",
+        "date": "2025-01-19",
+        "context": "Separate communication promised"
+      },
+      {
+        "subject": "PM",
+        "predicate": "WILL_CALL",
+        "object": "US counterpart",
+        "date": "week of 2025-01-20",
+        "context": "Brief call to be arranged by Nicholas Alton"
+      },
+      {
+        "subject": "PM",
+        "predicate": "WILL_WRITE_TO",
+        "object": "US counterpart",
+        "date": "2025-01-20",
+        "context": "Letter to be sent tomorrow"
+      },
+      {
+        "subject": "Matthew Doyle",
+        "predicate": "WILL_CONFIRM",
+        "object": "media plan",
+        "date": "2025-01-19",
+        "context": "Separate confirmation of media strategy"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "ADVISED_ON",
+        "object": "media plan",
+        "date": "2025-01-19",
+        "context": "Provided advice acknowledged by Ailsa Terry"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "WILL_ADVANCE",
+        "object": "PM visit",
+        "date": "week of 2025-01-20",
+        "context": "Through conversations during inauguration week"
+      },
+      {
+        "subject": "British Embassy Washington",
+        "predicate": "COORDINATING",
+        "object": "PM visit",
+        "date": "2025-01-19",
+        "context": "Key priority immediately after inauguration"
+      }
+    ]
+  },
+  "66_0": {
+    "people": [
+      {
+        "name": "Peter Kyle",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Sender of email, receiving advice from Peter Mandelson"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government",
+        "context": "Recipient of email, provided advice about Munich speech"
+      }
+    ],
+    "organisations": [],
+    "places": [
+      {
+        "name": "Munich",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Munich speech",
+        "date": "2025-02-08",
+        "participants": [
+          "Peter Kyle"
+        ]
+      },
+      {
+        "description": "Email exchange about Munich speech advice",
+        "date": "2025-02-08",
+        "participants": [
+          "Peter Kyle",
+          "Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "ADVISED",
+        "object": "Peter Kyle",
+        "date": "2025-02-08",
+        "context": "Provided advice about Munich speech"
+      },
+      {
+        "subject": "Peter Kyle",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-02-08",
+        "context": "Email acknowledging advice about Munich speech"
+      },
+      {
+        "subject": "Peter Kyle",
+        "predicate": "WILL_ACTION",
+        "object": "advice from Peter Mandelson",
+        "date": "2025-02-08",
+        "context": "Committed to acting on advice received"
+      }
+    ]
+  },
+  "67_0": {
+    "people": [
+      {
+        "name": "Ailsa Terry",
+        "role": "Unknown",
+        "organisation": "Unknown UK government entity",
+        "context": "Sender of email establishing connection with Peter Mandelson"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government/Foreign Office",
+        "context": "Recipient of email, subject of broader document collection"
+      },
+      {
+        "name": "Morgan",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Additional recipient of email"
+      }
+    ],
+    "organisations": [],
+    "places": [],
+    "events": [
+      {
+        "description": "Email communication establishing connection",
+        "date": "2025-02-08",
+        "participants": [
+          "Ailsa Terry",
+          "Peter Mandelson",
+          "Morgan"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-02-08",
+        "context": "Email establishing connection, copying colleagues"
+      },
+      {
+        "subject": "Ailsa Terry",
+        "predicate": "SENT_TO",
+        "object": "Morgan",
+        "date": "2025-02-08",
+        "context": "Email establishing connection, copying colleagues"
+      }
+    ]
+  },
+  "63_0": {
+    "people": [
+      {
+        "name": "Karen Pierce",
+        "role": "HM Ambassador",
+        "organisation": "British Embassy Washington DC",
+        "context": "Current HM Ambassador to Washington DC, sending briefing to Peter Mandelson"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "Incoming HM Ambassador",
+        "organisation": "British Embassy Washington DC",
+        "context": "Recipient of briefing, incoming HM Ambassador to Washington"
+      },
+      {
+        "name": "Jcs",
+        "role": "Unknown",
+        "organisation": "British Embassy Washington DC",
+        "context": "Recipient of email, has contacts list and can provide rundowns"
+      },
+      {
+        "name": "Pay She",
+        "role": "Unknown (former staff)",
+        "organisation": "British Embassy Washington DC",
+        "context": "Former colleague still much missed, can give flavour of social Washington"
+      },
+      {
+        "name": "Katie Martin",
+        "role": "Unknown",
+        "organisation": "HMT (Her Majesty's Treasury)",
+        "context": "Sent follow-up email regarding Bessent Congratulations Letter"
+      },
+      {
+        "name": "Bessent",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Subject of congratulations letter"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington DC",
+        "type": "embassy",
+        "country": "United States"
+      },
+      {
+        "name": "HMT",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Private Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington DC",
+        "type": "city"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "Residence",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "Email briefing on social Washington and contacts",
+        "date": "2025-01-27",
+        "participants": [
+          "Karen Pierce",
+          "Peter Mandelson",
+          "Jcs"
+        ]
+      },
+      {
+        "description": "Follow-up email regarding Bessent Congratulations Letter",
+        "date": "2025-01-28",
+        "participants": [
+          "Katie Martin",
+          "Peter Mandelson"
+        ]
+      },
+      {
+        "description": "Peter Mandelson's arrival in Washington DC",
+        "date": null,
+        "participants": [
+          "Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Karen Pierce",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-01-27",
+        "context": "Email briefing on social Washington contacts and invitations"
+      },
+      {
+        "subject": "Karen Pierce",
+        "predicate": "SENT_TO",
+        "object": "Jcs",
+        "date": "2025-01-27",
+        "context": "Email briefing on social Washington contacts and invitations"
+      },
+      {
+        "subject": "Karen Pierce",
+        "predicate": "REPORTS_TO",
+        "object": "British Embassy Washington DC",
+        "date": null,
+        "context": "Current HM Ambassador"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "United Kingdom",
+        "date": null,
+        "context": "Incoming HM Ambassador to Washington DC"
+      },
+      {
+        "subject": "Pay She",
+        "predicate": "MET_WITH",
+        "object": "Peter Mandelson",
+        "date": null,
+        "context": "Karen suggests Peter meet with Pay She to get flavour of social Washington"
+      },
+      {
+        "subject": "Private Office",
+        "predicate": "PROVIDES_TO",
+        "object": "Peter Mandelson",
+        "date": null,
+        "context": "Will provide full calendar and priority official contacts list on arrival"
+      },
+      {
+        "subject": "Jcs",
+        "predicate": "PROVIDES_TO",
+        "object": "Peter Mandelson",
+        "date": null,
+        "context": "Can give rundown on contacts list"
+      },
+      {
+        "subject": "Katie Martin",
+        "predicate": "SENT_TO",
+        "object": "Peter Mandelson",
+        "date": "2025-01-28",
+        "context": "Follow-up email regarding Bessent Congratulations Letter"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "Bessent Congratulations Letter",
+        "date": "2025-01-28",
+        "context": "Subject of email exchange with Katie Martin"
+      },
+      {
+        "subject": "Karen Pierce",
+        "predicate": "DISCUSSED",
+        "object": "social Washington",
+        "date": "2025-01-27",
+        "context": "Briefing Peter on social connections that facilitate business and politics"
+      },
+      {
+        "subject": "Karen Pierce",
+        "predicate": "DISCUSSED",
+        "object": "Residence",
+        "date": "2025-01-27",
+        "context": "Earlier email about the Residence and living in DC"
+      }
+    ]
+  },
+  "60_3": {
+    "people": [
+      {
+        "name": "Nicholas Alton",
+        "role": "Minister Counsellor (Political)",
+        "organisation": "British Embassy Washington",
+        "context": "Sent email update about pre-inauguration events and Mandelson appointment"
+      },
+      {
+        "name": "Ailsa Terry",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about pre-inauguration events"
+      },
+      {
+        "name": "Caroline",
+        "role": "Unknown",
+        "organisation": "Unknown",
+        "context": "Recipient of email about pre-inauguration events"
+      },
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington (incoming)",
+        "organisation": "British Government",
+        "context": "Granted agrement for appointment as US Ambassador, met with Minister Alexander"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "HM Ambassador to Washington (incoming)",
+        "organisation": "British Government",
+        "context": "Same person as Peter Mandelson, discussed Trump administration and Trade Strategy with Minister Alexander"
+      },
+      {
+        "name": "Minister Alexander",
+        "role": "Minister",
+        "organisation": "UK Government",
+        "context": "Met with Lord Mandelson to discuss Trump administration and Trade Strategy"
+      },
+      {
+        "name": "Jes",
+        "role": "Private Secretary",
+        "organisation": "UK Government",
+        "context": "Attended meeting between Minister Alexander and Lord Mandelson, asked to leave for political discussion"
+      },
+      {
+        "name": "HMA",
+        "role": "Her Majesty's Ambassador (current)",
+        "organisation": "British Embassy Washington",
+        "context": "Updated senior Trump team on Mandelson's agrement and her own end date"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "British Embassy Washington",
+        "type": "embassy",
+        "country": "United States"
+      },
+      {
+        "name": "Trump team",
+        "type": "political",
+        "country": "United States"
+      },
+      {
+        "name": "Trump administration",
+        "type": "government",
+        "country": "United States"
+      },
+      {
+        "name": "British Government",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "UK Government",
+        "type": "government",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Private Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington",
+        "type": "city"
+      },
+      {
+        "name": "DC",
+        "type": "city"
+      },
+      {
+        "name": "Washington DC",
+        "type": "city"
+      },
+      {
+        "name": "3100 Massachusetts Avenue NW",
+        "type": "building"
+      },
+      {
+        "name": "United States",
+        "type": "country"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      }
+    ],
+    "events": [
+      {
+        "description": "Embassy hosted event for incoming Trump team",
+        "date": "2025-01-19",
+        "participants": [
+          "Nicholas Alton",
+          "Trump team",
+          "British Embassy Washington"
+        ]
+      },
+      {
+        "description": "Inauguration",
+        "date": "2025-01-20",
+        "participants": [
+          "Trump administration"
+        ]
+      },
+      {
+        "description": "HMA updated senior Trump team on Mandelson agrement",
+        "date": "2025-01-19",
+        "participants": [
+          "HMA",
+          "senior Trump team"
+        ]
+      },
+      {
+        "description": "Meeting between Minister Alexander and Lord Mandelson",
+        "date": "2025-01-21",
+        "participants": [
+          "Minister Alexander",
+          "Lord Mandelson",
+          "Jes"
+        ]
+      },
+      {
+        "description": "Private political conversation between Minister Alexander and Lord Mandelson",
+        "date": "2025-01-21",
+        "participants": [
+          "Minister Alexander",
+          "Lord Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "Ailsa Terry",
+        "date": "2025-01-19",
+        "context": "Email update about pre-inauguration events"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "SENT_TO",
+        "object": "Caroline",
+        "date": "2025-01-19",
+        "context": "Email update about pre-inauguration events"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "WORKS_AT",
+        "object": "British Embassy Washington",
+        "date": "2025-01-19",
+        "context": "Minister Counsellor (Political)"
+      },
+      {
+        "subject": "British Embassy Washington",
+        "predicate": "HOSTED",
+        "object": "Trump team",
+        "date": "2025-01-19",
+        "context": "Pre-inauguration event"
+      },
+      {
+        "subject": "HMA",
+        "predicate": "UPDATED",
+        "object": "senior Trump team",
+        "date": "2025-01-19",
+        "context": "Informed about Mandelson agrement and her end date"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "APPOINTED_BY",
+        "object": "British Government",
+        "date": "2025-01-19",
+        "context": "Granted agrement as HM Ambassador to Washington"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "MET_WITH",
+        "object": "Minister Alexander",
+        "date": "2025-01-21",
+        "context": "Discussion ahead of move to DC"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "DISCUSSED",
+        "object": "Trump administration",
+        "date": "2025-01-21",
+        "context": "Political reflections shared with Minister Alexander"
+      },
+      {
+        "subject": "Minister Alexander",
+        "predicate": "DISCUSSED",
+        "object": "Trade Strategy",
+        "date": "2025-01-21",
+        "context": "Considering narrative/positioning around the US"
+      },
+      {
+        "subject": "Jes",
+        "predicate": "ATTENDED",
+        "object": "Meeting between Minister Alexander and Lord Mandelson",
+        "date": "2025-01-21",
+        "context": "Private Secretary present for initial discussion"
+      },
+      {
+        "subject": "Minister Alexander",
+        "predicate": "ASKED_TO_LEAVE",
+        "object": "Private Office",
+        "date": "2025-01-21",
+        "context": "To continue political conversation privately"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "ASKED_TO_LEAVE",
+        "object": "Private Office",
+        "date": "2025-01-21",
+        "context": "To continue political conversation privately"
+      },
+      {
+        "subject": "Nicholas Alton",
+        "predicate": "ATTENDED",
+        "object": "inauguration events",
+        "date": "2025-01-20",
+        "context": "Various events throughout the day"
+      }
+    ]
+  },
+  "66_1": {
+    "people": [
+      {
+        "name": "Peter Mandelson",
+        "role": "HM Ambassador to Washington",
+        "organisation": "UK Government/British Embassy Washington",
+        "context": "Sender of email providing feedback on Munich speech draft"
+      }
+    ],
+    "organisations": [],
+    "places": [
+      {
+        "name": "Munich",
+        "type": "city"
+      }
+    ],
+    "events": [
+      {
+        "description": "Munich speech preparation and review",
+        "date": "2025-02-08",
+        "participants": [
+          "Peter Mandelson"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SENT_TO",
+        "object": "Redacted recipient",
+        "date": "2025-02-08",
+        "context": "Email about Munich speech draft"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "REVIEWED",
+        "object": "Munich speech",
+        "date": "2025-02-08",
+        "context": "Providing feedback on speech content"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "SUGGESTED",
+        "object": "More positive language about AI",
+        "date": "2025-02-08",
+        "context": "Recommended adding positive framing on AI before security content"
+      },
+      {
+        "subject": "Peter Mandelson",
+        "predicate": "REQUESTED",
+        "object": "Team comment on specifics",
+        "date": "2025-02-08",
+        "context": "Asked for team input on speech details"
+      },
+      {
+        "subject": "Munich speech",
+        "predicate": "CONCERNS",
+        "object": "AI",
+        "date": "2025-02-08",
+        "context": "Speech content includes AI topics including economic growth, technological progress, and security"
+      },
+      {
+        "subject": "Munich speech",
+        "predicate": "CONCERNS",
+        "object": "Security",
+        "date": "2025-02-08",
+        "context": "Speech includes security-related content"
+      }
+    ]
+  },
+  "53_2": {
+    "people": [
+      {
+        "name": "Lord Robertson",
+        "role": "Defence Reviewer / Member of House of Lords",
+        "organisation": "House of Lords / Strategic Defence Review",
+        "context": "Leading the Strategic Defence Review, has parliamentary privilege and Personal clearance"
+      },
+      {
+        "name": "Lord Mandelson",
+        "role": "Unknown (awaiting security clearances)",
+        "organisation": "Unknown",
+        "context": "Awaiting security clearances, can currently discuss/see material up to SECRET in KCS"
+      },
+      {
+        "name": "General Sir Richard Barrons",
+        "role": "Defence Reviewer",
+        "organisation": "Strategic Defence Review",
+        "context": "Will join Lord Robertson at FCDO reception"
+      },
+      {
+        "name": "Fiona Hill",
+        "role": "Defence Reviewer",
+        "organisation": "Strategic Defence Review",
+        "context": "Will join Lord Robertson at FCDO reception"
+      },
+      {
+        "name": "JCS (SDR-Secretariat-Mil-SO2)",
+        "role": "MA to the Defence Reviewers",
+        "organisation": "Ministry of Defence, Strategic Defence Review Secretariat",
+        "context": "Coordinating meeting arrangements and security clearances"
+      },
+      {
+        "name": "JCS (US Global Issues)",
+        "role": "Head of US Global Issues and Canada Team",
+        "organisation": "Foreign, Commonwealth & Development Office",
+        "context": "Coordinating FCDO reception meeting"
+      }
+    ],
+    "organisations": [
+      {
+        "name": "House of Lords",
+        "type": "political",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Ministry of Defence",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Strategic Defence Review Secretariat",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Foreign, Commonwealth & Development Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "FCDO",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Cabinet Office",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "US and Canada Department",
+        "type": "government dept",
+        "country": "United Kingdom"
+      },
+      {
+        "name": "Americas and SIDS Directorate",
+        "type": "government dept",
+        "country": "United Kingdom"
+      }
+    ],
+    "places": [
+      {
+        "name": "MOD Main Building",
+        "type": "building"
+      },
+      {
+        "name": "Whitehall",
+        "type": "region"
+      },
+      {
+        "name": "London",
+        "type": "city"
+      },
+      {
+        "name": "United Kingdom",
+        "type": "country"
+      },
+      {
+        "name": "KCS",
+        "type": "building"
+      }
+    ],
+    "events": [
+      {
+        "description": "FCDO reception meeting regarding Strategic Defence Review",
+        "date": "2025-01-16",
+        "participants": [
+          "Lord Robertson",
+          "General Sir Richard Barrons",
+          "Fiona Hill",
+          "JCS (SDR-Secretariat-Mil-SO2)",
+          "JCS (US Global Issues)",
+          "Strategic Defence Review secretariat members"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "subject": "Lord Robertson",
+        "predicate": "HOLDS",
+        "object": "parliamentary privilege",
+        "date": "2025-01-08",
+        "context": "As member of House of Lords"
+      },
+      {
+        "subject": "Lord Robertson",
+        "predicate": "GRANTED",
+        "object": "Personal clearance",
+        "date": "2025-01-08",
+        "context": "Confirmed by Cabinet Office based on parliamentary privilege"
+      },
+      {
+        "subject": "Cabinet Office",
+        "predicate": "CONFIRMED",
+        "object": "Lord Robertson clearance",
+        "date": "2025-01-08",
+        "context": "Confirmed Personal clearance based on parliamentary privilege"
+      },
+      {
+        "subject": "Lord Robertson",
+        "predicate": "NEEDED",
+        "object": "STRAP brief",
+        "date": "2025-01-08",
+        "context": "Only security requirement beyond parliamentary privilege"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "AWAITING",
+        "object": "security clearances",
+        "date": "2025-01-07",
+        "context": "Still pending as of January 7, 2025"
+      },
+      {
+        "subject": "Lord Mandelson",
+        "predicate": "CAN_DISCUSS",
+        "object": "SECRET material in KCS",
+        "date": "2025-01-07",
+        "context": "Temporary arrangement while awaiting full clearances"
+      },
+      {
+        "subject": "JCS (SDR-Secretariat-Mil-SO2)",
+        "predicate": "SUGGESTED",
+        "object": "parliamentary privilege avenue for Lord Mandelson",
+        "date": "2025-01-08",
+        "context": "Based on Lord Robertson precedent"
+      },
+      {
+        "subject": "Lord Robertson",
+        "predicate": "WILL_ATTEND",
+        "object": "FCDO reception",
+        "date": "2025-01-16",
+        "context": "Strategic Defence Review meeting at 10:20/10:30"
+      },
+      {
+        "subject": "General Sir Richard Barrons",
+        "predicate": "WILL_ATTEND",
+        "object": "FCDO reception",
+        "date": "2025-01-16",
+        "context": "Joining Lord Robertson"
+      },
+      {
+        "subject": "Fiona Hill",
+        "predicate": "WILL_ATTEND",
+        "object": "FCDO reception",
+        "date": "2025-01-16",
+        "context": "Joining Lord Robertson"
+      },
+      {
+        "subject": "JCS (SDR-Secretariat-Mil-SO2)",
+        "predicate": "REPORTS_TO",
+        "object": "Defence Reviewers",
+        "date": "2025-01-08",
+        "context": "MA to the Defence Reviewers"
+      },
+      {
+        "subject": "JCS (US Global Issues)",
+        "predicate": "WORKS_FOR",
+        "object": "Foreign, Commonwealth & Development Office",
+        "date": "2025-01-07",
+        "context": "Head of US Global Issues and Canada Team"
+      },
+      {
+        "subject": "JCS (SDR-Secretariat-Mil-SO2)",
+        "predicate": "COORDINATING_WITH",
+        "object": "JCS (US Global Issues)",
+        "date": "2025-01-07",
+        "context": "Arranging FCDO reception meeting"
+      }
+    ]
   }
 }
