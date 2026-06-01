@@ -14,5 +14,67 @@
   "text": "JCS\nJCS\nJCS\nJCS\nJCS\nJCS\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\n77\n\nOn Tue, 21 Jan 2025 at 17:50, Peter Mandelson \n wrote:\nThank you. I have thought about this. I have a large number of personal \nacquaintances with foreign nationals but I would not describe these as current \nfriendships or personal business connections. I have no family members who \nare not listed previously.\nVery best\nPeter\nFrom: \nDate: Thursday, 16 January 2025 at 09:42\nTo: Peter Mandelson \nCc: \nSubject: Re: 20250115 - \n - Additional Document Request - \nOSP\nGood morning,\nThank you for enquiring about specifics of the foreign contacts form. \nUKSV appreciates that under the circumstances of your previous roles, \nyou will have met and had contact with many foreign nationals over the \nyears. Therefore for ease, please focus on the people who you have \npersonal friendships with; have personal business connections to; family \nmembers that are not included elsewhere on the DV questionnaire. We \nwill be looking to focus on those individuals that you have CURRENT or \nrecent contact with.\nKind regards,\nEDV Case Assistant\nUKSV, Government Security Group\nCabinet Office\nE: \nNSV Privacy Notice\nOn Wed, 15 Jan 2025 at 14:45, Peter Mandelson \n wrote:\nDo you mean literally every foreign national I have ever met ? I assume \nnot. Could you be a bit more specific about what sort of person, how far \nback, who I have done more than meet ? Do you mean friends ? \nJCS\nJCS\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nThird Party\nPersonal\n78\n\n\nCounterpart ministers ? People in business ?\nThanks\nPeter\nSent from my iPhone\nOn 15 Jan 2025, at 11:48, \n \n wrote:\nHandling Instruction: Vetting-in-Confidence\nGood morning,\nIn addition to the documents requested, please complete the \nattached form as fully as possible, concentrating on current \nor recent contacts that you have. If this can be started ahead \nof the interview, the Vetting Clearance Office can use this to \nsteer questioning.\nKind regards,\nEDV Case Assistant\nUKSV, Government Security Group\nCabinet Office\nE: \nNSV Privacy Notice\nDisclaimer. This email and any attachments to it may be confidential and are intended solely for the use of the \nindividual to whom it is addressed. Any views or opinions expressed are solely those of the author and do not \nnecessarily represent those of Global Counsel. If you are not the intended recipient of this email, you must \nneither take any action based upon its contents, nor copy or show it to anyone. Please contact the sender if you \nbelieve you have received this email in error. This email and its content are copyright © of Global Counsel and \nprotected under UK and international law. All rights reserved. For the definition of Global Counsel please visit: \nhttps://www.global-counsel.com/disclaimer\nJCS\nJCS\nPersonal\nPersonal\n79\n",
   "char_count": 2830,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 28,
+    "date": "22-01-2025",
+    "source_mix": "pdf",
+    "thread_subject": "20250115 -",
+    "message_count": 3,
+    "date_range": [
+      "2025-01-15",
+      "2025-01-21"
+    ],
+    "participants": [
+      "Peter Mandelson",
+      "at 11:48,"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Tue, 21 Jan 2025 at 17:50",
+        "date_iso": "2025-01-21",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "20250115 -",
+        "classification": null,
+        "body_snippet": "- Additional Document Request - \nOSP\nGood morning,\nThank you for enquiring about specifics of the foreign contacts form. \nUKSV appreciates that under the circumstances of your previous roles, \nyou will have met and had contact with many foreign nationals over the \nyears. Therefore for ease, please focus on the people who you have \npersonal friendships with; have personal business connections to; f"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Wed, 15 Jan 2025 at 14:45",
+        "date_iso": "2025-01-15",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On Wed, 15 Jan 2025 at 14:45, Peter Mandelson \nDo you mean literally every foreign national I have ever met ? I assume \nnot. Could you be a bit more specific about what sort of person, how far \nback, who I have done more than meet ? Do you mean friends ? \nJCS\nJCS\nThird Party\n78\n\n\nCounterpart ministers ? People in business ?\nThanks\nPeter\nSent from my iPhone"
+      },
+      {
+        "depth": 3,
+        "from_name": "at 11:48,",
+        "date_raw": "15 Jan 2025",
+        "date_iso": "2025-01-15",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On 15 Jan 2025, at 11:48, \n \nHandling Instruction: Vetting-in-Confidence\nGood morning,\nIn addition to the documents requested, please complete the \nattached form as fully as possible, concentrating on current \nor recent contacts that you have. If this can be started ahead \nof the interview, the Vetting Clearance Office can use this to \nsteer questioning.\nKind regards,\nEDV Case Assistant\nUKSV, Gove"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-21",
+        "subject": "20250115 -",
+        "classification": null
+      }
+    ]
+  }
 }

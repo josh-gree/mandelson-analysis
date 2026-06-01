@@ -19,5 +19,180 @@
   "text": "(former Permanent Under-Secretary at FCDO)\n\nFrom: Oliver Robbins! Personal\nSent: Fri 28/03/2025 4:00:36 PM (UTC)\nTo: Peter Mandelson Personal ; Caroline\nHurndall Personal\nSubject: Re: Tariff advice as seen from Washington\nOFFICIAL-SENSITIVE\n\nUseful to see - thank you. Unfortunately I didn’t see it in time for our last-minute pre-brief\nwith the FS.\n\nOlly\n\nOliver Robbins\nFCDO\n\nFrom: Peter Mandelson\nSent: Friday, March 28, 2025 3:25:33 PM\nTo: Caroline Hurndall ; Oliver Robbins\nSubject: Fw: Tariff advice as seen from Washington\n\nIhave not been asked to submit advice to No10. They are meeting now to discuss options so\nI submitted this uninvited, I am afraid only ten minutes beforehand when I found out about\nthe meeting.\n\nBest Peter\n\nGet Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Friday, March 28, 2025 11:10:09 AM\nTo: Michael Ellam ; Morgan McSweeney ; Jonathan Powell ; PM Private Office Support Team - Internal ;\nAilsa Terry (No.10)\n\nCec: JCS ; Mungo Woodifield ; Ninjeri Pandit ; Varun Chandra\nSubject: Re: Tariff advice as seen from Washington\nThanks\n\nGet Outlook for iOS\n\n445\n\nFrom: Ailsa Terry\n\nSent: Friday, March 28, 2025 11:02:17 AM\n\nTo: Peter Mandelson ; Michael Ellam ; Morgan McSweeney ; Jonathan Powell ; PM Private Office\nSupport Team - Internal\n\nce Jcs ; Mungo Woodifield ; Ninjeri Pandit ; Varun Chandra\nSubject: RE: Tariff advice as seen from Washington\nOFFICIAL-SENSITIVE\nPeter\n\nThank you. Confirming receipt and we will highlight this advice to the PM when we\npre brief him shortly. @PM Private Office Support Team - Internal could you print a\ncopy of this for me to take in?\n\nCcing Varun and Nin.\n\nAilsa\n\nFrom: Peter Mandelson\nSent: 28 March 2025 14:55\nTo: Ailsa Terry : Michael Ellam ; Morgan McSweeney ; Jonathan\nPowell Ce: Jcs : Mungo Woodifield\nSubject: Tariff advice as seen from Washington\nImportance: High\n\nAilsa,\nThe Prime Minister and President agreed to explore an economic partnership\n\nPeter\n\n446\n",
   "char_count": 1936,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 151,
+    "date": "28-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Tariff advice as seen from Washington",
+    "message_count": 4,
+    "date_range": [
+      "2025-03-28",
+      "2025-03-28"
+    ],
+    "participants": [
+      "Ailsa Terry : Michael Ellam",
+      "Caroline",
+      "Caroline Hurndall",
+      "Jonathan",
+      "Jonathan Powell",
+      "Michael Ellam",
+      "Morgan McSweeney",
+      "Oliver Robbins",
+      "Oliver Robbins!",
+      "PM Private Office Support Team - Internal",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Oliver Robbins!",
+        "date_raw": "Fri 28/03/2025 4:00:36 PM (UTC)",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Peter Mandelson",
+          "Caroline"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Useful to see - thank you. Unfortunately I didn’t see it in time for our last-minute pre-brief\nwith the FS.\n\nOlly\n\nOliver Robbins\nFCDO"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, March 28, 2025 3:25:33 PM",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Caroline Hurndall",
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null,
+        "body_snippet": "Ihave not been asked to submit advice to No10. They are meeting now to discuss options so\nI submitted this uninvited, I am afraid only ten minutes beforehand when I found out about\nthe meeting.\n\nBest Peter\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, March 28, 2025 11:10:09 AM",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Michael Ellam",
+          "Morgan McSweeney",
+          "Jonathan Powell",
+          "PM Private Office Support Team - Internal"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thanks\n\nGet Outlook for iOS\n\n445\n\nFrom: Ailsa Terry\n\nSent: Friday, March 28, 2025 11:02:17 AM\n\nTo: Peter Mandelson ; Michael Ellam ; Morgan McSweeney ; Jonathan Powell ; PM Private Office\nSupport Team - Internal\n\nce Jcs ; Mungo Woodifield ; Ninjeri Pandit ; Varun Chandra\nSubject: RE: Tariff advice as seen from Washington\nPeter\n\nThank you. Confirming receipt and we will highlight this advice to the"
+      },
+      {
+        "depth": 4,
+        "from_name": "Peter Mandelson",
+        "date_raw": "28 March 2025 14:55",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Ailsa Terry : Michael Ellam",
+          "Morgan McSweeney",
+          "Jonathan"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null,
+        "body_snippet": "Importance: High\n\nAilsa,\nThe Prime Minister and President agreed to explore an economic partnership\n\nPeter\n\n446"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Oliver Robbins!",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Oliver Robbins!",
+        "to": "Caroline",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Caroline Hurndall",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jonathan Powell",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "PM Private Office Support Team - Internal",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Ailsa Terry : Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jonathan",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      }
+    ]
+  }
 }

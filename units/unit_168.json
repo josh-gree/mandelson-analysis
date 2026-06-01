@@ -13,5 +13,108 @@
   "text": "Minister Counsellor Political Affairs, FCDO) and others\n\nFrom: Peter Mandelson\n\nSent: Thur 03/04/2025 6:49:46 PM (UTC)\n\nTo: Oliver Robbins Personal\nHurndall Personal\n\nCe: Nicholas Alton Personal\n\nSubject: FW: Congressional view on tariffs -\n\ninteresting\nLord Mandelson\n\nHM Ambassador, Washington DC\n\nfis Personal | Personal\n\nFrom: Nicholas Alton\nSent: 03 April 2025 14:44\nTo: Peter Mandelson\n\nPersonal\n\nCaroline\n\nee\n\nCc: DL Washi Private Office ; DL Washi SLT and Deputies ; DL Washi Political Section ; lain\nGriffiths ; Scott Furssedonn-Wood ; Oliver Warren (Cabinet Office) (Sensitive) ; Jcs\nik\n\nSubject: Congressional view on tariffs -\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\nPeter\n\n\"| was at a lunch with ma\n\ntodav.\n\n483\n\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008\nCell:\n | Phone:\n | \nEA: \n |\n | Cell:\nOFFICIAL-SENSITIVE - HMG ONLY\n***\nJCS\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n484\n",
   "char_count": 976,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 168,
+    "date": "03-04-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Congressional view on tariffs -",
+    "message_count": 2,
+    "date_range": [
+      "2025-04-03",
+      "2025-04-03"
+    ],
+    "participants": [
+      "DL Washi Political Section",
+      "DL Washi Private Office",
+      "DL Washi SLT and Deputies",
+      "Nicholas Alton",
+      "Oliver Robbins",
+      "Peter Mandelson",
+      "lain"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Thur 03/04/2025 6:49:46 PM (UTC)",
+        "date_iso": "2025-04-03",
+        "to": [
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "Congressional view on tariffs -",
+        "classification": null,
+        "body_snippet": "interesting\nLord Mandelson\n\nHM Ambassador, Washington DC\n\nfis Personal | Personal"
+      },
+      {
+        "depth": 1,
+        "from_name": "Nicholas Alton",
+        "date_raw": "03 April 2025 14:44",
+        "date_iso": "2025-04-03",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [
+          "DL Washi Private Office",
+          "DL Washi SLT and Deputies",
+          "DL Washi Political Section",
+          "lain"
+        ],
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "Peter\n\n\"| was at a lunch with ma\n\ntodav.\n\n483\n\nNick\nNicholas Alton | Minister Counsellor (Political) | British Embassy Washington\n3100 Massachusetts Avenue NW | Washington DC 20008\nCell:\n | Phone:\n | \nEA: \n |\n | Cell:\n***\nJCS\n484"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": null
+      },
+      {
+        "from": "Nicholas Alton",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Nicholas Alton",
+        "to": "DL Washi Private Office",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Nicholas Alton",
+        "to": "DL Washi SLT and Deputies",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Nicholas Alton",
+        "to": "DL Washi Political Section",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Nicholas Alton",
+        "to": "lain",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-03",
+        "subject": "Congressional view on tariffs -",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      }
+    ]
+  }
 }

@@ -20,5 +20,245 @@
   "text": "From: Peter Mandelsonj/Personal\n\nSent: Mon 24/02/2025 3:25:04 AM (UTC)\n\nTo: Jonathan Powell[Personal\n\nSubject: Fw: LUNCH WITH al DO NOT CIRCULATE\n\nNot sure I sent this to you. Scroll down\n\nGet Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Sunday, February 23, 2025 5:04 PM\n\nTo: Lucy Ferguson ; James Roscoe ; Jes ; Mungo Woodifield ; Mark Newton (MOD)\n(Sensitive) ; Jes ; Nicholas Alton\n\nSubject: Re: LUNCH WITH saad DO NOT CIRCULATE\n\nBy way, we\n\nGet Outlook for i0S\n\nFrom: Peter Mandelson\nSent: Sunday, February 23, 2025 9:38:50 AM\n\nTo: Lucy Ferguson ; James Roscoe ; JCS ; Mungo Woodifield ; Mark Newton (MOD) (Sensitive)\n; JCs ; Nicholas Alton\nSubject: Re: LUNCH WITH _ DO NOT CIRCULATE\n\nRK\n\nGet Outlook for iOS\n\nFrom: Lucy Ferguson\nSent: Sunday, February 23, 2025 9:23:21 AM\n\nTo: Peter Mandelson ; James Roscoe ; JCS ; Mungo Woodifield ; Mark Newton (MOD)\n(Sensitive) ; Jes ; Nicholas Alton\nSubject: Re: LUNCH WITH wee DO NOT CIRCULATE\n\nOFFICIAL-SENSITIVE - HMG ONLY\nReally interesting thank you.\n\nRK\n\n271\n\nLucy\nGet Outlook for iOS\nOFFICIAL-SENSITIVE - HMG ONLY\nFrom: Peter Mandelson \nSent: Sunday, February 23, 2025 8:50:52 AM\nTo: James Roscoe ; \n ; Mungo Woodifield ; Mark Newton (MOD) (Sensitive) ; Lucy \nFerguson ; \n ; Nicholas Alton \nSubject: LUNCH WITH\n DO NOT CIRCULATE\nOFFICIAL SENSITIVE  HMG ONLY\n***\n***\n***\nJCS\nJCS\n***\n***\n***\nJCS\nJCS\n272\n\n\nHappy to enlarge\nPeter\nOFFICIAL-SENSITIVE - HMG ONLY\n***\n***\n273\n",
   "char_count": 1420,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 88,
+    "date": "24-02-2025",
+    "source_mix": "mixed",
+    "thread_subject": "LUNCH WITH saad DO NOT CIRCULATE",
+    "message_count": 5,
+    "date_range": [
+      "2025-02-23",
+      "2025-02-24"
+    ],
+    "participants": [
+      "JCS",
+      "James Roscoe",
+      "Jes",
+      "Jonathan Powell[",
+      "Lucy Ferguson",
+      "Mark Newton (MOD)",
+      "Mark Newton (MOD) (Sensitive)",
+      "Mungo Woodifield",
+      "Peter Mandelson",
+      "Peter Mandelsonj/"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelsonj/",
+        "date_raw": "Mon 24/02/2025 3:25:04 AM (UTC)",
+        "date_iso": "2025-02-24",
+        "to": [
+          "Jonathan Powell["
+        ],
+        "cc": [],
+        "subject": "LUNCH WITH al DO NOT CIRCULATE",
+        "classification": null,
+        "body_snippet": "Not sure I sent this to you. Scroll down\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sunday, February 23, 2025 5:04 PM",
+        "date_iso": "2025-02-23",
+        "to": [
+          "Lucy Ferguson",
+          "James Roscoe",
+          "Jes",
+          "Mungo Woodifield",
+          "Mark Newton (MOD)"
+        ],
+        "cc": [],
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null,
+        "body_snippet": "By way, we\n\nGet Outlook for i0S"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sunday, February 23, 2025 9:38:50 AM",
+        "date_iso": "2025-02-23",
+        "to": [
+          "Lucy Ferguson",
+          "James Roscoe",
+          "JCS",
+          "Mungo Woodifield",
+          "Mark Newton (MOD) (Sensitive)"
+        ],
+        "cc": [],
+        "subject": "LUNCH WITH _ DO NOT CIRCULATE",
+        "classification": null,
+        "body_snippet": "RK\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Lucy Ferguson",
+        "date_raw": "Sunday, February 23, 2025 9:23:21 AM",
+        "date_iso": "2025-02-23",
+        "to": [
+          "Peter Mandelson",
+          "James Roscoe",
+          "JCS",
+          "Mungo Woodifield",
+          "Mark Newton (MOD)"
+        ],
+        "cc": [],
+        "subject": "LUNCH WITH wee DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "Really interesting thank you.\n\nRK\n\n271\n\nLucy\nGet Outlook for iOS"
+      },
+      {
+        "depth": 4,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sunday, February 23, 2025 8:50:52 AM",
+        "date_iso": "2025-02-23",
+        "to": [
+          "James Roscoe"
+        ],
+        "cc": [],
+        "subject": "LUNCH WITH",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "DO NOT CIRCULATE\nOFFICIAL SENSITIVE  HMG ONLY\n***\n***\n***\nJCS\nJCS\n***\n***\n***\nJCS\nJCS\n272\n\n\nHappy to enlarge\nPeter\n***\n***\n273"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelsonj/",
+        "to": "Jonathan Powell[",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-24",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Lucy Ferguson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "James Roscoe",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jes",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mark Newton (MOD)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Lucy Ferguson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "James Roscoe",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mark Newton (MOD) (Sensitive)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": null
+      },
+      {
+        "from": "Lucy Ferguson",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Lucy Ferguson",
+        "to": "James Roscoe",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Lucy Ferguson",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Lucy Ferguson",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Lucy Ferguson",
+        "to": "Mark Newton (MOD)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "James Roscoe",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-23",
+        "subject": "LUNCH WITH saad DO NOT CIRCULATE",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      }
+    ]
+  }
 }

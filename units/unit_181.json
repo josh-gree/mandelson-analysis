@@ -14,5 +14,141 @@
   "text": "Communications, No.10) and others\n\nSubject: Fw: Letter from America\n\nDate: Friday, 11 April 2025 at 23:11:44 British Summer Time\nFrom: Peter Mandelson\n\nTo: Stephanie Driver\n\nOFFICIAL-SENSITIVE\n\nGet Outlook for iOS\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson < Personal >\nSent: Friday, April 11, 2025 6:11:03 PM\n\nTo: NPandit Personal < Personal = >>\nSubject: Fw: Letter from America\n\nHave a good weekend\n\nGet Outlook for iOS\n\nFrom: Peter Mandelson < Personal >\nSent: Friday, April 11, 2025 5:59:42 PM\n\nTo: Jon Garvie < Personal >\n\nSubject: Fw: Letter from America\n\nGet Outlook for iOS\n\nFrom: Peter Mandelson\n\nSent: Friday, April 11, 2025 5:56:38 PM\n\nTo: MMcSweeney Personal < Personal\n\n< Personal — >;Jonathan Powell< = Personal\nSubject: Letter from America\n\neK\n\n>; Ailsa Terry (No.10)\n>\n\n527\n\nRK\n\nPeter\n\nLord Mandelson\nHM Ambassador, Washington DC.\n+ Personal Personal\n\n528\n\n\nFrom:\nPeter Mandelson[\nSent:\nFri 11/04/2025 10:08:30 PM (UTC)\nTo:\nOliver Robbins[\n \n \nCc:\nJames Roscoe[\n]; Nicholas \nAlton[\n]; Serena Stone[\n]\nSubject:\nRe: Thank you\nOnly the best for the Perm Sec !\nGet Outlook for iOS\nFrom: Oliver Robbins \nSent: Friday, April 11, 2025 6:07:29 PM\nTo: \n \nCc: Peter Mandelson ; James Roscoe ; Nicholas Alton ; Serena Stone \nSubject: Thank you\nOFFICIAL\nThank you for all the work that went into our visit this week when I can see how busy you and \nthe whole team are.\nSerena and I got a lot out of it and we're really grateful for the variety of the programme you \nput together for us.\nAnd very nice to get to know you a bit!\nOlly\n—\nOliver Robbins\nFCDO\nOFFICIAL\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\nJCS\nPersonal\nPersonal\n529",
   "char_count": 1632,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 181,
+    "date": "11-04-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Letter from America",
+    "message_count": 4,
+    "date_range": [
+      "2025-04-11",
+      "2025-04-11"
+    ],
+    "participants": [
+      "James Roscoe",
+      "Jon Garvie <  >",
+      "NPandit  <  = >>",
+      "Nicholas Alton",
+      "Oliver Robbins",
+      "Peter Mandelson",
+      "Serena Stone",
+      "Stephanie Driver"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, 11 April 2025 at 23:11:44 British Summer Time",
+        "date_iso": "2025-04-11",
+        "to": [
+          "Stephanie Driver"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Get Outlook for iOS"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, April 11, 2025 6:11:03 PM",
+        "date_iso": "2025-04-11",
+        "to": [
+          "NPandit  <  = >>"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": null,
+        "body_snippet": "Have a good weekend\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, April 11, 2025 5:59:42 PM",
+        "date_iso": "2025-04-11",
+        "to": [
+          "Jon Garvie <  >"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": null,
+        "body_snippet": "James Roscoe[\n]; Nicholas \nAlton[\n]; Serena Stone[\n]\nSubject:\nRe: Thank you\nOnly the best for the Perm Sec !\nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Oliver Robbins",
+        "date_raw": "Friday, April 11, 2025 6:07:29 PM",
+        "date_iso": "2025-04-11",
+        "to": [],
+        "cc": [
+          "Peter Mandelson",
+          "James Roscoe",
+          "Nicholas Alton",
+          "Serena Stone"
+        ],
+        "subject": "Thank you",
+        "classification": "OFFICIAL",
+        "body_snippet": "Thank you for all the work that went into our visit this week when I can see how busy you and \nthe whole team are.\nSerena and I got a lot out of it and we're really grateful for the variety of the programme you \nput together for us.\nAnd very nice to get to know you a bit!\nOlly\n—\nOliver Robbins\nFCDO\nJCS\nJCS\nJCS\nJCS\n529"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Stephanie Driver",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "NPandit  <  = >>",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jon Garvie <  >",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": null
+      },
+      {
+        "from": "Oliver Robbins",
+        "to": "Peter Mandelson",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Oliver Robbins",
+        "to": "James Roscoe",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Oliver Robbins",
+        "to": "Nicholas Alton",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Oliver Robbins",
+        "to": "Serena Stone",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL"
+      }
+    ]
+  }
 }

@@ -22,5 +22,100 @@
   "text": "Permanent Secretary, European Union and International Economic Affairs, CO)\nSubject: Re: US Steel Tariffs\nFrom: Michael Ellam \nDate: 08/03/2025, 08:20\nTo: Peter Mandelson \nI'm not aware of the detail but understand it's a\nOn Sat, 8 Mar 2025 at 08:12, Peter Mandelson \nwrote:\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\n***\n***\n***\n***\nJCS\n351\n\n        OFFICIAL-SENSITIVE\n Dear Michael \n        Many thanks indeed for this clear and rapid advice.  Much appreciated. I think it looks spot \non. \n        \n is duty PS this weekend and will put this to the PM tomorrow morning for \nany steers. It would be helpful to know before we do:\n            where DBT SoS is on these questions\n            \n \n \n \n Ailsa \n        OFFICIAL-SENSITIVE\n        From: Michael Ellam \n        Sent: Friday, March 7, 2025 11:07 pm\n        To: Ailsa Terry \n; \n Ninjeri \nPandit \n; Morgan McSweeney \n; Liz \nLloyd \n; Olaf Henricson-Bell \n; Matthew \nDoyle \n        Cc: Jonathan Powell \n; Nick Catsaras \n; Sophie Hague \n; \nBlack, Jonathan - CO (OFF-SEN) \n; Katy Budge1 \n; Peter Mandelson \n; \nMungo Woodifield \n; \n \n        Subject: US Steel Tariffs\n        Please see some advice below in response to the feedback from the Department of \nCommerce earlier today on steel tariffs. This reflects input from HMA Washington and Varun.\n        Context\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\n***\n***\n352\n\n\n        British Embassy Washington have been informed today \n \n \n \n \n        \n \n \n        \n \n \n \n \n        \n \n \n        Options\n        \n \n \n \n \n \n \n \n \n        \n \n \n***\n***\n353\n\n\n \n        \n \n \n \n \n        \n \n \n \n        \n \n \n \n \n \n \n        \n \n \n \n        Annex: \n \n***\n***\n**\n*\n354\n\n\nFrom:\nPeter Mandelson\nSent:\nMon 10/03/2025 12:09:19 PM (UTC)\nTo:\nForeign Affairs PO team (No10) \n(Sensitive)\n; Foreign PressTeam (No10) \n(External)\n; \n; Varun \nChandra\n; Jonathan \n; \n; Olaf Henricson-Bell (No.\n; Stuart Ingham\n; Matthew \nDoyle\n; Rich Morris (No.10)\n; Ailsa \nTerry (No.\nCc:\nHuw Leslie (No 10) (Sensitive)\n; \n \nSubject:\nRe: Call brief for POTUS\nFrom our point of view the more \nGet Outlook for iOS\nFrom: Ailsa Terry \nSent: Monday, March 10, 2025 8:02:10 AM\nTo: Foreign Affairs PO team (No10) (Sensitive) ; Foreign PressTeam (No10) (External) ; \n (No10) (External) ; Varun Chandra ; Peter Mandelson ; Jonathan Powell ; \n ; Olaf \nHenricson-Bell ; Stuart Ingham ; Matthew Doyle ; Rich Morris (No.10) \nCc: Huw Leslie (No 10) (Sensitive) ; \n \nSubject: Call brief for POTUS\nOFFICIAL-SENSITIVE\nHi all\nI have updated the brief slightly for the PM -Trump call which should happen shortly. \n@Jonathan Powell @Richard Morris\n can you look at the Ukraine \nlines asap?\n @Olaf Henricson-Bell @Varun Chandra \nCan I have thoughts by 1230 latest please.\nAilsa\nAilsa Terry CMG| Private Secretary for Foreign Affairs| Prime Minister's Office | \n10 Downing Street, London, SW1A 2AA | \nFor latest news and information from Downing Street visit: http://www.gov.uk/number10\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\nHelp save paper - do you need to print this email?",
   "char_count": 3307,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 121,
+    "date": "08-03-2025",
+    "source_mix": "pdf",
+    "thread_subject": "Call brief for POTUS",
+    "message_count": 3,
+    "date_range": [
+      "2025-03-08",
+      "2025-03-10"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Foreign Affairs PO team (No10) (Sensitive)",
+      "Foreign PressTeam (No10) (External)",
+      "Huw Leslie (No 10) (Sensitive)",
+      "Michael Ellam",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Michael Ellam",
+        "date_raw": "08/03/2025, 08:20",
+        "date_iso": "2025-03-08",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "I'm not aware of the detail but understand it's a"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sat, 8 Mar 2025 at 08:12",
+        "date_iso": "2025-03-08",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Re: Call brief for POTUS\nFrom our point of view the more \nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Ailsa Terry",
+        "date_raw": "Monday, March 10, 2025 8:02:10 AM",
+        "date_iso": "2025-03-10",
+        "to": [
+          "Foreign Affairs PO team (No10) (Sensitive)",
+          "Foreign PressTeam (No10) (External)"
+        ],
+        "cc": [
+          "Huw Leslie (No 10) (Sensitive)"
+        ],
+        "subject": "Call brief for POTUS",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Hi all\nI have updated the brief slightly for the PM -Trump call which should happen shortly. \n@Jonathan Powell @Richard Morris\n can you look at the Ukraine \nlines asap?\n @Olaf Henricson-Bell @Varun Chandra \nCan I have thoughts by 1230 latest please.\nAilsa\nAilsa Terry CMG| Private Secretary for Foreign Affairs| Prime Minister's Office | \n10 Downing Street, London, SW1A 2AA | \nFor latest news and in"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Michael Ellam",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-08",
+        "subject": "Call brief for POTUS",
+        "classification": null
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Foreign Affairs PO team (No10) (Sensitive)",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-10",
+        "subject": "Call brief for POTUS",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Foreign PressTeam (No10) (External)",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-10",
+        "subject": "Call brief for POTUS",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Huw Leslie (No 10) (Sensitive)",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-10",
+        "subject": "Call brief for POTUS",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

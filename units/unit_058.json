@@ -23,5 +23,84 @@
   "text": "James Roscoe (former Deputy Head of Mission, British Embassy in Washington, FCDO) and\nothers\n\nFrom: Whyte, Lindsey - HMT\n\nSent: 14 January 2025 18:09\n\nTo: James Roscoe (Sensitive); Ginsberg, lan - HMT; Kantor, Suzy - HMT\nSubject: intro call with Lord Mandelson\n\nDear all,\n\n| had an intro call with Lord Mandelson this afternoon — a couple of quick things to feed-back.\n\neee\n\nThanks very much,\n\nLindsey\npot Lindsey Whyte CB (pronouns: she/her)\nDirector General — International\nHM Treasury HM Treasury | Darlinaton Economic Campus\num: Personal\nPrivate Secretary | JCS\nPA| JCS\n\nwww.gov.uk/hm-treasury\n\n185",
   "char_count": 602,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 58,
+    "date": "14-01-2025",
+    "source_mix": "ocr",
+    "thread_subject": "intro call with Lord Mandelson",
+    "message_count": 1,
+    "date_range": [
+      "2025-01-14"
+    ],
+    "participants": [
+      "Ginsberg",
+      "James Roscoe (Sensitive)",
+      "Kantor",
+      "Suzy - HMT",
+      "Whyte, Lindsey - HMT",
+      "lan - HMT"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Whyte, Lindsey - HMT",
+        "date_raw": "14 January 2025 18:09",
+        "date_iso": "2025-01-14",
+        "to": [
+          "James Roscoe (Sensitive)",
+          "Ginsberg",
+          "lan - HMT",
+          "Kantor",
+          "Suzy - HMT"
+        ],
+        "cc": [],
+        "subject": "intro call with Lord Mandelson",
+        "classification": null,
+        "body_snippet": "Dear all,\n\n| had an intro call with Lord Mandelson this afternoon — a couple of quick things to feed-back.\n\neee\n\nThanks very much,\n\nLindsey\npot Lindsey Whyte CB (pronouns: she/her)\nDirector General — International\nHM Treasury HM Treasury | Darlinaton Economic Campus\num: Personal\nPrivate Secretary | JCS\nPA| JCS\n\nwww.gov.uk/hm-treasury\n\n185"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Whyte, Lindsey - HMT",
+        "to": "James Roscoe (Sensitive)",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-14",
+        "subject": "intro call with Lord Mandelson",
+        "classification": null
+      },
+      {
+        "from": "Whyte, Lindsey - HMT",
+        "to": "Ginsberg",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-14",
+        "subject": "intro call with Lord Mandelson",
+        "classification": null
+      },
+      {
+        "from": "Whyte, Lindsey - HMT",
+        "to": "lan - HMT",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-14",
+        "subject": "intro call with Lord Mandelson",
+        "classification": null
+      },
+      {
+        "from": "Whyte, Lindsey - HMT",
+        "to": "Kantor",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-14",
+        "subject": "intro call with Lord Mandelson",
+        "classification": null
+      },
+      {
+        "from": "Whyte, Lindsey - HMT",
+        "to": "Suzy - HMT",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-14",
+        "subject": "intro call with Lord Mandelson",
+        "classification": null
+      }
+    ]
+  }
 }

@@ -18,5 +18,57 @@
   "text": "Permanent Secretary, European Union and International Economic Affairs, CO) and\nothers\n\nFrom: Michael Ellam Personal\nSent: Mon 31/03/2025 5:13:50 PM (UTC)\nTo: JCS\nCe: Peter Mandelson Personal . Jonathan Powell\nPersonal . Varun Chandra Personal « \"Ailsa\nTerry (No.10)\" Personal . Ninieri Pandit Personal\nMoraan McSweeney Personal , Oliver Robbins\nPersonal . Mungo Woodifield\nPersonal . James Roscoe\nPersonal , JCS\nSubject: Re: Readout: Meeting with mee\n\nTo follow up the point on \"official vs unofficial\" channels, I just spoke to a“\n\nOn Mon, 31 Mar 2025 at 17:29, Jes wrote:\n\nJcs\nhas sent you a protected message.\n\n458",
   "char_count": 618,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 156,
+    "date": "31-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Readout: Meeting with mee",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-31",
+      "2025-03-31"
+    ],
+    "participants": [
+      "JCS",
+      "Jes",
+      "Michael Ellam"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Michael Ellam",
+        "date_raw": "Mon 31/03/2025 5:13:50 PM (UTC)",
+        "date_iso": "2025-03-31",
+        "to": [
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "Readout: Meeting with mee",
+        "classification": null,
+        "body_snippet": "To follow up the point on \"official vs unofficial\" channels, I just spoke to a“"
+      },
+      {
+        "depth": 2,
+        "from_name": "Jes",
+        "date_raw": "Mon, 31 Mar 2025 at 17:29",
+        "date_iso": "2025-03-31",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Jcs\nhas sent you a protected message.\n\n458"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Michael Ellam",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-31",
+        "subject": "Readout: Meeting with mee",
+        "classification": null
+      }
+    ]
+  }
 }

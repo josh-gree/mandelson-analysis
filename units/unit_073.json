@@ -16,5 +16,224 @@
   "text": "Private Secretary, DBT) and others\n\nRe: UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS\n\nASSOCIATION MEETING\nFrom: Peter Mandelson _ Personal\nsent on: S@trday, February 15, 2025 6:54:04 PM\nSecretary of State DBT (DBT) < Personal > JCS\nPersonal >: Jonathan Black (Cabinet\nOffice) (External) < Personal >; Kate JOSEPH\n(DBT) Personal >, Jes\n< Personal > Jes\n< Personal os JCS\nTo: < Personal >: Katy Budge / (Cabinet Office)\n< Personal >; Malte Wemer\n< Personal Bs JCS\n< Personal > JCS\n< Personal >: Tammy Reynolds\n< Personal >: Gareth Roberts\n< Personal >\nMungo Woodifield < Personal > JCS\ncc: _Personal > JCS\n< Personal >; Perm SEC (DBT)\n< Personal >\nRe: UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS\nSubject: _assOCIATION MEETING\nThanks Kal\nGet Outlook for iOS\n\nFrom: Secretary of State DBT (DBT)\nSent: Saturday, February 15, 2025 10:28:21 AM\n\n211\n\nOFFICIAL-SENSITIVE\n\nTo: Peter Mandelson; JCS ; Jonathan Black (Cabinet Office) (External) ; Kate JOSEPH\n\n(DBT) ;,YCS Jes ; JCS DBT) ; Katy\n\nBudge / (Cabinet Office) ; Malte Werner (Sensitive) ; JCS (No10) (External) ; JCS\n; Tammy Reynolds ; Gareth Roberts\n\nCc: Mungo Woodifield ; JCS ; Perm SEC (DBT)\n\nSubject: Re: UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING\n\nAmbassador,\n\nWe met briefly when you popped into DBT a few weeks ago. Just to reassure you, we\nhave printed out this readout, and your other note, and will deliver it to the Secretary of\nState’ s house.\n\n| will also make sure you get the final version of the general briefing the team has\nproduced very shortly.\n\nAllthe best,\nKal\nHe Kalada Bruce-Jaja | Principal Private Secretary\nihe Department for Business and Trade | Old Admiralty Building,\n\nDepartment for London. SW1A 2DY\nBusiness & Trade Te: Personal | E-mail:\n\nFrom: Peter Mandelson\nDate: Saturday, 15 February 2025 at 13:50\nTo: JCS , Jonathan Black (Cabinet Office) (External) , Kate JOSEPH\n(DBT) JCS cs , Secretary of State DBT (DBT) ,\nJCS (pst), Katy Budge / (Cabinet Office) , Malte Werner, JCS\n; JCS , Tammy Reynolds , Gareth Roberts\nCc: Mungo Woodifield ,\nSubject: Re: UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS\nASSOCIATION MEETING\n\n212\n\n\nOFFICIAL-SENSITIVE\n\nIam keen for Jonny Reynolds to see this ahead of his US call today. Peter\n\nGet Outlook for iOS\n\nFrom: JCS\nSent: Friday, February 14, 2025 9:57:08 PM\n\nTo: Jonathan Black (Cabinet Office) (External) ; Kate JOSEPH (DBT) ; Jos ,Jcs\n\n; Secretary of State DBT (DBT) ; Personal j\nKaty Budge / (Cabinet Office) ; Malte Werner (Sensitive) ; JCS (No10) (External) ;\nPeter Mandelson; JCS __ ; Tammy Reynolds ; Gareth Roberts\nCc: Mungo Woodifield ; JCS\n\nSubject: UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING\n\nColleagues,\n\nToday we met with Third Party , Third Party , US Steel\nManufacturers Association (SMA).\n\nKey points:\n\n213\n\n\nOFFICIAL-SENSITIVE\n\nee\n\nJCS\n\nCounsellor for Trade Policy, Economic Security and Agriculture\nBritish Embassy, Washington DC\nCell: Personal\n\n214\n\n\n<\n> Subject: Fw: Zoom link\nHi all, \nZoom link from \n team below. \n office confirmed that \n will be invited to join and were grateful for \nSoS's flexibility on the timings, given late hour in UK. \nAs explained to Kal separately, his office underlined to me the importance \nSo it is important that SoS agrees with \n how/if to describe call in Sunday rounds.",
   "char_count": 3318,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 73,
+    "date": "15-02-2025",
+    "source_mix": "mixed",
+    "thread_subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+    "message_count": 3,
+    "date_range": [
+      "2025-02-14",
+      "2025-02-15"
+    ],
+    "participants": [
+      "JCS",
+      "Jcs",
+      "Jonathan Black (Cabinet Office) (External)",
+      "Jos",
+      "Kate JOSEPH",
+      "Kate JOSEPH (DBT)",
+      "Mungo Woodifield",
+      "Perm SEC (DBT)",
+      "Peter Mandelson",
+      "Secretary of State DBT (DBT)"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Secretary of State DBT (DBT)",
+        "date_raw": "Saturday, February 15, 2025 10:28:21 AM",
+        "date_iso": "2025-02-15",
+        "to": [
+          "Peter Mandelson",
+          "JCS",
+          "Jonathan Black (Cabinet Office) (External)",
+          "Kate JOSEPH"
+        ],
+        "cc": [
+          "Mungo Woodifield",
+          "JCS",
+          "Perm SEC (DBT)"
+        ],
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Ambassador,\n\nWe met briefly when you popped into DBT a few weeks ago. Just to reassure you, we\nhave printed out this readout, and your other note, and will deliver it to the Secretary of\nState’ s house.\n\n| will also make sure you get the final version of the general briefing the team has\nproduced very shortly.\n\nAllthe best,\nKal\nHe Kalada Bruce-Jaja | Principal Private Secretary\nihe Department for "
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Saturday, 15 February 2025 at 13:50",
+        "date_iso": "2025-02-15",
+        "to": [
+          "JCS",
+          "Jonathan Black (Cabinet Office) (External)",
+          "Kate JOSEPH"
+        ],
+        "cc": [
+          "Mungo Woodifield"
+        ],
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "ASSOCIATION MEETING\n\n212\n\n\n\nIam keen for Jonny Reynolds to see this ahead of his US call today. Peter\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "JCS",
+        "date_raw": "Friday, February 14, 2025 9:57:08 PM",
+        "date_iso": "2025-02-14",
+        "to": [
+          "Jonathan Black (Cabinet Office) (External)",
+          "Kate JOSEPH (DBT)",
+          "Jos",
+          "Jcs"
+        ],
+        "cc": [
+          "Mungo Woodifield",
+          "JCS"
+        ],
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Colleagues,\n\nToday we met with Third Party , Third Party , US Steel\nManufacturers Association (SMA).\n\nKey points:\n\n213\n\n\n\nee\n\nJCS\n\nCounsellor for Trade Policy, Economic Security and Agriculture\nBritish Embassy, Washington DC\nCell: Personal\n\n214\n\n\n<\n> Subject: Fw: Zoom link\nHi all, \nZoom link from \n team below. \n office confirmed that \n will be invited to join and were grateful for \nSoS's flexibili"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "Jonathan Black (Cabinet Office) (External)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "Kate JOSEPH",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Secretary of State DBT (DBT)",
+        "to": "Perm SEC (DBT)",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jonathan Black (Cabinet Office) (External)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Kate JOSEPH",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-15",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Jonathan Black (Cabinet Office) (External)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Kate JOSEPH (DBT)",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Jos",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Jcs",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-14",
+        "subject": "UPDATE ON US STEEL: READOUT OF STEEL MANUFACTURERS ASSOCIATION MEETING",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

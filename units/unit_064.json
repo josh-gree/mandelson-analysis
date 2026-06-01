@@ -18,5 +18,28 @@
   "text": "of Staff to the Chancellor of the Exchequer, HMT)  \nPersonal\nPersonal\nPersonal\n198",
   "char_count": 82,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 64,
+    "date": "28-01-2025",
+    "source_mix": "pdf",
+    "thread_subject": null,
+    "message_count": 1,
+    "date_range": [],
+    "participants": [],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": null,
+        "date_raw": null,
+        "date_iso": null,
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "of Staff to the Chancellor of the Exchequer, HMT)  \n198"
+      }
+    ],
+    "edges": []
+  }
 }

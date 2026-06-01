@@ -12,5 +12,57 @@
   "text": "(former Secretary of State for Science, Innovation and Technology)\n\nFrom: Peter Kyle | Personal\n\nSent: Sat 08/02/2025 10:59:51 PM (UTC)\nTo: Peter Mandelson Personal\nSubject: Re: Munich speech\n\nThat’s all v good advice which I’ll action. Thank you.\nSent from my iPhone\n\nOn 8 Feb 2025, at 15:56, Peter Mandelson wrote:\n\nOFFICIAL\nHow is this going ? My further thought is that “\n\n| think it would benefit from more positive\nlanguage about Al up front before you get into the security stuff (even\nthough it is Munich you can still talk economic growth, technological\nprogress and so on).\n\ntek\n\n| think you should ask the team here to comment on specifics.\nP\n\nSent from Outlook for iO\n\n200",
   "char_count": 684,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 66,
+    "date": "08-02-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Munich speech",
+    "message_count": 2,
+    "date_range": [
+      "2025-02-08",
+      "2025-02-08"
+    ],
+    "participants": [
+      "Peter Kyle |",
+      "Peter Mandelson",
+      "at 15:56, Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Kyle |",
+        "date_raw": "Sat 08/02/2025 10:59:51 PM (UTC)",
+        "date_iso": "2025-02-08",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Munich speech",
+        "classification": null,
+        "body_snippet": "That’s all v good advice which I’ll action. Thank you.\nSent from my iPhone"
+      },
+      {
+        "depth": 1,
+        "from_name": "at 15:56, Peter Mandelson",
+        "date_raw": "8 Feb 2025",
+        "date_iso": "2025-02-08",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL",
+        "body_snippet": "How is this going ? My further thought is that “\n\n| think it would benefit from more positive\nlanguage about Al up front before you get into the security stuff (even\nthough it is Munich you can still talk economic growth, technological\nprogress and so on).\n\ntek\n\n| think you should ask the team here to comment on specifics.\nP\n\nSent from Outlook for iO\n\n200"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Kyle |",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-08",
+        "subject": "Munich speech",
+        "classification": null
+      }
+    ]
+  }
 }

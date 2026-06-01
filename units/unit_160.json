@@ -18,5 +18,77 @@
   "text": "Security Adviser, CO) and others\n\nFrom: Jonathan Powell Personal\nSent: Tue 01/04/2025 11:58:43 AM (UTC)\nTo: Peter Mandelson Personal\nCe: JCS JCS\nSubject: Re: ***\nOFFICIAL-SENSITIVE\n\nYes we are making sure that happens. Matt Collins and his team are doing it.\n\nFrom: Peter Mandelson\nSent: Monday, March 31, 2025 5:03:01 PM\nTo: Jonathan Powell\ncc: JCS\nSubject:\n\nThanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464",
   "char_count": 445,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 160,
+    "date": "01-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": "***",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-31",
+      "2025-04-01"
+    ],
+    "participants": [
+      "JCS",
+      "Jonathan Powell",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Jonathan Powell",
+        "date_raw": "Tue 01/04/2025 11:58:43 AM (UTC)",
+        "date_iso": "2025-04-01",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "***",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Yes we are making sure that happens. Matt Collins and his team are doing it."
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Monday, March 31, 2025 5:03:01 PM",
+        "date_iso": "2025-03-31",
+        "to": [
+          "Jonathan Powell"
+        ],
+        "cc": [
+          "JCS"
+        ],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Thanks\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\nae Personal | Personal\n\n464"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Jonathan Powell",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-01",
+        "subject": "***",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jonathan Powell",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-31",
+        "subject": "***",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-31",
+        "subject": "***",
+        "classification": null
+      }
+    ]
+  }
 }

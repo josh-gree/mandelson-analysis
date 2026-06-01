@@ -24,5 +24,79 @@
   "text": "Director, CO) to Vincent Devine (Government Chief Security Officer, CO)\n\n- Forwarded message ---------\n\nFrom: Michael Roberts Personal\nDate: Thu, 19 Dec 2024 at 13:54\n\nSubject: Fwd: NSV and HoL\n\nTo: Vincent Devine Personal\nweceeec nes Forwarded message ---------\nFrom: Gerard McGurk Personal\n\nDate: Thu, 19 Dec 2024 at 09:53\nSubject: RE: NSV and HoL\n\nTo: Vita Maynard Personal Michael Roberts\nPersonal Personal\nCc: Tom Bramley Personal\nOFFICIAL-SENSITIVE\n\nThanks Vita. This is very helpful confirmation of what we [FCDO] understood the\nposition to be. | will keep you updated as and when | receive a name.\n\nAs | understand it, our Perm Sec is considering whether to proceed with seeking\nagrement for the Head of Mission role alongside the security clearance process. If/if\nthe nominee is a member of the HoL, then it does make the process less bumpy.\nAssuming the Government in question accept the nomination.\n\nGerard\n\nOFFICIAL-SENSITIVE\n\nTo: Michael Roberts \nCc: Gerard McGurk \n; Tom Bramley \nSubject: Re: NSV and HoL\nHi Gerard, \nNo vetting (as in SC/DV), but \n reserve the right to clear for STRAP (i.e. \n). \nVita\nOn Wed, 18 Dec 2024 at 18:58, Michael Roberts \nwrote:\nGerard, good evening again,\nYou asked earlier today whether an individual from the House of Lords needs to go \nthrough vetting. \nFrom a recap of the paper at GSB in October, such an individual would be exempt. Tom and \nVita will be best placed to answer further policy questions (and I must confess to never \nknowing how STRAP works at the best of times, never mind in this scenario!).\nbest,\nMichael\n-- \nMichael Roberts\nAssurance Deputy Director\nUKSV, Government Security Group\nCabinet Office\nE:\nM:\nNSV Privacy Notice\nFrom: Vita Maynard \nSent: 19 December 2024 09:30\n***\n***\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n5\n",
   "char_count": 1810,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 3,
+    "date": "19-12-2024",
+    "source_mix": "mixed",
+    "thread_subject": "NSV and HoL",
+    "message_count": 3,
+    "date_range": [
+      "2024-12-18",
+      "2024-12-19"
+    ],
+    "participants": [
+      "Michael Roberts",
+      "Tom Bramley",
+      "Vincent Devine",
+      "Vita Maynard"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Michael Roberts",
+        "date_raw": "Thu, 19 Dec 2024 at 13:54",
+        "date_iso": "2024-12-19",
+        "to": [
+          "Vincent Devine"
+        ],
+        "cc": [
+          "Tom Bramley"
+        ],
+        "subject": "NSV and HoL",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thanks Vita. This is very helpful confirmation of what we [FCDO] understood the\nposition to be. | will keep you updated as and when | receive a name.\n\nAs | understand it, our Perm Sec is considering whether to proceed with seeking\nagrement for the Head of Mission role alongside the security clearance process. If/if\nthe nominee is a member of the HoL, then it does make the process less bumpy.\nAssum"
+      },
+      {
+        "depth": 2,
+        "from_name": "Michael Roberts",
+        "date_raw": "Wed, 18 Dec 2024 at 18:58",
+        "date_iso": "2024-12-18",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On Wed, 18 Dec 2024 at 18:58, Michael Roberts \nGerard, good evening again,\nYou asked earlier today whether an individual from the House of Lords needs to go \nthrough vetting. \nFrom a recap of the paper at GSB in October, such an individual would be exempt. Tom and \nVita will be best placed to answer further policy questions (and I must confess to never \nknowing how STRAP works at the best of times"
+      },
+      {
+        "depth": 3,
+        "from_name": "Vita Maynard",
+        "date_raw": "19 December 2024 09:30",
+        "date_iso": "2024-12-19",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "***\n***\n5"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Michael Roberts",
+        "to": "Vincent Devine",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Michael Roberts",
+        "to": "Tom Bramley",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

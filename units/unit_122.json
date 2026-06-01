@@ -19,5 +19,78 @@
   "text": "Secretary for Foreign Affairs, No.10) and others\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\nJCS\nJCS\nJCS\n***\n***\nJCS\nJCS\n355\n\nFrom:\nAilsa Terry\nSent:\nMon 10/03/2025 8:51:18 PM (UTC)\nTo:\nPeter Mandelson\nSubject:\nRE: \nOFFICIAL-SENSITIVE\nOFFICIAL\nOFFICIAL\nFrom: Peter Mandelson \nSent: 10 March 2025 11:12\nTo: Ailsa Terry \nSubject: \nOFFICIAL-SENSITIVE\nHi Ailsa, \nVery best\nPeter\nGet Outlook for iOS\nOFFICIAL-SENSITIVE\nOFFICIAL-SENSITIVE\nFrom: Ailsa Terry \nSent: Monday, March 10, 2025 5:31:52 AM\nTo: Robert Tinline \n; Caroline Hurndall \n; \nCc: NSA (Cabinet Office) \n; michael \nellam\n; Sophie Hague \n; Katy Budge / (Cabinet Office) \n; Morgan McSweeney \n; \nNinjeri Pandit \n; Oliver Robbins \n; \nHarriet Mathews \n; Christian Turner \n; Scott Furssedonn-Wood \n; Iain Griffiths \n;",
   "char_count": 854,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 122,
+    "date": "10-03-2025",
+    "source_mix": "pdf",
+    "thread_subject": null,
+    "message_count": 2,
+    "date_range": [
+      "2025-03-10",
+      "2025-03-10"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "NSA (Cabinet Office)",
+      "Peter Mandelson",
+      "Robert Tinline"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "10 March 2025 11:12",
+        "date_iso": "2025-03-10",
+        "to": [
+          "Ailsa Terry"
+        ],
+        "cc": [],
+        "subject": "",
+        "classification": "OFFICIAL",
+        "body_snippet": "Hi Ailsa, \nVery best\nPeter\nGet Outlook for iOS"
+      },
+      {
+        "depth": 2,
+        "from_name": "Ailsa Terry",
+        "date_raw": "Monday, March 10, 2025 5:31:52 AM",
+        "date_iso": "2025-03-10",
+        "to": [
+          "Robert Tinline"
+        ],
+        "cc": [
+          "NSA (Cabinet Office)"
+        ],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "; michael \nellam\n; Sophie Hague \n; Katy Budge / (Cabinet Office) \n; Morgan McSweeney \n; \nNinjeri Pandit \n; Oliver Robbins \n; \nHarriet Mathews \n; Christian Turner \n; Scott Furssedonn-Wood \n; Iain Griffiths \n;"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Ailsa Terry",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-10",
+        "subject": null,
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Robert Tinline",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-10",
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "NSA (Cabinet Office)",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-10",
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

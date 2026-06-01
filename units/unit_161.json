@@ -20,5 +20,125 @@
   "text": "Secretary, European Union and International Economic Affairs, CO), Mungo Woodifield\n\n(Minister Counsellor for Trade and Global Issues, FCDO) and others\n\nFrom:\nSent:\nTo:\n\nCe:\n\nSubject:\n\nVery best\n\nPeter\n\nGet Outlook for iOS\n\nPeter Mandelson Personal\nWed 02/04/2025 10:56:06 AM (UTC)\nVarun Chandra Personal , Mungo Woodifield\nPersonal , Michael Ellam\n\nPersonal , \"Jonathan Black (Cabinet Office)\n\n(External)\" Personal , \"Ailsa Terry (No.10)\"\nPersonal , Jessica Philips Personal ; Olaf\nHenricson-Bell Personal ria JCS\nJCS Personal , \"Kate JOSEPH (DBT)\"\nPersonal\nJames Roscoe Personal ; JCS\n< Personal\nRe: US/tariffs\nOFFICIAL-SENSITIVE.\n\nRK\n\nFrom: Varun Chandra\n\nPersonal\n\n465\n\nSent: Wednesday, April 2, 2025 1:51:02 AM\n\nTo: Mungo Woodifield Personal ; Michael Ellam\nPersonal ; Jonathan Black (Cabinet Office) (External)\nPersonal ; Ailsa Terry (No.10) Personal >; Jessica Philips\n\nPersonal ; Olaf Henricson-Bell < Personal\nJcs Personal ; Kate JOSEPH (DBT)\nPersonal\nCc: Peter Mandelson Personal ; James Roscoe Personal\nJCS Personal\n\nSubject: Re: US/tariffs\n\nMany thanks Mungo.\n\nYour continued engagement with the USTR team would be particularly helpful as we seek\nspecific feedback on what’ s on the table as soon as possible.\n\nAs per our exchange on text, we're just working out travel, as key counterparts appear to\nbe heading to Florida earlier than usual this week.\n\nBest,\nVarun\n\nVarun Chandra | Prime Minister’s Special Adviser on Business and Investment\n\n10 Downing Street, London SW1A 2AA | Personal\n\nFrom: Mungo Woodifield Personal\nSent: Wednesday, April 2, 2025 3:03:08 AM\nTo: Varun Chandra Personal ; Michael Ellam Personal\nBlack, Jonathan - CO (OFF-SEN) Personal ; Ailsa Terry\n\nPersonal Jessica Philips Personal Olaf Henricson-Bell Personal\nPersonal ; Jcs Personal Kate JOSEPH (DBT)\nPersonal\nCc: Peter Mandelson Personal ; James Roscoe Personal\nPersonal\n\nSubject: US/tariffs\nOFFICIAL SENSITIVE\n\nAll,\n\nA few points from DC this evening:\n\n466\n\n\nRK\n\ncontinue reporting tomorrow.\nMungo\n\nMungo Woodifield\nMinister Counsellor, Trade & Global Issues\nBritish Embassy Washington\n\nra Personal\n\nWe will\n\n467\n",
   "char_count": 2103,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 161,
+    "date": "02-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": "US/tariffs",
+    "message_count": 2,
+    "date_range": [
+      "2025-04-02",
+      "2025-04-02"
+    ],
+    "participants": [
+      "James Roscoe",
+      "Michael Ellam",
+      "Mungo Woodifield",
+      "Peter Mandelson",
+      "Varun Chandra"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Varun Chandra",
+        "date_raw": "Wednesday, April 2, 2025 1:51:02 AM",
+        "date_iso": "2025-04-02",
+        "to": [
+          "Mungo Woodifield",
+          "Michael Ellam"
+        ],
+        "cc": [
+          "Peter Mandelson",
+          "James Roscoe"
+        ],
+        "subject": "US/tariffs",
+        "classification": null,
+        "body_snippet": "JCS Personal\n\nSubject: Re: US/tariffs\n\nMany thanks Mungo.\n\nYour continued engagement with the USTR team would be particularly helpful as we seek\nspecific feedback on what’ s on the table as soon as possible.\n\nAs per our exchange on text, we're just working out travel, as key counterparts appear to\nbe heading to Florida earlier than usual this week.\n\nBest,\nVarun\n\nVarun Chandra | Prime Minister’s Sp"
+      },
+      {
+        "depth": 2,
+        "from_name": "Mungo Woodifield",
+        "date_raw": "Wednesday, April 2, 2025 3:03:08 AM",
+        "date_iso": "2025-04-02",
+        "to": [
+          "Varun Chandra",
+          "Michael Ellam"
+        ],
+        "cc": [
+          "Peter Mandelson",
+          "James Roscoe"
+        ],
+        "subject": "US/tariffs",
+        "classification": "OFFICIAL SENSITIVE",
+        "body_snippet": "All,\n\nA few points from DC this evening:\n\n466\n\n\nRK\n\ncontinue reporting tomorrow.\nMungo\n\nMungo Woodifield\nMinister Counsellor, Trade & Global Issues\nBritish Embassy Washington\n\nra Personal\n\nWe will\n\n467"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Varun Chandra",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": null
+      },
+      {
+        "from": "Varun Chandra",
+        "to": "Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": null
+      },
+      {
+        "from": "Varun Chandra",
+        "to": "Peter Mandelson",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": null
+      },
+      {
+        "from": "Varun Chandra",
+        "to": "James Roscoe",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": null
+      },
+      {
+        "from": "Mungo Woodifield",
+        "to": "Varun Chandra",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": "OFFICIAL SENSITIVE"
+      },
+      {
+        "from": "Mungo Woodifield",
+        "to": "Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": "OFFICIAL SENSITIVE"
+      },
+      {
+        "from": "Mungo Woodifield",
+        "to": "Peter Mandelson",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": "OFFICIAL SENSITIVE"
+      },
+      {
+        "from": "Mungo Woodifield",
+        "to": "James Roscoe",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-02",
+        "subject": "US/tariffs",
+        "classification": "OFFICIAL SENSITIVE"
+      }
+    ]
+  }
 }

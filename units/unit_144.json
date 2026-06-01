@@ -18,5 +18,44 @@
   "text": "Permanent Under-Secretary for Foreign Affairs, FCDO)\n\nFrom: Peter Mandelson|/ Personal\nSent: Sun 23/03/2025 1:35:01 PM (UTC)\n\nTo: Oliver Robbins| Personal ]\nSubject: sv\n\nMany thanks for sight of your draft.\n\nI recount this simply to explain how things are here so I am relieved by your advice. Thank you.\n\nwee\n\nFingers crossed for the Audience.\nThanks again\nPeter\n\nGet Outlook for iOS\n\n430",
   "char_count": 389,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 144,
+    "date": "23-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "sv",
+    "message_count": 1,
+    "date_range": [
+      "2025-03-23"
+    ],
+    "participants": [
+      "Oliver Robbins|  ]",
+      "Peter Mandelson|/"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson|/",
+        "date_raw": "Sun 23/03/2025 1:35:01 PM (UTC)",
+        "date_iso": "2025-03-23",
+        "to": [
+          "Oliver Robbins|  ]"
+        ],
+        "cc": [],
+        "subject": "sv",
+        "classification": null,
+        "body_snippet": "Many thanks for sight of your draft.\n\nI recount this simply to explain how things are here so I am relieved by your advice. Thank you.\n\nwee\n\nFingers crossed for the Audience.\nThanks again\nPeter\n\nGet Outlook for iOS\n\n430"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson|/",
+        "to": "Oliver Robbins|  ]",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "sv",
+        "classification": null
+      }
+    ]
+  }
 }

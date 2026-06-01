@@ -13,5 +13,89 @@
   "text": "Chancellor of the Duchy of Lancaster and Minister for Intergovernmental Relations)\n\nSubject: Re: FW: Letter from America\n\nFrom: Pat Mcfadden < Personal >\nDate: 14/04/2025, 22:11\nTo: Peter Mandelson < Personal =|\n\nVery helpful. Thank you.\n\nOn Mon, 14 Apr 2025 at 22:00, Peter Mandelson < Personal > wrote:\n\nOFFICIAL-SENSITIVE\n\nFyi\n\n| send these weekly to David Lammy and some in No10\n\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal\n\nOFFICIAL-SENSITIVE\nFrom: Peter Mandelson\nSent: 11 April 2025 17:56\nTo: Caroline Hurndall < Personal >; Oliver Robbins\n< Personal >\nSubject: Letter from America\n\n532\n\n \n   \n \n    Peter\n    Lord Mandelson\n    HM Ambassador, Washington DC\n | \n    Follow us online: www.gov.uk/fcdo\n    This email is intended for the addressee(s) only: All messages sent and received by the \nForeign, Commonwealth & Development Office may be monitored in line with relevant UK \nlegislation\n***\nPersonal\nPersonal\n533\n",
   "char_count": 945,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 184,
+    "date": "14-04-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Letter from America",
+    "message_count": 3,
+    "date_range": [
+      "2025-04-11",
+      "2025-04-14"
+    ],
+    "participants": [
+      "Caroline Hurndall <  >",
+      "Oliver Robbins",
+      "Pat Mcfadden",
+      "Peter Mandelson",
+      "Peter Mandelson <  =|"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Pat Mcfadden",
+        "date_raw": "14/04/2025, 22:11",
+        "date_iso": "2025-04-14",
+        "to": [
+          "Peter Mandelson <  =|"
+        ],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Very helpful. Thank you."
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Mon, 14 Apr 2025 at 22:00",
+        "date_iso": "2025-04-14",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Fyi\n\n| send these weekly to David Lammy and some in No10\n\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal"
+      },
+      {
+        "depth": 3,
+        "from_name": "Peter Mandelson",
+        "date_raw": "11 April 2025 17:56",
+        "date_iso": "2025-04-11",
+        "to": [
+          "Caroline Hurndall <  >",
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "532\n\n \n   \n \n    Peter\n    Lord Mandelson\n    HM Ambassador, Washington DC\n | \n    Follow us online: www.gov.uk/fcdo\n    This email is intended for the addressee(s) only: All messages sent and received by the \nForeign, Commonwealth & Development Office may be monitored in line with relevant UK \nlegislation\n***\n533"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Pat Mcfadden",
+        "to": "Peter Mandelson <  =|",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-14",
+        "subject": "Letter from America",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Caroline Hurndall <  >",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-11",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

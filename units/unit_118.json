@@ -19,5 +19,28 @@
   "text": "Permanent Secretary, European Union and International Economic Affairs, CO) and \nothers\n***\nJCS\n***\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n345\n\nOFFICIAL-SENSITIVE - LIMITED DISTRIBUTION \nINFORMATION\nUS Economic Deal\nDate:\nDeadline:\n07-03-2025\n11-03-2025\nTo:\nFrom:\nPrime Minister\nMichael Ellam, Second Permanent Secretary \nCabinet Office;\nVarun Chandra, Special Adviser on \nBusiness; Jonathan Black, DNSA Economics\n1. The attached draft paper for the SSG sets out the core choices for an economic proposition to\nthe US off the back of your meeting with the President",
   "char_count": 607,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 118,
+    "date": "07-03-2025",
+    "source_mix": "pdf",
+    "thread_subject": null,
+    "message_count": 1,
+    "date_range": [],
+    "participants": [],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": null,
+        "date_raw": null,
+        "date_iso": null,
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE - LIMITED DISTRIBUTION",
+        "body_snippet": "Prime Minister\nMichael Ellam, Second Permanent Secretary \nCabinet Office;\nVarun Chandra, Special Adviser on \nBusiness; Jonathan Black, DNSA Economics\n1. The attached draft paper for the SSG sets out the core choices for an economic proposition to\nthe US off the back of your meeting with the President"
+      }
+    ],
+    "edges": []
+  }
 }

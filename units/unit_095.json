@@ -20,5 +20,140 @@
   "text": "Affairs, No.10) and others\n\nFrom: Ailsa Terry[Personal\n\nSent: Tue 25/02/2025 5:17:40 PM (UTC)\n\nTo: JCS\n\nCe: Peter Mandelson|Personal Nicholas\nAlton[Personal\nJames Roscoe/Personal Morgan\nMcSweeneyiPersonal Ninjeri\nPandit/Personal Jonathan Powell[Personal\nMatthew Doyle[Personal JES\n\nSubject: RE: LIMDIS: HMA steer for PM/POTUS bilateral\n\nOFFICIAL-SENSITIVE\n\nOFFICIAL-SENSITIVE\n\nBrilliant — thank you. Copying Morgan, Nin, NSA and Matthew.\n\n| will put this on a box note for the PM so he has it with the pack tonight.\nAnd of course looking forward to your advice on arrival! See you tomorrow.\nAilsa\n\nOFFICIAL-SENSITIVE\n\nFrom: JCS\nSent: 25 February 2025 15:11\nTo: Ailsa Terry\nCc: Peter Mandelson ; Nicholas Alton ; JCS ; James Roscoe\nSubject: LIMDIS: HMA steer for PM/POTUS bilateral\nOFFICIAL-SENSITIVE\nDear Ailsa,\nPlease see below the steer requested from HMA for the PM/POTUS bilateral.\nBEGINS\n\nek\n\n285\n\nENDS\nBest wishes,\n | Chief of Staff to His Majesty’ s Ambassador | British Embassy \nWashington\n3100 Massachusetts Avenue NW, Washington, DC 20008 | Tel: \n | Mobile: \n | Email: \nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, \nCommonwealth & Development Office may be monitored in line with relevant UK legislation\nOFFICIAL-SENSITIVE\nFor latest news and information from Downing Street visit: http://www.gov.uk/number10\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\nHelp save paper - do you need to print this email?\nThis email and any files transmitted with it are intended solely for the use of the individual(s) to \nwhom they are addressed. If you are not the intended recipient and have received this email in error, \nplease notify the sender and delete the email.\nThis footnote also confirms that our email communications may be monitored to ensure the secure \nand effective operation of our systems and for other lawful purposes, and that this email has been \nswept for malware and viruses.\nOFFICIAL-SENSITIVE\n***\nJCS\nPersonal\nPersonal\nPersonal\n286\n\n\nOFFICIAL-SENSITIVE\nOFFICIAL-SENSITIVE\nFor this announcement, the media were briefed in London BEFORE any messaging script was \nactually completed and agreed. \nGet Outlook for iOS\nOFFICIAL-SENSITIVE\nOFFICIAL-SENSITIVE\nFrom: James Roscoe \nSent: Tuesday, June 10, 2025 10:41:05 AM\nTo: Ailsa Terry (No.10) \n Peter Mandelson \nCc: Caroline Hurndall \n Jonathan Powell \n Rob Dixon (Cabinet Oﬃce) (Sensi[ve) \n; Rich Morris (No.10)\nSubject: \nOFFICIAL-SENSITIVE\nThanks Ailsa (and Rob),\nWe did not see the detail or the framing ahead of the announcement in advance. If we had, we would \nhave pushed much harder to avoid the impression that \nThe ask is for us to see announcements and scrips in advance so we can advise how it will land here",
   "char_count": 2786,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 95,
+    "date": "25-02-2025",
+    "source_mix": "mixed",
+    "thread_subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+    "message_count": 3,
+    "date_range": [
+      "2025-02-25",
+      "2025-06-10"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Ailsa Terry (No.10)",
+      "Ailsa Terry[",
+      "Caroline Hurndall",
+      "JCS",
+      "James Roscoe",
+      "Nicholas Alton",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Ailsa Terry[",
+        "date_raw": "Tue 25/02/2025 5:17:40 PM (UTC)",
+        "date_iso": "2025-02-25",
+        "to": [
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Brilliant — thank you. Copying Morgan, Nin, NSA and Matthew.\n\n| will put this on a box note for the PM so he has it with the pack tonight.\nAnd of course looking forward to your advice on arrival! See you tomorrow.\nAilsa"
+      },
+      {
+        "depth": 1,
+        "from_name": "JCS",
+        "date_raw": "25 February 2025 15:11",
+        "date_iso": "2025-02-25",
+        "to": [
+          "Ailsa Terry"
+        ],
+        "cc": [
+          "Peter Mandelson",
+          "Nicholas Alton",
+          "JCS",
+          "James Roscoe"
+        ],
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Dear Ailsa,\nPlease see below the steer requested from HMA for the PM/POTUS bilateral.\nBEGINS\n\nek\n\n285\n\nENDS\nBest wishes,\n | Chief of Staff to His Majesty’ s Ambassador | British Embassy \nWashington\n3100 Massachusetts Avenue NW, Washington, DC 20008 | Tel: \n | Mobile: \n | Email: \nFollow us online: www.gov.uk/fcdo\nThis email is intended for the addressee(s) only: All messages sent and received by th"
+      },
+      {
+        "depth": 2,
+        "from_name": "James Roscoe",
+        "date_raw": "Tuesday, June 10, 2025 10:41:05 AM",
+        "date_iso": "2025-06-10",
+        "to": [
+          "Ailsa Terry (No.10)"
+        ],
+        "cc": [
+          "Caroline Hurndall"
+        ],
+        "subject": "",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thanks Ailsa (and Rob),\nWe did not see the detail or the framing ahead of the announcement in advance. If we had, we would \nhave pushed much harder to avoid the impression that \nThe ask is for us to see announcements and scrips in advance so we can advise how it will land here"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ailsa Terry[",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Ailsa Terry",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Peter Mandelson",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Nicholas Alton",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "James Roscoe",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-25",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "James Roscoe",
+        "to": "Ailsa Terry (No.10)",
+        "type": "SENT_EMAIL",
+        "date": "2025-06-10",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "James Roscoe",
+        "to": "Caroline Hurndall",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-06-10",
+        "subject": "LIMDIS: HMA steer for PM/POTUS bilateral",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

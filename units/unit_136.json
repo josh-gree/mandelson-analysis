@@ -19,5 +19,44 @@
   "text": "of Communications, No.10)\n\nSubject: Bcc SV\nDate: Monday, 17 March 2025 at 09:17:33 Greenwich Mean Time\n\nFrom: Peter Mandelson\nTo: Matthew Doyle\n\nUK OFFICIAL\n\nOlly,\n\n| can see you are ae\n\n400\n\nRK\n\nVery best\n\nPeter\n\nGet Outlook for i0S\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth &\nDevelopment Offte may be monitored in line with relevant UK legislation\nUK OFFICIAL\n\n401\n",
   "char_count": 471,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 136,
+    "date": "13-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Bcc SV",
+    "message_count": 1,
+    "date_range": [
+      "2025-03-17"
+    ],
+    "participants": [
+      "Matthew Doyle",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Monday, 17 March 2025 at 09:17:33 Greenwich Mean Time",
+        "date_iso": "2025-03-17",
+        "to": [
+          "Matthew Doyle"
+        ],
+        "cc": [],
+        "subject": "Bcc SV",
+        "classification": null,
+        "body_snippet": "UK OFFICIAL\n\nOlly,\n\n| can see you are ae\n\n400\n\nRK\n\nVery best\n\nPeter\n\nGet Outlook for i0S\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth &\nDevelopment Offte may be monitored in line with relevant UK legislation\nUK OFFICIAL\n\n401"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Matthew Doyle",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-17",
+        "subject": "Bcc SV",
+        "classification": null
+      }
+    ]
+  }
 }

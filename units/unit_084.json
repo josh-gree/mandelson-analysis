@@ -12,5 +12,175 @@
   "text": "Ambassador to Italy, FCDO\n\nFrom: Ed LlewellyniPersonal\n\nSent: Fri 21/02/2025 9:59:42 PM (UTC)\n\nTo: Peter Mandelson|Personal\n\nSubject: Fw: O/S: Italian approach to Ukraine.\nOFFICIAL-SENSITIVE\n\nTo see...\n\nE\n\nSent from Outlook for iOS\nOFFICIAL-SENSITIVE\n\nFrom: Ed Llewellyn\n\nSent: Friday, February 21, 2025 7:00 PM\n\nTo: Jes\n\nSubject: FW: O/S: Italian approach to Ukraine.\nJc\n\n1 asked JCS to pull this together — some straws in the wind here on Ukraine over the last 24\nhours,\n\nUnderlines the value of an in-depth conversation with her, which Chequers will offer.\nEd\n\nFrom: JCS\nSent: 21 February 2025 18:29\nTo: JCS ; Ben Fender ; Chris Halliday; JCS *; JCS — ;Alisonkemp;\nJCS ; JCS ; Ailsa Terry (No.10) ;\nJCS\nCc: David Burton ; Alison Kerr; Ed Llewellyn; JCS ; JCS ; JCS\n\nSubject: O/S: Italian approach to Ukraine.\nOFFICIAL-SENSITIVE\n\nDear all,\nPlease find below an update on the Italian approach to Russia/Ukraine:\n\nRegards,\nJCS\n\n| Consigliere, Affari Esteri | Head, Foreign & Security Policy\nPersonal jata Britanr mz\n\n231",
   "char_count": 1020,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 84,
+    "date": "21-02-2025",
+    "source_mix": "ocr",
+    "thread_subject": "O/S: Italian approach to Ukraine.",
+    "message_count": 2,
+    "date_range": [
+      "2025-02-21",
+      "2025-02-21"
+    ],
+    "participants": [
+      "Alison Kerr",
+      "Alisonkemp",
+      "Ben Fender",
+      "Chris Halliday",
+      "David Burton",
+      "Ed Llewellyn",
+      "Ed LlewellyniPersonal",
+      "JCS",
+      "JCS *",
+      "JCS —",
+      "Peter Mandelson|"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Ed LlewellyniPersonal",
+        "date_raw": "Fri 21/02/2025 9:59:42 PM (UTC)",
+        "date_iso": "2025-02-21",
+        "to": [
+          "Peter Mandelson|"
+        ],
+        "cc": [],
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "To see...\n\nE\n\nSent from Outlook for iOS\n\nFrom: Ed Llewellyn\n\nSent: Friday, February 21, 2025 7:00 PM\n\nTo: Jes\n\nSubject: FW: O/S: Italian approach to Ukraine.\nJc\n\n1 asked JCS to pull this together — some straws in the wind here on Ukraine over the last 24\nhours,\n\nUnderlines the value of an in-depth conversation with her, which Chequers will offer.\nEd"
+      },
+      {
+        "depth": 1,
+        "from_name": "JCS",
+        "date_raw": "21 February 2025 18:29",
+        "date_iso": "2025-02-21",
+        "to": [
+          "JCS",
+          "Ben Fender",
+          "Chris Halliday",
+          "JCS *",
+          "JCS —",
+          "Alisonkemp"
+        ],
+        "cc": [
+          "David Burton",
+          "Alison Kerr",
+          "Ed Llewellyn",
+          "JCS",
+          "JCS",
+          "JCS"
+        ],
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Dear all,\nPlease find below an update on the Italian approach to Russia/Ukraine:\n\nRegards,\nJCS\n\n| Consigliere, Affari Esteri | Head, Foreign & Security Policy\nPersonal jata Britanr mz\n\n231"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ed LlewellyniPersonal",
+        "to": "Peter Mandelson|",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Ben Fender",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Chris Halliday",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS *",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS —",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Alisonkemp",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "David Burton",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Alison Kerr",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "Ed Llewellyn",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "JCS",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-21",
+        "subject": "O/S: Italian approach to Ukraine.",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

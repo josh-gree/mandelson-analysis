@@ -19,5 +19,100 @@
   "text": "Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Oliver Robbinst/Personal\n\nSent: Fri 25/04/2025 1:26:26 PM (UTC)\n\nTo: Peter MandelsonPersonal\n\nSubject: RE: OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS\n\nOFFICIAL-SENSITIVE - HMG ONLY\nthanks\n\nOFFICIAL-SENSITIVE - HMG ONLY\n\nFrom: Peter Mandelson\nSent: 25 April 2025 11:45\nTo: Oliver Robbins\nSubject: Fw: OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS\nOFFICIAL-SENSITIVE - HMG ONLY\n\nFYI\nGet Outlook for iOS\nOFFICIAL-SENSITIVE - HMG ONLY\n\nFrom: JCS Personal\nSent: Thursday, April 24, 2025 11:12:20 PM\nTo: Peter Mandelson Personal\n\nCc: Mungo Woodifield Personal\nPersonal : JCS Personal\n\nSubject: FW: OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS\nOFFICIAL-SENSITIVE - HMG ONLY\n\nPeter — below is a rough written readout of today’s meetings.\nMungo will write down key points for you with the CX separately before your meeting.\n\nJCS\n\nOFFICIAL-SENSITIVE - HMG ONLY\nJcs Personal\n\nFrom:\n\nSent: Thursday, April 24, 2025 11:11 PM\n\nTo: VChandraPersonal : Jonathan Black (Cabinet Office) (External)\nPersonal ; Kate JOSEPH (DBT)\n\nrersonal ; Graham Floater (DBT)\nrersonal\n\nCc: Mungo Woodifield \"e!sona!\nSubject: OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS\nUSTR\n\nA positive and productive discussion was held with we\n\nCOMMERCE\nBoth sides agreed to follow-up on actions and next steps quickly: UK would mark up the text \nwith its written comments and propose alternative/original wording.\nENDS\n***\n565\n",
   "char_count": 1477,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 196,
+    "date": "25-04-2025",
+    "source_mix": "mixed",
+    "thread_subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+    "message_count": 3,
+    "date_range": [
+      "2025-04-24",
+      "2025-04-25"
+    ],
+    "participants": [
+      "JCS",
+      "Mungo Woodifield",
+      "Oliver Robbins",
+      "Oliver Robbinst/",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Oliver Robbinst/",
+        "date_raw": "Fri 25/04/2025 1:26:26 PM (UTC)",
+        "date_iso": "2025-04-25",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "thanks"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "25 April 2025 11:45",
+        "date_iso": "2025-04-25",
+        "to": [
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "FYI\nGet Outlook for iOS"
+      },
+      {
+        "depth": 2,
+        "from_name": "JCS",
+        "date_raw": "Thursday, April 24, 2025 11:12:20 PM",
+        "date_iso": "2025-04-24",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [
+          "Mungo Woodifield"
+        ],
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "Peter — below is a rough written readout of today’s meetings.\nMungo will write down key points for you with the CX separately before your meeting.\n\nJCS\n\nJcs Personal\n\nFrom:\n\nSent: Thursday, April 24, 2025 11:11 PM\n\nTo: VChandraPersonal : Jonathan Black (Cabinet Office) (External)\nPersonal ; Kate JOSEPH (DBT)\n\nrersonal ; Graham Floater (DBT)\nrersonal\n\nCc: Mungo Woodifield \"e!sona!\nSubject: OFFSEN: "
+      }
+    ],
+    "edges": [
+      {
+        "from": "Oliver Robbinst/",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-25",
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-25",
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "JCS",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-24",
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      },
+      {
+        "from": "JCS",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-24",
+        "subject": "OFFSEN: DRAFT READOUT OF USTR AND COMMERCE MEETINGS",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      }
+    ]
+  }
 }

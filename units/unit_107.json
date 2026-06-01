@@ -19,5 +19,88 @@
   "text": "Ambassador to Italy, FCDO)\nJCS\nJCS\nJCS\nJCS\nJCS\nJCS\nJC\nS\nPersonal\n***\nPersonal\nPersonal\n321\n\nFrom:\nSent:\nTo:\nSubject:\nBarbara Woodward \nFri 28/02/2025 12:24:58 PM (UTC)\nPeter Mandelson\nRe: Well done \nPeter- my turn to congratulate you and the Embassy. From where I sat, it looked \nlike an exceptional diplomatic triumph. Thank you from all of us!\nWith best wishes,\nBarbara\nBarbara Woodward | Ambassador and Permanent Representative | UK Mission \nto the United Nations| 1 Dag Hammarskjold Plaza | 885 2nd Avenue | New York \n10017|\nCoS: \nPA: \nPrivate Office: \nFrom: Barbara Woodward * \nSent: Wednesday, February 26, 2025 8:29:27 AM\nTo: Peter Mandelson \nSubject: Re: Well done\nPeter- thank you. A great message to start yesterday. The team was delighted to have it. \nGood luck with your visitors this week and many thanks to \n : I’d be delighted!\nWith best wishes,\nBarbara \nBarbara Woodward | Ambassador and Permanent Representative | UK Mission to \nthe United Nations| 1 Dag Hammarskjold Plaza | 885 2nd Avenue | New York 10017|\nCoS: \nPA: \nPrivate Office: \nFrom: Peter Mandelson \nSent: Tuesday, February 25, 2025 8:40:00 AM\nTo: Barbara Woodward * \nSubject: Well done\nMagnificent performance by your team in NY. \nAnd \n keeps telling me you come across wonderfully on TV ! He hopes you will \ncome and visit us.\nVery best\nPeter\nGet Outlook for iOS",
   "char_count": 1341,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 107,
+    "date": "28-02-2025",
+    "source_mix": "pdf",
+    "thread_subject": "Well done",
+    "message_count": 3,
+    "date_range": [
+      "2025-02-25",
+      "2025-02-28"
+    ],
+    "participants": [
+      "Barbara Woodward",
+      "Barbara Woodward *",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Barbara Woodward",
+        "date_raw": "Fri 28/02/2025 12:24:58 PM (UTC)",
+        "date_iso": "2025-02-28",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Well done",
+        "classification": null,
+        "body_snippet": "Barbara Woodward \nFri 28/02/2025 12:24:58 PM (UTC)\nPeter Mandelson\nRe: Well done \nPeter- my turn to congratulate you and the Embassy. From where I sat, it looked \nlike an exceptional diplomatic triumph. Thank you from all of us!\nWith best wishes,\nBarbara\nBarbara Woodward | Ambassador and Permanent Representative | UK Mission \nto the United Nations| 1 Dag Hammarskjold Plaza | 885 2nd Avenue | New Y"
+      },
+      {
+        "depth": 2,
+        "from_name": "Barbara Woodward",
+        "date_raw": "Wednesday, February 26, 2025 8:29:27 AM",
+        "date_iso": "2025-02-26",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Well done",
+        "classification": null,
+        "body_snippet": "Peter- thank you. A great message to start yesterday. The team was delighted to have it. \nGood luck with your visitors this week and many thanks to \n : I’d be delighted!\nWith best wishes,\nBarbara \nBarbara Woodward | Ambassador and Permanent Representative | UK Mission to \nthe United Nations| 1 Dag Hammarskjold Plaza | 885 2nd Avenue | New York 10017|\nCoS: \nPA: \nPrivate Office:"
+      },
+      {
+        "depth": 3,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Tuesday, February 25, 2025 8:40:00 AM",
+        "date_iso": "2025-02-25",
+        "to": [
+          "Barbara Woodward *"
+        ],
+        "cc": [],
+        "subject": "Well done",
+        "classification": null,
+        "body_snippet": "Magnificent performance by your team in NY. \nAnd \n keeps telling me you come across wonderfully on TV ! He hopes you will \ncome and visit us.\nVery best\nPeter\nGet Outlook for iOS"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Barbara Woodward",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-28",
+        "subject": "Well done",
+        "classification": null
+      },
+      {
+        "from": "Barbara Woodward",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-26",
+        "subject": "Well done",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Barbara Woodward *",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-25",
+        "subject": "Well done",
+        "classification": null
+      }
+    ]
+  }
 }

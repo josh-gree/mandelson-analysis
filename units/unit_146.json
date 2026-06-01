@@ -20,5 +20,128 @@
   "text": "(former Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Peter Mandelson Personal\nSent: Tue 25/03/2025 2:03:21 PM (UTC)\nTo: Oliver Robbins Personal\nSubject: Re: The US and us\neK\nGet Outlook for iOS\n\nFrom: Oliver Robbins\n\nSent: Tuesday, March 25, 2025 9:06:54 AM\nTo: Peter Mandelson\n\nSubject: Re: The US and us\n\nOFFICIAL-SENSITIVE\n\neK\n\nOlly\n\nOliver Robbins\nForeign, Commonwealth and Development Office\nLondon, UK\n\nFrom: Peter Mandelson\nSent: Sunday, March 23, 2025 9:46:43 PM\nTo: Oliver Robbins\n\n433\n\nSubject: Fw: The US and us\nOFFICIAL-SENSITIVE\n\nRK\n\nThis is an attempt to put the interview in context\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Sunday, March 23, 2025 4:47:01 PM\nTo: James Roscoe ; Lucy Ferguson ; Nicholas Alton ; Mungo Woodifield ; JCS\n; Mark Newton (MOD) (Sensitive)\nSubject: Fw: The US and us\nBCC. Please do not forward.\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\n\nSent: Sunday, March 23, 2025 4:41:50 PM\n\nTo: MMcSweeney Personal =Npandit Personal — ; jonathan Powell ; Ailsa Terry (No.10) ;\nMatthew Doyle\n\nSubject: The US and us\nsek\n\n434\n\n\nf \nPeter\nSent from Outlook for iOS\n***\n435\n",
   "char_count": 1144,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 146,
+    "date": "25-03-2025",
+    "source_mix": "mixed",
+    "thread_subject": "The US and us",
+    "message_count": 3,
+    "date_range": [
+      "2025-03-23",
+      "2025-03-25"
+    ],
+    "participants": [
+      "JCS",
+      "James Roscoe",
+      "Lucy Ferguson",
+      "Mungo Woodifield",
+      "Nicholas Alton",
+      "Oliver Robbins",
+      "Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Tue 25/03/2025 2:03:21 PM (UTC)",
+        "date_iso": "2025-03-25",
+        "to": [
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "The US and us",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "eK\nGet Outlook for iOS\n\nFrom: Oliver Robbins\n\nSent: Tuesday, March 25, 2025 9:06:54 AM\nTo: Peter Mandelson\n\nSubject: Re: The US and us\n\n\neK\n\nOlly\n\nOliver Robbins\nForeign, Commonwealth and Development Office\nLondon, UK"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sunday, March 23, 2025 9:46:43 PM",
+        "date_iso": "2025-03-23",
+        "to": [
+          "Oliver Robbins"
+        ],
+        "cc": [],
+        "subject": "The US and us",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "RK\n\nThis is an attempt to put the interview in context\n\nSent from Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Sunday, March 23, 2025 4:47:01 PM",
+        "date_iso": "2025-03-23",
+        "to": [
+          "James Roscoe",
+          "Lucy Ferguson",
+          "Nicholas Alton",
+          "Mungo Woodifield",
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "The US and us",
+        "classification": null,
+        "body_snippet": "BCC. Please do not forward.\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\n\nSent: Sunday, March 23, 2025 4:41:50 PM\n\nTo: MMcSweeney Personal =Npandit Personal — ; jonathan Powell ; Ailsa Terry (No.10) ;\nMatthew Doyle\n\nSubject: The US and us\nsek\n\n434\n\n\nf \nPeter\nSent from Outlook for iOS\n***\n435"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-25",
+        "subject": "The US and us",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "James Roscoe",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Lucy Ferguson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Nicholas Alton",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-23",
+        "subject": "The US and us",
+        "classification": null
+      }
+    ]
+  }
 }

@@ -19,5 +19,101 @@
   "text": "CO) and others\n\nFrom: Vita Maynard < PERSONAL >\nDate: Thu, 19 Dec 2024 at 09:58\nSubject: Re: NSV and HoL\n\nTo: Vincent Devine < PERSONAL >\nCc: Michael Roberts < PERSONAL Ss JCS\n< PERSONAL >\n\nIt's nice having policies written down sometimes £/))\n\nOn Thu, 19 Dec 2024 at 09:48, Vincent Devine < PERSONAL > wrote:\n\nPerfect. All in the same position on this. So, once we are formally asked, it is over to the\nFCDO STRAPSO and the STRAP authorities.\n\nVv\nVincent Devine\nDirector General & Government Chief Security Officer\nGovernment Security Function\nCabinet Office\nPrivate Office Shared Mailbox: PERSONAL\nJcs\nChief of Staff\nPERSONAL\nJCS\nOn Thu, 19 Dec 2024 at 09:44, Michael Roberts < PERSONAL >\n\nwrote:\n\nVincent - good morning. \nAs \n has probably explained, email below relates to Gerard's note last night... Vita has \nreplied with regards to STRAP, I am likely to speak to Gerard later today and will make \nyour point about the role of the STRAPSO...\nHope this is clear!\nMichael\n---------- Forwarded message ---------\nFrom: Vita Maynard <\n>\nDate: Thu, 19 Dec 2024 at 09:30\nSubject: Re: NSV and HoL\nTo: Michael Roberts <\n>\nCc: Gerard McGurk <\n>, Tom Bramley \n<\n>\nHi Gerard, \nNo vetting (as in SC/DV), but \n reserve the right to clear for STRAP (i.e. \n). \nVita\nOn Wed, 18 Dec 2024 at 18:58, Michael Roberts <\n> \nwrote:\nGerard, good evening again,\nYou asked earlier today whether an individual from the House of Lords needs to go \nthrough vetting. \nFrom a recap of the paper at GSB in October, such an individual would be exempt. Tom \nand Vita will be best placed to answer further policy questions (and I must confess to never \nknowing how STRAP works at the best of times, never mind in this scenario!).\nbest,\nMichael\n-- \nMichael Roberts\nAssurance Deputy Director\nUKSV, Government Security Group\nCabinet Office\nPERSONAL\nPERSONAL\nPERSONAL\nPERSONAL\nPERSONAL\nPERSONAL\n***\n***\nJC\nS\n3\n",
   "char_count": 1876,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 2,
+    "date": "19-12-2024",
+    "source_mix": "mixed",
+    "thread_subject": "NSV and HoL",
+    "message_count": 3,
+    "date_range": [
+      "2024-12-19",
+      "2024-12-19"
+    ],
+    "participants": [
+      "Gerard McGurk <",
+      "Michael Roberts",
+      "Michael Roberts <",
+      "Michael Roberts < PERSONAL Ss JCS",
+      "Vincent Devine",
+      "Vita Maynard"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Vita Maynard",
+        "date_raw": "Thu, 19 Dec 2024 at 09:58",
+        "date_iso": "2024-12-19",
+        "to": [
+          "Vincent Devine"
+        ],
+        "cc": [
+          "Michael Roberts < PERSONAL Ss JCS"
+        ],
+        "subject": "NSV and HoL",
+        "classification": null,
+        "body_snippet": "It's nice having policies written down sometimes £/))"
+      },
+      {
+        "depth": 2,
+        "from_name": "Vincent Devine",
+        "date_raw": "Thu, 19 Dec 2024 at 09:48",
+        "date_iso": "2024-12-19",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Perfect. All in the same position on this. So, once we are formally asked, it is over to the\nFCDO STRAPSO and the STRAP authorities.\n\nVv\nVincent Devine\nDirector General & Government Chief Security Officer\nGovernment Security Function\nCabinet Office\nPrivate Office Shared Mailbox: PERSONAL\nJcs\nChief of Staff\nJCS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Michael Roberts",
+        "date_raw": "Thu, 19 Dec 2024 at 09:44",
+        "date_iso": "2024-12-19",
+        "to": [
+          "Michael Roberts <"
+        ],
+        "cc": [
+          "Gerard McGurk <"
+        ],
+        "subject": "NSV and HoL",
+        "classification": null,
+        "body_snippet": ">, Tom Bramley \n<\n>\nHi Gerard, \nNo vetting (as in SC/DV), but \n reserve the right to clear for STRAP (i.e. \n). \nVita\nOn Wed, 18 Dec 2024 at 18:58, Michael Roberts <\n> \nGerard, good evening again,\nYou asked earlier today whether an individual from the House of Lords needs to go \nthrough vetting. \nFrom a recap of the paper at GSB in October, such an individual would be exempt. Tom \nand Vita will be "
+      }
+    ],
+    "edges": [
+      {
+        "from": "Vita Maynard",
+        "to": "Vincent Devine",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      },
+      {
+        "from": "Vita Maynard",
+        "to": "Michael Roberts < PERSONAL Ss JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      },
+      {
+        "from": "Michael Roberts",
+        "to": "Michael Roberts <",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      },
+      {
+        "from": "Michael Roberts",
+        "to": "Gerard McGurk <",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      }
+    ]
+  }
 }

@@ -24,5 +24,44 @@
   "text": "Under-Secretary of State for Foreign Affairs, FCDO) and others\nFrom: \nSent: 12 March 2025 16:15\nTo: Oliver Robbins ; Ailsa Terry (No.10) ; Ninjeri Pandit ; Jonathan Powell \nCc: Victoria Busby ; Scott Furssedonn-Wood ; James Roscoe ; Peter Mandelson \nSubject: LIMDIS: HMA Washington to PUS and PS/PM, US State Visit\nPUS, Ailsa,\nPlease see the below message from HMA Washington regarding the proposed US state visit \n(SV).\nBEGINS\nDear Olly, dear Ailsa,\nMy team returned to the White House today to discuss, at their request, the PM's State Visit \ninvitation from The King.\nENDS\nBest wishes,\n | Chief of Staff to His Majesty's Ambassador | British Embassy \nWashington\n3100 Massachusetts Avenue NW, Washington, DC 20008 | \n | Mobile: \n+\nJCS\n***\nJCS\nPersonal\nPersonal\n***\n372\n\nFrom:\nEd Llewellyn\nSent:\nTue 11/03/2025 9:18:10 PM (UTC)\nTo:\nPeter Mandelson[\n]\nSubject:\nFw: Personal: Meloni/Ukraine etc - a sitrep from Rome\nOFFICIAL-SENSITIVE - HMG ONLY\nPeter\nTo see.\nEd\nSent from Outlook for iOS\nOFFICIAL-SENSITIVE - HMG ONLY\nFrom: Ed Llewellyn \nSent: Tuesday, March 11, 2025 1:55 PM\nTo: Ailsa Terry (No.10) ; \n ; \n \nSubject: Personal: Meloni/Ukraine etc - a sitrep from Rome\nAilsa, \nA quick snapshot from here –  just over a week after Meloni's meeting with the PM and \nLancaster House. Both seem an age ago already, as they must do even more to you.",
   "char_count": 1343,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 125,
+    "date": "12-03-2025",
+    "source_mix": "pdf",
+    "thread_subject": "Personal: Meloni/Ukraine etc - a sitrep from Rome",
+    "message_count": 1,
+    "date_range": [
+      "2025-03-11"
+    ],
+    "participants": [
+      "Ailsa Terry (No.10)",
+      "Ed Llewellyn"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Ed Llewellyn",
+        "date_raw": "Tuesday, March 11, 2025 1:55 PM",
+        "date_iso": "2025-03-11",
+        "to": [
+          "Ailsa Terry (No.10)"
+        ],
+        "cc": [],
+        "subject": "Personal: Meloni/Ukraine etc - a sitrep from Rome",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY",
+        "body_snippet": "Ailsa, \nA quick snapshot from here –  just over a week after Meloni's meeting with the PM and \nLancaster House. Both seem an age ago already, as they must do even more to you."
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ed Llewellyn",
+        "to": "Ailsa Terry (No.10)",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-11",
+        "subject": "Personal: Meloni/Ukraine etc - a sitrep from Rome",
+        "classification": "OFFICIAL-SENSITIVE - HMG ONLY"
+      }
+    ]
+  }
 }

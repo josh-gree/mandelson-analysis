@@ -21,5 +21,112 @@
   "text": "Officer, CO) and others\n\n~--------- Forwarded message ---------\n\nFrom: Vincent Devine Personal\n\nDate: Thu, 19 Dec 2024 at 15:23\n\nSubject: Re: NSV and HoL\n\nTo: Michael Roberts Personal\n\nCoz JCS Vita Maynard\nPersonal\n\nGreat. Thanks.\n\nVincent Devine\n\nDirector General & Government Chief Security Officer\nGovernment Security Function\n\nCabinet Office\n\nPrivate Office Shared Mailbox: Personal\n\nJCS\nJCS\nJCS\nm: Personal\nt| Personal\n\nJCS\n\nPrivate Secretary\n\nm: Personal\nt Personal\n\nOn Thu, 19 Dec 2024 at 13:56, Michael Roberts Personal > wrote:\n\nHi Vincent,\nT have just sent on the latest email from Gerard.\n\nWe haven't heard anything more from Gerard on who the individual will be since last night\nbut we stand ready to support. The strong indication last night was that the individual would\nbe from the HoL and so therefore no NSV required. Vita has been in touch with Gerard on\n\nthe STRAP point so I think, for now, we're covered.\nMichael\nOn Thu, 19 Dec 2024 at 13:18, Vincent Devine \nwrote:\nAny news on this?  It would be good to be reassured that they are moving the wheels.  \nGerard will have to confirm the position on DV with his PermSec and possibly SofS (who \nwill both I assume be happy to hear the news) and get the STRAP guys moving before the \nChristmas break. \nV\nVincent Devine\nDirector General & Government Chief Security Officer\nGovernment Security Function\nCabinet Office\nPrivate Office Shared Mailbox: \nm: \nt: \nm: \nt: \nOn Thu, 19 Dec 2024 at 09:48, Vincent Devine \n> \nwrote:\nPerfect.  All in the same position on this.  So, once we are formally asked, it is over to the \nFCDO STRAPSO and the STRAP authorities. \nV\nVincent Devine\nDirector General & Government Chief Security Officer\nGovernment Security Function\nCabinet Office\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\nJCS\n7\n\n\nPrivate Office Shared Mailbox:\nm: \nt: \nm: \nt: \nOn Thu, 19 Dec 2024 at 09:44, Michael Roberts \nwrote:\nVincent - good morning. \nAs \n has probably explained, email below relates to Gerard's note last night... Vita has \nreplied with regards to STRAP, I am likely to speak to Gerard later today and will make \nyour point about the role of the STRAPSO...\nHope this is clear!\nMichael\n---------- Forwarded message ---------\nFrom: Vita Maynard \nDate: Thu, 19 Dec 2024 at 09:30\nSubject: Re: NSV and HoL\nTo: Michael Roberts <\n>\nCc: Gerard McGurk <\n>, Tom Bramley \n<\n>\nHi Gerard, \nNo vetting (as in SC/DV), but \n reserve the right to clear for STRAP (i.e. \n \n). \nVita\nOn Wed, 18 Dec 2024 at 18:58, Michael Roberts <\n> \nwrote:\nGerard, good evening again,\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\n***\n***\nJC\nS\n8\n\n\nYou asked earlier today whether an individual from the House of Lords needs to go\nthrough vetting.\n\nFrom a recap of the paper at GSB in October, such an individual would be exempt. Tom\nand Vita will be best placed to answer further policy questions (and I must confess to\nnever knowing how STRAP works at the best of times, never mind in this scenario!).\n\nbest,\nMichael\n\nMichael Roberts\n\nAssurance Deputy Director\n\nUKSV, Government Security Group\nCabinet Office\nEe Personal\nm: Personal\n\nNSV Privacy Notice\n",
   "char_count": 3192,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 4,
+    "date": "19-12-2024",
+    "source_mix": "mixed",
+    "thread_subject": "NSV and HoL",
+    "message_count": 5,
+    "date_range": [
+      "2024-12-19",
+      "2024-12-19"
+    ],
+    "participants": [
+      "Gerard McGurk <",
+      "Michael Roberts",
+      "Michael Roberts <",
+      "Vincent Devine",
+      "Vita Maynard"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Vincent Devine",
+        "date_raw": "Thu, 19 Dec 2024 at 15:23",
+        "date_iso": "2024-12-19",
+        "to": [
+          "Michael Roberts"
+        ],
+        "cc": [],
+        "subject": "NSV and HoL",
+        "classification": null,
+        "body_snippet": "Coz JCS Vita Maynard\n\nGreat. Thanks.\n\nVincent Devine\n\nDirector General & Government Chief Security Officer\nGovernment Security Function\n\nCabinet Office\n\nPrivate Office Shared Mailbox: Personal\n\nJCS\nJCS\nJCS\nm: Personal\nt| Personal\n\nJCS\n\nPrivate Secretary\n\nm: Personal\nt Personal"
+      },
+      {
+        "depth": 1,
+        "from_name": "Michael Roberts",
+        "date_raw": "Thu, 19 Dec 2024 at 13:56",
+        "date_iso": "2024-12-19",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Hi Vincent,\nT have just sent on the latest email from Gerard.\n\nWe haven't heard anything more from Gerard on who the individual will be since last night\nbut we stand ready to support. The strong indication last night was that the individual would\nbe from the HoL and so therefore no NSV required. Vita has been in touch with Gerard on\n\nthe STRAP point so I think, for now, we're covered.\nMichael"
+      },
+      {
+        "depth": 2,
+        "from_name": "Vincent Devine",
+        "date_raw": "Thu, 19 Dec 2024 at 13:18",
+        "date_iso": "2024-12-19",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On Thu, 19 Dec 2024 at 13:18, Vincent Devine \nAny news on this?  It would be good to be reassured that they are moving the wheels.  \nGerard will have to confirm the position on DV with his PermSec and possibly SofS (who \nwill both I assume be happy to hear the news) and get the STRAP guys moving before the \nChristmas break. \nV\nVincent Devine\nDirector General & Government Chief Security Officer\nGov"
+      },
+      {
+        "depth": 3,
+        "from_name": "Michael Roberts",
+        "date_raw": "Thu, 19 Dec 2024 at 09:44",
+        "date_iso": "2024-12-19",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On Thu, 19 Dec 2024 at 09:44, Michael Roberts \nVincent - good morning. \nAs \n has probably explained, email below relates to Gerard's note last night... Vita has \nreplied with regards to STRAP, I am likely to speak to Gerard later today and will make \nyour point about the role of the STRAPSO...\nHope this is clear!\nMichael\n---------- Forwarded message ---------"
+      },
+      {
+        "depth": 4,
+        "from_name": "Vita Maynard",
+        "date_raw": "Thu, 19 Dec 2024 at 09:30",
+        "date_iso": "2024-12-19",
+        "to": [
+          "Michael Roberts <"
+        ],
+        "cc": [
+          "Gerard McGurk <"
+        ],
+        "subject": "NSV and HoL",
+        "classification": null,
+        "body_snippet": ">, Tom Bramley \n<\n>\nHi Gerard, \nNo vetting (as in SC/DV), but \n reserve the right to clear for STRAP (i.e. \n \n). \nVita\nOn Wed, 18 Dec 2024 at 18:58, Michael Roberts <\n> \nGerard, good evening again,\nJCS\nJCS\n***\n***\nJC\nS\n8\n\n\nYou asked earlier today whether an individual from the House of Lords needs to go\nthrough vetting.\n\nFrom a recap of the paper at GSB in October, such an individual would be exem"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Vincent Devine",
+        "to": "Michael Roberts",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      },
+      {
+        "from": "Vita Maynard",
+        "to": "Michael Roberts <",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      },
+      {
+        "from": "Vita Maynard",
+        "to": "Gerard McGurk <",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-19",
+        "subject": "NSV and HoL",
+        "classification": null
+      }
+    ]
+  }
 }

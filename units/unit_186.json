@@ -18,5 +18,30 @@
   "text": "(Deputy National Security Adviser, CO)\n\nFrom: Matthew Collins < Personal > To: Peter Mandelson\n< Personal >\n\nee\n\ntee\n\nThat's v helpful.\n\n*Matt Collins* Deputy National Security Adviser Intelligence, Defence and Security *70 Whitehall,\nLondon, SW1A 2AS*\n\n*Pst: JCS ¢ Personal ) «aps*:\nJCS < Personal >( Personal\n“diay JCS\nPersonal\n\nOn Thu, 17 Apr 2025 at 11:23, Peter Mandelson\n< Personal > wrote:\nOFFICIAL-SENSITIVE > >>>\n\n+e\n\nIsaw Andrew Peak last night in WH and gave him Jim Jourdan letter to be aware. *\n\n. > >>> Get Outlook for iOS <https://aka.ms/o0ukef> > > > > OFFICIAL-SENSITIVE >\n*From:* Matthew Collins < Personal >>\n\n*Sent:* Thursday, April 17, 2025 1:19:12 AM>\n\n*To:* Peter Mandelson < Personal 25\n\nee\n\nHope that helps. *** Matt\n\nee\n\nPeter >>>>\n\nGet Outlook for iOS <https://aka.ms/o0ukef> > >>\nFollow us online: www.gov.uk/fedo > > > > This email is intended for the addressee(s) only: All messages\nsent and >> received by the Foreign, Commonwealth & Development Office may be monitored > > in line\nwith relevant UK legislation > > <https://www. gov.uk/government/publications/fedo-as-a-data-controller\nprivacy-notice/fcdo-as-a-data- controller-privacy-notice> > > > > OFFICIAL-SENSITIVE > > >>>\nFollow us online: www.gov.uk/fedo > >\n\n> This email is intended for the addressee(s) only: All messages sent and > > received by the Foreign,\nCommonwealth & Development Office may be monitored > > in line with relevant UK legislation > >\n<https:/www. gov-uk/government/publications/fedo-as-a-data-controller-privacy-notice/fedo-as-a-data-\ncontroller-privacy-notice> >>\n\n537",
   "char_count": 1583,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 186,
+    "date": "17-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": null,
+    "message_count": 1,
+    "date_range": [],
+    "participants": [
+      "Matthew Collins To: Peter Mandelson"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Matthew Collins To: Peter Mandelson",
+        "date_raw": null,
+        "date_iso": null,
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "ee\n\ntee\n\nThat's v helpful.\n\n*Matt Collins* Deputy National Security Adviser Intelligence, Defence and Security *70 Whitehall,\nLondon, SW1A 2AS*\n\n*Pst: JCS ¢ Personal ) «aps*:\nJCS < Personal >( Personal\n“diay JCS\n\nOn Thu, 17 Apr 2025 at 11:23, Peter Mandelson\n< Personal > wrote:\nOFFICIAL-SENSITIVE > >>>\n\n+e\n\nIsaw Andrew Peak last night in WH and gave him Jim Jourdan letter to be aware. *\n\n. > >>> G"
+      }
+    ],
+    "edges": []
+  }
 }

@@ -19,5 +19,44 @@
   "text": "to Corin Robertson (former Director General, Finance and Corporate, FCDO\n\nOFFICIAL-SENSITIVE - HR - MANAGEMENT\n\nFrom: lan Collard * Personal\nSent: 30 January 2025 10:12\nTo: Corin Robertson Personal JCS\n\nSubject: Personal/LPM\n\nDear Corin, JCS (for Olly),\n\nAn update. This information is provided in strictest confidence, to respect vetting confidence\nprinciples, because Corin and Olly are directly in my line management chain as Chief Security\nOfficer.\n\nESND have approved the DV clearance of Lord Mandelson. He was sent notification and his\nDV certificate by email (on Osprey) on the evening of 29 January 2025. It will be valid for\nfive years.\n\nAs part of the usual clearance process, UKSV identified some areas in his application for\nESND to review:\n\n* Tunderstand that Lord Mandelson’s private sector engagements are being managed by\nHRD and Legal Directorate through the conflict of interest process.\n\n¢ With regard to personal conduct, I understand that Lord Mandelson has received a\nletter from Mervyn Thomas, informing him of his responsibilities as an FCDO\nemployee, including under the Diplomatic Service Regulations.\n\n72\n\n* Matters pertaining to his overseas contacts will certainly be reviewed by the STRAP\nAuthorities. *** , 1am unable to assure about the\ndecision they will take. Their decision will determine the access that Lord Mandelson\nhas to the most sensitive information and meetings.\n\nESND shared with Lord Mandelson (and separately with JCS in Americas\nDirectorate) the STRAP application forms, which we have asked Lord Mandelson to complete\nas an urgent priority. We will seek to expedite the processing of his application as soon as the\ncompleted forms are retumed to us.\n\nBest wishes,\n\nTan\n\nIan Collard | Chief Property & Security Officer and Director Estates, Security &\nNetwork\n\nForeign, Commonwealth & Development Office | Mobile: Personal\nChief of Staff: Personal Executive Officer:\nPersonal\n\nFollow us online: www.gov.uk/fcdo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevant UK legislation\n\nFor latest news and information from Downing Street visit: http://www.gov.uk/number10,\n\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\n\nHelp save paper - do you need to print this email?\n\nThis email and any files transmitted with it are intended solely for the use of the individual(s) to\nwhom they are addressed. If you are not the intended recipient and have resend this email in\nerror, please notify the sender and delete the email.\n\nThis footnote also confirms that our email communications may be monitored to ensure the secure\nand effective operation of our systems and for other lawful purposes, and that this email has been\nswept for malware and viruses.\n\n73\n",
   "char_count": 2827,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 25,
+    "date": "30-01-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Personal/LPM",
+    "message_count": 1,
+    "date_range": [
+      "2025-01-30"
+    ],
+    "participants": [
+      "Corin Robertson  JCS",
+      "lan Collard"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "lan Collard",
+        "date_raw": "30 January 2025 10:12",
+        "date_iso": "2025-01-30",
+        "to": [
+          "Corin Robertson  JCS"
+        ],
+        "cc": [],
+        "subject": "Personal/LPM",
+        "classification": null,
+        "body_snippet": "Dear Corin, JCS (for Olly),\n\nAn update. This information is provided in strictest confidence, to respect vetting confidence\nprinciples, because Corin and Olly are directly in my line management chain as Chief Security\nOfficer.\n\nESND have approved the DV clearance of Lord Mandelson. He was sent notification and his\nDV certificate by email (on Osprey) on the evening of 29 January 2025. It will be va"
+      }
+    ],
+    "edges": [
+      {
+        "from": "lan Collard",
+        "to": "Corin Robertson  JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-30",
+        "subject": "Personal/LPM",
+        "classification": null
+      }
+    ]
+  }
 }

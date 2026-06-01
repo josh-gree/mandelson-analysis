@@ -14,5 +14,67 @@
   "text": "Advisor on Business and Investment, No.10\n\nee\n\nSubject: Re: Readout: HMA Washington\nDate: Sunday, 30 March 2025 at 13:39:39 British Summer Time\nFrom: Varun Chandra\n\nTo: Peter Mandelson\nOFFICIAL\n\nHello Peter,\n\nMany thanks.\n\nI'm in the ae with Jonathan to try and resolve as much of this as possible\n\n| will call you on the broader background, and on the specifics you mention. No need to\nwrite anything — lots in motion. And of course important that you know what's what for\nthese conversations.\n\nMy best,\n\nVarun\n\nVarun Chandra | Prime Minister’s Special Adviser on Business and Investment\n10 Downing Street, London SW1A 2AA | Personal _\n\nFrom: Peter Mandelson Personal\n\nSent: Sunday, March 30, 2025 12:56:55 PM\nTo: Varun Chandra Personal\nSubject: Fw: Readout: HMA Washington\n\nRK\n\nPeter\n\nGet Outlook for iOS\n\n447\n\nFrom: JCS Personal\nSent: Friday, March 28, 2025 3:25:34 PM\n\nTo: Peter Mandelson Personal\nCe: JCS Personal Lucy Ferguson Personal\nMungo Woodifield Personal ; JCS Personal ;\nJCS Personal ; Nicholas Alton Personal ; Edward\nHobart Personal ; Jcs Personal Jcs\nRersonal Stephen Hickey Personal ; Simon Walters *\nPersonal ; Ben Llewellyn-Jones Personal Subject:\nReadout: HMA Washington em\nOFFICIAL-SENSITIVE\n\nAmbassador,\n\nYou had an introductory eae\n\n448\n\n\nwee\n\nee\n\nJCs\n\nJes | Middle East and Africa\nForeign, Security & Development Section| British Embassy Washington\nOffice: Personal | FTN: Personal | Cell: Personal\n\nOFFICIAL-SENSITIVE\n",
   "char_count": 1444,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 152,
+    "date": "30-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Readout: HMA Washington",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-28",
+      "2025-03-30"
+    ],
+    "participants": [
+      "JCS",
+      "Peter Mandelson",
+      "Varun Chandra"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Varun Chandra",
+        "date_raw": "Sunday, March 30, 2025 12:56:55 PM",
+        "date_iso": "2025-03-30",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Readout: HMA Washington",
+        "classification": "OFFICIAL",
+        "body_snippet": "To: Varun Chandra Personal\nSubject: Fw: Readout: HMA Washington\n\nRK\n\nPeter\n\nGet Outlook for iOS\n\n447"
+      },
+      {
+        "depth": 1,
+        "from_name": "JCS",
+        "date_raw": "Friday, March 28, 2025 3:25:34 PM",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Ce: JCS Personal Lucy Ferguson Personal\nMungo Woodifield Personal ; JCS Personal ;\nJCS Personal ; Nicholas Alton Personal ; Edward\nHobart Personal ; Jcs Personal Jcs\nRersonal Stephen Hickey Personal ; Simon Walters *\nPersonal ; Ben Llewellyn-Jones Personal Subject:\nReadout: HMA Washington em\n\nAmbassador,\n\nYou had an introductory eae\n\n448\n\n\nwee\n\nee\n\nJCs\n\nJes | Middle East and Africa\nForeign, Securi"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Varun Chandra",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-30",
+        "subject": "Readout: HMA Washington",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "JCS",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Readout: HMA Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

@@ -13,5 +13,44 @@
   "text": "in Washington team FCDO, and others\n\nFrom: UK HOM Postings{/ Personal\n\nSent: Tue 24/12/2024 10:29:52 AM (UTC)\n\nTo: JCS\n\nCe: James Roscoe Personal ; Robert\nTinline Personal : HRD Senior\nAppointments Personal ; UK HOM\nPostings Personal\n\nSubject: HMA-designate Washington - draft Press Announcement\n\nOFFICIAL-SENSITIVE\nDear All,\n\nLord Mandelson is due to take up his posting as the next Ambassador to the United\nStates in January 2025 in succession to Dame Karen Pierce.\nHRD Senior Appointments have informed me that Third Party\n\nand Lord Mandelson's is in progress. As we may not hear anything further\nuntil the New Year, there is a chance this will hold up the issue of Lord Mandelson’ s\ncontract.\nOur normal announcing process is to prepare and clear a standard draft\nannouncement with the incumbent HoM, HoM-designate and geographical\ndepartment, ask when they would like the announcement to be made, and if there is a\nneed for wider clearance (through Special Advisers). We then clear the whole\nannouncement and the timing with the PUS's Office, and then send it to Newsdesk to\nannounce on the agreed date. We ask the HoM-designate to send us a suitable photo\nas the announcement cannot be made without a photo.\nIf the draft announcement has to be cleared with No 10, this could delay things so |\nthought it best to warn you. Karen Pierce's announcement wasn't in the standard\nformat and was done by Americas/Comms with heavy involvement from No 10\nhttps:/Awww.gov.uk/government/news/karen-pierce-appointed-as-her-majestys-\nambassado! e-united-states-of-america so we expect Lord Mandelson's will be\nsimilar especially given that his cv is non-standard.\nPlease let me know if you need anything further from me at this stage. As normal, the\nannouncement shouldn't be made until agrément has been granted (though this is a\nmoot point given the PM has already announced it).\nKind Regards,\n\nJCS\nJCS | Overseas Team - People Data Management, HR Services, Foreign,\nCommonwealth & Development Office | Personal | Mobile: Persona!\n\nHR Services are continually working to improve - you can help by telling us what you\nthink\n\n142\n\nOFFICIAL \nLord Mandelson & Minister Vallance \nDate: 11 September 2024 \nAttendees: Minister Vallance (PV), Lord Mandelson (PM) \nPM opening remarks \n\u0000 \nPM noted potential plans for an industrial strategy council and highlighted past \nexperience with xWH initiatives of this sort after the 2008 crisis. PM added that \nhe views the work on the S&T Framework as aligned with this approach to \ngovernance. \n\u0000 \nPM added that he hopes R&D spending won't come under pressure and isn't \nclear on whether or not this government will protect it in the same way as may \nhave been done in the past. \no\nPV noted examples in the private sector that show maintaining R&D\nspend is important even in challenging times.\n\u0000 \nPM brieﬂy mentioned that the new CEO of UKRI, when appointed, should be \nworking within direction/a policy framework from government. \nPV opening remarks \n\u0000 \nPV highlighted the importance of a joined up approach regarding procurement in \nrelation to R&D spending, as this is important for company growth. \nDSIT work broadly. \n\u0000 \nPM noted the work of DSIT on being the digital centre of government and on AI. \n\u0000 \nPV mentioned that DSIT is to play a very important role in these areas among \nothers. \nS&T Framework \n\u0000 \nPV noted that the S&T Framework is still important and PV hopes there will be \nxWH collaboration across the diﬀerent areas that S&T crosses over. PV added the \nimportance of Prime Ministerial authority and a driver in the centre to ensure \nthis, and brieﬂy referred to the Cabinet Committee on S&T.",
   "char_count": 3641,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 42,
+    "date": "24-12-2024",
+    "source_mix": "mixed",
+    "thread_subject": "HMA-designate Washington - draft Press Announcement",
+    "message_count": 1,
+    "date_range": [
+      "2024-12-24"
+    ],
+    "participants": [
+      "JCS",
+      "UK HOM Postings{/"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "UK HOM Postings{/",
+        "date_raw": "Tue 24/12/2024 10:29:52 AM (UTC)",
+        "date_iso": "2024-12-24",
+        "to": [
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "HMA-designate Washington - draft Press Announcement",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Attendees: Minister Vallance (PV), Lord Mandelson (PM) \nPM opening remarks \n\u0000 \nPM noted potential plans for an industrial strategy council and highlighted past \nexperience with xWH initiatives of this sort after the 2008 crisis. PM added that \nhe views the work on the S&T Framework as aligned with this approach to \ngovernance. \n\u0000 \nPM added that he hopes R&D spending won't come under pressure and i"
+      }
+    ],
+    "edges": [
+      {
+        "from": "UK HOM Postings{/",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-24",
+        "subject": "HMA-designate Washington - draft Press Announcement",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

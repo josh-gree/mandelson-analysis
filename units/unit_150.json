@@ -19,5 +19,79 @@
   "text": "(former Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Oliver Robbinsi Personal\n\nSent: Fri 28/03/2025 8:45:13 AM (UTC)\n\nTo: Peter Mandelson Personal Caroline\nHurndall rersonal\n\nSubject: RE: Letter from America\n\nOFFICIAL-SENSITIVE\n\nPeter\nThank you. I’m sure the Foreign Secretary will be interested in this, as | was. We'd\nboth welcome these sorts of despatches when you think the accumulated issues and\n\ninsights warrant them.\nkee\n\nOlly\n\nPS: as agreed with your team, I’ve written the new Dep Sec of State a congratulations\nletter this morning.\n\nFrom: Peter Mandelson\nSent: 28 March 2025 00:39\nTo: Caroline Hurndall\n\nCc: Oliver Robbins\n\nSubject: Letter from America\n\nee\n\n443\n\nRK\n\neK\n\nVery best\nPeter\nLord Mandelson\n\nHM Ambassador. Washinaton DC\nPersonal | Personal\n",
   "char_count": 787,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 150,
+    "date": "28-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Letter from America",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-28",
+      "2025-03-28"
+    ],
+    "participants": [
+      "Caroline Hurndall",
+      "Oliver Robbins",
+      "Oliver Robbinsi",
+      "Peter Mandelson",
+      "Peter Mandelson  Caroline"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Oliver Robbinsi",
+        "date_raw": "Fri 28/03/2025 8:45:13 AM (UTC)",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Peter Mandelson  Caroline"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Peter\nThank you. I’m sure the Foreign Secretary will be interested in this, as | was. We'd\nboth welcome these sorts of despatches when you think the accumulated issues and\n\ninsights warrant them.\nkee\n\nOlly\n\nPS: as agreed with your team, I’ve written the new Dep Sec of State a congratulations\nletter this morning."
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "28 March 2025 00:39",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Caroline Hurndall"
+        ],
+        "cc": [
+          "Oliver Robbins"
+        ],
+        "subject": "Letter from America",
+        "classification": null,
+        "body_snippet": "ee\n\n443\n\nRK\n\neK\n\nVery best\nPeter\nLord Mandelson\n\nHM Ambassador. Washinaton DC\nPersonal | Personal"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Oliver Robbinsi",
+        "to": "Peter Mandelson  Caroline",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Caroline Hurndall",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Letter from America",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Oliver Robbins",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Letter from America",
+        "classification": null
+      }
+    ]
+  }
 }

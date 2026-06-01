@@ -19,5 +19,68 @@
   "text": "Staff to the Prime Minister, No.10)\n\nFrom: Peter Mandelson[Personal\n\nSent: Sun 16/02/2025 4:22:37 PM (UTC)\nTo: MMcSweeneyPersonal\n\nSubject: FW: Non communique\nAttachment: wie\n\nThis is first stab to describe what we want on economic side for 27\". Please don’t\nforward.\nFrom: Mungo Woodifield\nSent: 16 February 2025 10:45\nTo: Peter Mandelson\nce: JCS _ ; DL Washi Private Office\nSubject: Non communique\nOFFICIAL-SENSITIVE\n\nPeter\n\nWith thanks to JCS, please find a skeleton communique document envision for post\nPM-POTUS meeting on 27th. Substantial contours but light on content.\n\nGrateful for your views. We have a Jonathan Black call at 3pm ET today - it would be\ngreat to be able to share this with him ahead of that if possible.\n\nBest,\n\nMungo\n\nMungo Woodifield\n\nMinister Counsellor, Trade & Global Issues\n\nBritish Embassy Washington\n\nPersonal\n\nOFFICIAL-SENSITIVE\n\n218\n\nFrom:\nPeter Mandelson\nSent:\nMon 17/02/2025 12:04:21 AM (UTC)\nTo:\nCc:\nMungo Woodifield\nSubject:\nPeter Thiel\nI have asked Peter if he is around on Tuesday to meet up in evening in Miami. He may be but not \nsure of schedule. Asked me to message on Tuesday morning.\nGet Outlook for iOS",
   "char_count": 1151,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 76,
+    "date": "16-02-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Non communique",
+    "message_count": 2,
+    "date_range": [
+      "2025-02-16",
+      "2025-02-16"
+    ],
+    "participants": [
+      "MMcSweeney",
+      "Mungo Woodifield",
+      "Peter Mandelson",
+      "Peter Mandelson["
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson[",
+        "date_raw": "Sun 16/02/2025 4:22:37 PM (UTC)",
+        "date_iso": "2025-02-16",
+        "to": [
+          "MMcSweeney"
+        ],
+        "cc": [],
+        "subject": "Non communique",
+        "classification": null,
+        "body_snippet": "Attachment: wie\n\nThis is first stab to describe what we want on economic side for 27\". Please don’t\nforward."
+      },
+      {
+        "depth": 1,
+        "from_name": "Mungo Woodifield",
+        "date_raw": "16 February 2025 10:45",
+        "date_iso": "2025-02-16",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Non communique",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Mungo Woodifield\nSubject:\nPeter Thiel\nI have asked Peter if he is around on Tuesday to meet up in evening in Miami. He may be but not \nsure of schedule. Asked me to message on Tuesday morning.\nGet Outlook for iOS"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson[",
+        "to": "MMcSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Non communique",
+        "classification": null
+      },
+      {
+        "from": "Mungo Woodifield",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Non communique",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

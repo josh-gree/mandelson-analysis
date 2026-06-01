@@ -14,5 +14,174 @@
   "text": "FECDO) and the UK Security Vetting Team, CO\n\nFrom: lan Collard *| Personal\n\nSent: Fri 27/12/2024 9:56:14 AM (UTC)\n\nTo: Jcs ; JCS\n\nCe: Tom Bramley Personal Patricia\nDreghorni Personal ]; Gerard\nMcGurk[ Personal ]\n\nSubject: Re: Urgent vetting question\n\nThanks JCS\n\nThave no idea how quickly he will process the info. He has been advised to do so rapidly.\n\nBut fear not. We have some wiggle room because his overseas deployment is “late January” (I\ndon’t have a precise date yet). For the month of January he will be in the FCDO HQ, and I have\nauthorised hi, if required, to be there and working up to Secret (equivalent to SC) on the basis he\nis a Lord and can use the ‘fit and proper’ exemption for a short period of pre-posting\ndeployment.\n\nI will ask the lead FCDO directorate to keep chasing him.\nThank you for all your cooperation.\n\nBest wishes,\n\nTan\n\nTan Collard | Chief Property & Security Officer\n\nForeign, Commonwealth & Development Office\nKing Charles Street | London | SW1A 2AH\n\nMobile/WhatsA pp: Personal\n\nFrom: Jes\n\nSent: Friday, December 27, 2024 9:49:03 AM\nTs JCS\n\nCc: Tom Bramley ; lan Collard * ; Patricia Dreghorn\nSubject: Re: Urgent vetting question\nGood morning\n\nJust to update on this one, we are still to receive the completed questionnaire from the individual.\n\nOnce it arrives we will process it via our Special Handling team and we have a VCO allocated to\nconduct the interview. Just to set some expectations, unless the questionnaire arrives in the next\ncouple of hours, it will not progress until Monday 30th as we do not have a team working this\nweekend.\n\n39\n\nJcs\nOn Mon, 23 Dec 2024 at 13:07, Ian Collard * < Personal > wrote:\n\nOFFICIAL-SENSITIVE\n\nThanks JCS\n\nT’ve since spoken to Tom (this morning) and we will proceed with the clearance process.\nis in touch with the individual. We are grateful to GSG and UKSV for expediting\n\nthe application once the paperwork comes in.\n\nBest wishes,\n\nTan\n\nTan Collard | Chief Property & Security Officer\n\nForeign, Commonwealth & Development Office\n\nKing Charles Street | London | SW1A 2AH\n\nMobile/WhatsApp: Personal\nOFFICIAL-SENSITIVE\nFrom: JCS\nSent: Monday, December 23, 2024 11:37:02 AM\nTo: lan Collard * < Personal >\n\nSubject: Re: Fw: Urgent vetting question\nTan\n\nThanks for sharing, I was aware of this matter and have been in email contact with JCS\n\nthis morning. I take it from your note that you are seeking confirmation as to the need\nfor a DV, however, I understand that Jes has set Lord Mandelson up on the system. If it\nis required then, once the application is completed and arrives with UKSV we can progress.\nWe have allocated a vetting officer who is ready to conduct the interview and the case is\nflagged to be locked down to our Special Handling team to limit access.\n\nIam working over the festive break and will be available as required to update you on\nprogress.\n\nmany thanks\n\n40\n\n\nJCS\n\nOn Mon, 23 Dec 2024 at 11:14, Ian Collard * < Personal > wrote:\n\nOFFICIAL-SENSITIVE\nPer Michael's OOO message.\n\nTan Collard | Chief Property & Security Officer\nForeign, Commonwealth & Development Office\nKing Charles Street | London | SW1A 2AH\n\nMobile/WhatsApp: Personal\nOFFICIAL-SENSITIVE\n\nFrom: lan Collard *\nSent: Monday, December 23, 2024 11:12:51 AM\n\nTo: GCSOprivateoffice Personal <Personal >\nCc: Michael Roberts < Personal >; JCS\n< Jes >; Vita Maynard Personal >\n\nSubject: Urgent vetting question\nMichael, Vincent's team,\n\nGerard McGurk was in touch last week about the expected (now confirmed) appointment\nof Lord Peter Mandelson as the next UK Ambassador to Washington.\n\nThe specific question was whether Lord M is exempt from a UKV process (specifically for\nDV clearance) as a member of the House of Lords?\n\nWe think CO say he is exempt. But we want to double check given the policy around\npublic appointments, and whether that alters the calculation?\n\nHe plans to begin duties (though not his posting) in early Jan, so time is of the essence.\nBest wishes,\nTan\n\nTan Collard | Chief Property & Security Officer\nForeign, Commonwealth & Development Office\nKing Charles Street | London | SW1A 2AH\nMobile/WhatsApp: Personal\n\nJCS\nHead of Partner Services\nUKSV, Government Security Group\n\nCabinet Office\nPersonal\n\nNSV Privacy Notice\nFollow us online: www.gov.uk/fcdo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevant UK legislation\n\n4\n",
   "char_count": 4428,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 14,
+    "date": "27-12-2024",
+    "source_mix": "ocr",
+    "thread_subject": "Urgent vetting question",
+    "message_count": 5,
+    "date_range": [
+      "2024-12-23",
+      "2024-12-27"
+    ],
+    "participants": [
+      "GCSOprivateoffice  < >",
+      "Ian Collard",
+      "JCS",
+      "Jcs",
+      "Michael Roberts <  >",
+      "Patricia Dreghorn",
+      "Tom Bramley",
+      "lan Collard",
+      "lan Collard *",
+      "lan Collard * <  >",
+      "lan Collard *|"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "lan Collard *|",
+        "date_raw": "Fri 27/12/2024 9:56:14 AM (UTC)",
+        "date_iso": "2024-12-27",
+        "to": [
+          "Jcs",
+          "JCS"
+        ],
+        "cc": [
+          "Tom Bramley",
+          "lan Collard *",
+          "Patricia Dreghorn"
+        ],
+        "subject": "Urgent vetting question",
+        "classification": null,
+        "body_snippet": "Subject: Re: Urgent vetting question\nGood morning\n\nJust to update on this one, we are still to receive the completed questionnaire from the individual.\n\nOnce it arrives we will process it via our Special Handling team and we have a VCO allocated to\nconduct the interview. Just to set some expectations, unless the questionnaire arrives in the next\ncouple of hours, it will not progress until Monday 3"
+      },
+      {
+        "depth": 1,
+        "from_name": "Ian Collard",
+        "date_raw": "Mon, 23 Dec 2024 at 13:07",
+        "date_iso": "2024-12-23",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thanks JCS\n\nT’ve since spoken to Tom (this morning) and we will proceed with the clearance process.\nis in touch with the individual. We are grateful to GSG and UKSV for expediting\n\nthe application once the paperwork comes in.\n\nBest wishes,\n\nTan\n\nTan Collard | Chief Property & Security Officer\n\nForeign, Commonwealth & Development Office\n\nKing Charles Street | London | SW1A 2AH\n\nMobile/WhatsApp: Per"
+      },
+      {
+        "depth": 2,
+        "from_name": "JCS",
+        "date_raw": "Monday, December 23, 2024 11:37:02 AM",
+        "date_iso": "2024-12-23",
+        "to": [
+          "lan Collard * <  >"
+        ],
+        "cc": [],
+        "subject": "Fw: Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Tan\n\nThanks for sharing, I was aware of this matter and have been in email contact with JCS\n\nthis morning. I take it from your note that you are seeking confirmation as to the need\nfor a DV, however, I understand that Jes has set Lord Mandelson up on the system. If it\nis required then, once the application is completed and arrives with UKSV we can progress.\nWe have allocated a vetting officer who "
+      },
+      {
+        "depth": 3,
+        "from_name": "Ian Collard",
+        "date_raw": "Mon, 23 Dec 2024 at 11:14",
+        "date_iso": "2024-12-23",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Per Michael's OOO message.\n\nTan Collard | Chief Property & Security Officer\nForeign, Commonwealth & Development Office\nKing Charles Street | London | SW1A 2AH\n\nMobile/WhatsApp: Personal"
+      },
+      {
+        "depth": 4,
+        "from_name": "lan Collard",
+        "date_raw": "Monday, December 23, 2024 11:12:51 AM",
+        "date_iso": "2024-12-23",
+        "to": [
+          "GCSOprivateoffice  < >"
+        ],
+        "cc": [
+          "Michael Roberts <  >",
+          "JCS"
+        ],
+        "subject": "Urgent vetting question",
+        "classification": null,
+        "body_snippet": "Michael, Vincent's team,\n\nGerard McGurk was in touch last week about the expected (now confirmed) appointment\nof Lord Peter Mandelson as the next UK Ambassador to Washington.\n\nThe specific question was whether Lord M is exempt from a UKV process (specifically for\nDV clearance) as a member of the House of Lords?\n\nWe think CO say he is exempt. But we want to double check given the policy around\npubl"
+      }
+    ],
+    "edges": [
+      {
+        "from": "lan Collard *|",
+        "to": "Jcs",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-27",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard *|",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-27",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard *|",
+        "to": "Tom Bramley",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-27",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard *|",
+        "to": "lan Collard *",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-27",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard *|",
+        "to": "Patricia Dreghorn",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-27",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "JCS",
+        "to": "lan Collard * <  >",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-23",
+        "subject": "Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "lan Collard",
+        "to": "GCSOprivateoffice  < >",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-23",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard",
+        "to": "Michael Roberts <  >",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-23",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "lan Collard",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-12-23",
+        "subject": "Urgent vetting question",
+        "classification": null
+      }
+    ]
+  }
 }

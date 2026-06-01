@@ -20,5 +20,70 @@
   "text": "Deputy National Security Adviser, CO)\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nJCS\nJCS\nPersonal\nPersonal\nJCS\nPersonal\n329\n\n> > Please note not to forward beyond this list - it is LIMDIS individuals\n> > only please.\n> >\n> > Thank you,\n> >\n> >\n> > On Fri, 2 May 2025 at 22:44, PS Jonathan Black Mailbox <\n> > \n wrote:\n> >\n> > All,\n> >\n> > Please find attached US trade deal update and DBT's advice on US EDP.\n> >\n> >\n> >\n> > *Private Office of the Deputy National Security Adviser *\n> >\n> > *and DG European & Global Issues Secretariat (EGIS)*\n> >\n> > 70 Whitehall, London, SW1 2AS\n> >\n> > \n> >\n> > *PS*:\n M: \n> >\n> > *APS*:\n T: \n> >\n> > *Diary/APS Economic Security: *\n T: \n M: \n> >\n> >\n> >\n> > Follow us online: www.gov.uk/fcdo\n> >\n> > This email is intended for the addressee(s) only: All messages sent and\n> > received by the Foreign, Commonwealth & Development Office may be\nmonitored\n> > in line with relevant UK legislation\n> > <https://www.gov.uk/government/publications/fcdo-as-a-data-controller-\nprivacy-notice/fcdo-as-a-data-controller-privacy-notice>\n> >\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPerso\nnal\nJCS\nJCS\nJCS\n330\n\n\nFrom:\nSent:\nTo:\nCc:\nSubject:\nPeter Mandelson <\n>\nWed 05/03/2025 12:29:16 PM (UTC)\n\"Kalada BRUCE-JAJA2 (DBT)\" <\n>, \nMichael Ellam <\n>, \"Ailsa Terry (No.10)\" \n<\n>\nMorgan McSweeney <\n>, Ninjeri Pandit \n<\n>, \n <\n>, James \nRoscoe <\n>, \"Katy Budge / (Cabinet Office)\" \n<\n>, Varun Chandra \n<\n>, \"Jonathan Black (Cabinet Office) (External)\" \n<\n>, \"kate.joseph\n<\n>, \n(External)\" <\n>, \n<\n>, DNSA NC \n<\n>, \"Matthew Collins (Cabinet Office)\" \n<\n>, \"Huw Leslie (No 10) (Sensitive)\" \n<\n>, \n <\n>, Olaf Henricson-\nBell <\n>, \n (External)\" \n<\n>, Stuart Ingham <\n>, \nMatthew Doyle <\n>, \n<\n>, \n <\n>, \"\n\" <\n>\nRe: UK-US trade talks - next steps \nUK OFFICIAL\nThank you. Could I stress the importance of directly and intensively involving BEW in this ? \nWithout this being completely joined up we are unlikely to get to where we want to be.\nVery best\nPeter \nGet Outlook for iOS\nUK OFFICIAL\nFrom: Ailsa Terry \nSent: Wednesday, March 5, 2025 7:23:10 AM\nTo: Kalada BRUCE-JAJA2 (DBT) <\n>; \nMichael Ellam \n<\n>\nCc: Morgan McSweeney <\n>; Ninjeri Pandit \n<\n>; \n <\n; Peter Mandelson \n<\n>; James Roscoe <\n>; \n \n / (Cabinet Office) \n<\n>; Varun Chandra <\n>; \nJonathan Black \n(Cabinet Office) (External) <\n>; \nkate.joseph\n<\n>;",
   "char_count": 2434,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 111,
+    "date": "03-05-2025",
+    "source_mix": "pdf",
+    "thread_subject": ">",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-05"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Cc:",
+      "Kalada BRUCE-JAJA2 (DBT) <",
+      "Morgan McSweeney <",
+      "Peter Mandelson <"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Cc:",
+        "date_raw": "Subject:",
+        "date_iso": null,
+        "to": [
+          "Peter Mandelson <"
+        ],
+        "cc": [],
+        "subject": ">",
+        "classification": null,
+        "body_snippet": "Peter Mandelson <\n>\nWed 05/03/2025 12:29:16 PM (UTC)\n\"Kalada BRUCE-JAJA2 (DBT)\" <\n>, \nMichael Ellam <\n>, \"Ailsa Terry (No.10)\" \n<\n>\nMorgan McSweeney <\n>, Ninjeri Pandit \n<\n>, \n <\n>, James \nRoscoe <\n>, \"Katy Budge / (Cabinet Office)\" \n<\n>, Varun Chandra \n<\n>, \"Jonathan Black (Cabinet Office) (External)\" \n<\n>, \"kate.joseph\n<\n>, \n(External)\" <\n>, \n<\n>, DNSA NC \n<\n>, \"Matthew Collins (Cabinet Office)\""
+      },
+      {
+        "depth": 2,
+        "from_name": "Ailsa Terry",
+        "date_raw": "Wednesday, March 5, 2025 7:23:10 AM",
+        "date_iso": "2025-03-05",
+        "to": [
+          "Kalada BRUCE-JAJA2 (DBT) <"
+        ],
+        "cc": [
+          "Morgan McSweeney <"
+        ],
+        "subject": null,
+        "classification": null,
+        "body_snippet": ">; Ninjeri Pandit \n<\n>; \n <\n; Peter Mandelson \n<\n>; James Roscoe <\n>; \n \n / (Cabinet Office) \n<\n>; Varun Chandra <\n>; \nJonathan Black \n(Cabinet Office) (External) <\n>; \nkate.joseph\n<\n>;"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ailsa Terry",
+        "to": "Kalada BRUCE-JAJA2 (DBT) <",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-05",
+        "subject": ">",
+        "classification": null
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Morgan McSweeney <",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-05",
+        "subject": ">",
+        "classification": null
+      }
+    ]
+  }
 }

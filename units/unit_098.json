@@ -14,5 +14,28 @@
   "text": "National Security Adviser, CO), Nicholas Alton (former Minister Counsellor Political\n\nAffairs, FCDO), and others\n\nFrom:\nTo:\n\nCe:\n\nSubject:\n\nJonathan Black Personal\n\nMichael Ellam Personal >, Jonathan Powell\nPersonal . Moraan McSweeney Personal\n\nPeter Mandelson Personal\n\nAilsa Terry Personal , \"Mungo Woodifield (Sensitive)\"\n\nPersonal >, \"James Roscoe (Sensitive)\"\nPersonal >, \"Nicholas Alton (Sensitive)\"\n< Personal\n\nRe: Fw: UK-US Joint Statement text - US edits\n\nMichael - as per texts, team will get you back consolidated points shortly.\nHave to keep focused on key points.\n\nBriefly from me on the economic bit:\n\ncoed\n\n292\n\nHappy to chat any of this through.\nJB\n------------------------------\n> > *From:* Nicholas Alton <\n>\n> > *Sent:* Wednesday, February 26, 2025 11:22 PM\n> > *To:* Ailsa Terry (No.10) <\n; Jonathan Powell <\n> > \n>; Michael Ellam \n> > *Cc:*\nMungo Woodifield <\n;\n> >\n Oliver Warren (Cabinet Office) (Sensitive) <\n> > \n>; James Roscoe <\n> > \n \n;\n> >\nLucy Ferguson <\n> >\n James Roscoe \n>;\n> > Peter Mandelson\n;\n Varun Chandra \n>; NSA\n> > Private Office (Cabinet Office)\n>;\n> > Sophie Hague\n; \n;\n> > *Subject:* UK-US Joint Statement text - US edits\n> >\n> >\n> > OFFICIAL-SENSITIVE - HMG ONLY\n> >\n> > Ailsa, Jonathan, Michael,\n> >\n> >\n> >\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\n***\nJCS\nJCS\nJCS\nJCS\nPersonal\nJCS\nJCS\nJCS\nPersonal\nPer\nPERSONAL\nJCS\n***\n293\n\n\n> >\n> >\n> >\n> >\n> >\n> >\n> >\n> >\n> >\n> > *Nicholas Alton |* *Minister Counsellor (Political) | British Embassy\n> > Washington *\n> >\n> > 3100 Massachusetts Avenue NW | Washington DC 20008\n> >\n> >\n | \n |\n> >\n> >\n> >\n> >\n> >\n \n  | \n> >\n> > OFFICIAL-SENSITIVE - HMG ONLY\n> >\n> > Follow us online: www.gov.uk/fcdo\n> >\n> > This email is intended for the addressee(s) only: All messages sent and\n> > received by the Foreign, Commonwealth & Development Office may be monitored\n> > in line with relevant UK legislation\n> > <https://www.gov.uk/government/publications/fcdo-as-a-data-controller-privacy-notice/fcdo-as-a-data-\ncontroller-privacy-notice>\n> >\nPersonal\nJCS\n***\nPersonal\nPersonal\nPersonal\nPersonal\n294\n",
   "char_count": 2123,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 98,
+    "date": "27-02-2025",
+    "source_mix": "mixed",
+    "thread_subject": null,
+    "message_count": 1,
+    "date_range": [],
+    "participants": [],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": null,
+        "date_raw": null,
+        "date_iso": null,
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Jonathan Black Personal\n\nMichael Ellam Personal >, Jonathan Powell\nPersonal . Moraan McSweeney Personal\n\nPeter Mandelson Personal\n\nAilsa Terry Personal , \"Mungo Woodifield (Sensitive)\"\n\nPersonal >, \"James Roscoe (Sensitive)\"\nPersonal >, \"Nicholas Alton (Sensitive)\"\n\nRe: Fw: UK-US Joint Statement text - US edits\n\nMichael - as per texts, team will get you back consolidated points shortly.\nHave to ke"
+      }
+    ],
+    "edges": []
+  }
 }

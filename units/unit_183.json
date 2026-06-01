@@ -24,5 +24,51 @@
   "text": "Stephanie Driver (former Director of Communications, No.10) and others\n\nSubject: Fw: Letter from America\n\nDate: Saturday, 12 April 2025 at 13:16:05 British Summer Time\nFrom: Peter Mandelson\n\nTo: Jonathan Powell\n\nOFFICIAL-SENSITIVE\nGet Outlook for iOS\n\nOFFICIAL-SENSITIVE\nFrom: Peter Mandelson < Personal >\n\nSent: Saturday, April 12. 2025 8:15:00 AM\n\nTo: Stephanie Driver < Personal\n\nCc: MMcSweeney Personal <mmcsweeney Personal >\nSubject: Re: Letter from America\n\neK\n\nThaven’t been asked but if I were, the above is what I would say.\nPeter\n\nGet Outlook for iOS\n\nFrom: Stephanie Driver < Personal >\nSent: Saturday, April 12. 2025 1:30:56 AM\nTo: Peter Mandelson < Personal >\n\nSubject: Re: Letter from America\nOFFICIAL\n\nMuch appreciated, Peter, thank you.\n\nYou may see a projected timetable for the deal in UK media today - 'a few days away’ - this\nwas a misstep by a cabinet member on background. My team is diluting expectation.\n\nSteph\n\nStephanie Driver | Director of Communications - Delivery [10 Downing Street | London SW1A\n2AA | Email: Personal\n\n530\n\nPeter\n\nLord Mandelson\nHM Ambassador, Washington DC.\nPersonal\n\nRK\n",
   "char_count": 1119,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 183,
+    "date": "12-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Letter from America",
+    "message_count": 2,
+    "date_range": [],
+    "participants": [
+      "Jonathan Powell",
+      "MMcSweeney  <mmcsweeney  >",
+      "Peter Mandelson",
+      "Peter Mandelson <  >",
+      "Stephanie Driver"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Saturday, April 12. 2025 8:15:00 AM",
+        "date_iso": null,
+        "to": [
+          "Jonathan Powell"
+        ],
+        "cc": [
+          "MMcSweeney  <mmcsweeney  >"
+        ],
+        "subject": "Letter from America",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Subject: Re: Letter from America\n\neK\n\nThaven’t been asked but if I were, the above is what I would say.\nPeter\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 1,
+        "from_name": "Stephanie Driver",
+        "date_raw": "Saturday, April 12. 2025 1:30:56 AM",
+        "date_iso": null,
+        "to": [
+          "Peter Mandelson <  >"
+        ],
+        "cc": [],
+        "subject": "Letter from America",
+        "classification": "OFFICIAL",
+        "body_snippet": "Much appreciated, Peter, thank you.\n\nYou may see a projected timetable for the deal in UK media today - 'a few days away’ - this\nwas a misstep by a cabinet member on background. My team is diluting expectation.\n\nSteph\n\nStephanie Driver | Director of Communications - Delivery [10 Downing Street | London SW1A\n2AA | Email: Personal\n\n530\n\nPeter\n\nLord Mandelson\nHM Ambassador, Washington DC.\n\nRK"
+      }
+    ],
+    "edges": []
+  }
 }

@@ -13,5 +13,99 @@
   "text": "(Ambassador and Permanent Representative, UK Mission to the WTO, UN\n\nand Other International Organisations (Geneva))\n\nFrom: Kumar IverlPersonal\nSent: Mon 24/03/2025 7:31:32 AM (UTC)\nTo: Peter Mandelson Personal\nCe: Washington Private Office Personal\nSubject: Re: Potential visit to DC w/c 9th June.\nOFFICIAL-SENSITIVE\nThanks, Peter.\n\nOffice / Team do let me know who | should work with. | am likely to start in NYC and\nvisit DC on Thurs 12th and Fri 13th June\n\nThanks,\n\nKumar\n\nKumar Iyer CMG\n\nDirector General\n\nForeign Commonwealth & Development Office\nPersonal\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson\nSent: Monday, March 24, 2025 12:08 am\nTo: Kumar lyer\nCc: Washington Private Office\nSubject: Re: Potential visit to DC w/c 9th June.\n\nOFFICIAL-SENSITIVE\nI would be delighted. Office copied in. Best Peter\n\nGet Outlook for iOS\n\nOFFICIAL-SENSITIVE\n\nFrom: Kumar lyer\nSent: Saturday, March 22, 2025 6:04:11 PM\nTo: Peter Mandelson\nSubject: Potential visit to DC w/c 9th June.\n\nOFFICIAL-SENSITIVE\n\nDear Peter,\nI have recently been confirmed as the UK’s next Ambassador to the UN & WTO in \nGeneva (a bit more detail here) and will be visiting Barbara and the team in New York \nw/c 9th June. I wanted to get your advice on whether it could be possible to visit \nWashington at the same time?\nAs with most things across the world at the moment, the US is key to the changes we \nare about to see across the multi-lateral system and it would be genuinely valuable to \nspeak to those aligned to our views (e.g. on the Hill and think tanks) as well as those \nless so before I take up my role in the summer.\nI appreciate how busy things must be so completely understand if this isn’t possible \nbut if it is then please do let me know who I might be able to work with at the mission.\nWith thanks,\nKumar\n________________________________________________________________________________\n___________\nKumar Iyer CMG\nDirector General\nForeign, Commonwealth & Development Office | King Charles St | London | SW1A 2AH\nTel: \n | Email:\nOFFICIAL-SENSITIVE\nPersonal\nPersonal\n432\n",
   "char_count": 2053,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 145,
+    "date": "24-03-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Potential visit to DC w/c 9th June.",
+    "message_count": 3,
+    "date_range": [
+      "2025-03-22",
+      "2025-03-24"
+    ],
+    "participants": [
+      "Kumar IverlPersonal",
+      "Kumar lyer",
+      "Peter Mandelson",
+      "Washington Private Office"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Kumar IverlPersonal",
+        "date_raw": "Mon 24/03/2025 7:31:32 AM (UTC)",
+        "date_iso": "2025-03-24",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thanks, Peter.\n\nOffice / Team do let me know who | should work with. | am likely to start in NYC and\nvisit DC on Thurs 12th and Fri 13th June\n\nThanks,\n\nKumar\n\nKumar Iyer CMG\n\nDirector General\n\nForeign Commonwealth & Development Office"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Monday, March 24, 2025 12:08 am",
+        "date_iso": "2025-03-24",
+        "to": [
+          "Kumar lyer"
+        ],
+        "cc": [
+          "Washington Private Office"
+        ],
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "I would be delighted. Office copied in. Best Peter\n\nGet Outlook for iOS"
+      },
+      {
+        "depth": 3,
+        "from_name": "Kumar lyer",
+        "date_raw": "Saturday, March 22, 2025 6:04:11 PM",
+        "date_iso": "2025-03-22",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Dear Peter,\nI have recently been confirmed as the UK’s next Ambassador to the UN & WTO in \nGeneva (a bit more detail here) and will be visiting Barbara and the team in New York \nw/c 9th June. I wanted to get your advice on whether it could be possible to visit \nWashington at the same time?\nAs with most things across the world at the moment, the US is key to the changes we \nare about to see across "
+      }
+    ],
+    "edges": [
+      {
+        "from": "Kumar IverlPersonal",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-24",
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Kumar lyer",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-24",
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Washington Private Office",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-24",
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Kumar lyer",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-22",
+        "subject": "Potential visit to DC w/c 9th June.",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

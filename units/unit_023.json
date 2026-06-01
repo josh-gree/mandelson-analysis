@@ -20,5 +20,88 @@
   "text": "Re: P.M's vetting interview. 20 January 2025 at 09:24\nMichael Roberts Personal\nTo: JCS Jcs\n\nJC good morning,\n\nYou may well have heard this already, but | spoke to the VCO on Friday following the interview with Lord M. He said that\nit was conducted in good spirits - and that Lord M is aware that a follow-up call on Teams will be required on Friday of\nthis week coming (Friday 24 Jan).\n\nDo let us know if you have any questions or comments.\nMichael\nOn Thu, 16 Jan 2025 at 16:28, Jcs wrote:\n\nOFFICIAL\n\nMany thanks all for your flexibility and understanding on this —_ it's much appreciated. Lord M will be at\nthe interview tomorrow — I'll confirm precise logistics with Jcs separately.\n\nJcs\n\nJcs [eee of US Global Issues and Canada Team pus and Canada Department | Americas and SIDS\n\n‘oreign, Commonwealth & Development Office | Personal |M: Personal\nOFFICIAL\nFrom: Jcs\nSent: 16 January 2025 16:24\nTo: JCS\nei Jes Gerard McGurk\nPersonal ; Robert Tinline Personal ; Michael Roberts\n\nPersonal ; Patricia Dreghorn Personal\nSubject: Re: P.M's vetthg interview.\n‘You don't often get email from JCS Learn why this is important\n\nGood afternoon\n\n| have spoken with our JCS and he has agreed to cover as much detail as possible in an interview tomorrow. We will\nthen arrange any follow up as might be required but due to leave and the time pressure, this will be with a\nsecond VCO. JCS has made arrangements for the interview separately and will be at 100 PS as agreed tomorrow.\n\n63\n\nThanks\n\nJCS\nOn Thu, 16 Jan 2025 at 15:56, Jcs wrote:\nOFFICIAL-SENSITIVE\nHi all,\n\nThere have been several conversations on this. To bring it together: we would still like to keep\ntomorrow morning's interview in the diary please. We can do the bulk of the topics tomorrow, and\nschedule a follow-up if needed on the outstanding bits.\n\nCould | check that works for UKSV colleagues? If so, Lord Mandelson will be at 100PS tomorrow\nmorning.\n\nThanks,\nJcs\n\nJCS | Head of US Global Issues and Canada Team | US and Canada Department | Americas and SIDS\n\nDirectorate | Foreign, Commonwealth & Development Office | E: Personal |M: Personal\nOFFICIAL-SENSITIVE\n\nFrom: Jes\n\nSent: 16 January 2025 14:17\n\nTo: JCS\n\ncc: JCs JCS\n\nSubject: P.M's vetting interview.\n\nDear JCS\n\nIhave CC'd both JCS and JCS into this email both of whom have a vested interest in the way forward.\n\nKind regards.\n\nJCS\n\n64\n\n\nJCS\nVetting Clearance Officer\nUKSV, Government Security Group (GSG), Cabinet Office.\n\nPersonal\nAlternate email - Personal\nNSV Privacy Notice\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign, Commonwealth\n& Development Office may be monitored in line with relevant UK legislation\n\nJcs\n\nHead of Partner Services\nUKSV, Government Security Group\n\nCabinet Office\nE: Personal\n\nM: Personal\nPersonal\n\nNSV Privacy Notice\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevant UK legislation\n\n65\n",
   "char_count": 3074,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 23,
+    "date": "20-01-2025",
+    "source_mix": "ocr",
+    "thread_subject": "P.M's vetthg interview.",
+    "message_count": 3,
+    "date_range": [
+      "2025-01-16",
+      "2025-01-16"
+    ],
+    "participants": [
+      "JCS",
+      "JCs JCS",
+      "Jcs"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Jcs",
+        "date_raw": "Thu, 16 Jan 2025 at 16:28",
+        "date_iso": "2025-01-16",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": "OFFICIAL",
+        "body_snippet": "Many thanks all for your flexibility and understanding on this —_ it's much appreciated. Lord M will be at\nthe interview tomorrow — I'll confirm precise logistics with Jcs separately.\n\nJcs\n\nJcs [eee of US Global Issues and Canada Team pus and Canada Department | Americas and SIDS\n\n‘oreign, Commonwealth & Development Office | Personal |M: Personal"
+      },
+      {
+        "depth": 2,
+        "from_name": "Jcs",
+        "date_raw": "16 January 2025 16:24",
+        "date_iso": "2025-01-16",
+        "to": [
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "P.M's vetthg interview.",
+        "classification": "OFFICIAL",
+        "body_snippet": "‘You don't often get email from JCS Learn why this is important\n\nGood afternoon\n\n| have spoken with our JCS and he has agreed to cover as much detail as possible in an interview tomorrow. We will\nthen arrange any follow up as might be required but due to leave and the time pressure, this will be with a\nsecond VCO. JCS has made arrangements for the interview separately and will be at 100 PS as agre"
+      },
+      {
+        "depth": 3,
+        "from_name": "Jcs",
+        "date_raw": "Thu, 16 Jan 2025 at 15:56",
+        "date_iso": "2025-01-16",
+        "to": [
+          "JCS"
+        ],
+        "cc": [
+          "JCs JCS"
+        ],
+        "subject": "P.M's vetting interview.",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Dear JCS\n\nIhave CC'd both JCS and JCS into this email both of whom have a vested interest in the way forward.\n\nKind regards.\n\nJCS\n\n64\n\n\nJCS\nVetting Clearance Officer\nUKSV, Government Security Group (GSG), Cabinet Office.\n\nAlternate email - Personal\nNSV Privacy Notice\n\nFollow us online: www.gov.uk/fedo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Jcs",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-16",
+        "subject": "P.M's vetthg interview.",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Jcs",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-16",
+        "subject": "P.M's vetthg interview.",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Jcs",
+        "to": "JCs JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-01-16",
+        "subject": "P.M's vetthg interview.",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

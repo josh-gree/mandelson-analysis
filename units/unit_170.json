@@ -20,5 +20,79 @@
   "text": "Secretary to the Foreign Secretary, FCDO)\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\nPERSONAL\n487\n\nSubject: RE: Next steps further\nOFFICIAL-SENSITIVE\nPeter – thank you for this and for your earlier reporting and thoughts, really helpful. \nFS has been on the road this week (NATO) so it’s been great to be able to pass on \nyour notes, I know they’ve been helpful as he’s been talking to counterparts.\nAnd just received this week’s letter from America- thank you!\nCaroline Hurndall │PPS/FS │ \nThe Foreign Secretary’s box deadline is midday, Monday to Thursday. Please allow a \nminimum of 48hrs to process work sent to FSPO. Please also copy \n to \nall submissions/updates to the Foreign Secretary.\nOFFICIAL-SENSITIVE\nFrom: Peter Mandelson <\n> \nSent: 04 April 2025 16:21\nTo: Oliver Robbins <\n>; Caroline Hurndall <\n>\nCc: James Roscoe <\n>; Mungo Woodifield <\n>\nSubject: FW: Next steps further\nOFFICIAL-SENSITIVE\nFrom: Peter Mandelson \nSent: 04 April 2025 11:20\nTo: Morgan McSweeney <\n>; Varun Chandra \n<\n>; Ailsa Terry (No.10) <\n>\nSubject: Next steps further\nI haven’t seen full read out of the call this morning but it’s pretty clear \nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nPersonal\nJCS\n***\n488\n\n\nIn the meantime, we will be undertaking our own assessment of the \nimplications for the UK economy and the consultation with business and the \ncall for evidence has already started. The important point for Britain is to do \neverything possible \n• The immediate need is to control the information flow out of Whitehall. We\nmust get our version of events out before others do, including those who have\nalways been sceptical about the possibility of a deal.\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n | \nPersonal\nPersonal\n***\n***\n489\n",
   "char_count": 1816,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 170,
+    "date": "04-04-2025",
+    "source_mix": "pdf",
+    "thread_subject": "Next steps further",
+    "message_count": 2,
+    "date_range": [
+      "2025-04-04",
+      "2025-04-04"
+    ],
+    "participants": [
+      "James Roscoe <",
+      "Morgan McSweeney <",
+      "Oliver Robbins <",
+      "Peter Mandelson",
+      "Peter Mandelson <"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson <",
+        "date_raw": "04 April 2025 16:21",
+        "date_iso": "2025-04-04",
+        "to": [
+          "Oliver Robbins <"
+        ],
+        "cc": [
+          "James Roscoe <"
+        ],
+        "subject": "Next steps further",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": ">; Mungo Woodifield <\n>\nSubject: FW: Next steps further"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "04 April 2025 11:20",
+        "date_iso": "2025-04-04",
+        "to": [
+          "Morgan McSweeney <"
+        ],
+        "cc": [],
+        "subject": "Next steps further",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "I haven’t seen full read out of the call this morning but it’s pretty clear \nJCS\n***\n488\n\n\nIn the meantime, we will be undertaking our own assessment of the \nimplications for the UK economy and the consultation with business and the \ncall for evidence has already started. The important point for Britain is to do \neverything possible \n• The immediate need is to control the information flow out of W"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson <",
+        "to": "Oliver Robbins <",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-04",
+        "subject": "Next steps further",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson <",
+        "to": "James Roscoe <",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-04",
+        "subject": "Next steps further",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney <",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-04",
+        "subject": "Next steps further",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

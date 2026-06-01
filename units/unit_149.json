@@ -13,5 +13,175 @@
   "text": "Ambassador to the United States, FCDO)\n\nFrom: Karen Pierce Personal\nSent: Fri 28/03/2025 6:20:00 AM (UTC)\nTo: Peter Mandelson Personal\n\nOffice Personal\nCec: Mungo Woodifield Personal\n\nJCs Personal Nicholas\n\nAlton Personal Jcs\n\nSubject: Re: BOB LIGHTHIZER VISIT TO\n\nLONDON OFFICIAL\n\nMany thanks Peter. Will approach Michael E\nHave a good weekend\nAll best\n\nKaren\n\nSent from Outlook for iOS\n\nFrom: Peter Mandelson\nSent: Friday, March 28, 2025 1:25:54 AM\nTo: Karen Pierce ; Washington Private Office\nCc: Mungo Woodifield ; JCS Nicholas Alton ; JCS\nSubject: Re: BOB LIGHTHIZER VISIT TO LONDON\n\n; Washington Private\n; ICS\n\nPersonal\n\nHi Karen. I think that's a good idea although I think Michael Ellam might be the better\n\nperson (not least because he is currently swimming in ***  ).\n\nVery best\nPeter\n\nGet Outlook for iOS\n\n441\n\nFrom: Karen Pierce\nSent: Wednesday, March 26, 2025 6:58:47 AM\nTo: Peter Mandelson ; Washington Private Office\nCc: Mungo Woodifield ; JCS ; Nicholas Alton ; JCS\nSubject: BOB LIGHTHIZER VISIT TO LONDON\n\nOFFICIAL\n\nAll Best\nKaren\nKaren Pierce\n\nUK Special Envoy for the Western Balkans\nMobile: Personal\n\nPs; wus\n\n442\n",
   "char_count": 1134,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 149,
+    "date": "28-03-2025",
+    "source_mix": "ocr",
+    "thread_subject": "BOB LIGHTHIZER VISIT TO LONDON",
+    "message_count": 3,
+    "date_range": [
+      "2025-03-26",
+      "2025-03-28"
+    ],
+    "participants": [
+      "JCS",
+      "JCS Nicholas Alton",
+      "Karen Pierce",
+      "Mungo Woodifield",
+      "Nicholas Alton",
+      "Peter Mandelson",
+      "Washington Private Office"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Karen Pierce",
+        "date_raw": "Fri 28/03/2025 6:20:00 AM (UTC)",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Peter Mandelson"
+        ],
+        "cc": [],
+        "subject": "BOB LIGHTHIZER VISIT TO",
+        "classification": null,
+        "body_snippet": "LONDON OFFICIAL\n\nMany thanks Peter. Will approach Michael E\nHave a good weekend\nAll best\n\nKaren\n\nSent from Outlook for iOS"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Friday, March 28, 2025 1:25:54 AM",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Karen Pierce",
+          "Washington Private Office"
+        ],
+        "cc": [
+          "Mungo Woodifield",
+          "JCS Nicholas Alton",
+          "JCS"
+        ],
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null,
+        "body_snippet": "; Washington Private\n; ICS\n\n\nHi Karen. I think that's a good idea although I think Michael Ellam might be the better\n\nperson (not least because he is currently swimming in ***  ).\n\nVery best\nPeter\n\nGet Outlook for iOS\n\n441"
+      },
+      {
+        "depth": 3,
+        "from_name": "Karen Pierce",
+        "date_raw": "Wednesday, March 26, 2025 6:58:47 AM",
+        "date_iso": "2025-03-26",
+        "to": [
+          "Peter Mandelson",
+          "Washington Private Office"
+        ],
+        "cc": [
+          "Mungo Woodifield",
+          "JCS",
+          "Nicholas Alton",
+          "JCS"
+        ],
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL",
+        "body_snippet": "All Best\nKaren\nKaren Pierce\n\nUK Special Envoy for the Western Balkans\nMobile: Personal\n\nPs; wus\n\n442"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Karen Pierce",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Karen Pierce",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Washington Private Office",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS Nicholas Alton",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": null
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "Washington Private Office",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "Nicholas Alton",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Karen Pierce",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-26",
+        "subject": "BOB LIGHTHIZER VISIT TO LONDON",
+        "classification": "OFFICIAL"
+      }
+    ]
+  }
 }

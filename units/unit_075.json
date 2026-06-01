@@ -12,5 +12,89 @@
   "text": "to the Prime Minister, No.10\n\nFrom: Peter Mandelson[Personal\n\nSent: Sun 16/02/2025 4:14:52 PM (UTC)\nTo: MMcSweeneyPersonal\n\nSubject: FW: Callwith = ***\n\nFrom: Peter Mandelson\nSent: 16 February 2025 11:13\nTo: Mungo Woodifield\n\nCc: James Roscoe ; JCS\nSubject: Call with ee\n\n| talked to\n\neK\n\nLast, | summarised what | think our approach should be to the meeting\n\nPlease circulate on need to know basis.\nPeter\n\n217",
   "char_count": 410,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 75,
+    "date": "16-02-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Call with ee",
+    "message_count": 2,
+    "date_range": [
+      "2025-02-16",
+      "2025-02-16"
+    ],
+    "participants": [
+      "JCS",
+      "James Roscoe",
+      "MMcSweeney",
+      "Mungo Woodifield",
+      "Peter Mandelson",
+      "Peter Mandelson["
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Peter Mandelson[",
+        "date_raw": "Sun 16/02/2025 4:14:52 PM (UTC)",
+        "date_iso": "2025-02-16",
+        "to": [
+          "MMcSweeney"
+        ],
+        "cc": [],
+        "subject": "Callwith = ***",
+        "classification": null,
+        "body_snippet": "Subject: FW: Callwith = ***"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "16 February 2025 11:13",
+        "date_iso": "2025-02-16",
+        "to": [
+          "Mungo Woodifield"
+        ],
+        "cc": [
+          "James Roscoe",
+          "JCS"
+        ],
+        "subject": "Call with ee",
+        "classification": null,
+        "body_snippet": "| talked to\n\neK\n\nLast, | summarised what | think our approach should be to the meeting\n\nPlease circulate on need to know basis.\nPeter\n\n217"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson[",
+        "to": "MMcSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Call with ee",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Mungo Woodifield",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Call with ee",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "James Roscoe",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Call with ee",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-16",
+        "subject": "Call with ee",
+        "classification": null
+      }
+    ]
+  }
 }

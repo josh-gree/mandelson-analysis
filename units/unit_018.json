@@ -21,5 +21,134 @@
   "text": "CO), Gerard McGurk, (Head of Security & Resilience Department, FCDO) and others\n\nFrom: Jes\n\nDate: Thu, 16 Jan 2025 at 14:16\n\nSubject: Re: Urgent vetting question\n\nTo: Vincent Devine Personal\n\nTotally. MR is on it.\nJc\n\nOn Thu, 16 Jan 2025 at 14:14, Vincent Devine Personal wrote:\n\nYep. This is crazy. He knows EVERYONE!! They need to go ahead with the interview.\n\nVincent Devine\nDirector General & Government Chief Security Officer Government Security Function\nCabinet Office\n\nPrivate Office Shared Mailbox: Personal\n\nJcs\nChief of Staff\nPersonal\nm: Personal\nt Personal\n\nJcs\nPrivate Secretary\nPersonal\nm: Personal\nPersonal\n\nOn Thu, 16 Jan 2025 at 13:56, JCS\nwrote:\n\njust for info, we are working to resolve positively so the application can continue\n\n51\n\nprogressin;\nprgstessing\nCc\n\n--- Forwarded message ---------\n\nFrom: Michael Roberts Personal\nDate: Thu, 16 Jan 2025 at 13:43\n\nSubject: Fwd: Urgent vetting question\n\nTo: Jcs\n\n--- Forwarded message ---------\nFrom: i\nDate: Thu, 16 Jan 2025, 13:26\n\nSubject: Fwd: Urgent vetting question\n\nTo: Michael Roberts Personal\n\n: Gerard McGurk\n\nDate: Thu, 16 Jan 2025 at 13:07\n\nSubject: RE: Urgent vetting question\n\nTo: Ian Collard * Personal Jcs\n\nJcs\n\nCc: Tom Bramley, j rersonal Patricia Dreghom\nersonal\n\nOFFICIAL-SENSITIVE\n\nDear JCS and colleagues,\n\nOur FCDO Americas Director has told us there is a possibility that Lord Mandelson’s\nDV interview tomorrow may be cancelled because UKSV require more information\non who he knows. Lord Mandelson will be looking to try to expand on this\nrequirement later this afternoon.\n\nIt remains important the interview happens tomorrow. There’s not another slot and\nUKSV colleagues talking through with him during the interview will help get answers,\nwith the possibility of follow up at a later stage.\n\n\nCould you confirm the DV interview will still proceed?\nThanks.\nGerard\n\nGerard McGurk (he/him) MBE|Deputy Director and Senior Security Adviser\n\nHead of Security & Resilience Department | Estates, Security & Network\nDirectorate | Personal | for diary requests |\n\nForeign, Commonwealth and Development Office King Charles St | London | SW1A\n2AH\n\nEmail: Personal | Available on Teams or Mobile Personal\n\nFollow us online: www.gov.uk/fcdo\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevantUK legislation\n\nOFFICIAL-SENSITIVE\n\nJCS\nHead of Partner Services\nUKSV, Government Security Group\nCabinet Office\nE: Personal\nM: Personal\n\nPersonal\n\nNSV Privacy Notice\n\nJcs\nChief of Staff to Vincent Devine - Director General and Government Chief Security Officer\n\n53\n\n\nGovernment Security Function\nCabinet Office\n\ne Personal\nm: Personal\n",
   "char_count": 2720,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 18,
+    "date": "16-01-2025",
+    "source_mix": "ocr",
+    "thread_subject": "Urgent vetting question",
+    "message_count": 5,
+    "date_range": [
+      "2025-01-16",
+      "2025-01-16"
+    ],
+    "participants": [
+      "JCS",
+      "Jcs",
+      "Jes",
+      "Michael Roberts",
+      "Tom Bramley",
+      "Vincent Devine",
+      "i",
+      "j rersonal Patricia Dreghom"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Jes",
+        "date_raw": "Thu, 16 Jan 2025 at 14:16",
+        "date_iso": "2025-01-16",
+        "to": [
+          "Vincent Devine"
+        ],
+        "cc": [],
+        "subject": "Urgent vetting question",
+        "classification": null,
+        "body_snippet": "Totally. MR is on it.\nJc"
+      },
+      {
+        "depth": 1,
+        "from_name": "Vincent Devine",
+        "date_raw": "Thu, 16 Jan 2025 at 14:14",
+        "date_iso": "2025-01-16",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Yep. This is crazy. He knows EVERYONE!! They need to go ahead with the interview.\n\nVincent Devine\nDirector General & Government Chief Security Officer Government Security Function\nCabinet Office\n\nPrivate Office Shared Mailbox: Personal\n\nJcs\nChief of Staff\nm: Personal\nt Personal\n\nJcs\nPrivate Secretary\nm: Personal"
+      },
+      {
+        "depth": 2,
+        "from_name": "JCS",
+        "date_raw": "Thu, 16 Jan 2025 at 13:56",
+        "date_iso": "2025-01-16",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "On Thu, 16 Jan 2025 at 13:56, JCS\n\njust for info, we are working to resolve positively so the application can continue\n\n51\n\nprogressin;\nprgstessing\nCc\n\n--- Forwarded message ---------"
+      },
+      {
+        "depth": 3,
+        "from_name": "Michael Roberts",
+        "date_raw": "Thu, 16 Jan 2025 at 13:43",
+        "date_iso": "2025-01-16",
+        "to": [
+          "Jcs"
+        ],
+        "cc": [],
+        "subject": "Urgent vetting question",
+        "classification": null,
+        "body_snippet": "--- Forwarded message ---------"
+      },
+      {
+        "depth": 4,
+        "from_name": "i",
+        "date_raw": "Thu, 16 Jan 2025, 13:26",
+        "date_iso": "2025-01-16",
+        "to": [
+          "Michael Roberts"
+        ],
+        "cc": [
+          "Tom Bramley",
+          "j rersonal Patricia Dreghom"
+        ],
+        "subject": "Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "ersonal\n\n\nDear JCS and colleagues,\n\nOur FCDO Americas Director has told us there is a possibility that Lord Mandelson’s\nDV interview tomorrow may be cancelled because UKSV require more information\non who he knows. Lord Mandelson will be looking to try to expand on this\nrequirement later this afternoon.\n\nIt remains important the interview happens tomorrow. There’s not another slot and\nUKSV colleagu"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Jes",
+        "to": "Vincent Devine",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-16",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "Michael Roberts",
+        "to": "Jcs",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-16",
+        "subject": "Urgent vetting question",
+        "classification": null
+      },
+      {
+        "from": "i",
+        "to": "Michael Roberts",
+        "type": "SENT_EMAIL",
+        "date": "2025-01-16",
+        "subject": "Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "i",
+        "to": "Tom Bramley",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-01-16",
+        "subject": "Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "i",
+        "to": "j rersonal Patricia Dreghom",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-01-16",
+        "subject": "Urgent vetting question",
+        "classification": "OFFICIAL-SENSITIVE"
+      }
+    ]
+  }
 }

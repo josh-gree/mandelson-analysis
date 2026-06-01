@@ -18,5 +18,88 @@
   "text": "Staff_to the Chancellor of the Exchequer, HMT)\n\nFrom: Peter Mandelson Personal\nSent: 18 November 2024 11:21\n\nTo: Martin, Katie - HMT\n\nCc: JCS - HMT; Diary\n\nSubject: Re: Meeting with Rachel\n\n| realise | am going to be back in London at around 3 30 today. Happy to visit after.\n\nSent from my iPhone\n\nOn 18 Nov 2024, at 09:12, Martin, Katie - HMT Personal wrote:\n\nHi Peter- good to see you briefly on Friday night.\n\nRachel’s keen to have a chat about trade before a meeting she’s having late morning tomorrow.\n\nIs there any chance you could pop in either late PM today or early tomorrow morning? If not a\nphone call is fine.\n\ncc’ing JCS who can help with exact timings.\nBest,\n\nKatie\n\nKatie Martin | Chief of Staff to the Chancellor\n\nHM Treasury | 1 Horse Guards Road, London, SW1A 2HQ\nm: Personal\n\nwww.gov.uk/hm-treasury | Twitter: @hmtreasury\n\n171",
   "char_count": 845,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 51,
+    "date": "18-11-2024",
+    "source_mix": "ocr",
+    "thread_subject": "Meeting with Rachel",
+    "message_count": 2,
+    "date_range": [
+      "2024-11-18",
+      "2024-11-18"
+    ],
+    "participants": [
+      "Diary",
+      "JCS - HMT",
+      "Katie - HMT",
+      "Martin",
+      "Peter Mandelson",
+      "at 09:12, Martin, Katie - HMT"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "18 November 2024 11:21",
+        "date_iso": "2024-11-18",
+        "to": [
+          "Martin",
+          "Katie - HMT"
+        ],
+        "cc": [
+          "JCS - HMT",
+          "Diary"
+        ],
+        "subject": "Meeting with Rachel",
+        "classification": null,
+        "body_snippet": "| realise | am going to be back in London at around 3 30 today. Happy to visit after.\n\nSent from my iPhone"
+      },
+      {
+        "depth": 2,
+        "from_name": "at 09:12, Martin, Katie - HMT",
+        "date_raw": "18 Nov 2024",
+        "date_iso": "2024-11-18",
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "Hi Peter- good to see you briefly on Friday night.\n\nRachel’s keen to have a chat about trade before a meeting she’s having late morning tomorrow.\n\nIs there any chance you could pop in either late PM today or early tomorrow morning? If not a\nphone call is fine.\n\ncc’ing JCS who can help with exact timings.\nBest,\n\nKatie\n\nKatie Martin | Chief of Staff to the Chancellor\n\nHM Treasury | 1 Horse Guards Ro"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Martin",
+        "type": "SENT_EMAIL",
+        "date": "2024-11-18",
+        "subject": "Meeting with Rachel",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Katie - HMT",
+        "type": "SENT_EMAIL",
+        "date": "2024-11-18",
+        "subject": "Meeting with Rachel",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "JCS - HMT",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-11-18",
+        "subject": "Meeting with Rachel",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Diary",
+        "type": "CC_ON_EMAIL",
+        "date": "2024-11-18",
+        "subject": "Meeting with Rachel",
+        "classification": null
+      }
+    ]
+  }
 }

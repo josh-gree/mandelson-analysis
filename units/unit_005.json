@@ -18,5 +18,54 @@
   "text": "Talent, FCDO)\n\nFrom: Rochelle Fisher PERSONAL\nSent: Fri 20/12/2024 5:04:33 PM (UTC)\n\nTo: Gerard McGurk PERSONAL ; JCS\nCe: JCS JCS\nSubject: HMA Washington designate - vetting\n\nOFFICIAL-SENSITIVE - RECIPIENTS ONLY\n\nHiGerardand JCS *\n\nThe PUS’s office have authorised me to tell you that Lord Peter Mandelson has been\n\nappointed by HMTK as the next HMA Washington. This appointment has not yet been\n\nformally announced. | would be grateful if you can start the vetting process - | believe that as\n\nmember of the HOL, Lord Mandelson will not need DV but the role he will take up requires\n\nSTRAP. We would like him to take up post in January.\n\nLord Mandelson is aware that security processes will be needed. His email address is\nPERSONAL\n\nBest wishes - and a very Happy Christmas to you both.\n\nRochelle\n\nRochelle Fisher FCIPD (she/her) | Deputy Director, Head of Senior Appointments and Talent\n\n| Foreign, Commonwealth & Development Office | PERSONAL |\n\nemail: PERSONAL\n\nOFFICIAL-SENSITIVE - RECIPIENTS ONLY",
   "char_count": 1002,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 5,
+    "date": "20-12-2024",
+    "source_mix": "ocr",
+    "thread_subject": "HMA Washington designate - vetting",
+    "message_count": 1,
+    "date_range": [
+      "2024-12-20"
+    ],
+    "participants": [
+      "Gerard McGurk PERSONAL",
+      "JCS",
+      "Rochelle Fisher"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Rochelle Fisher",
+        "date_raw": "Fri 20/12/2024 5:04:33 PM (UTC)",
+        "date_iso": "2024-12-20",
+        "to": [
+          "Gerard McGurk PERSONAL",
+          "JCS"
+        ],
+        "cc": [],
+        "subject": "HMA Washington designate - vetting",
+        "classification": "OFFICIAL-SENSITIVE - RECIPIENTS ONLY",
+        "body_snippet": "HiGerardand JCS *\n\nThe PUS’s office have authorised me to tell you that Lord Peter Mandelson has been\n\nappointed by HMTK as the next HMA Washington. This appointment has not yet been\n\nformally announced. | would be grateful if you can start the vetting process - | believe that as\n\nmember of the HOL, Lord Mandelson will not need DV but the role he will take up requires\n\nSTRAP. We would like him to "
+      }
+    ],
+    "edges": [
+      {
+        "from": "Rochelle Fisher",
+        "to": "Gerard McGurk PERSONAL",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-20",
+        "subject": "HMA Washington designate - vetting",
+        "classification": "OFFICIAL-SENSITIVE - RECIPIENTS ONLY"
+      },
+      {
+        "from": "Rochelle Fisher",
+        "to": "JCS",
+        "type": "SENT_EMAIL",
+        "date": "2024-12-20",
+        "subject": "HMA Washington designate - vetting",
+        "classification": "OFFICIAL-SENSITIVE - RECIPIENTS ONLY"
+      }
+    ]
+  }
 }

@@ -19,5 +19,28 @@
   "text": "FCDO)\nPersonal\nJCS\nJCS\nJCS\n***\nPersonal\n373\n\n \n \n \n…\n \n \n   \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \nEd\n***\n374\n",
   "char_count": 128,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 126,
+    "date": "11-03-2025",
+    "source_mix": "pdf",
+    "thread_subject": null,
+    "message_count": 1,
+    "date_range": [],
+    "participants": [],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": null,
+        "date_raw": null,
+        "date_iso": null,
+        "to": [],
+        "cc": [],
+        "subject": null,
+        "classification": null,
+        "body_snippet": "FCDO)\nJCS\nJCS\nJCS\n***\n373\n\n \n \n \n…\n \n \n   \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \nEd\n***\n374"
+      }
+    ],
+    "edges": []
+  }
 }

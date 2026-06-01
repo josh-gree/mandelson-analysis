@@ -19,5 +19,88 @@
   "text": "for Foreign Affairs, No.10) and others\n\nFrom: Ailsa Terry| Personal ]\n\nSent: Thur 13/03/2025 3:32:06 PM (UTC)\n\nTo: Peter Mandelsonl Personal J; Morgan\nMcSweeney| Personal ]\n\nGce James Roscoel Personal ]; Ninjeri\nPandit] Personal ]\n\nSubject: RE:\n\nOFFICIAL-SENSITIVE\n\nThank you Peter. On the back of the email you mention, Olly has been clear about the need to delete all\ntraffic on this.\n\nGiven the range of equities, we will put some updated advice to the next *** on 26 March drawing on the\nvarious views expressed by *** since the last *** discussion, and keep in close touch with\nyou and the Washington team in the interim.\nIn the meantime. we are grateful for vour assistance is continuing to a\n\n, but we aren't in a position to confirm or discuss further\ndetailed timings yet given all the moving parts.\n\nOFFICIAL-SENSITIVE\n\n-----Original Message-----\n\nFrom: Peter Mandelson Personal\n\nSent: 13 March 2025 14:08\n\nTo: Morgan McSweeney < Personal >; Ailsa Terry Personal\nCe: James Roscoe Personal\nSubject: Fw: ***\n\nOFFICIAL\n\nThave just had this exchange with *** by whatsapp. I don't know why Karen decided to email everyone\n\nlast night with *** It is however revealing\nand useful for that reason. Please see below:\n\nMorning! You'll see Karen Pierce's email following an event last night. Please ignore - and if you can do it\ndiscreetly, delete! As ever, ial\n\n386\n\nCan I write \n and say this ?\nSent from my iPhone\n***\n***\n387\n",
   "char_count": 1428,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 130,
+    "date": "13-03-2025",
+    "source_mix": "mixed",
+    "thread_subject": "***",
+    "message_count": 2,
+    "date_range": [
+      "2025-03-13",
+      "2025-03-13"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Ailsa Terry| ]",
+      "Morgan",
+      "Morgan McSweeney <  >",
+      "Peter Mandelson",
+      "Peter Mandelsonl  J"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Ailsa Terry| ]",
+        "date_raw": "Thur 13/03/2025 3:32:06 PM (UTC)",
+        "date_iso": "2025-03-13",
+        "to": [
+          "Peter Mandelsonl  J",
+          "Morgan"
+        ],
+        "cc": [],
+        "subject": "",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Thank you Peter. On the back of the email you mention, Olly has been clear about the need to delete all\ntraffic on this.\n\nGiven the range of equities, we will put some updated advice to the next *** on 26 March drawing on the\nvarious views expressed by *** since the last *** discussion, and keep in close touch with\nyou and the Washington team in the interim.\nIn the meantime. we are grateful for vo"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "13 March 2025 14:08",
+        "date_iso": "2025-03-13",
+        "to": [
+          "Morgan McSweeney <  >",
+          "Ailsa Terry"
+        ],
+        "cc": [],
+        "subject": "***",
+        "classification": "OFFICIAL",
+        "body_snippet": "Thave just had this exchange with *** by whatsapp. I don't know why Karen decided to email everyone\n\nlast night with *** It is however revealing\nand useful for that reason. Please see below:\n\nMorning! You'll see Karen Pierce's email following an event last night. Please ignore - and if you can do it\ndiscreetly, delete! As ever, ial\n\n386\n\nCan I write \n and say this ?\nSent from my iPhone\n***\n***\n387"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ailsa Terry| ]",
+        "to": "Peter Mandelsonl  J",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-13",
+        "subject": "***",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry| ]",
+        "to": "Morgan",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-13",
+        "subject": "***",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney <  >",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-13",
+        "subject": "***",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Ailsa Terry",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-13",
+        "subject": "***",
+        "classification": "OFFICIAL"
+      }
+    ]
+  }
 }

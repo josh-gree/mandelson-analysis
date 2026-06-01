@@ -13,5 +13,65 @@
   "text": "for Foreign Affairs, No 10)\n\nFrom: Ailsa Terry< Personal >\n\nTo: Peter Mandelson < Personal >\n\nCe: Ninieri Pandit < Personal >, Jonathan Powell\n< Personal , Varun Chandra < Personal >, \"Collins,\nMatthew - CO (OFF-SEN)\" < Personal >, \"Black,\nJonathan - CO (OFF-SEN)\" < Personal >, Michael\nEllam < Personal >\n\nSubject: RE: SWOT analysis of the UK-US relationship\n\nOFFICIAL-SENSITIVE\n\nPeter\n\nThanks so much for coming today - the PM found your insight v valuable as he said. | will be sure to put\n\nthis to him.\n\nLots to follow up on including a longer-term strategy around how we build on the below and also the\n\nprinciples we spoke about. | will set those out on Monday.\n\nAilsa\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson < Personal =\nSent: 04 July 2025 23:47\nTo: Ailsa Terry < Personal S\n\nCc: Ninieri Pandit < Personal >; Jonathan Powell < Personal >: Varun Chandra\n< Personal >; Collins, Matthew - CO (OFF-SEN) < Personal 3\nBlack, Jonathan - CO (OFF-SEN) < Personal >; Michael Ellam\n\n< Personal >\nSubject: SWOT analysis of the UK-US relationship\n\nOFFICIAL\n\nStrengths\n\nWeaknesses\n\nOpportunities\n\n521\n\nThreats\n\nLord Mandelson\nHM Ambassador, Washington DC\n+ Personal\nPersonal >\n\nFollow us online: www.gov.uk/fedo<http://www.gov.uk/fedo>\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevant UK\nlegislation<https://www.gov.uk/government/publications/fcdo-as-a-data-controller-privacy-notice/fcdo-as-a-\ndata-controller-privacy-notice>\n\nOFFICIAL\n\nFor latest news and information from Downing Street visit: http:/www.gov.uk/number10\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\nHelp save paper - do you need to print this email?\n\nThis email and any files transmitted with it are intended solely for the use of the individual(s) to whom they\nare addressed. If you are not the intended recipient and have received this email in error, please notify\nthe sender and delete the email.\n\nThis footnote also confirms that our email communications may be monitored to ensure the secure and\n\neffective operation of our systems and for other lawful purposes, and that this email has been swept for\nmalware and viruses.\n\n522\n",
   "char_count": 2238,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 178,
+    "date": "08-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": "SWOT analysis of the UK-US relationship",
+    "message_count": 1,
+    "date_range": [
+      "2025-07-04"
+    ],
+    "participants": [
+      "Ailsa Terry <  S",
+      "Jonathan Powell <  >: Varun Chandra",
+      "Ninieri Pandit <  >",
+      "Peter Mandelson < ="
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson < =",
+        "date_raw": "04 July 2025 23:47",
+        "date_iso": "2025-07-04",
+        "to": [
+          "Ailsa Terry <  S"
+        ],
+        "cc": [
+          "Ninieri Pandit <  >",
+          "Jonathan Powell <  >: Varun Chandra"
+        ],
+        "subject": "SWOT analysis of the UK-US relationship",
+        "classification": "OFFICIAL",
+        "body_snippet": "Strengths\n\nWeaknesses\n\nOpportunities\n\n521\n\nThreats\n\nLord Mandelson\nHM Ambassador, Washington DC\n+ Personal\n\nFollow us online: www.gov.uk/fedo<http://www.gov.uk/fedo>\n\nThis email is intended for the addressee(s) only: All messages sent and received by the Foreign,\nCommonwealth & Development Office may be monitored in line with relevant UK\nlegislation<https://www.gov.uk/government/publications/fcdo-"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson < =",
+        "to": "Ailsa Terry <  S",
+        "type": "SENT_EMAIL",
+        "date": "2025-07-04",
+        "subject": "SWOT analysis of the UK-US relationship",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Peter Mandelson < =",
+        "to": "Ninieri Pandit <  >",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-07-04",
+        "subject": "SWOT analysis of the UK-US relationship",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Peter Mandelson < =",
+        "to": "Jonathan Powell <  >: Varun Chandra",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-07-04",
+        "subject": "SWOT analysis of the UK-US relationship",
+        "classification": "OFFICIAL"
+      }
+    ]
+  }
 }

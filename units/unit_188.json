@@ -13,5 +13,89 @@
   "text": "Permanent Under-Secretary of State for Foreign Affairs, FCDO)\n\nFrom: Peter Mandelson[ Personal\nSent: Sat 19/04/2025 12:14:37 AM (UTC)\n\nTo: Oliver Robbins[ Personal ]\nSubject: FW: US deal - USTR update\n\nBelow gives you a sense of how the negotiation is continuing.\n\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal\nOFFICIAL\nFrom: Graham FLOATER (DBT) < Personal\nSent: Friday, April 18, 2025 3:13 pm\nTo: Varun Chandra < Personal >; Michael Ellam\n< Personal >\nCc: Kate JOSEPH (DBT) < Personal >\n\nSubject: US deal - USTR update\nVarun/Michael.,\n| spoke to\n\nRK\n\nRK\n\nRK\n\nGraham\nGraham Floater\nUK-US Trade Director\nDepartment for Business and Trade | Old Admiralty Building | London | SW1A 2DY \nTwitter: \nTel: \n | \n | E-mail: \ngov.uk/dit | GREAT.gov.uk | DIT Twitter | DIT LinkedIn | Business is GREAT Facebook\nFor latest news and information from Downing Street visit: http://www.gov.uk/number10\nFollow Number 10 on X (Twitter): http://x.com/10DowningStreet\nHelp save paper - do you need to print this email?\nThis email and any files transmitted with it are intended solely for the use of the individual(s) to \nwhom they are addressed. If you are not the intended recipient and have received this email in error, \nplease notify the sender and delete the email.\nThis footnote also confirms that our email communications may be monitored to ensure the secure \nand effective operation of our systems and for other lawful purposes, and that this email has been \nswept for malware and viruses.\nPersonal\nPersonal\nPersonal\nPersonal\n***\n541\n",
   "char_count": 1548,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 188,
+    "date": "19-04-2025",
+    "source_mix": "mixed",
+    "thread_subject": "US deal - USTR update",
+    "message_count": 2,
+    "date_range": [
+      "2025-04-18",
+      "2025-04-19"
+    ],
+    "participants": [
+      "Graham FLOATER (DBT) <",
+      "Kate JOSEPH (DBT) <  >",
+      "Michael Ellam",
+      "Oliver Robbins[  ]",
+      "Peter Mandelson[",
+      "Varun Chandra <  >"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson[",
+        "date_raw": "Sat 19/04/2025 12:14:37 AM (UTC)",
+        "date_iso": "2025-04-19",
+        "to": [
+          "Oliver Robbins[  ]"
+        ],
+        "cc": [],
+        "subject": "US deal - USTR update",
+        "classification": null,
+        "body_snippet": "Below gives you a sense of how the negotiation is continuing.\n\nPeter\nLord Mandelson\nHM Ambassador, Washington DC\n\nPersonal | Personal"
+      },
+      {
+        "depth": 2,
+        "from_name": "Graham FLOATER (DBT) <",
+        "date_raw": "Friday, April 18, 2025 3:13 pm",
+        "date_iso": "2025-04-18",
+        "to": [
+          "Varun Chandra <  >",
+          "Michael Ellam"
+        ],
+        "cc": [
+          "Kate JOSEPH (DBT) <  >"
+        ],
+        "subject": "US deal - USTR update",
+        "classification": "OFFICIAL",
+        "body_snippet": "Varun/Michael.,\n| spoke to\n\nRK\n\nRK\n\nRK\n\nGraham\nGraham Floater\nUK-US Trade Director\nDepartment for Business and Trade | Old Admiralty Building | London | SW1A 2DY \nTwitter: \nTel: \n | \n | E-mail: \ngov.uk/dit | GREAT.gov.uk | DIT Twitter | DIT LinkedIn | Business is GREAT Facebook\nFor latest news and information from Downing Street visit: http://www.gov.uk/number10\nFollow Number 10 on X (Twitter): ht"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson[",
+        "to": "Oliver Robbins[  ]",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-19",
+        "subject": "US deal - USTR update",
+        "classification": null
+      },
+      {
+        "from": "Graham FLOATER (DBT) <",
+        "to": "Varun Chandra <  >",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-18",
+        "subject": "US deal - USTR update",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Graham FLOATER (DBT) <",
+        "to": "Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-18",
+        "subject": "US deal - USTR update",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Graham FLOATER (DBT) <",
+        "to": "Kate JOSEPH (DBT) <  >",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-04-18",
+        "subject": "US deal - USTR update",
+        "classification": "OFFICIAL"
+      }
+    ]
+  }
 }

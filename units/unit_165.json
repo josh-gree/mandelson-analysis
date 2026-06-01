@@ -13,5 +13,86 @@
   "text": "Staff to the Prime Minister, No.10) and Varun Chandra (Prime Minister's Special Advisor on\nBusiness and Investment, No.10)\n\nFrom: Varun Chandra Personal\nSent: Wed 02/04/2025 3:59:35 PM (UTC)\nTo: Peter Mandelson Personal ; Morgan\nMcSweeney| Personal\nSubject: Re: next steps\nOFFICIAL\nVery clear and helpful.\n\nVarun Chandra | Prime Minister’s Special Adviser on Business and Investment\n10 Downing Street, London SW1A 2A< | Personal\n\nFrom: Peter Mandelson\nSent: Wednesday, April 2, 2025 3:43:10 PM\n\nTo: Morgan McSweeney ; Varun Chandra\nSubject: next steps\n\nYou asked for views on next steps. We Should discuss but my instincts are\n\n477\n\nRK\n\nHappy to discuss\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\na Personal | Personal\n\n478\n",
   "char_count": 732,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 165,
+    "date": "02-04-2025",
+    "source_mix": "ocr",
+    "thread_subject": "next steps",
+    "message_count": 2,
+    "date_range": [
+      "2025-04-02",
+      "2025-04-02"
+    ],
+    "participants": [
+      "Morgan",
+      "Morgan McSweeney",
+      "Peter Mandelson",
+      "Varun Chandra"
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Varun Chandra",
+        "date_raw": "Wed 02/04/2025 3:59:35 PM (UTC)",
+        "date_iso": "2025-04-02",
+        "to": [
+          "Peter Mandelson",
+          "Morgan"
+        ],
+        "cc": [],
+        "subject": "next steps",
+        "classification": "OFFICIAL",
+        "body_snippet": "Very clear and helpful.\n\nVarun Chandra | Prime Minister’s Special Adviser on Business and Investment\n10 Downing Street, London SW1A 2A< | Personal"
+      },
+      {
+        "depth": 2,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Wednesday, April 2, 2025 3:43:10 PM",
+        "date_iso": "2025-04-02",
+        "to": [
+          "Morgan McSweeney",
+          "Varun Chandra"
+        ],
+        "cc": [],
+        "subject": "next steps",
+        "classification": null,
+        "body_snippet": "You asked for views on next steps. We Should discuss but my instincts are\n\n477\n\nRK\n\nHappy to discuss\nPeter\nLord Mandelson\n\nHM Ambassador, Washington DC\na Personal | Personal\n\n478"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Varun Chandra",
+        "to": "Peter Mandelson",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "next steps",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Varun Chandra",
+        "to": "Morgan",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "next steps",
+        "classification": "OFFICIAL"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "next steps",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Varun Chandra",
+        "type": "SENT_EMAIL",
+        "date": "2025-04-02",
+        "subject": "next steps",
+        "classification": null
+      }
+    ]
+  }
 }

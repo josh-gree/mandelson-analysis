@@ -20,5 +20,112 @@
   "text": "Permanent Secretary, European Union and International Economic Affairs, CO)\n\nFrom: Peter Mandelson Personal\nSent: Fri 28/03/2025 3:10:10 PM (UTC)\nTo: Michael Ellam Personal . Morgan McSweeney\nPersonal , Jonathan Powell Personal ,PM\nPrivate Office Support Team - Internal Personat , \"Ailsa Terry\n(No.10)\" Personal\nCe: Jes Personal , Munao Woodifield\nPersonal . Ninieri Pandit Personal\nVarun Chandra Persona\nSubject: Re: Tariff advice as seen from Washington\nThanks\nGet Outlook for iOS\nOFFICIAL-SENSITIVE\nFrom: Ailsa Terry Personal\nSent: Friday, March 28, 2025 11:02:17 AM\nTo: Peter Mandelson Personal Michael Ellam\nPersonal ; Morgan McSweeney Personal ; Jonathan\nPowell Personal PM Private Office Support Team - Internal < Personal\nCc: JCS Personal ; Mungo Woodifield\nPersonal ; Ninjeri Pandit Personal Varun Chandra\nPersonal\n\nSubject: RE: Tariff advice as seen from Washington\n\nPeter\n\nThank you. Confirming receipt and we will highlight this advice to the PM when we pre\nbrief him shortly. @PM Private Office Support Team - Internal could you print a copy\nof this for me to take in?\n\nCcing Varun and Nin.\n\nAilsa\n\n438\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson < Personal =\nSent: 28 March 2025 14:55\nTo: Ailsa Terry Personal Michael Ellam Personal\nMorgan McSweeney Personal Jonathan Powell\nPersonal\nCe: IES Personal ; Mungo Woodifield\nPersonal\n\nSubject: Tariff advice as seen from Washington\nImportance: High\n\nAilsa,\n\nThe Prime Minister and President agreed to explore an economic partnership -\n\nIf we are successful, it will set the basis and terms of our\nrelationship politically and economically,\n\nNext steps\n\n439\n\n\nUltimately, this is a political decision for both sides, taking into account balance of \ninterests across domestic constituencies.  \nPeter\n***\n***\n440\n",
   "char_count": 1769,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 148,
+    "date": "28-03-2025",
+    "source_mix": "mixed",
+    "thread_subject": "Tariff advice as seen from Washington",
+    "message_count": 3,
+    "date_range": [
+      "2025-03-28",
+      "2025-03-28"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Ailsa Terry  Michael Ellam",
+      "JCS",
+      "Michael Ellam  . Morgan McSweeney",
+      "Mungo Woodifield",
+      "Peter Mandelson",
+      "Peter Mandelson  Michael Ellam",
+      "Peter Mandelson < ="
+    ],
+    "messages": [
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Fri 28/03/2025 3:10:10 PM (UTC)",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Michael Ellam  . Morgan McSweeney"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null,
+        "body_snippet": "Thanks\nGet Outlook for iOS"
+      },
+      {
+        "depth": 2,
+        "from_name": "Ailsa Terry",
+        "date_raw": "Friday, March 28, 2025 11:02:17 AM",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Peter Mandelson  Michael Ellam"
+        ],
+        "cc": [
+          "JCS",
+          "Mungo Woodifield"
+        ],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Peter\n\nThank you. Confirming receipt and we will highlight this advice to the PM when we pre\nbrief him shortly. @PM Private Office Support Team - Internal could you print a copy\nof this for me to take in?\n\nCcing Varun and Nin.\n\nAilsa\n\n438"
+      },
+      {
+        "depth": 3,
+        "from_name": "Peter Mandelson < =",
+        "date_raw": "28 March 2025 14:55",
+        "date_iso": "2025-03-28",
+        "to": [
+          "Ailsa Terry  Michael Ellam"
+        ],
+        "cc": [],
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null,
+        "body_snippet": "Importance: High\n\nAilsa,\n\nThe Prime Minister and President agreed to explore an economic partnership -\n\nIf we are successful, it will set the basis and terms of our\nrelationship politically and economically,\n\nNext steps\n\n439\n\n\nUltimately, this is a political decision for both sides, taking into account balance of \ninterests across domestic constituencies.  \nPeter\n***\n***\n440"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Peter Mandelson",
+        "to": "Michael Ellam  . Morgan McSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Peter Mandelson  Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "JCS",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Ailsa Terry",
+        "to": "Mungo Woodifield",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson < =",
+        "to": "Ailsa Terry  Michael Ellam",
+        "type": "SENT_EMAIL",
+        "date": "2025-03-28",
+        "subject": "Tariff advice as seen from Washington",
+        "classification": null
+      }
+    ]
+  }
 }

@@ -13,5 +13,98 @@
   "text": "for Foreign Affairs, No.10) and others\n\nFrom: Ailsa Terry Personal\n\nSent: Sat 08/02/2025 5:57:14 PM (UTC)\n\nTo: Peter Mandelson Personal Morgan\nMcSweeney Personal ; Matthew\nDoyle Personal\n\nCe: Jon Garvie Personal : Jonathan Powell\nCaroline Hurndalll Personal Ninieri\nPandit Personal ; Oliver Robbins\n\nSubject: Re: *** commentary\n\nOFFICIAL-SENSITIVE\n\nPeter,\n\nGood to be connected. Copying a small number of colleagues at our end.\n\neK\n\nAilsa\n\nOFFICIAL-SENSITIVE\n\nFrom: Peter Mandelson\nSent: Saturday, February 8, 2025 3:49 pm\nTo: Morgan McSweeney ; Matthew Doyle\nCc: Ailsa Terry ; Jon Garvie\nSubject: *** commentary\n\n201\n\nPeter\n\nSent from Outlook for iOS\n\nee\n\n202\n",
   "char_count": 661,
   "content_type": "email_thread",
-  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph."
+  "parsing_notes": "Extract structured email headers (From, To, Cc, Subject, Date/Sent) for each message in the chain. Identify reply/forward nesting depth. Parse each message body separately. Redacted addresses appear as 'PERSONAL' — names are retained. Build sender→recipient edges per message for communication graph.",
+  "parsed": {
+    "unit_id": 67,
+    "date": "08-02-2025",
+    "source_mix": "ocr",
+    "thread_subject": "*** commentary",
+    "message_count": 2,
+    "date_range": [
+      "2025-02-08",
+      "2025-02-08"
+    ],
+    "participants": [
+      "Ailsa Terry",
+      "Jon Garvie",
+      "Matthew Doyle",
+      "Morgan McSweeney",
+      "Peter Mandelson",
+      "Peter Mandelson  Morgan"
+    ],
+    "messages": [
+      {
+        "depth": 0,
+        "from_name": "Ailsa Terry",
+        "date_raw": "Sat 08/02/2025 5:57:14 PM (UTC)",
+        "date_iso": "2025-02-08",
+        "to": [
+          "Peter Mandelson  Morgan"
+        ],
+        "cc": [],
+        "subject": "*** commentary",
+        "classification": "OFFICIAL-SENSITIVE",
+        "body_snippet": "Peter,\n\nGood to be connected. Copying a small number of colleagues at our end.\n\neK\n\nAilsa"
+      },
+      {
+        "depth": 1,
+        "from_name": "Peter Mandelson",
+        "date_raw": "Saturday, February 8, 2025 3:49 pm",
+        "date_iso": "2025-02-08",
+        "to": [
+          "Morgan McSweeney",
+          "Matthew Doyle"
+        ],
+        "cc": [
+          "Ailsa Terry",
+          "Jon Garvie"
+        ],
+        "subject": "*** commentary",
+        "classification": null,
+        "body_snippet": "201\n\nPeter\n\nSent from Outlook for iOS\n\nee\n\n202"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Ailsa Terry",
+        "to": "Peter Mandelson  Morgan",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-08",
+        "subject": "*** commentary",
+        "classification": "OFFICIAL-SENSITIVE"
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Morgan McSweeney",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-08",
+        "subject": "*** commentary",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Matthew Doyle",
+        "type": "SENT_EMAIL",
+        "date": "2025-02-08",
+        "subject": "*** commentary",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Ailsa Terry",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-08",
+        "subject": "*** commentary",
+        "classification": null
+      },
+      {
+        "from": "Peter Mandelson",
+        "to": "Jon Garvie",
+        "type": "CC_ON_EMAIL",
+        "date": "2025-02-08",
+        "subject": "*** commentary",
+        "classification": null
+      }
+    ]
+  }
 }
