@@ -481,3 +481,67 @@ Despite the injunction, Mandelson was still being called in for direct meetings 
 
 The trajectory across the corpus is compressed but clear. In July 2024, writing privately, Mandelson doubted the government was doing enough to learn from New Labour's failures, questioned whether its flagship economic policies were joined up, and assessed Starmer's own policy operation as under-resourced and inexperienced. Six months later, he was writing the PM's public lines for the most important bilateral of Starmer's first year. Six weeks after that, No.10 was telling him not to share his thoughts at all. The documents capture the relationship between Mandelson and the Prime Minister in its full complexity — adviser, advocate, and occasional liability, managed from Downing Street throughout.
 
+---
+
+### 12. The PM's Washington visit, 27 February 2025: architecture of a diplomatic event
+
+The corpus contains more material on Starmer's 27 February Washington summit than on any other single event. Fourteen units span the ten days of preparation, the visit day itself, and its immediate aftermath. Taken together, they reveal Mandelson as the primary architect of the encounter — drafting the PM's public lines, providing the bilateral steer that went into Starmer's overnight briefing pack, negotiating joint statement text at 3am, and monitoring a Macron visit to Washington the same week that threatened to overshadow the UK's moment.
+
+**The Macron complication (unit_078, 19 Feb 2025)**
+
+Eight days before the visit, French media reported that Macron would travel to Washington the same week as Starmer — "alongside the British Prime Minister, as part of meetings on ending the war in Ukraine." The announcement had been confirmed by Trump's National Security Adviser Mike Waltz on Fox News. The UK machine went immediately onto a wide alert chain: Menna Rawlings, Jonathan Powell, Ailsa Terry, the NSA, the DNSAs, Political Director, Mandelson, and a string of FCDO and No.10 officials were all copied. McSweeney was simultaneously in Paris at a private dinner with a redacted French interlocutor, with Rawlings joining the start of the dinner before leaving them to it. She promised a debrief the following morning.
+
+The competitive framing mattered: if Macron arrived in Washington the same week presenting himself as the lead European interlocutor on Ukraine, the value of Starmer's visit was directly diminished.
+
+**"Please don't forward": the economic paper (unit_076, 16 Feb 2025)**
+
+Before the Macron complication emerged, Mandelson had already sent McSweeney the skeleton of what he wanted the PM-POTUS meeting to produce on economics — a "non-communique" document drafted by his Washington team, forwarded with the instruction "please don't forward." This was Mandelson's first stab at defining the economic deliverables for 27 February, circulated privately to the chief of staff eleven days before the visit.
+
+**The media bullets and the VVIP pitch (units 083 and 085, 21 Feb 2025)**
+
+Six days out, Mandelson sent McSweeney and Matthew Doyle (No.10 Communications Director) two separate documents. The first — the media bullets already discussed in section 11 — set out the PM's public framing on Ukraine, Chagos, tariffs, and the technology partnership. The second was a full "VVIP Visit Pitch" document with a structured public narrative, four policy objectives, and a US-UK policy position comparison table. Both were sent from Mandelson's personal account directly to No.10's communications operation, without FCDO copied.
+
+**The formal letter to the Prime Minister (unit_091, 24 Feb 2025)**
+
+Three days before the visit, Mandelson wrote a formal Ambassador's letter to "Dear Prime Minister" — on British Embassy Washington letterhead — briefing Starmer on Trump's America First administration, the first month's policy record, and what to expect. The substantive content is heavily redacted, but the form is significant: a personal letter from Ambassador to Prime Minister, sent three days before their joint visit.
+
+**The bilateral steer in the overnight box (unit_095, 25 Feb 2025)**
+
+The day before the visit, Ailsa Terry wrote to Mandelson's team confirming receipt of his LIMDIS bilateral steer for the PM/POTUS meeting:
+
+> *"Brilliant — thank you. Copying Morgan, Nin, NSA and Matthew. I will put this on a box note for the PM so he has it with the pack tonight. And of course looking forward to your advice on arrival! See you tomorrow."*
+> — Ailsa Terry to Mandelson's team, unit_095, 25 Feb 2025
+
+Mandelson's steer for the bilateral went into Starmer's overnight briefing box before he boarded his flight. Terry — and McSweeney, Powell, and Matthew Doyle — were all copied.
+
+**Chagos: Powell's political risk warning (unit_097, 26 Feb 2025)**
+
+The night before the visit, Powell was still managing a live risk: the Chagos/BIOT deal was unresolved. His assessment, sent to Mandelson on a LIMDIS chain following an NSC engagement, was blunt:
+
+> *"The problem is that if BIOT is not solved before the meeting we will certainly be asked about it by British journalists at the press conference afterwards, and we don't want to be banjaxed there. So if it is not sorted before the meeting it will have to come up there in one form or another."*
+> — Jonathan Powell to Peter Mandelson, unit_097, 26 Feb 2025
+
+**The joint statement: 3am negotiations on the day (units 098–100, 27 Feb 2025)**
+
+On the morning of 27 February, Mandelson was on a live chain negotiating the text of the UK-US joint statement with the US side — at 2:50am, again at 6:35am. Nicholas Alton (Minister Counsellor Political, British Embassy) was tracking US edits and proposing to convene the British team at 0930 to agree a consolidated response before sending it back. Jonathan Black (Deputy National Security Adviser, Cabinet Office), Ellam, Powell, Chandra, McSweeney, and Doyle were all on the chain. The Defence Secretary had also written to Mandelson the previous day with a detailed pitch on UK-US defence industry that he wanted the PM to make at the visit.
+
+**The outcome: "an exceptional diplomatic triumph" (units 107 and 108, 28 Feb 2025)**
+
+The day after the visit, the assessments from senior colleagues were unambiguous. Karen Pierce — Mandelson's predecessor as Washington Ambassador — wrote directly to him:
+
+> *"Just a short note to say Congratulations on the PM's visit! It looks to have been truly excellent with President Trump going out of his way to be warm. And to have had real world results. Start as you mean to go on!"*
+> — Karen Pierce to Peter Mandelson, unit_108, 28 Feb 2025
+
+The UK's UN Ambassador Barbara Woodward was equally direct:
+
+> *"From where I sat, it looked like an exceptional diplomatic triumph. Thank you from all of us!"*
+> — Barbara Woodward to Peter Mandelson, unit_107, 28 Feb 2025
+
+**Immediate follow-up: Meloni at Chequers (unit_106, 28 Feb 2025)**
+
+Within hours of the congratulations, Ed Llewellyn (UK Ambassador to Italy) forwarded Mandelson his LIMDIS scenesetter for the PM-Meloni meeting at Chequers on the Sunday — keeping Mandelson in the intelligence loop on what Starmer was being told about the Italian Prime Minister's position even as the Washington visit was still being celebrated.
+
+**The shape of the operation**
+
+The PM's 27 February Washington visit was not a diplomatic event that Mandelson supported. It was one he substantially designed: he defined the economic objectives, drafted the public narrative, provided the bilateral steer that went into the PM's overnight box, negotiated joint statement text through the night, and managed the Macron competitive threat from the Paris intelligence flowing through McSweeney. The visit's success — celebrated by Pierce and Woodward — was directly attributed to him. What the documents capture is an Ambassador functioning as a political director, not a diplomat.
+
