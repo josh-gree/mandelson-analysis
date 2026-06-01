@@ -41,3 +41,73 @@ Mandelson's appointment as UK Ambassador to the United States in 2024 proved imm
 ## Data Source
 
 The primary data source is the published government PDF: `HA_Volume_II_part_I.pdf`, downloaded from `assets.publishing.service.gov.uk`.
+
+---
+
+## Key Findings from Document Analysis
+
+The corpus covers 190 document units — email threads, letters, meeting notes, and chat messages — spanning December 2024 to September 2025. Entity extraction using Claude Sonnet across all 418 parsed messages surfaces several striking findings.
+
+---
+
+### 1. The security clearance chaos
+
+The very first documents (23–27 December 2024) reveal that officials did not know whether Mandelson needed DV (Developed Vetting) clearance at all. Ian Collard at FCDO wrote to the Cabinet Office asking:
+
+> *"The specific question was whether Lord M is exempt from a UKV process (specifically for DV clearance) as a member of the House of Lords? We think CO say he is exempt. But we want to double check given the policy around public appointments."*
+> — Ian Collard, unit_010, 23 Dec 2024
+
+Cabinet Office initially agreed he was exempt. Then they reversed themselves over the Christmas weekend:
+
+> *"Although Gerard McGurk had been in touch with GSG late last week, and GSG had stated that the 'fit and proper person' clearance exemption for Lords and MPs should apply, CO had reflected over the weekend, and judged that the exemptions policy had not envisaged the unusual situation of MPs/Lords being appointed to Ambassadorial positions."*
+> — unit_012, 23 Dec 2024
+
+The reason for pushing ahead with full DV was partly American: *"We all recognise that the US are strict about clearance matters, and will likely check Lord Mandelson's clearance with ESND ahead of any sensitive discussions."* A fast-tracked DV was completed by 29 January 2025.
+
+---
+
+### 2. Mandelson's foreign contacts were a real headache for vetting
+
+During the DV process in January 2025, UKSV wrote to Mandelson asking for specificity on which foreign nationals to declare — his Global Counsel network meant the standard questionnaire was unworkable. His reply is notable:
+
+> *"I have a large number of personal acquaintances with foreign nationals but I would not describe these as current friendships or personal business connections. I have no family members who are not listed previously."*
+> — Peter Mandelson, unit_028, 21 Jan 2025
+
+UKSV had written to him: *"UKSV appreciates that under the circumstances of your previous roles, you will have met and had contact with many foreign nationals over the years. Therefore for ease, please focus on the people who you have personal friendships with; have personal business connections to; family members that are not included elsewhere on the DV questionnaire."*
+
+---
+
+### 3. Oliver Robbins tried to limit new disclosable evidence during the FAC inquiry
+
+The most striking passage in the entire corpus. In September 2025, as the Foreign Affairs Committee was pressing FCDO about Mandelson's appointment, Permanent Under-Secretary Sir Oliver Robbins wrote to colleagues:
+
+> *"I can understand why people are interested in questions like these, but I think we need to be very careful about sharing such information. If this ends in court, this department will be the defendant.*
+>
+> *I will speak to Dan about making sure we are keeping the creation of new disclosable evidence within reasonable bounds."*
+> — Oliver Robbins to Ailsa Terry, Caroline Hurndall, Dan York-Smith, 13 Sep 2025, unit_029
+
+"Dan" is Dan York-Smith, a senior Cabinet Office official. The email is marked OFFICIAL-SENSITIVE. Robbins appears to be talking about limiting what new written material gets created during an active parliamentary scrutiny process — raising obvious questions about document management during the inquiry.
+
+---
+
+### 4. Varun Chandra: the No.10 fixer at the centre of everything
+
+The second most-connected person after Mandelson himself is **Varun Chandra** — PM Starmer's Special Adviser on Business and Investment, based at No.10. He appears in 28 documents, in direct communication with Mandelson, Robbins, Jonathan Powell (NSA), Morgan McSweeney (chief of staff), and Ailsa Terry (No.10 foreign affairs). Chandra is a former McKinsey partner with deep ties to the same world Mandelson came from. His role as the No.10 interlocutor on all things Mandelson suggests the appointment was driven much more from the PM's private office than from FCDO.
+
+---
+
+### 5. Mandelson's inner network inside government
+
+The entity graph shows Mandelson's top direct communication partners were:
+
+| Person | Role | Contact count |
+|--------|------|--------------|
+| Ailsa Terry | No.10 foreign affairs | 26 |
+| Oliver Robbins | FCDO Permanent Under-Secretary | 23 |
+| Jonathan Powell | National Security Adviser | 16 |
+| Morgan McSweeney | No.10 Chief of Staff | 14 |
+| Michael Ellam | No.10 | 9 |
+| Varun Chandra | No.10 Special Adviser | 6 |
+
+This is essentially the PM's inner circle. Mandelson appears to have bypassed normal diplomatic chains and communicated directly at the highest level from his first week in post.
+
